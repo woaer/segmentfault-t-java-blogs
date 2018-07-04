@@ -1,0 +1,29 @@
+{
+  "name": "segmentfault-t-java-blogs",
+  "version": "1.0.0",
+  "description": "Segmentfault Tag java Daily Blogs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/woaer/segmentfault-t-java-blogs.git"
+  },
+  "keywords": [
+    "segmentfault",
+    "trending",
+    "trends"
+  ],
+  "author": "woaer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/woaer/segmentfault-t-java-blogs/issues"
+  },
+  "homepage": "https://github.com/woaer/segmentfault-t-java-blogs#readme",
+  "dependencies": {
+    "@dwing/common": "^1.2.7",
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2"
+  }
+}
