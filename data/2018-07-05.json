@@ -142,13 +142,13 @@
       }
     },
     {
-      "id": "1190000015467044",
-      "title": "从零开始实现一个简易的Java MVC框架",
-      "url": "/a/1190000015467044",
-      "desc": "最近在看spring-boot框架的源码，看了源码之后更是让我感受到了spring-boot功能的强大。而且使用了很多的设计模式，让人在看的时候觉得有点难以下手。",
+      "id": "1190000015468759",
+      "title": "深入理解springMVC",
+      "url": "/a/1190000015468759",
+      "desc": "Spring MVC属于SpringFrameWork的后续产品，已经融合在Spring Web Flow里面。Spring 框架提供了构建 Web 应用程序的全功能 MVC 模块。使用 Spring 可插入的 MVC 架构，从而在使用Spring进行WEB开发时，可以选择使...",
       "author": {
-        "nick": "zzzzbw",
-        "homepage": "/u/zzzzbw"
+        "nick": "bali",
+        "homepage": "/u/bali_5a0a92fba16aa"
       }
     }
   ]
