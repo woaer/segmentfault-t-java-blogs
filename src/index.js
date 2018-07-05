@@ -24,7 +24,7 @@ axios.get('https://segmentfault.com/t/java/blogs')
            }
          })
        })
-       const date = formatDate('yyyy-MM-dd-hhmmss')
+       const date = formatDate('yyyy-MM-dd')
        let wirteFile = {
          watchNum: $('.tag-info .num').text(),
          blogs: arr
