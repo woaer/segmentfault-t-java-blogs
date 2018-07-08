@@ -1,0 +1,155 @@
+{
+  "watchNum": "23762",
+  "blogs": [
+    {
+      "id": "1190000015564121",
+      "title": "【Java 8实战篇二】Lambda表达式",
+      "url": "/a/1190000015564121",
+      "desc": "Lambda表达式可以理解为是一种匿名函数：它没有名称，但有参数列表、函数主体、返回类型，可能还有一个可以抛出的异常的列表。",
+      "author": {
+        "nick": "一只小小鸟",
+        "homepage": "/u/shifeifei"
+      }
+    },
+    {
+      "id": "1190000015563880",
+      "title": "微信公众号支付开发全过程（java版）",
+      "url": "/a/1190000015563880",
+      "desc": "文章有不当之处，欢迎指正，如果喜欢微信阅读，你也可以关注我的微信公众号：好好学java，获取优质学习资源。",
+      "author": {
+        "nick": "wx_好好学java",
+        "homepage": "/u/sihai_5ae5ba9170388"
+      }
+    },
+    {
+      "id": "1190000015563443",
+      "title": "[LintCode] Palindrome Permutations II",
+      "url": "/a/1190000015563443",
+      "desc": "Given a string s, return all the palindromic permutations (without duplicates) of it. Return an empty list if no palindromic permutation could be form.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000015563386",
+      "title": "[LintCode] Daily Temperatures",
+      "url": "/a/1190000015563386",
+      "desc": "Given a list of daily temperatures, produce a list that, for each day in the input, tells you how many days you would have to wait until a warmer temperature. If there is no future day for which th...",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000015563369",
+      "title": "[LintCode] The Number In Words",
+      "url": "/a/1190000015563369",
+      "desc": "Given a non-negative integer n, print the number in words.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000015562787",
+      "title": "Java多线程进阶（六）—— juc-locks锁框架：AbstractQueuedSynchronizer",
+      "url": "/a/1190000015562787",
+      "desc": "以下方法要么是private，要么是final，也就是说这些方法是AbstractQueuedSynchronizer框架自身定义好的骨架，子类是不能覆写的。",
+      "author": {
+        "nick": "Ressmix",
+        "homepage": "/u/ressmix"
+      }
+    },
+    {
+      "id": "1190000015562529",
+      "title": "【跃迁之路】【517天】程序员高效学习方法论探索系列（实验阶段274-2018.07.07）",
+      "url": "/a/1190000015562529",
+      "desc": "从2018.7.1起，【跃迁之路】奖励金计划正式起航，从今以后，每月1日，我会将自己个人上月收入的1%计入【跃迁之路】奖励金池，积累到足够金额后，将适时用于奖励那些虽然身处困境，却依然不放弃努力，通过坚持，不...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000015562518",
+      "title": "【跃迁之路】【517天】刻意练习系列276（2018.07.07）",
+      "url": "/a/1190000015562518",
+      "desc": "技术的精进不能只是简单的刷题，而应该是不断的“刻意”练习 该系列改版后正式纳入【跃迁之路】专栏，持续更新",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000015562456",
+      "title": "Java多线程进阶（五）—— juc-locks锁框架：LockSupport",
+      "url": "/a/1190000015562456",
+      "desc": "LockSupport类，是JUC包中的一个工具类，是用来创建锁和其他同步类的基本线程阻塞原语。（Basic thread blocking primitives for creating locks and other synchronization classes）",
+      "author": {
+        "nick": "Ressmix",
+        "homepage": "/u/ressmix"
+      }
+    },
+    {
+      "id": "1190000015562419",
+      "title": "【Java 8实战篇一】行为参数化",
+      "url": "/a/1190000015562419",
+      "desc": "帮助你应对频繁变更的需求。简言之，把一段准备好的逻辑代码放在那里不执行，但可以将这块代码作为参数传递给另外一个方法，稍后执行。",
+      "author": {
+        "nick": "一只小小鸟",
+        "homepage": "/u/shifeifei"
+      }
+    },
+    {
+      "id": "1190000015562389",
+      "title": "Java多线程进阶（四）—— juc-locks锁框架：ReentrantReadWriteLock",
+      "url": "/a/1190000015562389",
+      "desc": "ReentrantReadWriteLock类，顾名思义，是一种读写锁，它是ReadWriteLock接口的直接实现，该类在内部实现了具体独占锁特点的写锁，以及具有共享锁特点的读锁，和ReentrantLock一样，ReentrantReadWriteLock类也是...",
+      "author": {
+        "nick": "Ressmix",
+        "homepage": "/u/ressmix"
+      }
+    },
+    {
+      "id": "1190000015562293",
+      "title": "Java多线程进阶（三）—— juc-locks锁框架：ReentrantLock",
+      "url": "/a/1190000015562293",
+      "desc": "ReentrantLock类，实现了Lock接口，是一种可重入的独占锁，它具有与使用 synchronized 相同的一些基本行为和语义，但功能更强大。ReentrantLock内部通过内部类实现了AQS框架(AbstractQueuedSynchronizer)的API来...",
+      "author": {
+        "nick": "Ressmix",
+        "homepage": "/u/ressmix"
+      }
+    },
+    {
+      "id": "1190000015562286",
+      "title": "Java 初始化与清理（5）",
+      "url": "/a/1190000015562286",
+      "desc": "构造器命名问题：1.所取得任何名字可能与类的某个成员命名冲突；2.调用构造器是编译器的责任，所以应该让编译器知道该调用哪个方法.",
+      "author": {
+        "nick": "Seasons20",
+        "homepage": "/u/seasons20"
+      }
+    },
+    {
+      "id": "1190000015562196",
+      "title": "Java多线程进阶（二）—— juc-locks锁框架：接口",
+      "url": "/a/1190000015562196",
+      "desc": "本系列文章中所说的juc-locks锁框架就是指java.util.concurrent.locks包，该包提供了一系列基础的锁工具，用以对synchronizd、wait、notify等进行补充、增强。juc-locks锁框架中一共就三个接口：Lock、Condition...",
+      "author": {
+        "nick": "Ressmix",
+        "homepage": "/u/ressmix"
+      }
+    },
+    {
+      "id": "1190000015562113",
+      "title": "【Java 8实战】Extension Methods",
+      "url": "/a/1190000015562113",
+      "desc": "在JDK1.8中称 default double sqrt(int a) 为 extension methods;",
+      "author": {
+        "nick": "一只小小鸟",
+        "homepage": "/u/shifeifei"
+      }
+    }
+  ]
+}
