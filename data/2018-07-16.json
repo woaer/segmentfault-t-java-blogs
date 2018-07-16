@@ -1,0 +1,155 @@
+{
+  "watchNum": "23972",
+  "blogs": [
+    {
+      "id": "1190000015645800",
+      "title": "[LeetCode/LintCode] Odd Even Linked List",
+      "url": "/a/1190000015645800",
+      "desc": "Given a singly linked list, group all odd nodes together followed by the even nodes. Please note here we are talking about the node number and not the value in the nodes.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000015645674",
+      "title": "策略模式学习",
+      "url": "/a/1190000015645674",
+      "desc": "ContextType1、ContextType2在构造方法或set方法中初始化各自需要的StrategyType",
+      "author": {
+        "nick": "瓦力",
+        "homepage": "/u/wallee"
+      }
+    },
+    {
+      "id": "1190000015643918",
+      "title": "kotlin学习笔记-异常好玩的list集合总结",
+      "url": "/a/1190000015643918",
+      "desc": "Collection：这个类相是一个范性集合。我们通过函数访问可以返回集合的size、是否为空、是否包含一个或者一些item。这个集合的所有方法提供查询，因为connections是不可修改的。",
+      "author": {
+        "nick": "程序员小灰",
+        "homepage": "/u/chengxuyuanxiaohui"
+      }
+    },
+    {
+      "id": "1190000015643910",
+      "title": "从零开始实现一个简易的Java MVC框架(六)--加强AOP功能",
+      "url": "/a/1190000015643910",
+      "desc": "在前面从零开始实现一个简易的Java MVC框架(四)--实现AOP和从零开始实现一个简易的Java MVC框架(五)--引入aspectj实现AOP切点这两节文章中已经实现了AOP功能并且引用aspectj表达式实现切点的功能，这篇文章继续完...",
+      "author": {
+        "nick": "zzzzbw",
+        "homepage": "/u/zzzzbw"
+      }
+    },
+    {
+      "id": "1190000015643859",
+      "title": "从零开始实现一个简易的Java MVC框架(五)--引入aspectj实现AOP切点",
+      "url": "/a/1190000015643859",
+      "desc": "在上一节从零开始实现一个简易的Java MVC框架(四)--实现AOP中我们实现了AOP的功能，已经可以生成对应的代理类了，但是对于代理对象的选择只能通过指定的类，这样确实不方便也不合理。这一节我们就利用aspectj来实...",
+      "author": {
+        "nick": "zzzzbw",
+        "homepage": "/u/zzzzbw"
+      }
+    },
+    {
+      "id": "1190000015643384",
+      "title": "Guava 源码分析（Cache 原理【二阶段】）",
+      "url": "/a/1190000015643384",
+      "desc": "前言 在上文「Guava 源码分析（Cache 原理）」中分析了 Guava Cache 的相关原理。 文末提到了回收机制、移除时间通知等内容，许多朋友也挺感兴趣，这次就这两个内容再来分析分析。 在开始之前先补习下 Java 自带...",
+      "author": {
+        "nick": "crossoverJie",
+        "homepage": "/u/crossoverjie"
+      }
+    },
+    {
+      "id": "1190000015643292",
+      "title": "[LintCode/LeetCode] Integer Replacement",
+      "url": "/a/1190000015643292",
+      "desc": "Given a positive integer n and you can do operations as follow:",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000015643255",
+      "title": "[LintCode/LeetCode] Count Univalue Subtrees",
+      "url": "/a/1190000015643255",
+      "desc": "Given a binary tree, count the number of uni-value subtrees.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000015642550",
+      "title": "【跃迁之路】【525天】程序员高效学习方法论探索系列（实验阶段282-2018.07.15）",
+      "url": "/a/1190000015642550",
+      "desc": "从2018.7.1起，【跃迁之路】奖励金计划正式起航，从今以后，每月1日，我会将自己个人上月收入的1%计入【跃迁之路】奖励金池，积累到足够金额后，将适时用于奖励那些虽然身处困境，却依然不放弃努力，通过坚持，不...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000015642445",
+      "title": "【跃迁之路】【525天】刻意练习系列284（2018.07.15）",
+      "url": "/a/1190000015642445",
+      "desc": "技术的精进不能只是简单的刷题，而应该是不断的“刻意”练习 该系列改版后正式纳入【跃迁之路】专栏，持续更新",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000015642319",
+      "title": "leetcide 50 Pow(x, n)",
+      "url": "/a/1190000015642319",
+      "desc": "Implement pow(x, n), which calculates x raised to the power n (xn).题目要求我们实现一个求x的n次幂的函数(pow函数)，其中幂次数也可以是复数。其中n是Integer类型，范围是 [−2^31, 2^31 − 1]。x的范围是(-10...",
+      "author": {
+        "nick": "soleil阿璐",
+        "homepage": "/u/soleila"
+      }
+    },
+    {
+      "id": "1190000015642302",
+      "title": "java 文件存储",
+      "url": "/a/1190000015642302",
+      "desc": "在开发中上传文件存储是个问题，而一般小应用开发会选择服务器本地目录做为存储地址，通过保存文件的相对路径来获取文件，在应用不要求高可用的情况下这是一种普遍的方案。",
+      "author": {
+        "nick": "TZLLOG",
+        "homepage": "/u/tzllog"
+      }
+    },
+    {
+      "id": "1190000015641593",
+      "title": "MyBatis知识点整理",
+      "url": "/a/1190000015641593",
+      "desc": "1、 概念：Java当中的一个持久层框架。2、 特点、优势：（1）把java代码和SQL代码做了一个完全分离。（2）良好支持复杂对象的映射（输入映射、输出映射）（3）使用动态SQL，可以预防SQL注入。3、 原理：（1）创建...",
+      "author": {
+        "nick": "Huangy远",
+        "homepage": "/u/huangyuanlu"
+      }
+    },
+    {
+      "id": "1190000015641235",
+      "title": "spring事务增强，事务回滚如何判断？希望在前端上有个提示",
+      "url": "/a/1190000015641235",
+      "desc": "事物回滚，一般抛异常，可以自己手写一个异常，根据异常判断。事物还是按照 spring 的之前的逻辑。只是，手工抛特定的异常。这样你就可以捕获这个异常给前台用户。",
+      "author": {
+        "nick": "奇迹之诱惑",
+        "homepage": "/u/qijizhiyouhuo"
+      }
+    },
+    {
+      "id": "1190000015641164",
+      "title": "从java的NIO版hello world看java源码，我们能看到什么？",
+      "url": "/a/1190000015641164",
+      "desc": "SelectorProvider提供的所有provider都是同一个对象。如果没有，它会通过AccessController.doPrivileged来给获取provider的代码最高的权限，执行逻辑是：",
+      "author": {
+        "nick": "爬蜥",
+        "homepage": "/u/pa_5aeb229669d18"
+      }
+    }
+  ]
+}
