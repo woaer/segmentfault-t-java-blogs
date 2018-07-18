@@ -1,0 +1,155 @@
+{
+  "watchNum": "24033",
+  "blogs": [
+    {
+      "id": "1190000015675725",
+      "title": "[LintCode/LeetCode] Count Binary Substrings",
+      "url": "/a/1190000015675725",
+      "desc": "Give a string s, count the number of non-empty (contiguous) substrings that have the same number of 0's and 1's, and all the 0's and all the 1's in these substrings are grouped consecutively.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000015675217",
+      "title": "[LeetCode/LintCode] Sentence Similarity",
+      "url": "/a/1190000015675217",
+      "desc": "Given two sentences words1, words2 (each represented as an array of strings), and a list of similar word pairs pairs, determine if two sentences are similar.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000015672281",
+      "title": "【Java猫说】类与对象的那些事",
+      "url": "/a/1190000015672281",
+      "desc": "阅读本文约“2.1分钟”。 当你在设计类时，要记得对象时靠类的模型塑造出来的，你可以这样看： ——对象是已知事物 ——对象会执行的动作 对象本身已知的事物称为实例变量，它们代表对象的状态（数据），且该类型的每一...",
+      "author": {
+        "nick": "MySelf",
+        "homepage": "/u/myself_5ab9f390c6129"
+      }
+    },
+    {
+      "id": "1190000015672226",
+      "title": "安卓易学，爬坑不易—腾讯大佬的RecyclerView局部刷新爬坑之路",
+      "url": "/a/1190000015672226",
+      "desc": "安卓开发者都知道，RecyclerView比ListView要灵活的多，但不可否认的里面的坑也同样埋了不少人。下面让我们看看腾讯开发工程师用实例讲解自己踩坑时的解决方案和心路历程。",
+      "author": {
+        "nick": "程序员小灰",
+        "homepage": "/u/chengxuyuanxiaohui"
+      }
+    },
+    {
+      "id": "1190000015672191",
+      "title": "【Java猫说】案例谈面向对象",
+      "url": "/a/1190000015672191",
+      "desc": "有人告诉我那里遍地都是对象——我们把所有的程序代码放在main（）里面，事实上，那根本就不是面向对象的做法，在Java的面向对象中，我们也会看到类和对象的不同，以及对象是如何让你的生活更美好（至少程序设计工...",
+      "author": {
+        "nick": "MySelf",
+        "homepage": "/u/myself_5ab9f390c6129"
+      }
+    },
+    {
+      "id": "1190000015671443",
+      "title": "Spring Boot Admin 2.0开箱体验",
+      "url": "/a/1190000015671443",
+      "desc": "在我之前的 《Spring Boot应用监控实战》 一文中，讲述了如何利用 Spring Boot Admin 1.5.X 版本来可视化地监控 Spring Boot 应用。说时迟，那时快，现在 Spring Boot Admin 都更新到 2.0 版本了，并且可以对当下...",
+      "author": {
+        "nick": "CodeSheep",
+        "homepage": "/u/hansonwang99"
+      }
+    },
+    {
+      "id": "1190000015669880",
+      "title": "源码|jdk源码之HashMap分析(二)",
+      "url": "/a/1190000015669880",
+      "desc": "接上一篇博文，来吧剩下的部分写完。总体来说，HashMap的实现内部有两个关键点，第一是当表内元素和hash桶数组的比例达到某个阈值时会触发扩容机制，否则表中的元素会越来越挤影响性能；第二是保存hash冲突的链表...",
+      "author": {
+        "nick": "frapples",
+        "homepage": "/u/frapples"
+      }
+    },
+    {
+      "id": "1190000015668715",
+      "title": "String-boot + mybatis +pagehelper  使用分页",
+      "url": "/a/1190000015668715",
+      "desc": "最近自己搭建一个spring-boot 的项目听说最近很是流行,之前在一件公司用的觉得挺不错.所以自己配置一下学习学习.结果做到分页的时候看到了pagehelper 貌似是个很牛的插件所以用来学习一下,结果两天都没怎么弄明白...",
+      "author": {
+        "nick": "小小途中",
+        "homepage": "/u/tuzhong"
+      }
+    },
+    {
+      "id": "1190000015668549",
+      "title": "美国技术人员常用招聘求职网站",
+      "url": "/a/1190000015668549",
+      "desc": "Linkedin [链接] 这个是必须要用的，主要用于查看公司的简介，正在招聘的岗位，查看公司内部员工的技术背景。 最最牛掰的就是可以用这个来找校友，看看有没有朋友帮忙内推。",
+      "author": {
+        "nick": "juana",
+        "homepage": "/u/juana"
+      }
+    },
+    {
+      "id": "1190000015668269",
+      "title": "SpringCloud核心教程 | 第三篇：服务注册与发现 Eureka篇",
+      "url": "/a/1190000015668269",
+      "desc": "Spring Cloud是一个基于Spring Boot实现的云应用开发工具，它为基于JVM的云应用开发中涉及的配置管理、服务发现、断路器、智能路由、微代理、控制总线、全局锁、决策竞选、分布式会话和集群状态管理等操作提供了...",
+      "author": {
+        "nick": "星缘",
+        "homepage": "/u/xingyuan_59b0b68ebe448"
+      }
+    },
+    {
+      "id": "1190000015668205",
+      "title": "【Java猫说】编译器与虚拟机哪个重要？",
+      "url": "/a/1190000015668205",
+      "desc": "熟悉Java的朋友都知道虚拟机还有编译器，那么它们各自主要的功能是什么？谁比较重要呢？让我们来了解一下这两位美女的故事。",
+      "author": {
+        "nick": "MySelf",
+        "homepage": "/u/myself_5ab9f390c6129"
+      }
+    },
+    {
+      "id": "1190000015668178",
+      "title": "SpringCloud核心教程 | 第二篇： 使用Intellij中的maven来快速构建Spring Cloud工程",
+      "url": "/a/1190000015668178",
+      "desc": "spring cloud 为开发人员提供了快速构建分布式系统的一些工具，包括配置管理、服务发现、断路器、路由、微代理、事件总线、全局锁、决策竞选、分布式会话等等。它运行环境简单，可以在开发人员的电脑上跑。另外说...",
+      "author": {
+        "nick": "星缘",
+        "homepage": "/u/xingyuan_59b0b68ebe448"
+      }
+    },
+    {
+      "id": "1190000015668134",
+      "title": "【跃迁之路】【527天】程序员高效学习方法论探索系列（实验阶段284-2018.07.17）",
+      "url": "/a/1190000015668134",
+      "desc": "从2018.7.1起，【跃迁之路】奖励金计划正式起航，从今以后，每月1日，我会将自己个人上月收入的1%计入【跃迁之路】奖励金池，积累到足够金额后，将适时用于奖励那些虽然身处困境，却依然不放弃努力，通过坚持，不...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000015668120",
+      "title": "SpringCloud核心教程 | 第一篇： 使用Spring Initializr来快速构建Spring Cloud工程",
+      "url": "/a/1190000015668120",
+      "desc": "spring cloud 为开发人员提供了快速构建分布式系统的一些工具，包括配置管理、服务发现、断路器、路由、微代理、事件总线、全局锁、决策竞选、分布式会话等等。它运行环境简单，可以在开发人员的电脑上跑。另外说...",
+      "author": {
+        "nick": "星缘",
+        "homepage": "/u/xingyuan_59b0b68ebe448"
+      }
+    },
+    {
+      "id": "1190000015668070",
+      "title": "【跃迁之路】【527天】刻意练习系列286（2018.07.17）",
+      "url": "/a/1190000015668070",
+      "desc": "技术的精进不能只是简单的刷题，而应该是不断的“刻意”练习 该系列改版后正式纳入【跃迁之路】专栏，持续更新",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    }
+  ]
+}
