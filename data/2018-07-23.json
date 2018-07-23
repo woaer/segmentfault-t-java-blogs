@@ -1,0 +1,155 @@
+{
+  "watchNum": "24164",
+  "blogs": [
+    {
+      "id": "1190000015729109",
+      "title": "C3P0连接池参数配置",
+      "url": "/a/1190000015729109",
+      "desc": "{代码...}",
+      "author": {
+        "nick": "Lycop",
+        "homepage": "/u/lycop"
+      }
+    },
+    {
+      "id": "1190000015727250",
+      "title": "[LintCode/LeetCode] Contains Duplicate III",
+      "url": "/a/1190000015727250",
+      "desc": "Given an array of integers, find out whether there are two distinct indices i and j in the array such that the absolute difference between nums[i] and nums[j] is at most t and the absolute differen...",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000015723290",
+      "title": "【Java猫说】每日算法：#1-DoWhile实现特殊累加值",
+      "url": "/a/1190000015723290",
+      "desc": "计算1+1/3+1/5+1/7+···+1/(2×n+1)的值，要求使用while循环，且必须计算到1/(2×n+1)小于0.00001是为止。当循环结束时，显示上述表达式中的n的值，以及表达式的计算结果。",
+      "author": {
+        "nick": "MySelf",
+        "homepage": "/u/myself_5ab9f390c6129"
+      }
+    },
+    {
+      "id": "1190000015726870",
+      "title": "HashMap? ConcurrentHashMap? 相信看完这篇没人能难住你！",
+      "url": "/a/1190000015726870",
+      "desc": "本篇主要想讨论 ConcurrentHashMap 这样一个并发容器，在正式开始之前我觉得有必要谈谈 HashMap，没有它就不会有后面的 ConcurrentHashMap。",
+      "author": {
+        "nick": "crossoverJie",
+        "homepage": "/u/crossoverjie"
+      }
+    },
+    {
+      "id": "1190000015726705",
+      "title": "hibernate学习概要",
+      "url": "/a/1190000015726705",
+      "desc": "1.持久化类提供无参数构造2.成员变量私有，提供get、set方法访问，需提供属性（属性就是get、set方法）3.持久化类中的属性，应尽量使用包装类型（可以表示null，在插如数据库中有作用）4.持久化类需要提供oid（主...",
+      "author": {
+        "nick": "zer0_li",
+        "homepage": "/u/zer0_li"
+      }
+    },
+    {
+      "id": "1190000015726492",
+      "title": "java小心机(3)| 浅析finalize()",
+      "url": "/a/1190000015726492",
+      "desc": "预备知识JNI(Java Native Interface)，它提供了若干的API实现了Java和其他语言的通信（主要是C&C++）",
+      "author": {
+        "nick": "java从心",
+        "homepage": "/u/javacongxin"
+      }
+    },
+    {
+      "id": "1190000015724882",
+      "title": "【跃迁之路】【532天】程序员高效学习方法论探索系列（实验阶段289-2018.07.22）",
+      "url": "/a/1190000015724882",
+      "desc": "从2018.7.1起，【跃迁之路】奖励金计划正式起航，从今以后，每月1日，我会将自己个人上月收入的1%计入【跃迁之路】奖励金池，积累到足够金额后，将适时用于奖励那些虽然身处困境，却依然不放弃努力，通过坚持，不...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000015724820",
+      "title": "【跃迁之路】【532天】刻意练习系列291（2018.07.22）",
+      "url": "/a/1190000015724820",
+      "desc": "技术的精进不能只是简单的刷题，而应该是不断的“刻意”练习 该系列改版后正式纳入【跃迁之路】专栏，持续更新",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000015724535",
+      "title": "Android 实现锚点定位",
+      "url": "/a/1190000015724535",
+      "desc": "相信做前端的都做过页面锚点定位的功能，通过<a href=\"#head\"> 去设置页面内锚点定位跳转。 本篇文章就使用tablayout、scrollview来实现android锚点定位的功能。 效果图：",
+      "author": {
+        "nick": "程序猿tx",
+        "homepage": "/u/xiang_5b042eafd65ff"
+      }
+    },
+    {
+      "id": "1190000015723852",
+      "title": "Java™教程（变量）",
+      "url": "/a/1190000015723852",
+      "desc": "什么是对象?讨论向你介绍了字段，但是你可能还有一些问题，例如：命名字段的规则和约定是什么?除了int，还有什么其他数据类型?字段声明时是否必须初始化?如果未显式初始化字段，是否为其分配了默认值?我们将在本...",
+      "author": {
+        "nick": "博弈",
+        "homepage": "/u/leon_qi"
+      }
+    },
+    {
+      "id": "1190000015723764",
+      "title": "elasticsearch初探",
+      "url": "/a/1190000015723764",
+      "desc": "ElasticSearch是一个基于Lucene的搜索服务器。它提供了一个分布式多用户能力的全文搜索引擎，基于RESTful web接口。Elasticsearch是用Java开发的，并作为Apache许可条款下的开放源码发布，是当前流行的企业级搜索...",
+      "author": {
+        "nick": "木木甫",
+        "homepage": "/u/mumufu"
+      }
+    },
+    {
+      "id": "1190000015723744",
+      "title": "Java 8之stream介绍和使用",
+      "url": "/a/1190000015723744",
+      "desc": "在实际开发中经常需要获取各种各样不同格式的数据，因为数据库的表结构是一开始就设计好的所以很多时候我们不得不先从数据库里或其他地方获得数据后再根据需求去一层一层的筛选数据，在Java 8之前的做法不外乎就...",
+      "author": {
+        "nick": "Half",
+        "homepage": "/u/half_5ab2635cc04bc"
+      }
+    },
+    {
+      "id": "1190000015723700",
+      "title": "Java™教程（语言基础知识）",
+      "url": "/a/1190000015723700",
+      "desc": "你已经了解了对象将其状态存储在字段中，然而，Java编程语言也使用术语“变量”，本节讨论这种关系，以及变量命名规则和约定、基本数据类型(基本类型、字符字符串和数组)、默认值和文字。",
+      "author": {
+        "nick": "博弈",
+        "homepage": "/u/leon_qi"
+      }
+    },
+    {
+      "id": "1190000015723041",
+      "title": "Java™教程（面向对象编程概念）",
+      "url": "/a/1190000015723041",
+      "desc": "如果你以前从未使用过面向对象编程语言，那么在开始编写任何代码之前，你需要学习一些基本概念，本课将向你介绍对象、类、继承、接口和包，每次讨论都关注这些概念与现实世界的关系，同时提供Java编程语言语法的...",
+      "author": {
+        "nick": "博弈",
+        "homepage": "/u/leon_qi"
+      }
+    },
+    {
+      "id": "1190000015722861",
+      "title": "ContiPerf:: 更为优雅和方便的单元压力测试工具。",
+      "url": "/a/1190000015722861",
+      "desc": "ContiPerf 是一个轻量级的单元测试工具，基于JUnit 4二次开发，使用它基于注解的方式，快速在本地进行单元压测并提供详细的报告。",
+      "author": {
+        "nick": "吴汶泽",
+        "homepage": "/u/wuwenze"
+      }
+    }
+  ]
+}
