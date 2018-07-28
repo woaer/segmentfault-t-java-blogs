@@ -1,0 +1,155 @@
+{
+  "watchNum": "24333",
+  "blogs": [
+    {
+      "id": "1190000015798586",
+      "title": "深入理解HashMap(二): 关键源码逐行分析之hash算法",
+      "url": "/a/1190000015798586",
+      "desc": "上一篇文章我们提到, 为了利用数组索引进行快速查找, 我们需要先将 key值映射成数组下标. 因为数组的下标是有限的集合, 所以我们可以先通过hash算法将key映射成整数, 再将整数映射成有限的数组下标:",
+      "author": {
+        "nick": "ChiuCheng",
+        "homepage": "/u/chiucheng"
+      }
+    },
+    {
+      "id": "1190000015798187",
+      "title": "深度完整的了解MySQL锁",
+      "url": "/a/1190000015798187",
+      "desc": "主讲：Mysql的悲观锁 和 乐观锁官方:If you query data and then insert or update related data within the same transaction, the regular SELECT statement does not give enough protection. Other transacti...",
+      "author": {
+        "nick": "Jackey",
+        "homepage": "/u/qiuzhidoudou"
+      }
+    },
+    {
+      "id": "1190000015797402",
+      "title": "Java动态代理 jdk和cglib的实现比较",
+      "url": "/a/1190000015797402",
+      "desc": "发现Java面试很喜欢问Spring AOP怎么实现的之类的问题，所以写一篇文章来整理一下。关于AOP和代理模式的概念这里并不做赘述，而是直奔主题，即AOP的实现方式：动态代理。与静态代理对比，动态代理是在runtime动态...",
+      "author": {
+        "nick": "hyuan",
+        "homepage": "/u/hyuan_59cddabee3f82"
+      }
+    },
+    {
+      "id": "1190000015797105",
+      "title": "当我谈Proxy与Adpater模式时，我谈些什么",
+      "url": "/a/1190000015797105",
+      "desc": "今天跟同事谈起了一道面试题：“Proxy模式跟Adpater模式的区别”，这两个设计模式都是很相似的模式，很多有点经验的程序员都可能会聊的头头是道，但是恐怕谈起一些设计上的细节可能就会卡壳，因此我写下了这篇文章...",
+      "author": {
+        "nick": "kidult_coder",
+        "homepage": "/u/kidultcoder"
+      }
+    },
+    {
+      "id": "1190000015796846",
+      "title": "【跃迁之路】【537天】程序员高效学习方法论探索系列（实验阶段294-2018.07.27）",
+      "url": "/a/1190000015796846",
+      "desc": "从2018.7.1起，【跃迁之路】奖励金计划正式起航，从今以后，每月1日，我会将自己个人上月收入的1%计入【跃迁之路】奖励金池，积累到足够金额后，将适时用于奖励那些虽然身处困境，却依然不放弃努力，通过坚持，不...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000015796727",
+      "title": "深入理解HashMap(一): 从源头说起",
+      "url": "/a/1190000015796727",
+      "desc": "HashMap我们都不陌生, 也是java面试几乎必问的考点, 本系列我们来深入思考有关HashMap的设计思想和实现细节.",
+      "author": {
+        "nick": "ChiuCheng",
+        "homepage": "/u/chiucheng"
+      }
+    },
+    {
+      "id": "1190000015796253",
+      "title": "【跃迁之路】【537天】刻意练习系列296（2018.07.27）",
+      "url": "/a/1190000015796253",
+      "desc": "技术的精进不能只是简单的刷题，而应该是不断的“刻意”练习 该系列改版后正式纳入【跃迁之路】专栏，持续更新",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000015792733",
+      "title": "SpringBoot关于JSON交互问题",
+      "url": "/a/1190000015792733",
+      "desc": "1.实际项目中，前后端分离成为主流趋势，后台负责业务逻辑处理，前端负责数据展示。后台接口返回数据一般使用json格式，也可能使用xml。使用json报文。了解下面注解。",
+      "author": {
+        "nick": "沧海一粟",
+        "homepage": "/u/canghaiyisu_5a91066673c15"
+      }
+    },
+    {
+      "id": "1190000015789307",
+      "title": "谈谈社区、产品和新Dubbo | 从Dubbo 的社区star 数突破 2 万说起",
+      "url": "/a/1190000015789307",
+      "desc": "近期，阿里巴巴的高性能分布式服务框架 Dubbo，在 Github 上获得了超过 2万的 star 数，据了解这是截止目前国内第一家也是唯一一家超过2万 star 数的 Java 开源产品。",
+      "author": {
+        "nick": "阿里云云栖社区",
+        "homepage": "/u/yunqishequ_5aa899aad5395"
+      }
+    },
+    {
+      "id": "1190000015791281",
+      "title": "DingTalk:: 通讯录单向同步实现示例",
+      "url": "/a/1190000015791281",
+      "desc": "最近项目中需要实现对接钉钉，并实现单向通讯录同步（钉钉服务器 -> 对接平台）本文通过一个简单的案例快速实现相关的DEMO (本文主要实现与钉钉对接)。",
+      "author": {
+        "nick": "吴汶泽",
+        "homepage": "/u/wuwenze"
+      }
+    },
+    {
+      "id": "1190000015782945",
+      "title": "基于 Docker 的微服务架构实践",
+      "url": "/a/1190000015782945",
+      "desc": "基于 Docker 的容器技术是在2015年的时候开始接触的，两年多的时间，作为一名 Docker 的 DevOps，也见证了 Docker 的技术体系的快速发展。本文主要是结合在公司搭建的微服务架构的实践过程，做一个简单的总结。希...",
+      "author": {
+        "nick": "bali",
+        "homepage": "/u/bali_5a0a92fba16aa"
+      }
+    },
+    {
+      "id": "1190000015786019",
+      "title": "Springboot+Druid实现多数据源监控及事务控制",
+      "url": "/a/1190000015786019",
+      "desc": "以下是为动态数据源切换，及缺省事务第二数据源的事务控制的实现方案，以springboot作为基础框架。",
+      "author": {
+        "nick": "独上兰舟",
+        "homepage": "/u/dushanglanzhou_59b608615765d"
+      }
+    },
+    {
+      "id": "1190000015785789",
+      "title": "Java多线程打辅助的三个小伙子",
+      "url": "/a/1190000015785789",
+      "desc": "之前学多线程的时候没有学习线程的同步工具类(辅助类)。ps:当时觉得暂时用不上，认为是挺高深的知识点就没去管了..",
+      "author": {
+        "nick": "Java3y",
+        "homepage": "/u/java_3y"
+      }
+    },
+    {
+      "id": "1190000015785386",
+      "title": "简析TCP的三次握手与四次分手",
+      "url": "/a/1190000015785386",
+      "desc": "具体的关于TCP是什么，我不打算详细的说了；当你看到这篇文章时，我想你也知道TCP的概念了，想要更深入的了解TCP的工作，我们就继续。它只是一个超级麻烦的协议，而它又是互联网的基础，也是每个程序员必备的基本...",
+      "author": {
+        "nick": "程序员小灰",
+        "homepage": "/u/chengxuyuanxiaohui"
+      }
+    },
+    {
+      "id": "1190000015784749",
+      "title": "MyPerf4J 一个高性能、无侵入的Java方法性能监控和统计工具",
+      "url": "/a/1190000015784749",
+      "desc": "MyPerf4J 一个针对高并发、低延迟应用设计的高性能、无侵入的Java方法性能监控和统计工具。受 perf4j 和 TProfiler启发而来。 MyPerf4J具有以下几个特性： 无侵入: 采用JavaAgent方式，对应用程序完全无侵入，无...",
+      "author": {
+        "nick": "ThinkpadNC5",
+        "homepage": "/u/thinkpadnc5"
+      }
+    }
+  ]
+}
