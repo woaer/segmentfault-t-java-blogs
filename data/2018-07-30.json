@@ -1,0 +1,155 @@
+{
+  "watchNum": "24362",
+  "blogs": [
+    {
+      "id": "1190000015813439",
+      "title": "QRcode二维码生成",
+      "url": "/a/1190000015813439",
+      "desc": "// OutputStream outputStream=new FileOutputStream(new File(filePath));",
+      "author": {
+        "nick": "wotrd",
+        "homepage": "/u/wotrd"
+      }
+    },
+    {
+      "id": "1190000015812927",
+      "title": "redis深度理解底层锁原理",
+      "url": "/a/1190000015812927",
+      "desc": "1.INCR：（计时器，+1操作）    a) 语法：INCR key    b) 场景：        1)控制api 1秒内的多次访问 ；        2)记录用户每天访问网站的登录次数 ；",
+      "author": {
+        "nick": "Jackey",
+        "homepage": "/u/qiuzhidoudou"
+      }
+    },
+    {
+      "id": "1190000015812438",
+      "title": "深入理解HashMap(四): 关键源码逐行分析之resize扩容",
+      "url": "/a/1190000015812438",
+      "desc": "上一篇我们说明了HashMap的构造函数, 谈到构造函数中并不会初始化table 变量, table 变量是在 resize过程中初始化的.",
+      "author": {
+        "nick": "ChiuCheng",
+        "homepage": "/u/chiucheng"
+      }
+    },
+    {
+      "id": "1190000015810208",
+      "title": "金9银10，分享几个重要的Android面试题",
+      "url": "/a/1190000015810208",
+      "desc": "对于多态的定义不同类的对象对统一函数做出不同对的响应或者动作。作用主要是消除类之间的耦合性，灵活性比较强，利于代码的编写和修改。尤其在处理大量的运算和操作时，可以灵活地简化，替换或者是修改代码！",
+      "author": {
+        "nick": "程序员小灰",
+        "homepage": "/u/chengxuyuanxiaohui"
+      }
+    },
+    {
+      "id": "1190000015807778",
+      "title": "JVM难学？那是因为你没认真看完这篇文章",
+      "url": "/a/1190000015807778",
+      "desc": "JAVA程序运行与虚拟机之上，运行时需要内存空间。虚拟机执行JAVA程序的过程中会把它管理的内存划分为不同的数据区域方便管理。",
+      "author": {
+        "nick": "bali",
+        "homepage": "/u/bali_5a0a92fba16aa"
+      }
+    },
+    {
+      "id": "1190000015808897",
+      "title": "如何优雅的使用和理解线程池",
+      "url": "/a/1190000015808897",
+      "desc": "平时接触过多线程开发的童鞋应该都或多或少了解过线程池，之前发布的《阿里巴巴 Java 手册》里也有一条：",
+      "author": {
+        "nick": "crossoverJie",
+        "homepage": "/u/crossoverjie"
+      }
+    },
+    {
+      "id": "1190000015809544",
+      "title": "spring 入门 2 自动装配和aop",
+      "url": "/a/1190000015809544",
+      "desc": "使用注解配置spring 一、步骤 {代码...} {代码...} 二、将对象注册到容器 {代码...} 三、修改对象的作用范围 {代码...} 四、值类型注入 {代码...} 五、引用类型注入 {代码...} 六、初始化、销毁方法 {代码...} sp...",
+      "author": {
+        "nick": "zer0_li",
+        "homepage": "/u/zer0_li"
+      }
+    },
+    {
+      "id": "1190000015808849",
+      "title": "【跃迁之路】【539天】程序员高效学习方法论探索系列（实验阶段296-2018.07.29）",
+      "url": "/a/1190000015808849",
+      "desc": "从2018.7.1起，【跃迁之路】奖励金计划正式起航，从今以后，每月1日，我会将自己个人上月收入的1%计入【跃迁之路】奖励金池，积累到足够金额后，将适时用于奖励那些虽然身处困境，却依然不放弃努力，通过坚持，不...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000015808792",
+      "title": "【跃迁之路】【539天】刻意练习系列298（2018.07.29）",
+      "url": "/a/1190000015808792",
+      "desc": "技术的精进不能只是简单的刷题，而应该是不断的“刻意”练习 该系列改版后正式纳入【跃迁之路】专栏，持续更新",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000015808032",
+      "title": "Java多线程进阶（十一）—— juc-locks锁框架：StampedLock",
+      "url": "/a/1190000015808032",
+      "desc": "StampedLock类，在JDK1.8时引入，是对读写锁ReentrantReadWriteLock的增强，该类提供了一些功能，优化了读锁、写锁的访问，同时使读写锁之间可以互相转换，更细粒度控制并发。",
+      "author": {
+        "nick": "Ressmix",
+        "homepage": "/u/ressmix"
+      }
+    },
+    {
+      "id": "1190000015807866",
+      "title": "服务端故障处理思路（逐渐整理）",
+      "url": "/a/1190000015807866",
+      "desc": "第二步：检查端口1、可能提供者配置的端口被占用了，导致提供者的服务没有起来。使用netstat -anp |grep 端口号，如果对应端口显示情况如下：如图，表示3306端已经被占用",
+      "author": {
+        "nick": "Huangy远",
+        "homepage": "/u/huangyuanlu"
+      }
+    },
+    {
+      "id": "1190000015807600",
+      "title": "Java多线程进阶（十）—— juc-locks锁框架：基于AQS的读写锁(5)",
+      "url": "/a/1190000015807600",
+      "desc": "AQS系列的前四个章节，已经分析了AQS的原理，本章将会从ReentrantReadWriteLock出发，给出其内部利用AQS框架的实现原理。",
+      "author": {
+        "nick": "Ressmix",
+        "homepage": "/u/ressmix"
+      }
+    },
+    {
+      "id": "1190000015807573",
+      "title": "Java多线程进阶（九）—— juc-locks锁框架：AQS共享功能剖析(4)",
+      "url": "/a/1190000015807573",
+      "desc": "AQS系列的前三个章节，我们通过ReentrantLock的示例，分析了AQS的独占功能。本章将以CountDownLatch为例，分析AQS的共享功能。CountDownLatch，是J.U.C中的一个同步器类，可作为倒数计数器使用，关于CountDownLat...",
+      "author": {
+        "nick": "Ressmix",
+        "homepage": "/u/ressmix"
+      }
+    },
+    {
+      "id": "1190000015807337",
+      "title": "SpringMVC学习笔记",
+      "url": "/a/1190000015807337",
+      "desc": "一、SpringMVC概述 Spring为展现层提供的基于MVC设计理念的优秀的Web框架，是目前最主流的MVC框架之一 Spring3.0之后全面超越Struts2，成为最优秀的MVC框架 SpringMVC通过一套MVC注解，让POJO成为处理请求的控制...",
+      "author": {
+        "nick": "菟潞寺沙弥",
+        "homepage": "/u/transienthm"
+      }
+    },
+    {
+      "id": "1190000015807209",
+      "title": "Java多线程进阶（八）—— juc-locks锁框架：AQS的Conditon等待(3)",
+      "url": "/a/1190000015807209",
+      "desc": "本章将继续以ReentrantLock的调用为例，说明AbstractQueuedSynchronizer提供的Conditon等待功能。关于Conditon接口的介绍，可以参见：Java多线程进阶（二）—— juc-locks锁框架：接口。",
+      "author": {
+        "nick": "Ressmix",
+        "homepage": "/u/ressmix"
+      }
+    }
+  ]
+}
