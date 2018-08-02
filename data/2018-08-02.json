@@ -1,0 +1,155 @@
+{
+  "watchNum": "24492",
+  "blogs": [
+    {
+      "id": "1190000015858648",
+      "title": "RestTemplate集成Ribbbon",
+      "url": "/a/1190000015858648",
+      "desc": "上一篇文章我们分析了ribbon的核心原理，接下来我们来看看springcloud是如何集成ribbon的，不同的springcloud的组件（feign，zuul，RestTemplate）集成ribbon有所不同，这篇文章先来看看RestTemplate。",
+      "author": {
+        "nick": "杨辉",
+        "homepage": "/u/qzuser_5831baa1efc7f"
+      }
+    },
+    {
+      "id": "1190000015858546",
+      "title": "sping-cloud-ribbon原理解析",
+      "url": "/a/1190000015858546",
+      "desc": "Ribbon是一个客户端负载均衡器，它可以很好地控制HTTP和TCP客户端的行为。Feign已经默认使用了Ribbon(参考文章)",
+      "author": {
+        "nick": "杨辉",
+        "homepage": "/u/qzuser_5831baa1efc7f"
+      }
+    },
+    {
+      "id": "1190000015858080",
+      "title": "理解在java “”i=i++;”所发生的事情",
+      "url": "/a/1190000015858080",
+      "desc": "在上图中，我首先进行了运行，可以看到结果，我们的i并不是如大多人猜测的那样为13输出 ，而是看上去没有做这个自增的操作，然而这是为什么呢？",
+      "author": {
+        "nick": "Vincent",
+        "homepage": "/u/logs"
+      }
+    },
+    {
+      "id": "1190000015855277",
+      "title": "jpa设置创表的引擎",
+      "url": "/a/1190000015855277",
+      "desc": "默认创表引擎为MyISAM 首先创建一个springboot 工程, 编写一个实体类 {代码...} 数据库生成了对应的employee表, 通过show create命令查看创表语句 默认引擎为MyISAM 修改数据库引擎为InnoDB 过时的方法 通过配置...",
+      "author": {
+        "nick": "ride",
+        "homepage": "/u/salvation"
+      }
+    },
+    {
+      "id": "1190000015855242",
+      "title": "终于，我还是下决心学Java后台了",
+      "url": "/a/1190000015855242",
+      "desc": "我没有什么本事，人也丑，也不会忽悠，只能硬着头皮学习了。最近计划学习Java后台，因为最近接了私活的问题，好多都要Java后台和前端一起做。平常我在做什么，当然是忙着赚钱了 除了敲代码，你还有什么副业吗？接...",
+      "author": {
+        "nick": "程序员小灰",
+        "homepage": "/u/chengxuyuanxiaohui"
+      }
+    },
+    {
+      "id": "1190000015854646",
+      "title": "【Java】几道让你拿offer的面试题",
+      "url": "/a/1190000015854646",
+      "desc": "之前在刷博客的时候，发现一些写得比较好的博客都会默默收藏起来。最近在查阅补漏，有的知识点比较重要的，但是在之前的博客中还没有写到，于是趁着闲整理一下。",
+      "author": {
+        "nick": "Java3y",
+        "homepage": "/u/java_3y"
+      }
+    },
+    {
+      "id": "1190000015853535",
+      "title": "MyBatis的逆向工程",
+      "url": "/a/1190000015853535",
+      "desc": "MyBatis的逆向工程 一：什么是逆行工程。 {代码...} 二:简单教程 maven的pom.xml中添加插件 {代码...} 创建配置文件 generatorConfig.xml {代码...} 运行Generator类即可生成 我已经做好项目了 下载即可运行",
+      "author": {
+        "nick": "source",
+        "homepage": "/u/webyh"
+      }
+    },
+    {
+      "id": "1190000015852350",
+      "title": "Spring之定时任务基本使用篇",
+      "url": "/a/1190000015852350",
+      "desc": "文章链接：[链接] Spring之定时任务基本使用篇 spring-boot项目中，想添加一个定时任务，可以怎么办？ 不管什么项目，都是可以直接用JDK原生的定时任务来实现 借助@Scheduled注解来使用 本篇博文则主要集中在在Sp...",
+      "author": {
+        "nick": "小灰灰Blog",
+        "homepage": "/u/xiaohuihuiblog"
+      }
+    },
+    {
+      "id": "1190000015851796",
+      "title": "Java 垃圾回收的一些概念",
+      "url": "/a/1190000015851796",
+      "desc": "1.强引用类似Object obj = new Object();只要强引用还在，就永远不会被回收。2.软引用描述一些有用但并非必需的对象。在将要发生OOM之前，会把这些对象列进回收范围之中进行第二次回收，如果回收还没有足够内存，...",
+      "author": {
+        "nick": "zzcjojo",
+        "homepage": "/u/zzcjojo"
+      }
+    },
+    {
+      "id": "1190000015851222",
+      "title": "Protocol Buffers学习笔记",
+      "url": "/a/1190000015851222",
+      "desc": "Protocol Buffers是google发明的一种数据交换格式，独立于语言，独立于平台。与其他的数据交换格式有所不同，Protocol Buffers是一种二进制的格式，因此在网络传输的时候效率更高，相对于json它的文件体积更小，...",
+      "author": {
+        "nick": "scu酱油仔",
+        "homepage": "/u/scu2jiangyouzi"
+      }
+    },
+    {
+      "id": "1190000015850689",
+      "title": "【跃迁之路】【542天】程序员高效学习方法论探索系列（实验阶段299-2018.08.01）",
+      "url": "/a/1190000015850689",
+      "desc": "从2018.7.1起，【跃迁之路】奖励金计划正式起航，从今以后，每月1日，我会将自己个人上月收入的1%计入【跃迁之路】奖励金池，积累到足够金额后，将适时用于奖励那些虽然身处困境，却依然不放弃努力，通过坚持，不...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000015850660",
+      "title": "【跃迁之路】【542天】刻意练习系列301（2018.08.01）",
+      "url": "/a/1190000015850660",
+      "desc": "技术的精进不能只是简单的刷题，而应该是不断的“刻意”练习 该系列改版后正式纳入【跃迁之路】专栏，持续更新",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000015848707",
+      "title": "从 AbstractQueuedSynchronizer 理解 ReentrantLock",
+      "url": "/a/1190000015848707",
+      "desc": "Java 并发编程离不开锁， Synchronized 是常用的一种实现加锁的方式，使用比较简单快捷。在 Java 中还有另一种锁，即 Lock 锁。 Lock 是一个接口，提供了超时阻塞、可响应中断以及公平非公平锁等特性，相比于 Syn...",
+      "author": {
+        "nick": "然则",
+        "homepage": "/u/ming_55e57cb682df4"
+      }
+    },
+    {
+      "id": "1190000015848424",
+      "title": "JavaScript加载json数据错误解决",
+      "url": "/a/1190000015848424",
+      "desc": "这两天为了完成物联网实时数据分析服务前端可视化的设计，需要用到Echarts扩展的百度地图API来完成热力图的显示，因此到Echarts官网去看demo，然后copy了demo上的代码直接放到JSP文件中，有兴趣可以去Echarts官网...",
+      "author": {
+        "nick": "Fangye",
+        "homepage": "/u/lingnancfy"
+      }
+    },
+    {
+      "id": "1190000015847500",
+      "title": "spring-boot配置",
+      "url": "/a/1190000015847500",
+      "desc": "多Profile文件形式 默认使用appcation.properties中的配置,优先级大于application.yml",
+      "author": {
+        "nick": "Helen",
+        "homepage": "/u/helen_59392ba49936d"
+      }
+    }
+  ]
+}
