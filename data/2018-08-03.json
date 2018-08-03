@@ -1,0 +1,155 @@
+{
+  "watchNum": "24514",
+  "blogs": [
+    {
+      "id": "1190000015872384",
+      "title": " ActiveMQ 嵌入Tomcat",
+      "url": "/a/1190000015872384",
+      "desc": "在一些项目中，单独开启一个ActiveMQ，对于项目实施来说有时略显繁琐。所以我们将ActiveMQ内嵌到Tomcat，Tomcat启动同时就顺带启动了ActiveMQ。由此我们需要掌握三个个重要的知识点",
+      "author": {
+        "nick": "yhb",
+        "homepage": "/u/yhb_success"
+      }
+    },
+    {
+      "id": "1190000015870281",
+      "title": "zuul实现Cros跨域的两种方式（https）",
+      "url": "/a/1190000015870281",
+      "desc": "大家都知道spring boot 可以通过@CrossOrigin实现跨域。但是在spring cloud 里，如果要粒度那么细的去控制跨域，这个就太繁琐了，所以一般来说，会在路由zuul里实现。",
+      "author": {
+        "nick": "kasaya",
+        "homepage": "/u/kasaya"
+      }
+    },
+    {
+      "id": "1190000015869537",
+      "title": "mybatis-plus 不覆盖service,controller, 生成模板使用swagger注解",
+      "url": "/a/1190000015869537",
+      "desc": "情况是这样的：原本mybatis-plus的框架的模板是不支持swagger的注解的，需要手动写。自己折腾了1个多小时，建立在mybatis-plus的基础上进行修改。可以选择生成文件时，不覆盖某个目录下的文件，并支持生成swagger...",
+      "author": {
+        "nick": "心无私天地宽",
+        "homepage": "/u/xinwusitiandikuan"
+      }
+    },
+    {
+      "id": "1190000015868790",
+      "title": "jdbc就是这么简单",
+      "url": "/a/1190000015868790",
+      "desc": "文章有不当之处，欢迎指正，如果喜欢微信阅读，你也可以关注我的微信公众号：好好学java，获取优质学习资源。",
+      "author": {
+        "nick": "wx_好好学java",
+        "homepage": "/u/sihai_5ae5ba9170388"
+      }
+    },
+    {
+      "id": "1190000015866704",
+      "title": "Java编程思想——知识卡片01_02",
+      "url": "/a/1190000015866704",
+      "desc": "首先我想说的是 Java编程思想——知识卡片 将是一系列文章，文章的内容是我阅读《Java编程思想》这本书的心得体会，那么我为什么要写这一系列的文章呢？原因有一下几个方面：",
+      "author": {
+        "nick": "sf_wangchong",
+        "homepage": "/u/sf_wangchong"
+      }
+    },
+    {
+      "id": "1190000015866000",
+      "title": "集合概要学习---粗略",
+      "url": "/a/1190000015866000",
+      "desc": "再实际开发中，需要将使用的对象存储于特定数据结构的容器中。JDK提供了这样的容器---集合(Collection)。Collection是一个接口，定义了集合相关的操作方法，其有两个子接口：List与Set",
+      "author": {
+        "nick": "天月",
+        "homepage": "/u/tianyue_5a3731bdd8c2e"
+      }
+    },
+    {
+      "id": "1190000015865774",
+      "title": "【荐】令人心情愉悦的一次面试总结",
+      "url": "/a/1190000015865774",
+      "desc": "15年毕业到现在也近三年了，最近面试了阿里集团（菜鸟网络，蚂蚁金服），网易，滴滴，点我达，最终收到点我达，网易offer，蚂蚁金服二面挂掉，菜鸟网络一个月了还在流程中...最终有幸去了网易。但是要特别感谢点...",
+      "author": {
+        "nick": "茶轴的青春",
+        "homepage": "/u/chazhoudeqingchun"
+      }
+    },
+    {
+      "id": "1190000015865714",
+      "title": "Java多线程进阶（十七）—— J.U.C之atomic框架：LongAdder",
+      "url": "/a/1190000015865714",
+      "desc": "JDK1.8时，java.util.concurrent.atomic包中提供了一个新的原子类：LongAdder。根据Oracle官方文档的介绍，LongAdder在高并发的场景下会比它的前辈————AtomicLong 具有更好的性能，代价是消耗更多的内存空间：",
+      "author": {
+        "nick": "Ressmix",
+        "homepage": "/u/ressmix"
+      }
+    },
+    {
+      "id": "1190000015865480",
+      "title": "【码艺杂谈】Java中的相同与不同",
+      "url": "/a/1190000015865480",
+      "desc": "为了解释这个问题，我们从Java语言的根说起，那Java语言的根在哪里？我们知道Java是一种面向对象的编程语言，对象是类的实例，所有的类都隐式继承Object类，那Object类就是所有类的父类，也就是我们所说的根。Obj...",
+      "author": {
+        "nick": "北风之神",
+        "homepage": "/u/beifengzhishen"
+      }
+    },
+    {
+      "id": "1190000015865066",
+      "title": "mysql实现nextVal功能",
+      "url": "/a/1190000015865066",
+      "desc": "CREATE TABLE sys_sequence (NAME varchar(50) NOT NULL,CURRENT_VALUE int(11) NOT NULL DEFAULT '0',INCREMENT int(11) NOT NULL DEFAULT '1', PRIMARY KEY (NAME) )",
+      "author": {
+        "nick": "爱笑的猫",
+        "homepage": "/u/liyancheng"
+      }
+    },
+    {
+      "id": "1190000015864727",
+      "title": "【跃迁之路】【543天】程序员高效学习方法论探索系列（实验阶段300-2018.08.02）",
+      "url": "/a/1190000015864727",
+      "desc": "从2018.7.1起，【跃迁之路】奖励金计划正式起航，从今以后，每月1日，我会将自己个人上月收入的1%计入【跃迁之路】奖励金池，积累到足够金额后，将适时用于奖励那些虽然身处困境，却依然不放弃努力，通过坚持，不...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000015864724",
+      "title": "Java多线程进阶（十六）—— J.U.C之atomic框架：FieldUpdater",
+      "url": "/a/1190000015864724",
+      "desc": "在java.util.concurrent.atomic包中，由三个比较特殊的原子类：AtomicIntegerFieldUpdater、AtomicLongFieldUpdater、AtomicReferenceFieldUpdater。通过名称可以看到，这几类的功能大致相同，只是针对的类型有所...",
+      "author": {
+        "nick": "Ressmix",
+        "homepage": "/u/ressmix"
+      }
+    },
+    {
+      "id": "1190000015864455",
+      "title": "推荐：7 月份值得一看的 Java 技术干货！",
+      "url": "/a/1190000015864455",
+      "desc": "月底了，又到了我们总结这一个月 Java 技术干货的时候了，又到了我们给粉丝免费送书的日子了。 7 月份干货总结 Oracle 发布了一个全栈虚拟机 GraalVM 一文带你深入拆解 Java 虚拟机 图文带你了解 8 大排序算法 Sp...",
+      "author": {
+        "nick": "Java技术栈",
+        "homepage": "/u/javastack"
+      }
+    },
+    {
+      "id": "1190000015863563",
+      "title": "《Java高并发程序设计》读书笔记 第一章  走入并行世界",
+      "url": "/a/1190000015863563",
+      "desc": "",
+      "author": {
+        "nick": "发给官兵",
+        "homepage": "/u/fageiguanbing"
+      }
+    },
+    {
+      "id": "1190000015863530",
+      "title": "设计说明书",
+      "url": "/a/1190000015863530",
+      "desc": "一、引言编写详细设计说明书是软件开发过程必不可少的部分,其目的是为了使开发人员在完成概要设计说明书的基础上完成概要设计规定的各项模块的具体实现的设计工作。",
+      "author": {
+        "nick": "心无私天地宽",
+        "homepage": "/u/xinwusitiandikuan"
+      }
+    }
+  ]
+}
