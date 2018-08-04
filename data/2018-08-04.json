@@ -1,0 +1,155 @@
+{
+  "watchNum": "24553",
+  "blogs": [
+    {
+      "id": "1190000015881923",
+      "title": "Java并发基础：了解无锁CAS就从源码分析",
+      "url": "/a/1190000015881923",
+      "desc": "CAS的全称为Compare And Swap，直译就是比较交换。是一条CPU的原子指令，其作用是让CPU先进行比较两个值是否相等，然后原子地更新某个位置的值，其实现方式是基于硬件平台的汇编指令，在intel的CPU中，使用的是cm...",
+      "author": {
+        "nick": "关注公众号搜云库",
+        "homepage": "/u/souyunku"
+      }
+    },
+    {
+      "id": "1190000015881557",
+      "title": "Spring Boot Oauth2缓存UserDetails到Ehcache",
+      "url": "/a/1190000015881557",
+      "desc": "在Spring中有一个类CachingUserDetailsService实现了UserDetailsService接口，该类使用静态代理模式为UserDetailsService提供缓存功能。该类源码如下：",
+      "author": {
+        "nick": "simonsundev",
+        "homepage": "/u/simonsun"
+      }
+    },
+    {
+      "id": "1190000015880556",
+      "title": "Scheme协议详细介绍",
+      "url": "/a/1190000015880556",
+      "desc": "目录介绍 1.URL Scheme使用场景介绍 2.URL Scheme基础介绍 2.1 什么是URL Scheme？ 2.2 URL Scheme协议格式解释 2.3 Scheme链接格式样式 3.URL Scheme如何使用 3.1 设置Scheme 3.2 获取Scheme跳转的参数，并添加...",
+      "author": {
+        "nick": "潇湘剑雨",
+        "homepage": "/u/xiangjianyu"
+      }
+    },
+    {
+      "id": "1190000015880324",
+      "title": "Spring定时任务高级使用篇",
+      "url": "/a/1190000015880324",
+      "desc": "前面一篇博文 《Spring之定时任务基本使用篇》 介绍了Spring环境下，定时任务的简单使用姿势，也留了一些问题，这一篇则希望能针对这些问题给个答案",
+      "author": {
+        "nick": "小灰灰Blog",
+        "homepage": "/u/xiaohuihuiblog"
+      }
+    },
+    {
+      "id": "1190000015880193",
+      "title": "【跃迁之路】【544天】程序员高效学习方法论探索系列（实验阶段301-2018.08.03）",
+      "url": "/a/1190000015880193",
+      "desc": "从2018.7.1起，【跃迁之路】奖励金计划正式起航，从今以后，每月1日，我会将自己个人上月收入的1%计入【跃迁之路】奖励金池，积累到足够金额后，将适时用于奖励那些虽然身处困境，却依然不放弃努力，通过坚持，不...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000015878931",
+      "title": "代码整洁之道（二）优雅注释之道",
+      "url": "/a/1190000015878931",
+      "desc": "一、Best Practice 注释应该声明代码的高层次意图，而非明显的细节 反例 说明 上文方法用于根据参数生成签名，注释中详细描述了签名算法的实现步骤，这其实就是过度描述代码明显细节 正例 总结 注释一定是表达代...",
+      "author": {
+        "nick": "阿里云云栖社区",
+        "homepage": "/u/yunqishequ_5aa899aad5395"
+      }
+    },
+    {
+      "id": "1190000015878672",
+      "title": "《Java8实战》-读书笔记第一章（01）",
+      "url": "/a/1190000015878672",
+      "desc": "自1996年JDK（1.0）发布以来，Java已经受到了学生、项目经理和 程序员等一大批活跃的用户的欢迎。这一语言极富活力，不断被用在大大小小的项目里。从Java1.1（1997）年一直到Java7（2011）年，Java通过增加新功能...",
+      "author": {
+        "nick": "NGLSL",
+        "homepage": "/u/nglsl666"
+      }
+    },
+    {
+      "id": "1190000015877931",
+      "title": "spring-boot日志",
+      "url": "/a/1190000015877931",
+      "desc": "小张负责一个大型系统的开发，为了监控系统的运行状况，系统中包含大量的System.out.println()语句，为了更好地管理呢，小张决定写一个日志框架对日志进行管理，他设想的日志框架应该包含以下几个功能：",
+      "author": {
+        "nick": "Helen",
+        "homepage": "/u/helen_59392ba49936d"
+      }
+    },
+    {
+      "id": "1190000015872384",
+      "title": " ActiveMQ 嵌入Tomcat",
+      "url": "/a/1190000015872384",
+      "desc": "在一些项目中，单独开启一个ActiveMQ，对于项目实施来说有时略显繁琐。所以我们将ActiveMQ内嵌到Tomcat，Tomcat启动同时就顺带启动了ActiveMQ。由此我们需要掌握三个个重要的知识点",
+      "author": {
+        "nick": "yhb",
+        "homepage": "/u/yhb_success"
+      }
+    },
+    {
+      "id": "1190000015870281",
+      "title": "zuul实现Cors跨域的两种方式（https）",
+      "url": "/a/1190000015870281",
+      "desc": "大家都知道spring boot 可以通过@CrossOrigin实现跨域。但是在spring cloud 里，如果要粒度那么细的去控制跨域，这个就太繁琐了，所以一般来说，会在路由zuul里实现。",
+      "author": {
+        "nick": "kasaya",
+        "homepage": "/u/kasaya"
+      }
+    },
+    {
+      "id": "1190000015869537",
+      "title": "mybatis-plus 不覆盖service,controller, 生成模板使用swagger注解",
+      "url": "/a/1190000015869537",
+      "desc": "情况是这样的：原本mybatis-plus的框架的模板是不支持swagger的注解的，需要手动写。自己折腾了1个多小时，建立在mybatis-plus的基础上进行修改。可以选择生成文件时，不覆盖某个目录下的文件，并支持生成swagger...",
+      "author": {
+        "nick": "心无私天地宽",
+        "homepage": "/u/xinwusitiandikuan"
+      }
+    },
+    {
+      "id": "1190000015868790",
+      "title": "jdbc就是这么简单",
+      "url": "/a/1190000015868790",
+      "desc": "文章有不当之处，欢迎指正，如果喜欢微信阅读，你也可以关注我的微信公众号：好好学java，获取优质学习资源。",
+      "author": {
+        "nick": "wx_好好学java",
+        "homepage": "/u/sihai_5ae5ba9170388"
+      }
+    },
+    {
+      "id": "1190000015866704",
+      "title": "Java编程思想——知识卡片01_02",
+      "url": "/a/1190000015866704",
+      "desc": "首先我想说的是 Java编程思想——知识卡片 将是一系列文章，文章的内容是我阅读《Java编程思想》这本书的心得体会，那么我为什么要写这一系列的文章呢？原因有一下几个方面：",
+      "author": {
+        "nick": "sf_wangchong",
+        "homepage": "/u/sf_wangchong"
+      }
+    },
+    {
+      "id": "1190000015866000",
+      "title": "集合概要学习---粗略",
+      "url": "/a/1190000015866000",
+      "desc": "再实际开发中，需要将使用的对象存储于特定数据结构的容器中。JDK提供了这样的容器---集合(Collection)。Collection是一个接口，定义了集合相关的操作方法，其有两个子接口：List与Set",
+      "author": {
+        "nick": "天月",
+        "homepage": "/u/tianyue_5a3731bdd8c2e"
+      }
+    },
+    {
+      "id": "1190000015865774",
+      "title": "【荐】令人心情愉悦的一次面试总结",
+      "url": "/a/1190000015865774",
+      "desc": "15年毕业到现在也近三年了，最近面试了阿里集团（菜鸟网络，蚂蚁金服），网易，滴滴，点我达，最终收到点我达，网易offer，蚂蚁金服二面挂掉，菜鸟网络一个月了还在流程中...最终有幸去了网易。但是要特别感谢点...",
+      "author": {
+        "nick": "茶轴的青春",
+        "homepage": "/u/chazhoudeqingchun"
+      }
+    }
+  ]
+}
