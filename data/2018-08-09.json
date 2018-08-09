@@ -1,0 +1,155 @@
+{
+  "watchNum": "24691",
+  "blogs": [
+    {
+      "id": "1190000015943620",
+      "title": "【JAVA】AES加密 简单实现 AES-128/ECB/PKCS5Padding",
+      "url": "/a/1190000015943620",
+      "desc": "这是一个在线AES加密网站。从页面上我们可以看到如下几点：AES加密模式：ECB/CBC/CTR/OFB/CFB填充：pkcs5padding/pkcs7padding/zeropadding/iso10126/ansix923数据块：128位/192位/256位密码：【设置加解密的密码...",
+      "author": {
+        "nick": "roylion",
+        "homepage": "/u/roylion"
+      }
+    },
+    {
+      "id": "1190000015943606",
+      "title": "Shiro的统一认证授权",
+      "url": "/a/1190000015943606",
+      "desc": "Shiro是Apache下面的一个简单，易用的Java权限框架，对于单体应用来讲，Shiro完全能够极好的，快速的满足权限的需求，所以一般在做项目的时候，Shiro都会成为开发者的首选。",
+      "author": {
+        "nick": "YaTou",
+        "homepage": "/u/xfslove"
+      }
+    },
+    {
+      "id": "1190000015942990",
+      "title": "SSM : 环境搭建",
+      "url": "/a/1190000015942990",
+      "desc": "SSM 环境搭建 目录创建 pom.xml SSM 逐层配置 一、目录 1.1 src/main/java 目录下的包(以下包要放在项目包下，如:com.imooc.项目名) entity: 存放实体类 web: 存放controller,相当于Struts中的action service: 业...",
+      "author": {
+        "nick": "Neal",
+        "homepage": "/u/catpro"
+      }
+    },
+    {
+      "id": "1190000015941556",
+      "title": "基于shiro的自定义注解的扩展",
+      "url": "/a/1190000015941556",
+      "desc": "根据我的上一篇文章，权限设计的杂谈中，涉及到了有关于前后端分离中，页面和api接口断开表与表层面的关联，另辟蹊径从其他角度找到方式进行关联。这里我们主要采取了shiro的自定义注解的方案。本篇文章主要解决...",
+      "author": {
+        "nick": "Cloud_",
+        "homepage": "/u/cloud_"
+      }
+    },
+    {
+      "id": "1190000015940391",
+      "title": "Spring Cloud 升级最新 Finchley 版本，踩了所有的坑！",
+      "url": "/a/1190000015940391",
+      "desc": "Spring Boot 2.x 已经发布了很久，现在 Spring Cloud 也发布了 基于 Spring Boot 2.x 的 Finchley 版本，现在一起为项目做一次整体框架升级。",
+      "author": {
+        "nick": "Java技术栈",
+        "homepage": "/u/javastack"
+      }
+    },
+    {
+      "id": "1190000015938623",
+      "title": "polymorphism",
+      "url": "/a/1190000015938623",
+      "desc": "作为Java的第三大特性--多态，大家肯定很熟悉了，但是对于这个抽象的概念相信总有一些模糊，think in Java 在本章做了很多的解释，具体讲解了一下三个问题。",
+      "author": {
+        "nick": "勤思",
+        "homepage": "/u/qinsi"
+      }
+    },
+    {
+      "id": "1190000015938047",
+      "title": "redis 集群搭建以及redislive监测部署",
+      "url": "/a/1190000015938047",
+      "desc": "通过 wget http://download.redis.io/releases/redis-4.0.10.tar.gz",
+      "author": {
+        "nick": "棋子",
+        "homepage": "/u/qizi_2392406421"
+      }
+    },
+    {
+      "id": "1190000015937435",
+      "title": "【跃迁之路】【549天】程序员高效学习方法论探索系列（实验阶段306-2018.08.08）",
+      "url": "/a/1190000015937435",
+      "desc": "从2018.7.1起，【跃迁之路】奖励金计划正式起航，从今以后，每月1日，我会将自己个人上月收入的1%计入【跃迁之路】奖励金池，积累到足够金额后，将适时用于奖励那些虽然身处困境，却依然不放弃努力，通过坚持，不...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000015936567",
+      "title": "Java实现一个MD5工具类",
+      "url": "/a/1190000015936567",
+      "desc": "文章链接：[链接] I. MD5工具类 利用JDK封装一个简易的MD5工具类，逻辑比较简单，直接贴下具体实现 {代码...} 测试输出为: {代码...} 顺手使用shell验证一下 II. 其他 1. 一灰灰Blog： [链接] 一灰灰的个人博客，...",
+      "author": {
+        "nick": "小灰灰Blog",
+        "homepage": "/u/xiaohuihuiblog"
+      }
+    },
+    {
+      "id": "1190000015935920",
+      "title": "java retry(重试) spring retry, guava retrying 详解",
+      "url": "/a/1190000015935920",
+      "desc": "系列说明 java retry 的一步步实现机制。 java-retry 源码地址 情景导入 简单的需求 产品经理：实现一个按条件，查询用户信息的服务。 小明：好的。没问题。 代码 UserService.java {代码...} UserServiceImpl.ja...",
+      "author": {
+        "nick": "叶止水",
+        "homepage": "/u/houbinbin"
+      }
+    },
+    {
+      "id": "1190000015935747",
+      "title": "[轮子系列]Google Guava之CharMatcher源码分析",
+      "url": "/a/1190000015935747",
+      "desc": "最近遇到了一些字符匹配的需求，进而仔细地看了CharMatcher的源码，发现还是有点东西值得回味，例如它为我们提供了如何在多种字符类型场景下提高灵活性从而满足不同匹配需求的优秀示范。下面就对CharMatcher类的...",
+      "author": {
+        "nick": "fullstackyang",
+        "homepage": "/u/fullstackyang"
+      }
+    },
+    {
+      "id": "1190000015933563",
+      "title": "Android 8.1 源码_启动篇（一） -- 深入研究 init",
+      "url": "/a/1190000015933563",
+      "desc": "init进程，它是一个由内核启动的用户级进程，当Linux内核启动之后，运行的第一个进程是init，这个进程是一个守护进程，确切的说，它是Linux系统中用户控件的第一个进程，所以它的进程号是1。它的生命周期贯穿整个...",
+      "author": {
+        "nick": "DeepCoder_Marco",
+        "homepage": "/u/deepcoder_marco"
+      }
+    },
+    {
+      "id": "1190000015931562",
+      "title": "Java基础知识整理之this用法",
+      "url": "/a/1190000015931562",
+      "desc": "在 Java 程序中，当局部变量和全局变量数据类型和名称都相同的时，此时全局变量会被隐藏而变得不能使用。即：局部变量会覆盖掉全局变量。",
+      "author": {
+        "nick": "Wayfreem",
+        "homepage": "/u/wayfreem"
+      }
+    },
+    {
+      "id": "1190000015928961",
+      "title": "权限设计的杂谈",
+      "url": "/a/1190000015928961",
+      "desc": "这篇文章的定位，不是宣传某个框架，仅仅之是梳理一下有关权限方面的一些想法和最近项目中的一些探索过程。我们主要想解决一下问题。",
+      "author": {
+        "nick": "Cloud_",
+        "homepage": "/u/cloud_"
+      }
+    },
+    {
+      "id": "1190000015926655",
+      "title": "大数据分析druid实现双维度的topn查询",
+      "url": "/a/1190000015926655",
+      "desc": "druid支持三种数据查询类型。timeseries，topn，groupbytimeseries是无维度，topn支持单维度，groupby支持双维度。现在有一个需求：基于服务名和调用链的两个维度，从druid获取最大分位数的前五名数据。topn是单...",
+      "author": {
+        "nick": "木木甫",
+        "homepage": "/u/mumufu"
+      }
+    }
+  ]
+}
