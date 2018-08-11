@@ -1,0 +1,155 @@
+{
+  "watchNum": "24789",
+  "blogs": [
+    {
+      "id": "1190000015968858",
+      "title": "「Do.008」Android 实战项目（3）——Git 分支管理模型",
+      "url": "/a/1190000015968858",
+      "desc": "首发公众号：Android程序员日记作者：贤榆的榆如果你觉得有帮助欢迎关注、赞赏、转发阅读时间：5622字 15分钟",
+      "author": {
+        "nick": "贤榆的榆",
+        "homepage": "/u/ronny"
+      }
+    },
+    {
+      "id": "1190000015968699",
+      "title": "《Java8实战》-第三章读书笔记（Lambda表达式-01）",
+      "url": "/a/1190000015968699",
+      "desc": "# Lambda表达式在《Java8实战》中第三章主要讲的是Lambda表达式，在上一章节的笔记中我们利用了行为参数化来因对不断变化的需求，最后我们也使用到了Lambda，通过表达式为我们简化了很多代码从而极大地提高了我们...",
+      "author": {
+        "nick": "NGLSL",
+        "homepage": "/u/nglsl666"
+      }
+    },
+    {
+      "id": "1190000015968684",
+      "title": "http简介看这篇就够了",
+      "url": "/a/1190000015968684",
+      "desc": "文章有不当之处，欢迎指正，如果喜欢微信阅读，你也可以关注我的微信公众号：好好学java，获取优质学习资源。",
+      "author": {
+        "nick": "wx_好好学java",
+        "homepage": "/u/sihai_5ae5ba9170388"
+      }
+    },
+    {
+      "id": "1190000015968433",
+      "title": "JAVA学习之路 （三） 运算符",
+      "url": "/a/1190000015968433",
+      "desc": "运算符 运算符分类 {代码...} Java中的算术运算符 ++a a++ Java中的算术运算符 Java中的比较运算符 Java中的逻辑运算符 使用逻辑运算符时，我们会遇到一种很有趣的“短路”现象。 {代码...} Java中的条件运算符 语...",
+      "author": {
+        "nick": "Meils",
+        "homepage": "/u/guchengshaonian_5a56fe95f2c32"
+      }
+    },
+    {
+      "id": "1190000015967922",
+      "title": "接口限流算法：漏桶算法&令牌桶算法",
+      "url": "/a/1190000015967922",
+      "desc": "工作中对外提供的API 接口设计都要考虑限流，如果不考虑限流，会成系统的连锁反应，轻者响应缓慢，重者系统宕机，整个业务线崩溃，如何应对这种情况呢，我们可以对请求进行引流或者直接拒绝等操作，保持系统的可...",
+      "author": {
+        "nick": "关注公众号搜云库",
+        "homepage": "/u/souyunku"
+      }
+    },
+    {
+      "id": "1190000015967884",
+      "title": "JAVA学习之路 （二） 变量和常量",
+      "url": "/a/1190000015967884",
+      "desc": "关键字对 Java 的编译器有着特殊的意义，我们在程序中应用时一定不要使用关键字来定义变量或者常量，一定要慎重哦！！",
+      "author": {
+        "nick": "Meils",
+        "homepage": "/u/guchengshaonian_5a56fe95f2c32"
+      }
+    },
+    {
+      "id": "1190000015967604",
+      "title": "Spring Cloud Ribbon负载均衡器",
+      "url": "/a/1190000015967604",
+      "desc": "Spring Cloud Ribbon是一个基于HTTP和TCP的客户端负载均衡工具，基于Netflix Ribbon实现。",
+      "author": {
+        "nick": "旧光影里的少年",
+        "homepage": "/u/jiuguangyinglideshaonian"
+      }
+    },
+    {
+      "id": "1190000015967588",
+      "title": "java 英文单词拼写纠正框架(Word Checker)",
+      "url": "/a/1190000015967588",
+      "desc": "Word Checker word checker 本项目用于单词拼写检查。 Github 地址 项目简介 本项目用于单词拼写检查。 特性说明 支持 i18n 错误提示支持 i18N 支持英文的单词纠错 可以迅速判断当前单词是否拼写错误 可以返回最...",
+      "author": {
+        "nick": "叶止水",
+        "homepage": "/u/houbinbin"
+      }
+    },
+    {
+      "id": "1190000015967552",
+      "title": "Spring Cloud Ribbon",
+      "url": "/a/1190000015967552",
+      "desc": "Spring Cloud Ribbon是一个基于HTTP和TCP的客户端负载均衡工具，基于Netflix Ribbon实现。",
+      "author": {
+        "nick": "旧光影里的少年",
+        "homepage": "/u/jiuguangyinglideshaonian"
+      }
+    },
+    {
+      "id": "1190000015967205",
+      "title": "JAVA学习之路 （一） 入门及前期准备",
+      "url": "/a/1190000015967205",
+      "desc": "JAVA学习（一） 认识 java 1、java分为三类 {代码...} 2、概念 {代码...} 整个java程序的执行过程如下 {代码...} 环境变量的配置 {代码...} 编写java程序 {代码...} 执行【谨记 java命令后不加后缀名】 Eclipse ...",
+      "author": {
+        "nick": "Meils",
+        "homepage": "/u/guchengshaonian_5a56fe95f2c32"
+      }
+    },
+    {
+      "id": "1190000015966068",
+      "title": "java 异步查询转同步多种实现方式：循环等待，CountDownLatch，EventListener",
+      "url": "/a/1190000015966068",
+      "desc": "异步转同步 业务需求 有些接口查询反馈结果是异步返回的，无法立刻获取查询结果。 正常处理逻辑 触发异步操作，然后传递一个唯一标识。 等到异步结果返回，根据传入的唯一标识，匹配此次结果。 如何转换为同步 正...",
+      "author": {
+        "nick": "叶止水",
+        "homepage": "/u/houbinbin"
+      }
+    },
+    {
+      "id": "1190000015965274",
+      "title": "【跃迁之路】【551天】程序员高效学习方法论探索系列（实验阶段308-2018.08.10）",
+      "url": "/a/1190000015965274",
+      "desc": "从2018.7.1起，【跃迁之路】奖励金计划正式起航，从今以后，， 每月1日，我会将自己个人上月收入的1%计入【跃迁之路】奖励金池，积累到足够金额后，将适时用于奖励那些虽然身处困境，却依然不放弃努力，通过坚持...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000015907000",
+      "title": "关于ConcurrentHashMap1.8的个人理解",
+      "url": "/a/1190000015907000",
+      "desc": "ConcurrenHashMap 。下面分享一下我对ConcurrentHashMap 的理解，主要用于个人备忘。如果有不对，请批评。",
+      "author": {
+        "nick": "tengshe789",
+        "homepage": "/u/tengshe789"
+      }
+    },
+    {
+      "id": "1190000015963932",
+      "title": "Java多线程进阶（二一）—— J.U.C之synchronizer框架：Exchanger",
+      "url": "/a/1190000015963932",
+      "desc": "Exchanger——交换器，是JDK1.5时引入的一个同步器，从字面上就可以看出，这个类主要作用是交换数据。Exchanger非常适合用于两个线程之间的数据交换。",
+      "author": {
+        "nick": "NIT_EIP",
+        "homepage": "/u/niteip"
+      }
+    },
+    {
+      "id": "1190000015963277",
+      "title": "HUAWEI HiAI常见FAQ小贴士",
+      "url": "/a/1190000015963277",
+      "desc": "8月7日，HUAWEI HiAI系统架构师在CSDN平台为广大开发者进行了以“APP进阶实战：最快10分钟接入HUAWEI HiAI”主题的直播，迎来600多名开发者在线上观看。",
+      "author": {
+        "nick": "终端开放实验室",
+        "homepage": "/u/zhongduankaifangshiyanshi"
+      }
+    }
+  ]
+}
