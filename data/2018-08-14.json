@@ -1,0 +1,155 @@
+{
+  "watchNum": "25073",
+  "blogs": [
+    {
+      "id": "1190000016002551",
+      "title": "[LC] Ace Ritnalap",
+      "url": "/a/1190000016002551",
+      "desc": "Given an integer n, replace its bits starting from the bit at position a to the bit at position b, inclusive, with the bits of integer k. Count from the least significant bit to the most significan...",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000016002355",
+      "title": "线程间的同步与通信(2)——wait, notify, notifyAll",
+      "url": "/a/1190000016002355",
+      "desc": "阅读本篇前你需要知道什么是同步代码块, 什么是监视器锁, 还不是很了解的同学建议先去看一看上一篇文章.",
+      "author": {
+        "nick": "ChiuCheng",
+        "homepage": "/u/chiucheng"
+      }
+    },
+    {
+      "id": "1190000015999718",
+      "title": "一款开源、完善、高效的Android课程表控件",
+      "url": "/a/1190000015999718",
+      "desc": "﻿> 本文中的功能介绍、控件用法均针对v2.0.2以其以上,你可以在 ChangeLog 查看本控件的开发进展，作者联系方式1193600556@qq.com",
+      "author": {
+        "nick": "zfman",
+        "homepage": "/u/zfman"
+      }
+    },
+    {
+      "id": "1190000015999606",
+      "title": "Java并发面试，幸亏有点道行，不然又被忽悠了",
+      "url": "/a/1190000015999606",
+      "desc": "面试Java，必然要被问Java内存模型和Java并发开发。我被问到的时候，心里慌得一批，“额，是在《Thinking in Java》里面写的吗？果然每天增删改太low了”",
+      "author": {
+        "nick": "程序员小灰",
+        "homepage": "/u/chengxuyuanxiaohui"
+      }
+    },
+    {
+      "id": "1190000015998435",
+      "title": "从零开始实现一个简易的Java MVC框架(九)--优化MVC代码",
+      "url": "/a/1190000015998435",
+      "desc": "在从零开始实现一个简易的Java MVC框架(七)--实现MVC中实现了doodle框架的MVC的功能，不过最后指出代码的逻辑不是很好，在这一章节就将这一部分代码进行优化。",
+      "author": {
+        "nick": "zzzzbw",
+        "homepage": "/u/zzzzbw"
+      }
+    },
+    {
+      "id": "1190000015998105",
+      "title": "涨姿势：Spring Boot 2.x 启动全过程源码分析",
+      "url": "/a/1190000015998105",
+      "desc": "上篇《Spring Boot 2.x 启动全过程源码分析（一）入口类剖析》我们分析了 Spring Boot 入口类 SpringApplication 的源码，并知道了其构造原理，这篇我们继续往下面分析其核心 run 方法。",
+      "author": {
+        "nick": "Java技术栈",
+        "homepage": "/u/javastack"
+      }
+    },
+    {
+      "id": "1190000015995527",
+      "title": "头条三面总结，面完精疲力尽",
+      "url": "/a/1190000015995527",
+      "desc": "因为临近金九银十的面试旺季，所以大家都在为自己下半年的跳槽做最后的一搏，都在为想进自己理想的大厂而做最后的努力。下面就来看看这位面试头条的朋友在面试后的总结：",
+      "author": {
+        "nick": "bali",
+        "homepage": "/u/bali_5a0a92fba16aa"
+      }
+    },
+    {
+      "id": "1190000015995913",
+      "title": "《代码整洁之道》读书笔记",
+      "url": "/a/1190000015995913",
+      "desc": "如果同一作用范围内两样不同的东西不能重名，那其意思也应该不同才对。那么这两样东西应该取不同的名字而不是以数字区分。如果以下代码参数名改为source和destination，这个函数就会像样许多 {代码...}",
+      "author": {
+        "nick": "yejinzhan",
+        "homepage": "/u/yejinzhan"
+      }
+    },
+    {
+      "id": "1190000015995892",
+      "title": "   如何重构“箭头型”代码",
+      "url": "/a/1190000015995892",
+      "desc": "所谓箭头型代码，基本上来说就是下面这个图片所示的情况。 那么，这样“箭头型”的代码有什么问题呢？看上去也挺好看的，有对称美。但是…… 关于箭头型代码的问题有如下几个： 1）我的显示器不够宽，箭头型代码缩进...",
+      "author": {
+        "nick": "码魇",
+        "homepage": "/u/ma_5b4fe416664f8"
+      }
+    },
+    {
+      "id": "1190000015995178",
+      "title": "【跃迁之路】【554天】程序员高效学习方法论探索系列（实验阶段311-2018.08.13）",
+      "url": "/a/1190000015995178",
+      "desc": "从2018.7.1起，【跃迁之路】奖励金计划正式起航，从今以后，， 每月1日，我会将自己个人上月收入的1%计入【跃迁之路】奖励金池，积累到足够金额后，将适时用于奖励那些虽然身处困境，却依然不放弃努力，通过坚持...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000015995102",
+      "title": "Spring Cloud Ribbon负载均衡器",
+      "url": "/a/1190000015995102",
+      "desc": "Spring Cloud Ribbon是一个基于HTTP和TCP的客户端负载均衡工具，基于Netflix Ribbon实现。",
+      "author": {
+        "nick": "旧光影里的少年",
+        "homepage": "/u/jiuguangyinglideshaonian"
+      }
+    },
+    {
+      "id": "1190000015994644",
+      "title": "Hibernate查询自动更新",
+      "url": "/a/1190000015994644",
+      "desc": "1.瞬态： 一个实体通过new操作符创建后，没有和Hibernate的Session建立关系，也没有手动赋值过该实体的持久化标识(持久化标识可以认为是映射表的主键)。此时该实体中任何属性的更新都不会反映到数据库表中。2.持...",
+      "author": {
+        "nick": "码魇",
+        "homepage": "/u/ma_5b4fe416664f8"
+      }
+    },
+    {
+      "id": "1190000015992671",
+      "title": "SpringCloud核心教程 | 第四篇：服务注册与发现 Consul篇",
+      "url": "/a/1190000015992671",
+      "desc": "Spring Cloud是一个基于Spring Boot实现的云应用开发工具，它为基于JVM的云应用开发中涉及的配置管理、服务发现、断路器、智能路由、微代理、控制总线、全局锁、决策竞选、分布式会话和集群状态管理等操作提供了...",
+      "author": {
+        "nick": "星缘",
+        "homepage": "/u/xingyuan_59b0b68ebe448"
+      }
+    },
+    {
+      "id": "1190000015985248",
+      "title": "Java基础-类加载器以及加载机制",
+      "url": "/a/1190000015985248",
+      "desc": "我是在关于Java的面试题里了解到类加载器的，在这之前从未想过Java里类是如何被加载、解析的，一直以为只要Import就好了。事实上Java类加载器是一块非常重要的内容，可以用在类层次划分、OSGi、热部署、代码加密...",
+      "author": {
+        "nick": "Yuicon",
+        "homepage": "/u/yuicon"
+      }
+    },
+    {
+      "id": "1190000015985017",
+      "title": "对多线程程序，单核cpu与多核cpu如何工作相关的探讨",
+      "url": "/a/1190000015985017",
+      "desc": "我们程序员在编码的时候，涉及到技术方案时，往往会忽略掉代码对性能方面的影响，或者没有足够的敏感度来帮助自己判断自己的技术方案对系统性能造成的影响。改进的方式之一是，我们需要对底层系统的原理更了解一...",
+      "author": {
+        "nick": "码魇",
+        "homepage": "/u/ma_5b4fe416664f8"
+      }
+    }
+  ]
+}
