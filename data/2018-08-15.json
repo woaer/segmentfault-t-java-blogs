@@ -1,0 +1,155 @@
+{
+  "watchNum": "25218",
+  "blogs": [
+    {
+      "id": "1190000016018586",
+      "title": "java使用web3j和spring boot构建以太坊区块链dapp",
+      "url": "/a/1190000016018586",
+      "desc": "区块链最近IT世界的流行语之一。这项有关数字加密货币的技术，并与比特币一起构成了这个热门的流行趋势。它是去中心化的，不可变的分块数据结构，这是可以安全连接和使用的密码算法。在这种结构中的每一区块通常...",
+      "author": {
+        "nick": "malakashi",
+        "homepage": "/u/malakashi"
+      }
+    },
+    {
+      "id": "1190000016018393",
+      "title": "原来在Java世界里也有这么多精彩的故事，学Java真有趣！",
+      "url": "/a/1190000016018393",
+      "desc": "有一种暖男叫catch，有一种真爱叫try---catch，世上最真情的爱恋就是你在try我在catch，无论你发什么脾气，我都静静的接受，默默地处理，不管你有什么错，我都会原谅你，爱着你。",
+      "author": {
+        "nick": "尚学堂明辉",
+        "homepage": "/u/shangxuetangminghui"
+      }
+    },
+    {
+      "id": "1190000016018255",
+      "title": "android基于mvp的热修复方案构思，不使用第三方",
+      "url": "/a/1190000016018255",
+      "desc": "现在开发android项目大部分都已经由mvc转移到了mvp，关于mvp是什么大致也不必多说了，无非三个层：",
+      "author": {
+        "nick": "miqt",
+        "homepage": "/u/miqt"
+      }
+    },
+    {
+      "id": "1190000016016459",
+      "title": "线程间的同步与通信(3)——浅析synchronized的实现原理",
+      "url": "/a/1190000016016459",
+      "desc": "前面两篇文章我们介绍了synchronized同步代码块以及wait和notify机制，大致知道了这些关键字和方法是干什么的，以及怎么用。",
+      "author": {
+        "nick": "ChiuCheng",
+        "homepage": "/u/chiucheng"
+      }
+    },
+    {
+      "id": "1190000016015909",
+      "title": "使用Mockito修改Bean的依赖",
+      "url": "/a/1190000016015909",
+      "desc": "在使用单元测试时经常会遇到某些dependency依赖了外部资源，或者想主动绕过真正的方法执行mock返回结果而快速得到单元测试最终的期望结果，可能有以下两种场景，对于TestCase A，设单元测试的方法是Service A的ex...",
+      "author": {
+        "nick": "Honwhy",
+        "homepage": "/u/honwhy"
+      }
+    },
+    {
+      "id": "1190000016014855",
+      "title": "Java23种设计模式与J2EE设计模式",
+      "url": "/a/1190000016014855",
+      "desc": "设计模式的的六大原则: 学习设计模式之前最好先了解一下设计模式的设计原则： 1. 开闭原则（open close principle） 开放即指对扩展开放，对修改关闭 简而言之，就是扩展功能的时候应该尽量的不修改原有的代码。 ...",
+      "author": {
+        "nick": "Vincent",
+        "homepage": "/u/logs"
+      }
+    },
+    {
+      "id": "1190000016014785",
+      "title": "(SpringBoot)小程序图片上传Demo（附小程序源码）",
+      "url": "/a/1190000016014785",
+      "desc": "阅读本文约“2分钟” 还是同一个开源小组件。。。。 针对微信小程序的图片（文件）上传，这次是SpringBoot版本的了，数据库操作换了Jpa 原业务是针对用户反馈的图片上传。（没错，本次还提供小程序页面源码，具体如...",
+      "author": {
+        "nick": "MySelf",
+        "homepage": "/u/myself_5ab9f390c6129"
+      }
+    },
+    {
+      "id": "1190000016014444",
+      "title": "【Java】留下没有基础眼泪的面试题",
+      "url": "/a/1190000016014444",
+      "desc": "程序在执行时，多线程是CPU通过给每个线程分配CPU时间片来实现的，时间片是CPU分配给每个线程执行的时间，因时间片非常短，所以CPU通过不停地切换线程执行。",
+      "author": {
+        "nick": "Java3y",
+        "homepage": "/u/java_3y"
+      }
+    },
+    {
+      "id": "1190000016012006",
+      "title": "Java 内存模型 JMM 浅析",
+      "url": "/a/1190000016012006",
+      "desc": "Java Memory Model简称JMM, 是一系列的Java虚拟机平台对开发者提供的多线程环境下的内存可见性、是否可以重排序等问题的无关具体平台的统一的保证。(可能在术语上与Java运行时内存分布有歧义，后者指堆、方法区、...",
+      "author": {
+        "nick": "bali",
+        "homepage": "/u/bali_5a0a92fba16aa"
+      }
+    },
+    {
+      "id": "1190000016013877",
+      "title": "Java多线程工具箱之Semaphore",
+      "url": "/a/1190000016013877",
+      "desc": "将Semaphore类比为为信号灯，被继承Runable的线程类比为列车：理解信号量可以参考控制列车的信号灯：铁道上有多个列车，由信号灯通知其可用情况。若列车拿到的信号灯为绿灯，列车可以通过，否则列车不能通过。",
+      "author": {
+        "nick": "kidult_coder",
+        "homepage": "/u/kidultcoder"
+      }
+    },
+    {
+      "id": "1190000016012840",
+      "title": "强一致性hash实现java版本及强一致性hash原理",
+      "url": "/a/1190000016012840",
+      "desc": "分布式过程中我们将服务分散到若干的节点上，以此通过集体的力量提升服务的目的。然而，对于一个客户端来说，该由哪个节点服务呢？或者说对某个节点来说他分配到哪些任务呢？",
+      "author": {
+        "nick": "叶止水",
+        "homepage": "/u/houbinbin"
+      }
+    },
+    {
+      "id": "1190000016012062",
+      "title": "Spring Cloud Ribbon负载均衡器",
+      "url": "/a/1190000016012062",
+      "desc": "Spring Cloud Ribbon是一个基于HTTP和TCP的客户端负载均衡工具，基于Netflix Ribbon实现。",
+      "author": {
+        "nick": "旧光影里的少年",
+        "homepage": "/u/jiuguangyinglideshaonian"
+      }
+    },
+    {
+      "id": "1190000016011932",
+      "title": "完全图解JVM Class文件结构",
+      "url": "/a/1190000016011932",
+      "desc": "对一个class文件的字节码进行逐行的分析是理解class文件结构的最佳方式。但是往往复杂的二进制字节码会让人望而却步，或者只有仔细一点点盯着才能保证不花眼。本文的目的在于尽可能完整地拆解JVM的Class字节码并...",
+      "author": {
+        "nick": "JinhaoPlus",
+        "homepage": "/u/jinhaoplus"
+      }
+    },
+    {
+      "id": "1190000016011427",
+      "title": "小故事详解负载均衡技术的实现：从tomcat到Nginx ",
+      "url": "/a/1190000016011427",
+      "desc": "通俗一点讲，就是在高并发、大数据环境下给服务器减压的技术。负载均衡是任何一个有一定规模的互联网企业都会考虑的问题，负载方式很多，有依靠硬件实现的，也有依靠软件实现负载的。",
+      "author": {
+        "nick": "Snailclimb",
+        "homepage": "/u/snailclimb"
+      }
+    },
+    {
+      "id": "1190000016011119",
+      "title": "spring-cloud教程一:创建spring boot",
+      "url": "/a/1190000016011119",
+      "desc": "想想，微服务这概念在当初刚从业时就听过，那时也只是停留在概念上，缺少技术支撑，或者说没有公认完美的技术支撑。docker的出现，给微服务提供了平台支持，spring cloud的出现给微服务提供全家桶式的解决方案，...",
+      "author": {
+        "nick": "wls1036",
+        "homepage": "/u/wls1036"
+      }
+    }
+  ]
+}
