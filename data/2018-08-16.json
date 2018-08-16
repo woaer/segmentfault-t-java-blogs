@@ -1,0 +1,155 @@
+{
+  "watchNum": "25357",
+  "blogs": [
+    {
+      "id": "1190000016032729",
+      "title": "了解java虚拟机---JVM的基本结构（1）",
+      "url": "/a/1190000016032729",
+      "desc": "1.1. 类加载子系统类加载子系统负责从文件或者网络中加载Class信息，加载的类信息存放于方法区的内存空间。方法区中可能还会存放运行时常量信息，包括字符串与数字常量。（这部分常量信息是Class文件中常量池部分...",
+      "author": {
+        "nick": "翰林小院",
+        "homepage": "/u/huhanlin"
+      }
+    },
+    {
+      "id": "1190000016030386",
+      "title": "初探AngularJS6.x---目录结构说明",
+      "url": "/a/1190000016030386",
+      "desc": "在上一篇中我们进行了AngularJS6.x的基本环境搭建,并试着建了一个项目conk-out,今天我们来在这个项目上进行一些扩展.",
+      "author": {
+        "nick": "melon_jj",
+        "homepage": "/u/melon_jj"
+      }
+    },
+    {
+      "id": "1190000016030218",
+      "title": "一个小白的四次前端面试经历",
+      "url": "/a/1190000016030218",
+      "desc": "做一个自我介绍，本人男，爱好女。曾以为自己可以改变世界，没想到被世界无情的摧残。来深圳之前那种找工作少于 1W 少跟我谈，变成了收到 offer 了 4000 包吃住挺好，由于现在还没有找到工作，有招前端工程师的可...",
+      "author": {
+        "nick": "程序员小灰",
+        "homepage": "/u/chengxuyuanxiaohui"
+      }
+    },
+    {
+      "id": "1190000016030091",
+      "title": "[每天一点]2018-8",
+      "url": "/a/1190000016030091",
+      "desc": "StringBuffer从jdk 1.0就存在了，StringBuilder直到jdk 1.5才出现",
+      "author": {
+        "nick": "ShinobuChyan",
+        "homepage": "/u/shinobuchyan_596f581c9914b"
+      }
+    },
+    {
+      "id": "1190000016029782",
+      "title": "Thread类源码解读(1)——如何创建和启动线程",
+      "url": "/a/1190000016029782",
+      "desc": "谈到线程同步与通信，线程本身的概念是绕不开的，而进程和线程的概念已经是老生常谈的话题了，一些基本的概念本文就不再讨论了，本篇仅仅致力于通过源码，了解线程的构造与启动，从而更深入的了解线程。",
+      "author": {
+        "nick": "ChiuCheng",
+        "homepage": "/u/chiucheng"
+      }
+    },
+    {
+      "id": "1190000016028992",
+      "title": "Spring Cloud Ribbon负载均衡策略",
+      "url": "/a/1190000016028992",
+      "desc": "Spring Cloud Ribbon是一个基于HTTP和TCP的客户端负载均衡工具，基于Netflix Ribbon实现。",
+      "author": {
+        "nick": "旧光影里的少年",
+        "homepage": "/u/jiuguangyinglideshaonian"
+      }
+    },
+    {
+      "id": "1190000016027408",
+      "title": "JAVA学习之路 （七）异常",
+      "url": "/a/1190000016027408",
+      "desc": "Throwable类是Java异常类型的顶层父类，一个对象只有是 Throwable 类的（直接或者间接）实例，他才是一个异常对象，才能被异常处理机制识别。JDK中内建了一些常用的异常类，我们也可以自定义异常",
+      "author": {
+        "nick": "Meils",
+        "homepage": "/u/guchengshaonian_5a56fe95f2c32"
+      }
+    },
+    {
+      "id": "1190000016027167",
+      "title": "Java基础知识整理之代码块",
+      "url": "/a/1190000016027167",
+      "desc": "在程序编写之中可以直接使用\"{}\" 定义一段语句，那么根据此部分定义的位置以及关键字的不同可以分为以下几种：",
+      "author": {
+        "nick": "Wayfreem",
+        "homepage": "/u/wayfreem"
+      }
+    },
+    {
+      "id": "1190000016027084",
+      "title": "java 异常学习",
+      "url": "/a/1190000016027084",
+      "desc": "Java提供了丰富的异常类，而这些异常类之间又有这严格的继承关系。下面让我们看一下Java中异常的体系结构。",
+      "author": {
+        "nick": "喵先生的进阶之路",
+        "homepage": "/u/poshichao"
+      }
+    },
+    {
+      "id": "1190000016026734",
+      "title": "【跃迁之路】【556天】程序员高效学习方法论探索系列（实验阶段313-2018.08.15）",
+      "url": "/a/1190000016026734",
+      "desc": "从2018.7.1起，【跃迁之路】奖励金计划正式起航，从今以后，， 每月1日，我会将自己个人上月收入的1%计入【跃迁之路】奖励金池，积累到足够金额后，将适时用于奖励那些虽然身处困境，却依然不放弃努力，通过坚持...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000016025299",
+      "title": "七牛云java（服务端）通用工具类",
+      "url": "/a/1190000016025299",
+      "desc": "前言 需要安装lombok插件。 功能列表 上传本地文件 上传Base64图片 获取文件访问地址 上传MultipartFile 代码 pom.xml {代码...} qiniu.properties {代码...} QiNiuConfig.java {代码...} QiNiuUtil.java {代码.....",
+      "author": {
+        "nick": "simonsundev",
+        "homepage": "/u/simonsun"
+      }
+    },
+    {
+      "id": "1190000016022138",
+      "title": "DragLayout",
+      "url": "/a/1190000016022138",
+      "desc": "类似ScrollView的写法，可实现子View的拖拽及复位到边界功能 效果图 使用方式 {代码...} 源代码 求Star {代码...}",
+      "author": {
+        "nick": "风清袖一",
+        "homepage": "/u/fqxyi"
+      }
+    },
+    {
+      "id": "1190000016022096",
+      "title": "探索 单个Fragment实现沉浸式，其余Fragment不实现的解决办法",
+      "url": "/a/1190000016022096",
+      "desc": "MainActivity中包含五个Fragment，但是只要求HomeFragment实现沉浸式，其余Fragment不实现沉浸式，保持原来的模样",
+      "author": {
+        "nick": "风清袖一",
+        "homepage": "/u/fqxyi"
+      }
+    },
+    {
+      "id": "1190000016022072",
+      "title": "Docker容器学习笔记1",
+      "url": "/a/1190000016022072",
+      "desc": "Docker容器 概述 1、之前项目的部署方式的缺点 通过物理机方式部署，如图所示 部署非常慢 成本非常高 资源浪费 难于迁移和扩展 可能会被限定硬件厂商 2、虚拟化技术的出现 通过虚拟化的技术，我们可以使用一台物...",
+      "author": {
+        "nick": "Lightyun",
+        "homepage": "/u/lightyun"
+      }
+    },
+    {
+      "id": "1190000016022050",
+      "title": "集分享/支付/授权的社会化组件，交流一下",
+      "url": "/a/1190000016022050",
+      "desc": "SocialComponent 社会化组件 集成步骤 1、依赖library库 2、给Project的build.gradle文件添加如下代码： {代码...} 3、配制AndroidManifest.xml，添加如下代码： {代码...} 4、在自己的包名下添加wxapi包及里面的...",
+      "author": {
+        "nick": "风清袖一",
+        "homepage": "/u/fqxyi"
+      }
+    }
+  ]
+}
