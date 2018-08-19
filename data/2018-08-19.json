@@ -1,0 +1,155 @@
+{
+  "watchNum": "25710",
+  "blogs": [
+    {
+      "id": "1190000016064569",
+      "title": "我理解的数据结构（一）—— 不要小看了数组",
+      "url": "/a/1190000016064569",
+      "desc": "首先，我是一个phper，但是毕竟php是一个脚本语言，如果使用脚本语言去理解数据结构具有一定的局限性。因为脚本语言是不需要编译的，如果你的语法写的不错，可能执行起来会要比用一个更好的数据结构来的更快、更...",
+      "author": {
+        "nick": "罗纳尔多Coder",
+        "homepage": "/u/xiezong"
+      }
+    },
+    {
+      "id": "1190000016064386",
+      "title": "890-查找和替换模式",
+      "url": "/a/1190000016064386",
+      "desc": "你有一个单词列表 words 和一个模式 pattern，你想知道 words 中的哪些单词与模式匹配。如果存在字母的排列 p ，使得将模式中的每个字母 x 替换为 p(x) 之后，我们就得到了所需的单词，那么单词与模式是匹配的。...",
+      "author": {
+        "nick": "Null",
+        "homepage": "/u/null_ryan"
+      }
+    },
+    {
+      "id": "1190000016064236",
+      "title": "888-公平的糖果交换",
+      "url": "/a/1190000016064236",
+      "desc": "爱丽丝和鲍勃有不同大小的糖果棒：A[i] 是爱丽丝拥有的第 i 块糖的大小，B[j] 是鲍勃拥有的第 j 块糖的大小。因为他们是朋友，所以他们想交换一个糖果棒，这样交换后，他们都有相同的糖果总量。（一个人拥有的糖...",
+      "author": {
+        "nick": "Null",
+        "homepage": "/u/null_ryan"
+      }
+    },
+    {
+      "id": "1190000016063354",
+      "title": "[LeetCode] Plus One Linked List",
+      "url": "/a/1190000016063354",
+      "desc": "Given a non-negative integer represented as non-empty a singly linked list of digits, plus one to the integer.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000016063273",
+      "title": "[LeetCode] Third Maximum Number",
+      "url": "/a/1190000016063273",
+      "desc": "Given a non-empty array of integers, return the third maximum number in this array. If it does not exist, return the maximum number. The time complexity must be in O(n).",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000016062482",
+      "title": "【跃迁之路】【559天】程序员高效学习方法论探索系列（实验阶段316-2018.08.18）",
+      "url": "/a/1190000016062482",
+      "desc": "从2018.7.1起，【跃迁之路】奖励金计划正式起航，从今以后，， 每月1日，我会将自己个人上月收入的1%计入【跃迁之路】奖励金池，积累到足够金额后，将适时用于奖励那些虽然身处困境，却依然不放弃努力，通过坚持...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000016062437",
+      "title": "Java 8之stream实际应用",
+      "url": "/a/1190000016062437",
+      "desc": "在前面的 Java 8之stream介绍和使用 和 Java 8之stream进阶 中讲了stream的使用方式和一些常用的方法，这篇文章就来演示一下stream的实际应用。",
+      "author": {
+        "nick": "Half",
+        "homepage": "/u/half_5ab2635cc04bc"
+      }
+    },
+    {
+      "id": "1190000016062111",
+      "title": "JAVA学习之路 （十）集合",
+      "url": "/a/1190000016062111",
+      "desc": "集合 java中的集合： 是一种工具类，就像是容器，存储任意数量的具有共同属性的对象 集合的作用 {代码...} 集合和数组的区别 {代码...} java集合的框架 Collection 接口 Collection接口 是List、Set、Queue的父接...",
+      "author": {
+        "nick": "Meils",
+        "homepage": "/u/guchengshaonian_5a56fe95f2c32"
+      }
+    },
+    {
+      "id": "1190000016061620",
+      "title": "《Java8实战》-第三章读书笔记（Lambda表达式-02）",
+      "url": "/a/1190000016061620",
+      "desc": "由于第三章的内容比较多，而且为了让大家更好的了解Lambda表达式的使用，也写了一些相关的实例，可以在Github或者码云上拉取读书笔记的代码进行参考。",
+      "author": {
+        "nick": "NGLSL",
+        "homepage": "/u/nglsl666"
+      }
+    },
+    {
+      "id": "1190000016059876",
+      "title": "【开源】SpringBootNetty聊天室V1.2.0升级版本介绍",
+      "url": "/a/1190000016059876",
+      "desc": "SpringBoot！微服务微架构的基础，Netty通信框架的元老级别框架，即之前的SpringBoot与Netty的实现聊天室的功能后已经过了不到一周的时间啦，今天我们更新了项目版本从V1.0.0到V1.2.0的升级。",
+      "author": {
+        "nick": "MySelf",
+        "homepage": "/u/myself_5ab9f390c6129"
+      }
+    },
+    {
+      "id": "1190000016058823",
+      "title": "软删除和我们常说的删除",
+      "url": "/a/1190000016058823",
+      "desc": "上次在处理项目中的一个异常的时候，定位到异常的位置是删除时候抛出的异常，然后最后的解决办法是使用@NotFound注解实现的。然后老师说这是一种软删除。当时只是大概知道什么意思，但是并不清楚到底是什么东西。...",
+      "author": {
+        "nick": "喵先生的进阶之路",
+        "homepage": "/u/poshichao"
+      }
+    },
+    {
+      "id": "1190000016058656",
+      "title": "Spring Boot 进阶",
+      "url": "/a/1190000016058656",
+      "desc": "上一篇带领大家初步了解了如何使用 Spring Boot 搭建框架，通过 Spring Boot 和传统的 SpringMVC 架构的对比，我们清晰地发现 Spring Boot 的好处，它使我们的代码更加简单，结构更加清晰。",
+      "author": {
+        "nick": "taojin",
+        "homepage": "/u/taojin"
+      }
+    },
+    {
+      "id": "1190000016056471",
+      "title": "Thread类源码解读(2)——线程状态及常用方法",
+      "url": "/a/1190000016056471",
+      "desc": "前言 系列文章目录 上一篇我们讨论了线程的创建，本篇我们来聊一聊线程的状态转换以及常用的几个比较重要的方法。 本篇依然是通过源码分析来了解这些知识。 本文源码基于jdk1.8 。 阅读完本文，你应当有能力回答...",
+      "author": {
+        "nick": "ChiuCheng",
+        "homepage": "/u/chiucheng"
+      }
+    },
+    {
+      "id": "1190000016056082",
+      "title": "JAVA学习之路 （九）包装类",
+      "url": "/a/1190000016056082",
+      "desc": "基本数据类型：如 int、float、double、boolean、char 等。它们并不具备对象的特性，比如不能调用方法。为了让基本数据类型也能具有对象的特性，java为每个基本数据类型提供了包装类。",
+      "author": {
+        "nick": "Meils",
+        "homepage": "/u/guchengshaonian_5a56fe95f2c32"
+      }
+    },
+    {
+      "id": "1190000016055884",
+      "title": "分布式服务框架之远程通讯技术及原理分析",
+      "url": "/a/1190000016055884",
+      "desc": "在分布式服务框架中，一个最基础的问题就是远程服务是怎么通讯的，在Java领域中有很多可实现远程通讯的技术，例如：RMI、MINA、ESB、Burlap、Hessian、SOAP、EJB和JMS等，这些名词之间到底是些什么关系呢，它们背...",
+      "author": {
+        "nick": "茶轴的青春",
+        "homepage": "/u/chazhoudeqingchun"
+      }
+    }
+  ]
+}
