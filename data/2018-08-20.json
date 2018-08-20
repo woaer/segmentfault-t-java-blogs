@@ -1,0 +1,155 @@
+{
+  "watchNum": "25779",
+  "blogs": [
+    {
+      "id": "1190000016072908",
+      "title": "SpringBoot+RabbitMq实现延时消息队列",
+      "url": "/a/1190000016072908",
+      "desc": "使用定时任务轮询订单表，查询出订单创建了15分钟以上并且未支付的订单，如果有查询出此类订单则执行关闭。 {代码...}",
+      "author": {
+        "nick": "独上兰舟",
+        "homepage": "/u/dushanglanzhou_59b608615765d"
+      }
+    },
+    {
+      "id": "1190000016072566",
+      "title": "　　初探Angular6.x---用户列表与用户详情",
+      "url": "/a/1190000016072566",
+      "desc": "在上一篇博文《Angular6.x---进入用户编辑》中,我们分享了{{属性名称}}和[(ngModel)]这两个表达式的运用,我们已经可以将表单里的修改与我们展示出来的值进行同步,今天我们来学习在Angular6.x中如何展示一个列表.",
+      "author": {
+        "nick": "melon_jj",
+        "homepage": "/u/melon_jj"
+      }
+    },
+    {
+      "id": "1190000016071723",
+      "title": "干货分享 | 微服务配置中心架构解析",
+      "url": "/a/1190000016071723",
+      "desc": "本文根据优云数智技术总监岳晓阳于8月14日可信云大会《容器和微服务》论坛演讲整理而成，主要解析了配置中心在微服务的前世今生、微服务配置中心管理及原则、微服务配置中心Hawk架构解析以及未来展望，希望对大家...",
+      "author": {
+        "nick": "优云数智",
+        "homepage": "/u/shurenyun"
+      }
+    },
+    {
+      "id": "1190000016070787",
+      "title": "坚持：学习Java后台的第一阶段，我学习了那些知识",
+      "url": "/a/1190000016070787",
+      "desc": "最近的计划是业余时间学习Java后台方面的知识，发现学习的过程中，要学的东西真多啊，让我一下子感觉很遥远。但是还好我制定了计划，自己选择的路，跪着也要走完！关于计划是《终于，我还是下决心学Java后台了》...",
+      "author": {
+        "nick": "程序员小灰",
+        "homepage": "/u/chengxuyuanxiaohui"
+      }
+    },
+    {
+      "id": "1190000016070590",
+      "title": "[LeetCode] Kill Process",
+      "url": "/a/1190000016070590",
+      "desc": "Given n processes, each process has a unique PID (process id) and its PPID (parent process id).",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000016068497",
+      "title": "完全图解JVM类加载",
+      "url": "/a/1190000016068497",
+      "desc": "通过类的全限定名来获取定义此类的二进制字节流 非数组类的加载，由类加载器加载，可以是启动类加载器，也可以是用户自定义的类加载器",
+      "author": {
+        "nick": "JinhaoPlus",
+        "homepage": "/u/jinhaoplus"
+      }
+    },
+    {
+      "id": "1190000016067831",
+      "title": "我理解的数据结构（二）—— 栈（Stack）",
+      "url": "/a/1190000016067831",
+      "desc": "我理解的数据结构（二）—— 栈（Stack） 一、栈基础 栈是一种线性结构 相比较数组，栈对应的操作是数组的子集 只能从一端添加元素，也只能从同一端取出元素，这一端称为栈顶 栈是一种后进先出的数据结构，LIFO（La...",
+      "author": {
+        "nick": "罗纳尔多Coder",
+        "homepage": "/u/xiezong"
+      }
+    },
+    {
+      "id": "1190000016067336",
+      "title": "【跃迁之路】【560天】程序员高效学习方法论探索系列（实验阶段317-2018.08.19）",
+      "url": "/a/1190000016067336",
+      "desc": "从2018.7.1起，【跃迁之路】奖励金计划正式起航，从今以后，， 每月1日，我会将自己个人上月收入的1%计入【跃迁之路】奖励金池，积累到足够金额后，将适时用于奖励那些虽然身处困境，却依然不放弃努力，通过坚持...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000016066203",
+      "title": "一篇搞定基于JDK1.7,JDK1.8 HashMap、ConcurrentHashMap原理分析",
+      "url": "/a/1190000016066203",
+      "desc": "HashMap、CurrentHashMap 面试时都要问烂了，用也用烂了。但是网上的解析要不就是不够全面，要么就是copy来copy去，连基于JDK版本有的都很混乱。这篇文章带你解析 基于jdk1.7、jdk1.8不同的hashMap和ConcurrentHa...",
+      "author": {
+        "nick": "xxxxxxxd",
+        "homepage": "/u/xxxxxxxd"
+      }
+    },
+    {
+      "id": "1190000016065557",
+      "title": "java工程师linux命令，这篇文章就够了",
+      "url": "/a/1190000016065557",
+      "desc": "精彩内容推荐 一套java架构师学习资源,等你拿 java实战练习项目教程 你所需要的大数据视频教程 java全套学习视频教程及源码 微服务资源springboot、springcloud、docker、dubbo项目实战等倾心分享 shell简介 1.1 ...",
+      "author": {
+        "nick": "wx_好好学java",
+        "homepage": "/u/sihai_5ae5ba9170388"
+      }
+    },
+    {
+      "id": "1190000016064569",
+      "title": "我理解的数据结构（一）—— 不要小看了数组",
+      "url": "/a/1190000016064569",
+      "desc": "首先，我是一个phper，但是毕竟php是一个脚本语言，如果使用脚本语言去理解数据结构具有一定的局限性。因为脚本语言是不需要编译的，如果你的语法写的不错，可能执行起来会要比用一个更好的数据结构来的更快、更...",
+      "author": {
+        "nick": "罗纳尔多Coder",
+        "homepage": "/u/xiezong"
+      }
+    },
+    {
+      "id": "1190000016064386",
+      "title": "890-查找和替换模式",
+      "url": "/a/1190000016064386",
+      "desc": "你有一个单词列表 words 和一个模式 pattern，你想知道 words 中的哪些单词与模式匹配。如果存在字母的排列 p ，使得将模式中的每个字母 x 替换为 p(x) 之后，我们就得到了所需的单词，那么单词与模式是匹配的。...",
+      "author": {
+        "nick": "Null",
+        "homepage": "/u/null_ryan"
+      }
+    },
+    {
+      "id": "1190000016064236",
+      "title": "888-公平的糖果交换",
+      "url": "/a/1190000016064236",
+      "desc": "爱丽丝和鲍勃有不同大小的糖果棒：A[i] 是爱丽丝拥有的第 i 块糖的大小，B[j] 是鲍勃拥有的第 j 块糖的大小。因为他们是朋友，所以他们想交换一个糖果棒，这样交换后，他们都有相同的糖果总量。（一个人拥有的糖...",
+      "author": {
+        "nick": "Null",
+        "homepage": "/u/null_ryan"
+      }
+    },
+    {
+      "id": "1190000016063354",
+      "title": "[LeetCode] Plus One Linked List",
+      "url": "/a/1190000016063354",
+      "desc": "Given a non-negative integer represented as non-empty a singly linked list of digits, plus one to the integer.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000016063273",
+      "title": "[LeetCode] Third Maximum Number",
+      "url": "/a/1190000016063273",
+      "desc": "Given a non-empty array of integers, return the third maximum number in this array. If it does not exist, return the maximum number. The time complexity must be in O(n).",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    }
+  ]
+}
