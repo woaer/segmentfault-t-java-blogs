@@ -1,0 +1,155 @@
+{
+  "watchNum": "25921",
+  "blogs": [
+    {
+      "id": "1190000016088760",
+      "title": "springMVC流程的学习和理解",
+      "url": "/a/1190000016088760",
+      "desc": "先用一个图来表示基本流程图这个网上很容易找到 基本流程图 1. 用户发送请求到前端控制器(DispatcherServlet) 前端控制器是springMVC的重要部分，位于中心，提供整个框架访问点，起到交换的作用，而且与Spring Io...",
+      "author": {
+        "nick": "Pursuer",
+        "homepage": "/u/pursuer"
+      }
+    },
+    {
+      "id": "1190000016087099",
+      "title": "打造RecyclerView的n级列表",
+      "url": "/a/1190000016087099",
+      "desc": "先上效果图： 1.该多级列表的优势： 支持无限级列表展开 基于一个recyclerView实现 可以自定义每一级item的样式，定制化更强 2.设计的思路 数据结构List<ItemBean>,ItemBean类中有变量List<ItemBean>...",
+      "author": {
+        "nick": "WelliJhon",
+        "homepage": "/u/wellijhon_58622d2f61c2d"
+      }
+    },
+    {
+      "id": "1190000016085328",
+      "title": "新程序员最爱的免费资源",
+      "url": "/a/1190000016085328",
+      "desc": "原作者 Ali Spittel，是个美女程序员，以下这些资源都是她自己试过的。以下「我」代表 Ali Spittel。",
+      "author": {
+        "nick": "极光推送",
+        "homepage": "/u/jiguangtuisong"
+      }
+    },
+    {
+      "id": "1190000016085105",
+      "title": "来，了解一下Java内存模型(JMM)",
+      "url": "/a/1190000016085105",
+      "desc": "网上有很多关于Java内存模型的文章，在《深入理解Java虚拟机》和《Java并发编程的艺术》等书中也都有关于这个知识点的介绍。但是，很多人读完之后还是搞不清楚，甚至有的人说自己更懵了。本文，就来整体的介绍一...",
+      "author": {
+        "nick": "程序员小灰",
+        "homepage": "/u/chengxuyuanxiaohui"
+      }
+    },
+    {
+      "id": "1190000016085001",
+      "title": "什么样的简历不会被丢进回收站",
+      "url": "/a/1190000016085001",
+      "desc": "前言 从去年校招开始到现在负责部门的面试，从我手上流走的简历多多少少也有上百封了。 同时最近秋招又要开始了，就想着把我这一年来筛选简历的经验分享给大家，多少还是能提高一些命中率。 突出优势 「简历」自...",
+      "author": {
+        "nick": "crossoverJie",
+        "homepage": "/u/crossoverjie"
+      }
+    },
+    {
+      "id": "1190000016084632",
+      "title": "理解对多线程并发资源的保护——从AtomicInteger源代码出发",
+      "url": "/a/1190000016084632",
+      "desc": "Java线程中的java.util.concurrent.atomic包里面都是类都是针对多线程下的原子变量，有包括AtomicInteger, AtomicBoolean等等多种变量的原子化实现。",
+      "author": {
+        "nick": "kidult_coder",
+        "homepage": "/u/kidultcoder"
+      }
+    },
+    {
+      "id": "1190000016084214",
+      "title": "java中的参数传递（只有值传递没有引用传递）",
+      "url": "/a/1190000016084214",
+      "desc": "Java中只有传值调用（值传递），没有传址调用（址传递或者引用传递）。所以在java方法中改变参数的值是不会改变原变量的值的，但为什么改变引用变量的属性值却可以呢？请看下面的解答。",
+      "author": {
+        "nick": "糖宝",
+        "homepage": "/u/tangbao_5a152bb72d2ed"
+      }
+    },
+    {
+      "id": "1190000016083334",
+      "title": "记Redis在项目中一个类分时图应用场景设计",
+      "url": "/a/1190000016083334",
+      "desc": "需求: 项目有一个保存实时抓拍图片的功能,需要统计摄像头下每个时间点(比如一分钟)保存的图片个数,并通过线型图显示到页面上.这很类似股票的分时K线图的功能.所以我参考了一些网上的文章,采用Redis来实现这个功能.",
+      "author": {
+        "nick": "cchenggit",
+        "homepage": "/u/ccheng"
+      }
+    },
+    {
+      "id": "1190000016083314",
+      "title": "系统优化怎么做-JVM优化之开篇",
+      "url": "/a/1190000016083314",
+      "desc": "在上一期Tomcat优化中，针对JVM相关主要参数做过一定说明，这一期主要介绍进行一些概念及经验。后面分章节去讲述相关工具的基本使用。",
+      "author": {
+        "nick": "昌松",
+        "homepage": "/u/changsong"
+      }
+    },
+    {
+      "id": "1190000016083208",
+      "title": "Java Base64 编码解码方案总结",
+      "url": "/a/1190000016083208",
+      "desc": "Base64是一种能将任意Binary资料用64种字元组合成字串的方法，而这个Binary资料和字串资料彼此之间是可以互相转换的，十分方便。在实际应用上，Base64除了能将Binary资料可视化之外，也常用来表示字串加密过后的...",
+      "author": {
+        "nick": "码魇",
+        "homepage": "/u/ma_5b4fe416664f8"
+      }
+    },
+    {
+      "id": "1190000016083002",
+      "title": "Thread类源码解读(3)——线程中断interrupt",
+      "url": "/a/1190000016083002",
+      "desc": "前言 系列文章目录 线程中断是一个很重要的概念，通常，取消一个任务的执行，最好的，同时也是最合理的方法，就是通过中断。 本篇我们主要还是通过源码分析来看看中断的概念。 本文的源码基于JDK1.8 Interrupt st...",
+      "author": {
+        "nick": "ChiuCheng",
+        "homepage": "/u/chiucheng"
+      }
+    },
+    {
+      "id": "1190000016082605",
+      "title": "Spring Boot 自定义配置文件(三)",
+      "url": "/a/1190000016082605",
+      "desc": "上篇我们做了一些简单的运行文件的配置，本篇带领大家来认识常用的一些配置，当然了关于Spring Boot 这些配置太多太多了，如果想了解更多的话直接上官网参考一下，了解相关案例如本篇的配置。 application.proper...",
+      "author": {
+        "nick": "iconye",
+        "homepage": "/u/ug_5b618cc2741af"
+      }
+    },
+    {
+      "id": "1190000016082367",
+      "title": "JVM虚拟机详解",
+      "url": "/a/1190000016082367",
+      "desc": "JVM是Java Virtual Machine（Java虚拟机）的缩写，JVM是一种用于计算设备的规范，它是一个虚构出来的计算机，是通过在实际的计算机上仿真模拟各种计算机功能来实现的。Java虚拟机包括一套字节码指令集、一组寄存...",
+      "author": {
+        "nick": "茶轴的青春",
+        "homepage": "/u/chazhoudeqingchun"
+      }
+    },
+    {
+      "id": "1190000016081120",
+      "title": "【跃迁之路】【561天】程序员高效学习方法论探索系列（实验阶段318-2018.08.20）",
+      "url": "/a/1190000016081120",
+      "desc": "从2018.7.1起，【跃迁之路】奖励金计划正式起航，从今以后，， 每月1日，我会将自己个人上月收入的1%计入【跃迁之路】奖励金池，积累到足够金额后，将适时用于奖励那些虽然身处困境，却依然不放弃努力，通过坚持...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000016078867",
+      "title": "[LeetCode] Rotate String",
+      "url": "/a/1190000016078867",
+      "desc": "A shift on A consists of taking string A and moving the leftmost character to the rightmost position. For example, if A = 'abcde', then it will be 'bcdea' after one shift on A. Return True if and o...",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    }
+  ]
+}
