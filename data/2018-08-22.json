@@ -1,0 +1,155 @@
+{
+  "watchNum": "26099",
+  "blogs": [
+    {
+      "id": "1190000016101369",
+      "title": "Android 8.1 源码_核心篇（一） -- 深入研究 JNI",
+      "url": "/a/1190000016101369",
+      "desc": "JNI是Java Native Interface的缩写，中文译为“Java本地调用”，通俗地说，JNI是一种技术，通过这种技术可以做到以下两点：",
+      "author": {
+        "nick": "DeepCoder_Marco",
+        "homepage": "/u/deepcoder_marco"
+      }
+    },
+    {
+      "id": "1190000016100672",
+      "title": "两步验证杀手锏：Java 接入 Google 身份验证器实战",
+      "url": "/a/1190000016100672",
+      "desc": "大家应该对两步验证都熟悉吧？如苹果有自带的两步验证策略，防止用户账号密码被盗而锁定手机进行敲诈，这种例子屡见不鲜，所以苹果都建议大家开启两步验证的。",
+      "author": {
+        "nick": "Java技术栈",
+        "homepage": "/u/javastack"
+      }
+    },
+    {
+      "id": "1190000016100611",
+      "title": "坚持：学习Java后台的第一阶段，我学习了那些知识",
+      "url": "/a/1190000016100611",
+      "desc": "最近的计划是业余时间学习Java后台方面的知识，发现学习的过程中，要学的东西真多啊，让我一下子感觉很遥远。但是还好我制定了计划，自己选择的路，跪着也要走完！关于计划是《终于，我还是下决心学Java后台了》...",
+      "author": {
+        "nick": "程序员小灰",
+        "homepage": "/u/chengxuyuanxiaohui"
+      }
+    },
+    {
+      "id": "1190000016100319",
+      "title": "javax.crypto.Cipher 源码学习笔记",
+      "url": "/a/1190000016100319",
+      "desc": "该类是JCE用来加密的引擎类，支持对称和非对称加密。该类的介绍可以参考：[[译]JCA参考指南(二)：核心类和接口]([链接]",
+      "author": {
+        "nick": "X_Shadow",
+        "homepage": "/u/x_shadow"
+      }
+    },
+    {
+      "id": "1190000016099208",
+      "title": "集合总结",
+      "url": "/a/1190000016099208",
+      "desc": "1.集合概览 集合包括两大接口：Collection 和 Map。 Map TreeMap HashMap LinkedHashMap Collection Set HashSet TreeSet LinkedHashSet List ArrayList LinkedList Queue PriorityQueue Deque ArrayDeque Linked...",
+      "author": {
+        "nick": "echie",
+        "homepage": "/u/echo_5b7c08fe96df0"
+      }
+    },
+    {
+      "id": "1190000016099142",
+      "title": "Volatile关键字",
+      "url": "/a/1190000016099142",
+      "desc": "{代码...}",
+      "author": {
+        "nick": "小黑0105",
+        "homepage": "/u/xiaohei0105"
+      }
+    },
+    {
+      "id": "1190000016098857",
+      "title": "ThreadLocal关键字",
+      "url": "/a/1190000016098857",
+      "desc": "ThreadLocal为每一个使用该变量的线程都提供独立的副本，可以做到线程间的数据隔离，每一个线程可以访问各自内部的副本变量。",
+      "author": {
+        "nick": "小黑0105",
+        "homepage": "/u/xiaohei0105"
+      }
+    },
+    {
+      "id": "1190000016096986",
+      "title": "【跃迁之路】【562天】程序员高效学习方法论探索系列（实验阶段319-2018.08.21）",
+      "url": "/a/1190000016096986",
+      "desc": "从2018.7.1起，【跃迁之路】奖励金计划正式起航，从今以后，， 每月1日，我会将自己个人上月收入的1%计入【跃迁之路】奖励金池，积累到足够金额后，将适时用于奖励那些虽然身处困境，却依然不放弃努力，通过坚持...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000016096542",
+      "title": "Java多线程进阶（二三）—— J.U.C之collections框架：ConcurrentHashMap",
+      "url": "/a/1190000016096542",
+      "desc": "ConcurrentHashMap是在JDK1.5时，J.U.C引入的一个同步集合工具类，顾名思义，这是一个线程安全的HashMap。不同版本的ConcurrentHashMap，内部实现机制千差万别，本节所有的讨论基于JDK1.8。",
+      "author": {
+        "nick": "NIT_EIP",
+        "homepage": "/u/niteip"
+      }
+    },
+    {
+      "id": "1190000016094798",
+      "title": "从零开始学 Java 之 基础语法（上）",
+      "url": "/a/1190000016094798",
+      "desc": "上篇文章开始了我的 Java 基础系列之旅，下面应该开始学习 Java 基础语法了。刚开始我学习编程的时候，属于零基础，而且我还是个文科生，所以学习的时候一脸懵逼。现在回过头来看这些知识点，也想不太明白当初为...",
+      "author": {
+        "nick": "keithxiaoy",
+        "homepage": "/u/keithxiaoy"
+      }
+    },
+    {
+      "id": "1190000016094666",
+      "title": "android五子棋游戏、资讯阅读、大学课程表、地图拖拽检测、小说搜索阅读app等源码",
+      "url": "/a/1190000016094666",
+      "desc": "Android精选源码 Android 自动生成添加控件 android旋转动画、圆形进度条组合效果源码 一款很强的手机五子棋app源码 android地图拖拽区域检测效果源码 实现Android大学课表效果APP源码 android完全免费的小说搜索...",
+      "author": {
+        "nick": "ld11620967",
+        "homepage": "/u/ld11620967"
+      }
+    },
+    {
+      "id": "1190000016091569",
+      "title": "论文《TinyLFU: A Highly E\u000ecient Cache Admission Policy》阅读笔记",
+      "url": "/a/1190000016091569",
+      "desc": "大多数实际工作负载中，访问频率随着时间的推移而发生根本变化（这是外卖业务不适合朴素LFU的根本原因）",
+      "author": {
+        "nick": "bulu喵健康我快乐",
+        "homepage": "/u/lovelyj"
+      }
+    },
+    {
+      "id": "1190000016090938",
+      "title": "Idea 搭建SSH 架构",
+      "url": "/a/1190000016090938",
+      "desc": "{代码...} 一.使用Idea创建新项目 {代码...} {代码...} {代码...} {代码...} 二.在项目web/WEB-INF目录下创建lib 和classe文件夹将相关的jar包导入项目 三.依赖jar包 四调整项目依赖路径 选择放jar包的lib文件夹 ...",
+      "author": {
+        "nick": "捕风",
+        "homepage": "/u/bofeng"
+      }
+    },
+    {
+      "id": "1190000016089377",
+      "title": "JAVA 8 反射获取参数名",
+      "url": "/a/1190000016089377",
+      "desc": "在JDK8之前javac编译是不会把构造器和方法的参数名编译进class中，如果需要获取参数名，可以在方法上加上注解，反射获取注解的值从而获取参数名，比如Jackson的@JsonCreator和@JsonProperty 。而JDK8新增了这一个...",
+      "author": {
+        "nick": "DH镔",
+        "homepage": "/u/dhbin"
+      }
+    },
+    {
+      "id": "1190000016088760",
+      "title": "springMVC流程的学习和理解",
+      "url": "/a/1190000016088760",
+      "desc": "先用一个图来表示基本流程图这个网上很容易找到 基本流程图 1. 用户发送请求到前端控制器(DispatcherServlet) 前端控制器是springMVC的重要部分，位于中心，提供整个框架访问点，起到交换的作用，而且与Spring Io...",
+      "author": {
+        "nick": "Pursuer",
+        "homepage": "/u/pursuer"
+      }
+    }
+  ]
+}
