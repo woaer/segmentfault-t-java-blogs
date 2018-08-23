@@ -1,0 +1,155 @@
+{
+  "watchNum": "26233",
+  "blogs": [
+    {
+      "id": "1190000016118978",
+      "title": "Java nio 空轮询bug",
+      "url": "/a/1190000016118978",
+      "desc": "This is an issue with poll (and epoll) on Linux. If a file descriptor for a connected socket is polled with a request event mask of 0, and if the connection is abruptly terminated (RST) then the po...",
+      "author": {
+        "nick": "王春浩troy",
+        "homepage": "/u/fightchwang"
+      }
+    },
+    {
+      "id": "1190000016118029",
+      "title": "SpringBoot集成Mybatis 自动生成实体类和Mapper",
+      "url": "/a/1190000016118029",
+      "desc": "执行完毕后会在 com.jiafly.libra.entity中生成实体类,com.jiafly.libra.mapper中生成dao层接口 resources.mapper中生成xml文件。",
+      "author": {
+        "nick": "卡小七",
+        "homepage": "/u/jiafly"
+      }
+    },
+    {
+      "id": "1190000016117659",
+      "title": "Java基础-接口、lambda表达式",
+      "url": "/a/1190000016117659",
+      "desc": "Java 8新增的lambda表达式毫无疑问是令人非常激动的，从此我们可以非常简洁的定义和使用代码块而不是用繁琐的匿名内部类来实现。而接口是lambda表达式的基础，要理解lambda表达式就要先理解接口的概念。",
+      "author": {
+        "nick": "Yuicon",
+        "homepage": "/u/yuicon"
+      }
+    },
+    {
+      "id": "1190000016114761",
+      "title": "Java之XML解析",
+      "url": "/a/1190000016114761",
+      "desc": "许多的Java框架都支持用户自己配置，其中很常见的就是使用XML文件进行配置。本篇讲XML在Java中的解析，最后会简单地讲Mybatis在解析XML时的做法。",
+      "author": {
+        "nick": "炼金术师cck",
+        "homepage": "/u/_cck"
+      }
+    },
+    {
+      "id": "1190000016114148",
+      "title": "345-反转字符串中的元音字母",
+      "url": "/a/1190000016114148",
+      "desc": "编写一个函数，以字符串作为输入，反转该字符串中的元音字母。示例 1:输入: \"hello\"输出: \"holle\"示例 2:输入: \"leetcode\"输出: \"leotcede\" 说明:元音字母不包含字母\"y\"。",
+      "author": {
+        "nick": "Null",
+        "homepage": "/u/null_ryan"
+      }
+    },
+    {
+      "id": "1190000016113863",
+      "title": "可能是把Java内存区域讲的最清楚的一篇文章",
+      "url": "/a/1190000016113863",
+      "desc": "写在前面（常见面试题） 基本问题： 介绍下 Java 内存区域（运行时数据区） Java 对象的创建过程（五步，建议能默写出来并且要知道每一步虚拟机做了什么） 对象的访问定位的两种方式（句柄和直接指针两种方式） ...",
+      "author": {
+        "nick": "Snailclimb",
+        "homepage": "/u/snailclimb"
+      }
+    },
+    {
+      "id": "1190000016113347",
+      "title": "RateLimter源码解析",
+      "url": "/a/1190000016113347",
+      "desc": "RateLimiter：作为抽象类提供一个限流器的基本的抽象方法。SmoothRateLimiter：平滑限流器实现，提供了Ratelimiter中的抽象限流方法的平滑实现。SmoothBursty：允许突发流量的平滑限流器的实现。SmoothWarmingUp...",
+      "author": {
+        "nick": "请叫我程序猿大人",
+        "homepage": "/u/qingjiaowochengxuyuandaren"
+      }
+    },
+    {
+      "id": "1190000016113003",
+      "title": "【跃迁之路】【563天】程序员高效学习方法论探索系列（实验阶段320-2018.08.22）",
+      "url": "/a/1190000016113003",
+      "desc": "从2018.7.1起，【跃迁之路】奖励金计划正式起航，从今以后，， 每月1日，我会将自己个人上月收入的1%计入【跃迁之路】奖励金池，积累到足够金额后，将适时用于奖励那些虽然身处困境，却依然不放弃努力，通过坚持...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000016111422",
+      "title": "Lombok注解笔记",
+      "url": "/a/1190000016111422",
+      "desc": "把lombok的注解过了一遍，发现有个@ExtensionMethod和kotlin的拓展函数有点类似",
+      "author": {
+        "nick": "DH镔",
+        "homepage": "/u/dhbin"
+      }
+    },
+    {
+      "id": "1190000016109389",
+      "title": "Slog5_如何使用Java与Mysql进行数据交互",
+      "url": "/a/1190000016109389",
+      "desc": "ArthurSlog SLog-5 Year·1 Guangzhou·China July 11th 2018 做到每个敲下的按键、每次鼠标的点击、每次手机屏幕的触碰，都能产生价值 开发环境MacOS(High Sierra 10.13.5) Java为了开发应用级的程序，整个开发链...",
+      "author": {
+        "nick": "ArthurSlog",
+        "homepage": "/u/arthurslog"
+      }
+    },
+    {
+      "id": "1190000016108170",
+      "title": "分布式、服务化的ERP系统架构设计",
+      "url": "/a/1190000016108170",
+      "desc": "曾几何时，我混迹于电商、珠宝行业4年多，为这两个行业开发过两套大型业务系统（ERP）。作为一个ERP系统，系统主要功能模块无非是订单管理、商品管理、生产采购、仓库管理、物流管理、财务管理等等。作为一个管理...",
+      "author": {
+        "nick": "bali",
+        "homepage": "/u/bali_5a0a92fba16aa"
+      }
+    },
+    {
+      "id": "1190000016105692",
+      "title": "Java高级程序员必备：反射、动态代理",
+      "url": "/a/1190000016105692",
+      "desc": "获取Java类型系统，主要有两个方式：一种是传统的RTTI（Run-Time Type Identification），它假定我们在编译时已经知道了所有的类型信息；另一种是反射(Reflect)，它允许我们在程序运行时获取并使用类型信息。",
+      "author": {
+        "nick": "文心紫竹",
+        "homepage": "/u/weixinzizhu"
+      }
+    },
+    {
+      "id": "1190000016101369",
+      "title": "Android 8.1 源码_核心篇（一） -- 深入研究 JNI",
+      "url": "/a/1190000016101369",
+      "desc": "JNI是Java Native Interface的缩写，中文译为“Java本地调用”，通俗地说，JNI是一种技术，通过这种技术可以做到以下两点：",
+      "author": {
+        "nick": "DeepCoder_Marco",
+        "homepage": "/u/deepcoder_marco"
+      }
+    },
+    {
+      "id": "1190000016100672",
+      "title": "两步验证杀手锏：Java 接入 Google 身份验证器实战",
+      "url": "/a/1190000016100672",
+      "desc": "大家应该对两步验证都熟悉吧？如苹果有自带的两步验证策略，防止用户账号密码被盗而锁定手机进行敲诈，这种例子屡见不鲜，所以苹果都建议大家开启两步验证的。",
+      "author": {
+        "nick": "Java技术栈",
+        "homepage": "/u/javastack"
+      }
+    },
+    {
+      "id": "1190000016100611",
+      "title": "坚持：学习Java后台的第一阶段，我学习了那些知识",
+      "url": "/a/1190000016100611",
+      "desc": "最近的计划是业余时间学习Java后台方面的知识，发现学习的过程中，要学的东西真多啊，让我一下子感觉很遥远。但是还好我制定了计划，自己选择的路，跪着也要走完！关于计划是《终于，我还是下决心学Java后台了》...",
+      "author": {
+        "nick": "程序员小灰",
+        "homepage": "/u/chengxuyuanxiaohui"
+      }
+    }
+  ]
+}
