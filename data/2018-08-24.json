@@ -1,0 +1,155 @@
+{
+  "watchNum": "26362",
+  "blogs": [
+    {
+      "id": "1190000016134273",
+      "title": "分布式作业 Elastic Job 如何动态调整？",
+      "url": "/a/1190000016134273",
+      "desc": "Elastic Job 提供了简单易用的运维平台，方便用户监控、动态修改作业参数、作业操作及查询作业。",
+      "author": {
+        "nick": "Java技术栈",
+        "homepage": "/u/javastack"
+      }
+    },
+    {
+      "id": "1190000016134160",
+      "title": "从零开始学 Java 之 基础语法（中）",
+      "url": "/a/1190000016134160",
+      "desc": "Java 基础断更一周了，收拾心情重新上路。我与其自怨自艾，不如好好学习 Java，失去的面子，总要一点点拿回来的。",
+      "author": {
+        "nick": "keithxiaoy",
+        "homepage": "/u/keithxiaoy"
+      }
+    },
+    {
+      "id": "1190000016133488",
+      "title": "Istio在UAEK中的实践改造之路",
+      "url": "/a/1190000016133488",
+      "desc": "为什么需要ServiceMeshUCloud App Engine on Kubernetes（后简称“UAEK”）是UCloud内部打造的一个基于Kubernetes的，具备高可用、跨机房容灾、自动伸缩、立体监控、日志搜集和简便运维等特性计算资源交付平台。UAE...",
+      "author": {
+        "nick": "优云数智",
+        "homepage": "/u/shurenyun"
+      }
+    },
+    {
+      "id": "1190000016132652",
+      "title": "记录spring-boot 1.5.9升级至2.0.1的那些坑",
+      "url": "/a/1190000016132652",
+      "desc": "一.spring boot2.0.x引用redis的版本需要升级至2.9.0，以前的版本将不支持jedisConnFactory对象的注入，具体报错如下",
+      "author": {
+        "nick": "蓝之鱼",
+        "homepage": "/u/lanzhiyu"
+      }
+    },
+    {
+      "id": "1190000016132561",
+      "title": "经过了这么多场Java面试，我明白了这些道理",
+      "url": "/a/1190000016132561",
+      "desc": "最近3个月一口气面了十几家公司的Java开发岗，大大小小的面试笔试加起来快20场，收获很多。本人毕业快2年了，毕业时在学校所在的2线省会城市找了家开发公司做java的开发，前前后后做了1年半，感觉公司对技术没有...",
+      "author": {
+        "nick": "Snailclimb",
+        "homepage": "/u/snailclimb"
+      }
+    },
+    {
+      "id": "1190000016127963",
+      "title": "轻松理解 Java HashMap 和 ConcurrentHashMap",
+      "url": "/a/1190000016127963",
+      "desc": "本篇主要想讨论 ConcurrentHashMap 这样一个并发容器，在正式开始之前我觉得有必要谈谈 HashMap，没有它就不会有后面的 ConcurrentHashMap。",
+      "author": {
+        "nick": "bali",
+        "homepage": "/u/bali_5a0a92fba16aa"
+      }
+    },
+    {
+      "id": "1190000016129043",
+      "title": "476-数字的补数",
+      "url": "/a/1190000016129043",
+      "desc": "前言 LeetCode上一道关于位运算的题目数字的补数，原题目如下： 给定一个正整数，输出它的补数。补数是对该数的二进制表示取反。注意: 给定的整数保证在32位带符号整数的范围内。 你可以假定二进制数不包含前导零...",
+      "author": {
+        "nick": "Null",
+        "homepage": "/u/null_ryan"
+      }
+    },
+    {
+      "id": "1190000016128406",
+      "title": "从jvm角度看懂类初始化、方法重载、重写。",
+      "url": "/a/1190000016128406",
+      "desc": "类的声明周期可以分为7个阶段，但今天我们只讲初始化阶段。我们我觉得出来使用和卸载阶段外，初始化阶段是最贴近我们平时学的，也是笔试做题过程中最容易遇到的，假如你想了解每一个阶段的话，可以看看深入理解Ja...",
+      "author": {
+        "nick": "帅地",
+        "homepage": "/u/iamshuaidi"
+      }
+    },
+    {
+      "id": "1190000016128272",
+      "title": "【跃迁之路】【564天】程序员高效学习方法论探索系列（实验阶段321-2018.08.23）",
+      "url": "/a/1190000016128272",
+      "desc": "从2018.7.1起，【跃迁之路】奖励金计划正式起航，从今以后，， 每月1日，我会将自己个人上月收入的1%计入【跃迁之路】奖励金池，积累到足够金额后，将适时用于奖励那些虽然身处困境，却依然不放弃努力，通过坚持...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000016128008",
+      "title": "461-汉明距离",
+      "url": "/a/1190000016128008",
+      "desc": "两个整数之间的汉明距离指的是这两个数字对应二进制位不同的位置的数目。给出两个整数 x 和 y，计算它们之间的汉明距离。注意：0 ≤ x, y < 231. 示例:输入: x = 1, y = 4输出: 2 解释:1 (0 0 0 1)4 (0 1 0 0)",
+      "author": {
+        "nick": "Null",
+        "homepage": "/u/null_ryan"
+      }
+    },
+    {
+      "id": "1190000016127895",
+      "title": "这几道Java集合框架面试题在面试中几乎必问",
+      "url": "/a/1190000016127895",
+      "desc": "本文是“最最最常见Java面试题总结”系列第三周的文章。主要内容： Arraylist 与 LinkedList 异同 ArrayList 与 Vector 区别 HashMap的底层实现 HashMap 和 Hashtable 的区别 HashMap 的长度为什么是2的幂次方 Hash...",
+      "author": {
+        "nick": "Snailclimb",
+        "homepage": "/u/snailclimb"
+      }
+    },
+    {
+      "id": "1190000016124883",
+      "title": "Java多线程进阶（二四）—— J.U.C之collections框架：ConcurrentHashMap扩容(2)",
+      "url": "/a/1190000016124883",
+      "desc": "JDK1.8中，ConcurrentHashMap最复杂的部分就是扩容/数据迁移，涉及多线程的合作和rehash，本文主要详细介绍ConcurrentHashMap扩容的基本原理和内部实现。",
+      "author": {
+        "nick": "NIT_EIP",
+        "homepage": "/u/niteip"
+      }
+    },
+    {
+      "id": "1190000016118978",
+      "title": "Java nio 空轮询bug",
+      "url": "/a/1190000016118978",
+      "desc": "This is an issue with poll (and epoll) on Linux. If a file descriptor for a connected socket is polled with a request event mask of 0, and if the connection is abruptly terminated (RST) then the po...",
+      "author": {
+        "nick": "王春浩troy",
+        "homepage": "/u/fightchwang"
+      }
+    },
+    {
+      "id": "1190000016118029",
+      "title": "SpringBoot集成Mybatis 自动生成实体类和Mapper",
+      "url": "/a/1190000016118029",
+      "desc": "执行完毕后会在 com.jiafly.libra.entity中生成实体类,com.jiafly.libra.mapper中生成dao层接口 resources.mapper中生成xml文件。",
+      "author": {
+        "nick": "卡小七",
+        "homepage": "/u/jiafly"
+      }
+    },
+    {
+      "id": "1190000016117659",
+      "title": "Java基础-接口、lambda表达式",
+      "url": "/a/1190000016117659",
+      "desc": "Java 8新增的lambda表达式毫无疑问是令人非常激动的，从此我们可以非常简洁的定义和使用代码块而不是用繁琐的匿名内部类来实现。而接口是lambda表达式的基础，要理解lambda表达式就要先理解接口的概念。",
+      "author": {
+        "nick": "Yuicon",
+        "homepage": "/u/yuicon"
+      }
+    }
+  ]
+}
