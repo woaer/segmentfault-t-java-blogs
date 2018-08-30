@@ -1,0 +1,155 @@
+{
+  "watchNum": "27046",
+  "blogs": [
+    {
+      "id": "1190000016205942",
+      "title": "Spring Boot 最佳实践（三）模板引擎FreeMarker集成",
+      "url": "/a/1190000016205942",
+      "desc": "FreeMarker是一款免费的Java模板引擎，是一种基于模板和数据生成文本（HMLT、电子邮件、配置文件、源代码等）的工具，它不是面向最终用户的，而是一款程序员使用的组件。",
+      "author": {
+        "nick": "王磊",
+        "homepage": "/u/vipstone"
+      }
+    },
+    {
+      "id": "1190000016205385",
+      "title": "Java编程基础08——面向对象-构造方法&静态static",
+      "url": "/a/1190000016205385",
+      "desc": "构造方法Constructor概述和格式Person(掌握) A:构造方法概述和作用 给对象的数据(属性)进行初始化 B:构造方法格式特点 a:方法名与类名相同(大小写也要与类名一致) b:没有返回值类型，连void都没有 c:没有具体的返...",
+      "author": {
+        "nick": "扎瓦",
+        "homepage": "/u/ideas"
+      }
+    },
+    {
+      "id": "1190000016204970",
+      "title": "一次logback多线程调优的经历",
+      "url": "/a/1190000016204970",
+      "desc": "在一次项目的性能调优中，发现出现竞争瓶颈，导致在资源未使用满的情况下，TPS已经无法提升。祭起JMC（JAVA MISSON CONTROL）飞行记录器大法后，发现线程集中等待在logback写日志的地方，如下图所示：",
+      "author": {
+        "nick": "唯心不易",
+        "homepage": "/u/weixinbuyi"
+      }
+    },
+    {
+      "id": "1190000016202854",
+      "title": "嗨！这是一篇值得深入学习的控件-RecyclerView（源码解析篇）",
+      "url": "/a/1190000016202854",
+      "desc": "我一直在说RecyclerView是一个值得深入学习，甚至可以说是一门具有艺术性的控件。那到底哪里值得我们花时间去深入学习呢。没错了，就是源码的设计。但是看源码其实是一件不简单的事情，就拿RecyclerView的源码来...",
+      "author": {
+        "nick": "程序员小灰",
+        "homepage": "/u/chengxuyuanxiaohui"
+      }
+    },
+    {
+      "id": "1190000016200416",
+      "title": "简单理解：JVM为什么需要GC'",
+      "url": "/a/1190000016200416",
+      "desc": "社区内有人发起了一个讨论，关于JVM是否一定需要GC？他们认为应用程序的回收目标是构建一个仅用来处理内存分配，而不执行任何真正的内存回收操作的 GC。即仅当可用的 Java 堆耗尽的时候，才进行顺序的 JVM 停顿操...",
+      "author": {
+        "nick": "bali",
+        "homepage": "/u/bali_5a0a92fba16aa"
+      }
+    },
+    {
+      "id": "1190000016201152",
+      "title": "ArrayList源码分析",
+      "url": "/a/1190000016201152",
+      "desc": "ArrayList 和AbstractList 都实现了List接口。并且AbstractList是ArrayList的父类。",
+      "author": {
+        "nick": "我爱看明朝",
+        "homepage": "/u/woaikanmingchao"
+      }
+    },
+    {
+      "id": "1190000016201097",
+      "title": "LinkedList源码分析",
+      "url": "/a/1190000016201097",
+      "desc": "这个类提供了一个List接口实现，为实现序列访问的数据存储结构提供了所需要的最小化接口实现。对于支持随机访问数据的List比如数组，应该优先使用AbstractList。",
+      "author": {
+        "nick": "我爱看明朝",
+        "homepage": "/u/woaikanmingchao"
+      }
+    },
+    {
+      "id": "1190000016201033",
+      "title": "hashmap源码分析( 基于java8)",
+      "url": "/a/1190000016201033",
+      "desc": "hashmap的get和put操作的时间复杂度是常量。通过调用哈希函数将元素正确的分布到桶中。初始容量(capacity)的值不能设置太高，加载因子(loadfactor)不能设置的太低，否则会影响迭代的性能。一个hashmap的实例有两...",
+      "author": {
+        "nick": "我爱看明朝",
+        "homepage": "/u/woaikanmingchao"
+      }
+    },
+    {
+      "id": "1190000016200996",
+      "title": "JAVA GC垃圾回收（及一次内存泄漏处理）",
+      "url": "/a/1190000016200996",
+      "desc": "Java使用了垃圾回收机制，极大的减轻了程序员的工作，是程序员能够更加焦距在业务上。但是垃圾回收并不能百分百保证不会出现内存泄漏，所以了解垃圾回收，对于我们遇到内存泄漏时能更加清晰的分析原因，也能帮助...",
+      "author": {
+        "nick": "我爱看明朝",
+        "homepage": "/u/woaikanmingchao"
+      }
+    },
+    {
+      "id": "1190000016200484",
+      "title": "【跃迁之路】【570天】程序员高效学习方法论探索系列（实验阶段327-2018.08.29）",
+      "url": "/a/1190000016200484",
+      "desc": "从2018.7.1起，【跃迁之路】奖励金计划正式起航，从今以后，， 每月1日，我会将自己个人上月收入的1%计入【跃迁之路】奖励金池，积累到足够金额后，将适时用于奖励那些虽然身处困境，却依然不放弃努力，通过坚持...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000016200437",
+      "title": "java.security.Provider 源码学习笔记",
+      "url": "/a/1190000016200437",
+      "desc": "Service.className = org.bouncycastle.jcajce.provider.asymmetric.rsa.CipherSpi$NoPadding",
+      "author": {
+        "nick": "X_Shadow",
+        "homepage": "/u/x_shadow"
+      }
+    },
+    {
+      "id": "1190000016198482",
+      "title": "Java编程基础07——面向对象-类&private&this",
+      "url": "/a/1190000016198482",
+      "desc": "C:面向对象特征封装(encapsulation)、继承(inheritance)、多态(polymorphism)",
+      "author": {
+        "nick": "扎瓦",
+        "homepage": "/u/ideas"
+      }
+    },
+    {
+      "id": "1190000016198460",
+      "title": "Java编程基础06——数组",
+      "url": "/a/1190000016198460",
+      "desc": "B:数组概念： 数组是存储同一种数据类型多个元素的集合。也可以看成是一个容器；数组既可以存储基本数据类型，也可以存储引用数据类型。",
+      "author": {
+        "nick": "扎瓦",
+        "homepage": "/u/ideas"
+      }
+    },
+    {
+      "id": "1190000016198211",
+      "title": "Java编程基础05——方法（函数）",
+      "url": "/a/1190000016198211",
+      "desc": "19_(方法概述和格式说明) A:为什么要有方法 {代码...} B:什么是方法 {代码...} C:方法的格式 {代码...} D:方法的格式说明 {代码...} {代码...} 20_(方法之求和案例及其调用) A:如何写一个方法 {代码...} B:案例演...",
+      "author": {
+        "nick": "扎瓦",
+        "homepage": "/u/ideas"
+      }
+    },
+    {
+      "id": "1190000016185426",
+      "title": "教你如何在 IDEA 远程 Debug ElasticSearch",
+      "url": "/a/1190000016185426",
+      "desc": "之前在源码阅读环境搭建文章中写过我遇到的一个问题迟迟没有解决，也一直困扰着我。问题如下，在启动的时候解决掉其他异常和报错后，最后剩下这个错误一直解决不了：",
+      "author": {
+        "nick": "zhisheng",
+        "homepage": "/u/zhisheng"
+      }
+    }
+  ]
+}
