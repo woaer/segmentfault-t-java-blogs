@@ -1,0 +1,155 @@
+{
+  "watchNum": "27219",
+  "blogs": [
+    {
+      "id": "1190000016221926",
+      "title": "哈希函数与哈希表",
+      "url": "/a/1190000016221926",
+      "desc": "哈希函数与哈希表 一、哈希函数 1.1 哈希函数性质： input输入域是无穷的 output输出域有穷的 当输入参数固定的情况下，返回值一定一样 当输入不一样，可能得到一样的值。(必然会出现，因为输入域很大，输出域很...",
+      "author": {
+        "nick": "Neal",
+        "homepage": "/u/catpro"
+      }
+    },
+    {
+      "id": "1190000016221309",
+      "title": "Java多线程——带你看AQS框架源码",
+      "url": "/a/1190000016221309",
+      "desc": "AQS，全称AbstractQueuedSynchronizer，是Concurrent包锁的核心，没有AQS就没有Java的Concurrent包。它到底是个什么，我们来看看源码的第一段注解是怎么说明看完第一段，总结下",
+      "author": {
+        "nick": "Zack",
+        "homepage": "/u/zack_587d6bc057a6a"
+      }
+    },
+    {
+      "id": "1190000016221084",
+      "title": "# redis主从结构集群部署",
+      "url": "/a/1190000016221084",
+      "desc": "前期准备 安装redis(可以跳过) 参考oneinstack安装,只安装redis即可,选择性安装.将所有需要部署redis的服务器都装上redis 主服务器部署 编辑 /usr/local/redis/etc/redis.conf,根据实际情况修改以下项 {代码...} ...",
+      "author": {
+        "nick": "直播2144899870",
+        "homepage": "/u/xiaowangzi_5afe4821d9562"
+      }
+    },
+    {
+      "id": "1190000016219388",
+      "title": "一个完整Java Web项目背后的密码",
+      "url": "/a/1190000016219388",
+      "desc": "最近自己做了几个Java Web项目，有公司的商业项目，也有个人做着玩的小项目，写篇文章记录总结一下收获，列举出在做项目的整个过程中，所需要用到的技能和知识点，带给还没有真正接触过完整Java Web项目的同学一...",
+      "author": {
+        "nick": "程序员小灰",
+        "homepage": "/u/chengxuyuanxiaohui"
+      }
+    },
+    {
+      "id": "1190000016219191",
+      "title": "第一章--Spring之旅",
+      "url": "/a/1190000016219191",
+      "desc": "完整代码请见：[链接]为了降低Java开发的复杂性，Spring采用了以下4种策略： 基于pojo的轻量级和最小侵入式编程 通过依赖注入和面向接口实现松耦合 基于切面和惯例进行声明式编程 通过切面和模板减少样本式代码 ...",
+      "author": {
+        "nick": "YellowStar5",
+        "homepage": "/u/yellowstar5"
+      }
+    },
+    {
+      "id": "1190000016218798",
+      "title": "java5-8新特性的理解",
+      "url": "/a/1190000016218798",
+      "desc": "在java程序中调用方法时，必须严格按照方法定义的变量进行参数传递。但是在开发过程中可能会出现一种情况：不确定要传递的参数个数。解决这个问题的思路是将多个参数封装为数组。这是一个打折扣的方法，因为数组...",
+      "author": {
+        "nick": "etheon",
+        "homepage": "/u/etheon"
+      }
+    },
+    {
+      "id": "1190000016215881",
+      "title": "【跃迁之路】【571天】程序员高效学习方法论探索系列（实验阶段328-2018.08.30）",
+      "url": "/a/1190000016215881",
+      "desc": "从2018.7.1起，【跃迁之路】奖励金计划正式起航，从今以后，， 每月1日，我会将自己个人上月收入的1%计入【跃迁之路】奖励金池，积累到足够金额后，将适时用于奖励那些虽然身处困境，却依然不放弃努力，通过坚持...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000016215193",
+      "title": "两个月的Java实习结束，继续努力",
+      "url": "/a/1190000016215193",
+      "desc": "第一天是期待的：第一次将项目拉到本地上看的时候，代码很多，有非常多的模块，模块下又有dao/service/controller/form/bean，眼花缭乱的。再连上测试库，也发现有100多张表。~~顺着一些模块看下去，发现用的技术...",
+      "author": {
+        "nick": "Java3y",
+        "homepage": "/u/java_3y"
+      }
+    },
+    {
+      "id": "1190000016214610",
+      "title": "Java多线程进阶（二八）—— J.U.C之collections框架：CopyOnWriteArraySet",
+      "url": "/a/1190000016214610",
+      "desc": "CopyOnWriteArraySet，是另一类适合并发环境的SET工具类，也是在JDK1.5时，随着J.U.C包一起引入的。我们之前已经介绍过了ConcurrentSkipListSet，ConcurrentSkipListSet底层基于Skip List（跳表）实现，其操作平...",
+      "author": {
+        "nick": "NIT_EIP",
+        "homepage": "/u/niteip"
+      }
+    },
+    {
+      "id": "1190000016214572",
+      "title": "Java多线程进阶（二七）—— J.U.C之collections框架：CopyOnWriteArrayList",
+      "url": "/a/1190000016214572",
+      "desc": "ArrayList是一种“列表”数据机构，其底层是通过数组来实现元素的随机访问。JDK1.5之前，如果想要在并发环境下使用“列表”，一般有以下3种方式：",
+      "author": {
+        "nick": "NIT_EIP",
+        "homepage": "/u/niteip"
+      }
+    },
+    {
+      "id": "1190000016214450",
+      "title": "Java多线程进阶（二六）—— J.U.C之collections框架：ConcurrentSkipListSet",
+      "url": "/a/1190000016214450",
+      "desc": "ConcurrentSkipListSet，是JDK1.6时J.U.C新增的一个集合工具类，顾名思义，它是一种SET类型。",
+      "author": {
+        "nick": "NIT_EIP",
+        "homepage": "/u/niteip"
+      }
+    },
+    {
+      "id": "1190000016214109",
+      "title": "java学习(二) —— java基础语法 ",
+      "url": "/a/1190000016214109",
+      "desc": "java的基础语法大体就包括：关键字，标识符，注释，常量，进制和进制转换，变量，数据类型和类型转换，运算符，语句",
+      "author": {
+        "nick": "繁星落眼眶",
+        "homepage": "/u/fanxingluoyankuang"
+      }
+    },
+    {
+      "id": "1190000016212570",
+      "title": "测试文章标题",
+      "url": "/a/1190000016212570",
+      "desc": "这是内容简介本我是个很赞很久没有联系方式请见图片中是没有",
+      "author": {
+        "nick": "chenxiuxiang",
+        "homepage": "/u/chenxiuxiang"
+      }
+    },
+    {
+      "id": "1190000016212569",
+      "title": "测试文章标题",
+      "url": "/a/1190000016212569",
+      "desc": "这是内容简介本我是个很赞很久没有联系方式请见图片中是没有",
+      "author": {
+        "nick": "chenxiuxiang",
+        "homepage": "/u/chenxiuxiang"
+      }
+    },
+    {
+      "id": "1190000016209775",
+      "title": "线程交替执行",
+      "url": "/a/1190000016209775",
+      "desc": "方法1： {代码...} 方法2： {代码...}",
+      "author": {
+        "nick": "JeffreyLcm",
+        "homepage": "/u/jeffreylcm"
+      }
+    }
+  ]
+}
