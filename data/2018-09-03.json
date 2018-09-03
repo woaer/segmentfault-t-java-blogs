@@ -1,0 +1,155 @@
+{
+  "watchNum": "27502",
+  "blogs": [
+    {
+      "id": "1190000016248143",
+      "title": "Java多线程进阶（二九）—— J.U.C之collections框架：ConcurrentLinkedQueue",
+      "url": "/a/1190000016248143",
+      "desc": "ConcurrentLinkedQueue是JDK1.5时随着J.U.C一起引入的一个支持并发环境的队列。从名字就可以看出来，ConcurrentLinkedQueue底层是基于链表实现的。",
+      "author": {
+        "nick": "NIT_EIP",
+        "homepage": "/u/niteip"
+      }
+    },
+    {
+      "id": "1190000016245661",
+      "title": "slf4j 的实现发现",
+      "url": "/a/1190000016245661",
+      "desc": "SLF4J，即简单日志门面（Simple Logging Facade for Java），不是具体的日志解决方案，而是通过Facade Pattern提供一些Java logging API，它只服务于各种各样的日志系统。按照官方的说法，SLF4J是一个用于日志系...",
+      "author": {
+        "nick": "mzqhfiaw",
+        "homepage": "/u/mzqhfiaw"
+      }
+    },
+    {
+      "id": "1190000016244420",
+      "title": "「造个轮子」——cicada(轻量级 WEB 框架)",
+      "url": "/a/1190000016244420",
+      "desc": "前言 俗话说 「不要重复造轮子」，关于是否有必要不再本次讨论范围。 创建这个项目的主要目的还是提升自己，看看和知名类开源项目的差距以及学习优秀的开源方式。 好了，现在着重来谈谈 cicada 这个项目的核心功...",
+      "author": {
+        "nick": "crossoverJie",
+        "homepage": "/u/crossoverjie"
+      }
+    },
+    {
+      "id": "1190000016243211",
+      "title": "第三章 高级装配",
+      "url": "/a/1190000016243211",
+      "desc": "环境与profile 是否启用某个bean，常用于数据库bean通过profile启用不同的bean，特别是对于各种不同的数据库（开发线，测试线，正式线），尤其管用。1.1第一步 配置profile bean。通过@Profile修饰类或者方法名，...",
+      "author": {
+        "nick": "YellowStar5",
+        "homepage": "/u/yellowstar5"
+      }
+    },
+    {
+      "id": "1190000016243720",
+      "title": "夯实基础-java equals使用，和 == 的区别",
+      "url": "/a/1190000016243720",
+      "desc": "在研究hashcode的用法，发现自己对equals的理解还不够深，废话少说，继续专研，记录如下： 要想搞清楚equals和==的区别，就先要搞清楚JAVA的数据类型： java的数据类型只要分两大类： 基本数据类型 引用数据类型 ...",
+      "author": {
+        "nick": "韩信信",
+        "homepage": "/u/hanxinxin"
+      }
+    },
+    {
+      "id": "1190000016243186",
+      "title": "第二章 装配Bean",
+      "url": "/a/1190000016243186",
+      "desc": "完整代码请见：[链接] 创建应用对象之间协作关系的行为通常称为装配（wiring），这也是依赖注入（DI）的本质。",
+      "author": {
+        "nick": "YellowStar5",
+        "homepage": "/u/yellowstar5"
+      }
+    },
+    {
+      "id": "1190000016242642",
+      "title": "12因子应用文档（二）",
+      "url": "/a/1190000016242642",
+      "desc": "大部分编程语言提供一套分发支持库的打包系统， 比如Perl的CPAN或Ruby的Rubygems。从打包系统安装的二方库可以在系统层面(众所周知的“site packages”)或包含应用的目录区域（众所周知的“vendoring”或“bundling”）。",
+      "author": {
+        "nick": "祝坤荣",
+        "homepage": "/u/zhukunrong"
+      }
+    },
+    {
+      "id": "1190000016241848",
+      "title": "897-递增顺序查找树",
+      "url": "/a/1190000016241848",
+      "desc": "给定一个树，按顺序重新排列树，使树中最左边的结点现在是树的根，并且每个结点没有左子结点，只有一个右子结点。",
+      "author": {
+        "nick": "Null",
+        "homepage": "/u/null_ryan"
+      }
+    },
+    {
+      "id": "1190000016241720",
+      "title": "【跃迁之路】【574天】程序员高效学习方法论探索系列（实验阶段331-2018.09.02）",
+      "url": "/a/1190000016241720",
+      "desc": "从2018.7.1起，【跃迁之路】奖励金计划正式起航，从今以后，， 每月1日，我会将自己个人上月收入的1%计入【跃迁之路】奖励金池，积累到足够金额后，将适时用于奖励那些虽然身处困境，却依然不放弃努力，通过坚持...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000016241680",
+      "title": "《Java8实战》-第五章读书笔记（使用流Stream-01）",
+      "url": "/a/1190000016241680",
+      "desc": "在上一篇的读书笔记中，我们已经看到了流让你从外部迭代转向内部迭代。这样，你就用不着写下面这样的代码来显式地管理数据集合的迭代（外部迭代）了：",
+      "author": {
+        "nick": "NGLSL",
+        "homepage": "/u/nglsl666"
+      }
+    },
+    {
+      "id": "1190000016241493",
+      "title": "虚拟机类加载机制",
+      "url": "/a/1190000016241493",
+      "desc": "注：本篇文章中的内容是根据《深入理解Java虚拟机--JVM高级特性与最佳实践》而总结的，如有理解错误，欢迎大家指正！",
+      "author": {
+        "nick": "Silence",
+        "homepage": "/u/silence_5b3103c2c0c2f"
+      }
+    },
+    {
+      "id": "1190000016241283",
+      "title": "Java学习笔记——封装",
+      "url": "/a/1190000016241283",
+      "desc": "我们日常使用的电脑主机，把CPU、内存、主板等等都封装到机箱里面去。假如没有机箱的话出现什么问题，主机、主板全部都散落在一处，然后开机没有开机按钮，那么需要我们直接操作跳线才能把电脑开启。这样子如果操...",
+      "author": {
+        "nick": "sf_wangchong",
+        "homepage": "/u/sf_wangchong"
+      }
+    },
+    {
+      "id": "1190000016240755",
+      "title": "限流器及Guava实现分析",
+      "url": "/a/1190000016240755",
+      "desc": "In computer networks, rate limiting is used to control the rate of traffic sent or received by a network interface controller and is used to prevent DoS attacks.",
+      "author": {
+        "nick": "BlueRhino",
+        "homepage": "/u/bluerhino"
+      }
+    },
+    {
+      "id": "1190000016240724",
+      "title": " 我理解的数据结构（四）—— 链表（Linked List）",
+      "url": "/a/1190000016240724",
+      "desc": "我理解的数据结构（四）—— 链表（Linked List） 一、链表基础 链表与数组的最大区别：链表是一种真正动态的数据结构 数据存储在“节点”中 优点：真正的动态，不需要处理固定容量的问题 缺点：丧失了随机访问的能力...",
+      "author": {
+        "nick": "罗纳尔多Coder",
+        "homepage": "/u/xiezong"
+      }
+    },
+    {
+      "id": "1190000016240416",
+      "title": "Java编译期优化思维导图",
+      "url": "/a/1190000016240416",
+      "desc": "本文参考自来自周志明《深入理解Java虚拟机（第2版）》，拓展内容建议读者可以阅读下这本书。 文字版如下： 编译期优化 javac的编译过程 解析和填充符号表 解析 Parse 词法分析 源代码字符流 -> 标记Token 源...",
+      "author": {
+        "nick": "JinhaoPlus",
+        "homepage": "/u/jinhaoplus"
+      }
+    }
+  ]
+}
