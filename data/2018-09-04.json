@@ -1,0 +1,155 @@
+{
+  "watchNum": "27629",
+  "blogs": [
+    {
+      "id": "1190000016261917",
+      "title": "Spring专题之IOC源码分析",
+      "url": "/a/1190000016261917",
+      "desc": "容器，顾名思义可以用来容纳一切事物。我们平常所说的Spring IOC容器就是一个可以容纳对象的东西。IOC全名Inversion of Control，即控制反转，什么是控制反转？平时我们代码里需要创建一个对象是需要通过new操作...",
+      "author": {
+        "nick": "DearBelinda",
+        "homepage": "/u/dearbelinda"
+      }
+    },
+    {
+      "id": "1190000016261688",
+      "title": "阿里云上搭建VPN（Shdowsocks）",
+      "url": "/a/1190000016261688",
+      "desc": "服务器：阿里云，选择香港的云服务器，2核4G 1M带宽 40G ，操作系统是centos6.0位。操作步骤：1、买好服务器，创建好系统；可以使用SecureCRTPortable进行远程连接（如果忘记密码，可以进入你的阿里云管理控制台...",
+      "author": {
+        "nick": "huangdy",
+        "homepage": "/u/huangdy"
+      }
+    },
+    {
+      "id": "1190000016260662",
+      "title": "SpringMVC入门笔记",
+      "url": "/a/1190000016260662",
+      "desc": "Spring MVC是一种基于Java的实现了Web MVC设计模式的请求驱动类型的轻量级Web框架 ，是Spring系开源项目中的一个，和IoC配合使用。通过策略接口，Spring框架是高度可配置的，而且支持多种视图技术。Spring分离了...",
+      "author": {
+        "nick": "scu酱油仔",
+        "homepage": "/u/scu2jiangyouzi"
+      }
+    },
+    {
+      "id": "1190000016260650",
+      "title": "实现生产者消费者模式的四种方式（Synchronized、Lock、Semaphore、BlockingQueue）",
+      "url": "/a/1190000016260650",
+      "desc": "所谓生产者消费者模式，即N个线程进行生产，同时N个线程进行消费，两种角色通过内存缓冲区进行通信图片来源[链接]",
+      "author": {
+        "nick": "瓦力",
+        "homepage": "/u/wallee"
+      }
+    },
+    {
+      "id": "1190000016260442",
+      "title": "告诉你什么是java并发包、线程池、锁",
+      "url": "/a/1190000016260442",
+      "desc": "并发包java.util.concurrent从jdk1.5开始新加入的一个包，致力于解决并发编程的线程安全问题，使用户能够更为快捷方便的编写多线程情况下的并发程序。",
+      "author": {
+        "nick": "糖宝",
+        "homepage": "/u/tangbao_5a152bb72d2ed"
+      }
+    },
+    {
+      "id": "1190000016257157",
+      "title": "[LeetCode/LintCode] Is Subsequence",
+      "url": "/a/1190000016257157",
+      "desc": "Given a string s and a string t, check if s is subsequence of t.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000016256673",
+      "title": "Hystrix命令入门使用",
+      "url": "/a/1190000016256673",
+      "desc": "Hystrix命令就是我们之前所说的HystrixCommand，他用来封装具体的依赖服务调用逻辑。",
+      "author": {
+        "nick": "旧光影里的少年",
+        "homepage": "/u/jiuguangyinglideshaonian"
+      }
+    },
+    {
+      "id": "1190000016255808",
+      "title": "【跃迁之路】【575天】程序员高效学习方法论探索系列（实验阶段332-2018.09.03）",
+      "url": "/a/1190000016255808",
+      "desc": "从2018.7.1起，【跃迁之路】奖励金计划正式起航，从今以后，， 每月1日，我会将自己个人上月收入的1%计入【跃迁之路】奖励金池，积累到足够金额后，将适时用于奖励那些虽然身处困境，却依然不放弃努力，通过坚持...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000016255777",
+      "title": "70-爬楼梯",
+      "url": "/a/1190000016255777",
+      "desc": "假设你正在爬楼梯。需要 n 阶你才能到达楼顶。每次你可以爬 1 或 2 个台阶。你有多少种不同的方法可以爬到楼顶呢？注意：给定 n 是一个正整数。 示例 1： {代码...} 示例 2： {代码...}",
+      "author": {
+        "nick": "Null",
+        "homepage": "/u/null_ryan"
+      }
+    },
+    {
+      "id": "1190000016255680",
+      "title": "java线程--最小同步锁",
+      "url": "/a/1190000016255680",
+      "desc": "在java中处理线程并发问题，可以简单的加上synchronized，可以在方法或方法内的代码块添加，那现在的问题是，synchronized是锁住了方法还是代码块还是实例对象？加在方法上：",
+      "author": {
+        "nick": "weistar103",
+        "homepage": "/u/weistar103"
+      }
+    },
+    {
+      "id": "1190000016255485",
+      "title": "hadoop集群搭建-hadoop3.1.1",
+      "url": "/a/1190000016255485",
+      "desc": "hadoop集群搭建 环境 centos6.7 虚拟机三台 yh01(主节点) yh02 yh03 一下如无特殊说明都是在主节点上配置 1.下载 [链接] hadoop-3.1.1.tar.gz 2.安装 2.1 参考文档 文档 [链接] 自行选择版本安装 本文按3.1.1示例...",
+      "author": {
+        "nick": "source",
+        "homepage": "/u/webyh"
+      }
+    },
+    {
+      "id": "1190000016255209",
+      "title": "Java编程基础09——面向对象_继承&方法&final",
+      "url": "/a/1190000016255209",
+      "desc": "B:代码块分类 根据其位置和声明的不同，可以分为局部（方法中）代码块，构造代码块，静态代码块，同步代码块(多线程讲解)。",
+      "author": {
+        "nick": "扎瓦",
+        "homepage": "/u/ideas"
+      }
+    },
+    {
+      "id": "1190000016251184",
+      "title": "eoLinker上线两周年+ AMS V4.0 发布：全新UI界面，带来领先的API开发管理解决方案！",
+      "url": "/a/1190000016251184",
+      "desc": "2018年7月，eoLinker 发布了《eoLinker AMS 2018年年中用户调研问卷》,前后经历一周的时间,共收集到超过1000份有效调查问卷、超过300个有效改进意见。",
+      "author": {
+        "nick": "eoLinker",
+        "homepage": "/u/eolinker"
+      }
+    },
+    {
+      "id": "1190000016250234",
+      "title": "从网络IO到Thrift网络模型",
+      "url": "/a/1190000016250234",
+      "desc": "IO多路复用就是通过一种机制，一个进程可以监听多个文件描述符，一个某个描述符就绪（一般是读就绪或写就绪），就能够通知程序进行相应的读写操作。select、poll、epoll本质上都是同步IO，因为他们需要在读写事件...",
+      "author": {
+        "nick": "扑火的蛾",
+        "homepage": "/u/butterflyofzhang"
+      }
+    },
+    {
+      "id": "1190000016249981",
+      "title": "Java中private、protected、public和default的区别",
+      "url": "/a/1190000016249981",
+      "desc": "具有最大的访问权限，可以访问任何一个在classpath下的类、接口、异常等。它往往用于对外的情况，也就是对象或类对外的一种接口的形式。",
+      "author": {
+        "nick": "扎瓦",
+        "homepage": "/u/ideas"
+      }
+    }
+  ]
+}
