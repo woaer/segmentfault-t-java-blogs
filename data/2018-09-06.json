@@ -1,0 +1,155 @@
+{
+  "watchNum": "27886",
+  "blogs": [
+    {
+      "id": "1190000016292017",
+      "title": "设计模式走一遍---观察者模式",
+      "url": "/a/1190000016292017",
+      "desc": "红灯车过，人停；绿灯人过，车停。每天走在马路上，到处可见红绿灯指挥着我们什么时候可以过马路，什么时候不能过马路。无论是人还是车，都时刻关注着红绿灯的状态，一旦红绿灯的状态发生了改变，我们总能第一时...",
+      "author": {
+        "nick": "帅地",
+        "homepage": "/u/iamshuaidi"
+      }
+    },
+    {
+      "id": "1190000016291798",
+      "title": "视频直播系统搭建过程中用到的协议",
+      "url": "/a/1190000016291798",
+      "desc": "视频直播市场的火爆也催化了直播系统开发行业的发展，不少人想要搭建自己的直播平台，想要搭建直播平台就要从基础开始了解直播系统的组成。今天，就跟小编一起来学习一下搭建视频直播系统时可能会用到的协议。一...",
+      "author": {
+        "nick": "直播2144899870",
+        "homepage": "/u/xiaowangzi_5afe4821d9562"
+      }
+    },
+    {
+      "id": "1190000016291487",
+      "title": "rocketmq底层通信模块解析",
+      "url": "/a/1190000016291487",
+      "desc": "Rocketmq的通信层是基于通信框架netty 4.0.21.Final之上做了简单的协议封装,基本的类图如下：",
+      "author": {
+        "nick": "杨辉",
+        "homepage": "/u/qzuser_5831baa1efc7f"
+      }
+    },
+    {
+      "id": "1190000016285746",
+      "title": "Java工程师必备书单",
+      "url": "/a/1190000016285746",
+      "desc": "Java开发工程师一般负责后端开发，当然也有专门做Java Web的工程师，但是随着前后端的分离，越来越多的Java工程师需要往大后端方向发展。",
+      "author": {
+        "nick": "猫大哥",
+        "homepage": "/u/maodage"
+      }
+    },
+    {
+      "id": "1190000016284789",
+      "title": "CAS客户端与SpringSecurity集成",
+      "url": "/a/1190000016284789",
+      "desc": "CAS客户端与SpringSecurity集成 pom.xml {代码...} web.xml {代码...} spring-security.xml {代码...} UserDetailsServiceImpl {代码...}",
+      "author": {
+        "nick": "source",
+        "homepage": "/u/webyh"
+      }
+    },
+    {
+      "id": "1190000016284649",
+      "title": "Java多线程进阶（三十）—— J.U.C之collections框架：ConcurrentLinkedDeque",
+      "url": "/a/1190000016284649",
+      "desc": "在开始讲ConcurrentLinkedDeque之前，我们先来了解下Deque这种数据结构，我们知道Queue是一种具有FIFO特点的数据结构，元素只能在队首进行“入队”操作，在队尾进行“出队”操作。",
+      "author": {
+        "nick": "NIT_EIP",
+        "homepage": "/u/niteip"
+      }
+    },
+    {
+      "id": "1190000016284066",
+      "title": "Spring Boot 最佳实践（四）模板引擎Thymeleaf集成",
+      "url": "/a/1190000016284066",
+      "desc": "Thymeleaf是一种Java XML / XHTML / HTML5模板引擎，可以在Web和非Web环境中使用。它更适合在基于MVC的Web应用程序的视图层提供XHTML / HTML5，但即使在脱机环境中，它也可以处理任何XML文件。它提供了完整的Spri...",
+      "author": {
+        "nick": "王磊",
+        "homepage": "/u/vipstone"
+      }
+    },
+    {
+      "id": "1190000016283947",
+      "title": "【跃迁之路】【577天】程序员高效学习方法论探索系列（实验阶段334-2018.09.05）",
+      "url": "/a/1190000016283947",
+      "desc": "从2018.7.1起，【跃迁之路】奖励金计划正式起航，从今以后，， 每月1日，我会将自己个人上月收入的1%计入【跃迁之路】奖励金池，积累到足够金额后，将适时用于奖励那些虽然身处困境，却依然不放弃努力，通过坚持...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000016283108",
+      "title": "Java 命令行交互输入库 JLine 入门",
+      "url": "/a/1190000016283108",
+      "desc": "我们都知道，软件的用户界面无非分为 GUI （图形用户界面）和 CLI （命令行用户界面）。对于我们经常使用 Linux 的人来说，命令行界面一定非常熟悉。无论是 Shell 里输入命令的界面，还是如 GDB 等软件的内部交互...",
+      "author": {
+        "nick": "nettee",
+        "homepage": "/u/nettee"
+      }
+    },
+    {
+      "id": "1190000016282508",
+      "title": "来聊聊对象",
+      "url": "/a/1190000016282508",
+      "desc": "对象存储作为一种新型存储解决方案, 相对于传统的NAS、SAN 存储, 具有无限扩容、安全可靠、简单易用、高性能、低成本等特点, 可以通过SDK、HTTP RESTFul API、S3 等方式和企业服务集成, 提供高效高性能的存储服务...",
+      "author": {
+        "nick": "青云QingCloud",
+        "homepage": "/u/qingcloud"
+      }
+    },
+    {
+      "id": "1190000016282103",
+      "title": "一步一步实现Tomcat之二——实现一个简单的Servlet容器",
+      "url": "/a/1190000016282103",
+      "desc": "经过上一篇文章《一步一步实现Tomcat——实现一个简单的Web服务器》，我们实现了一个简单的Web服务器，可以响应浏览器请求显示静态Html页面，本文更进一步，实现一个Servlet容器，我们不只能响应静态页面请求，还能...",
+      "author": {
+        "nick": "JerryTse",
+        "homepage": "/u/jerrytse"
+      }
+    },
+    {
+      "id": "1190000016281920",
+      "title": "Servlet学习笔记",
+      "url": "/a/1190000016281920",
+      "desc": "工作以来就一直在用各种web框架，比如SpringMVC，Spring Cloud这些，向外提供接口都很方便，但是一直在想它的内部是怎样对外暴露服务的，正好之前学习java基础的时候也没好好看servlet这块，抽个时间学习总结一下...",
+      "author": {
+        "nick": "scu酱油仔",
+        "homepage": "/u/scu2jiangyouzi"
+      }
+    },
+    {
+      "id": "1190000016280328",
+      "title": "搭建简单的dubbo案例，并实现对数据库的增删改查",
+      "url": "/a/1190000016280328",
+      "desc": "1.创建父工程 pom文件如下(这里只添加几个最简单的依赖) {代码...} 2.创建子工程api工程(主要是写一些实体和接口) pom文件如下 {代码...} 实体如下(Bszn) {代码...} 接口如下 {代码...} 3.创建子工程provider工程...",
+      "author": {
+        "nick": "面壁",
+        "homepage": "/u/mianbi"
+      }
+    },
+    {
+      "id": "1190000016279395",
+      "title": "Java异常处理",
+      "url": "/a/1190000016279395",
+      "desc": "目录 什么是Java异常？ 当一个Exception在程序中发生的时候，JVM是怎么做的呢？ 当我们编写程序的时候如何对待可能出现的异常呢？ 正文 1. 什么是Java异常？ 今天我们来聊聊java异常，异常是导致程序中断执行的一...",
+      "author": {
+        "nick": "scalzdp",
+        "homepage": "/u/scalzdp"
+      }
+    },
+    {
+      "id": "1190000016278380",
+      "title": "初探Angular6.x---主从组件",
+      "url": "/a/1190000016278380",
+      "desc": "在上一篇博文《Angular6.x---用户列表与详情展示》中,我们用ngFor=”let object of list”实现了用户列表的展示,并通过(click)=”onSelect(obj)”语法实现了列表单击时将单击的对象传到后台的功能,最后为了防止初次加...",
+      "author": {
+        "nick": "melon_jj",
+        "homepage": "/u/melon_jj"
+      }
+    }
+  ]
+}
