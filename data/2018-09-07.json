@@ -1,0 +1,155 @@
+{
+  "watchNum": "28027",
+  "blogs": [
+    {
+      "id": "1190000016306666",
+      "title": "什么是程序——新手入门",
+      "url": "/a/1190000016306666",
+      "desc": "我以我的听歌软件为例，你们想到了什么。事实上在我第一次接触的时候，我想到的是哇，酷炫，随意的点击就有不同的事件产生，要是我也能成为这样的工程师，那是再好不过了。",
+      "author": {
+        "nick": "懂子",
+        "homepage": "/u/dongzi_5b912c5fb8ff1"
+      }
+    },
+    {
+      "id": "1190000016306658",
+      "title": "将maven项目划分为多个模块",
+      "url": "/a/1190000016306658",
+      "desc": "将原来product项目拆分为如下3个模块product-server //所有的业务逻辑product-client //对外暴露的接口product-common //公用的对象",
+      "author": {
+        "nick": "卓璋",
+        "homepage": "/u/zhuo_5a2124048a092"
+      }
+    },
+    {
+      "id": "1190000016306601",
+      "title": "Spring专题之Bean初始化源码分析（1）",
+      "url": "/a/1190000016306601",
+      "desc": "Spring IOC容器在初始化之后会对容器中非懒加载的，单例的以及非抽象的bean定义进行bean的初始化操作，同时会也涉及到Bean的后置处理器以及DI（依赖注入）等行为。对于Bean的初始化，Spring是通过第一次调用getBe...",
+      "author": {
+        "nick": "DearBelinda",
+        "homepage": "/u/dearbelinda"
+      }
+    },
+    {
+      "id": "1190000016305850",
+      "title": "值得保存的 synchronized 关键字总结",
+      "url": "/a/1190000016305850",
+      "desc": "本文是对 synchronized 关键字使用、底层原理、JDK1.6之后的底层优化以及和ReenTrantLock对比做的总结。如果没有学过 synchronized 关键字使用的话，阅读起来可能比较费力。两篇比较基础的讲解 synchronized 关键...",
+      "author": {
+        "nick": "Snailclimb",
+        "homepage": "/u/snailclimb"
+      }
+    },
+    {
+      "id": "1190000016305544",
+      "title": "【RabbitMQ】——centos7安装rabbitmq教程 以及 PHP开启rabbitmq扩展",
+      "url": "/a/1190000016305544",
+      "desc": "第一步：安装Erlang 因为rabbitMQ是Erlang语言编写的，所以我们首先需要安装Erlang {代码...} 第二步、安装rabbitMQ-server 官网提供的安装方式： {代码...} 本人安装成功的方式：rpm -Uvh [链接] 第三步、查看ra...",
+      "author": {
+        "nick": "Mrlijie",
+        "homepage": "/u/mrlijie"
+      }
+    },
+    {
+      "id": "1190000016305396",
+      "title": "Spring Boot 最佳实践（五）Spring Data JPA 操作 MySQL 8",
+      "url": "/a/1190000016305396",
+      "desc": "JPA（Java Persistence API）Java持久化API，是 Java 持久化的标准规范，Hibernate是持久化规范的技术实现，而Spring Data JPA是在 Hibernate 基础上封装的一款框架。",
+      "author": {
+        "nick": "王磊",
+        "homepage": "/u/vipstone"
+      }
+    },
+    {
+      "id": "1190000016305366",
+      "title": "经典动态规划--01背包问题",
+      "url": "/a/1190000016305366",
+      "desc": "背包问题具体例子：假设现有容量10kg的背包，另外有3个物品，分别为a1，a2，a3。物品a1重量为3kg，价值为4；物品a2重量为4kg，价值为5；物品a3重量为5kg，价值为6。将哪些物品放入背包可使得背包中的总价值最大？",
+      "author": {
+        "nick": "Twan",
+        "homepage": "/u/twan"
+      }
+    },
+    {
+      "id": "1190000016301432",
+      "title": "金色九月，那些曾经难倒你的面试真题",
+      "url": "/a/1190000016301432",
+      "desc": "九月旺季已经来临，曾经何时，在17年的九月，经过再三考虑，我决定跳出一份干了四年且比较安逸的开发工作，当时下定决心，选择跳槽。最后跟着诸多农码一起涌进了一段为期两个月的面试高峰期。但是在选择跳出后，...",
+      "author": {
+        "nick": "bali",
+        "homepage": "/u/bali_5a0a92fba16aa"
+      }
+    },
+    {
+      "id": "1190000016302440",
+      "title": "源码|jdk源码之LinkedHashMap分析",
+      "url": "/a/1190000016302440",
+      "desc": "HashMap作为一种经典的数据结构，其根据key定位元素能达到平均O(1)的时间复杂度。 但是，存储于HashMap中的元素显然是无序的，遍历HashMap的顺序得看脸。。。那如何使得HashMap里的元素变得有序呢？一种思路是，...",
+      "author": {
+        "nick": "frapples",
+        "homepage": "/u/frapples"
+      }
+    },
+    {
+      "id": "1190000016302402",
+      "title": "百度研发面经",
+      "url": "/a/1190000016302402",
+      "desc": "本文出自我的公众号：程序员江湖。更多技术文章和校招干货，请关注我的公众号。 百度研发面经 百度智能云 软件研发工程师         百度今年的提前批有点奇怪，好像都不走流程，牛客上好几个百度内推的帖子，我投...",
+      "author": {
+        "nick": "猫大哥",
+        "homepage": "/u/maodage"
+      }
+    },
+    {
+      "id": "1190000016302386",
+      "title": "腾讯研发面经",
+      "url": "/a/1190000016302386",
+      "desc": "本文出自我的公众号：程序员江湖。更多技术文章和校招干货，请关注我的公众号。 腾讯研发面经 腾讯SNG 后台开发工程师 大概是8月初投的简历，当时没有选事业群，第二天直接被sng捞了，抓着我一顿面试。 一周内就...",
+      "author": {
+        "nick": "猫大哥",
+        "homepage": "/u/maodage"
+      }
+    },
+    {
+      "id": "1190000016302210",
+      "title": "【Leetcode】61.旋转链表",
+      "url": "/a/1190000016302210",
+      "desc": "作者: 码蹄疾毕业于哈尔滨工业大学。 小米广告第三代广告引擎的设计者、开发者；负责小米应用商店、日历、开屏广告业务线研发；主导小米广告引擎多个模块重构；关注推荐、搜索、广告领域相关知识;",
+      "author": {
+        "nick": "Acceml",
+        "homepage": "/u/acceml"
+      }
+    },
+    {
+      "id": "1190000016300610",
+      "title": "【跃迁之路】【578天】程序员高效学习方法论探索系列（实验阶段335-2018.09.06）",
+      "url": "/a/1190000016300610",
+      "desc": "从2018.7.1起，【跃迁之路】奖励金计划正式起航，从今以后，， 每月1日，我会将自己个人上月收入的1%计入【跃迁之路】奖励金池，积累到足够金额后，将适时用于奖励那些虽然身处困境，却依然不放弃努力，通过坚持...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000016296983",
+      "title": "Elasticsearch  插入时间字段时数据格式问题",
+      "url": "/a/1190000016296983",
+      "desc": "elasticsearch创建index的之后，可以设置mapping。如果mapping中没有设置date的format，那么默认为两种格式strict_date_optional_time||epoch_millis ,其中新版strict_date_optional_time移除了前缀strict_。",
+      "author": {
+        "nick": "天纵",
+        "homepage": "/u/tianzong"
+      }
+    },
+    {
+      "id": "1190000016296278",
+      "title": "Java多线程进阶（三一）—— J.U.C之collections框架：BlockingQueue接口",
+      "url": "/a/1190000016296278",
+      "desc": "从本节开始，我们将介绍juc-collections框架中的“阻塞队列”部分。阻塞队列在实际应用中非常广泛，许多消息中间件中定义的队列，通常就是一种“阻塞队列”。",
+      "author": {
+        "nick": "NIT_EIP",
+        "homepage": "/u/niteip"
+      }
+    }
+  ]
+}
