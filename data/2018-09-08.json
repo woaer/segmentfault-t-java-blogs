@@ -1,0 +1,155 @@
+{
+  "watchNum": "28156",
+  "blogs": [
+    {
+      "id": "1190000016316181",
+      "title": "在XMLSignature中使用BouncyCastle做RSA",
+      "url": "/a/1190000016316181",
+      "desc": "There is an article shows demo code for making XMLSignature by using Java XML Digital Signature API, where it actually uses org.jcp.xml.dsig.internal.dom.XMLDSigRI to do DOM formation, and the firs...",
+      "author": {
+        "nick": "Honwhy",
+        "homepage": "/u/honwhy"
+      }
+    },
+    {
+      "id": "1190000016315625",
+      "title": "【Leetcode】62. 不同路径",
+      "url": "/a/1190000016315625",
+      "desc": "作者: 码蹄疾毕业于哈尔滨工业大学。 小米广告第三代广告引擎的设计者、开发者；负责小米应用商店、日历、开屏广告业务线研发；主导小米广告引擎多个模块重构；关注推荐、搜索、广告领域相关知识;",
+      "author": {
+        "nick": "Acceml",
+        "homepage": "/u/acceml"
+      }
+    },
+    {
+      "id": "1190000016315487",
+      "title": "Java多线程进阶（三三）—— J.U.C之collections框架：LinkedBlockingQueue",
+      "url": "/a/1190000016315487",
+      "desc": "LinkedBlockingQueue是在JDK1.5时，随着J.U.C包引入的一种阻塞队列，它实现了BlockingQueue接口，底层基于单链表实现：",
+      "author": {
+        "nick": "NIT_EIP",
+        "homepage": "/u/niteip"
+      }
+    },
+    {
+      "id": "1190000016315419",
+      "title": "69-x的平方根",
+      "url": "/a/1190000016315419",
+      "desc": "实现int sqrt(int x)函数。计算并返回 x 的平方根，其中 x 是非负整数。由于返回类型是整数，结果只保留整数的部分，小数部分将被舍去。示例 1: {代码...} 示例 2: {代码...}",
+      "author": {
+        "nick": "Null",
+        "homepage": "/u/null_ryan"
+      }
+    },
+    {
+      "id": "1190000016314555",
+      "title": "【跃迁之路】【579天】程序员高效学习方法论探索系列（实验阶段336-2018.09.07）",
+      "url": "/a/1190000016314555",
+      "desc": "从2018.7.1起，【跃迁之路】奖励金计划正式起航，从今以后，， 每月1日，我会将自己个人上月收入的1%计入【跃迁之路】奖励金池，积累到足够金额后，将适时用于奖励那些虽然身处困境，却依然不放弃努力，通过坚持...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000016314534",
+      "title": "java学习(六) —— java中String和StringBuffer的区别",
+      "url": "/a/1190000016314534",
+      "desc": "尤其String，经常看到类似这样的赋值代码 String str = \"Hello World\",看起来就好像int一样以为是java的基本数据类型，其实不是，String是一个类，是一个特殊的类，可以像基本数据类型一样直接赋值。",
+      "author": {
+        "nick": "繁星落眼眶",
+        "homepage": "/u/fanxingluoyankuang"
+      }
+    },
+    {
+      "id": "1190000016313947",
+      "title": "那些年，我们一起误解过的REST",
+      "url": "/a/1190000016313947",
+      "desc": "最近几年REST API越来越流行，特别是随着微服务的概念被广泛接受和应用，很多Web Service都使用了REST API。",
+      "author": {
+        "nick": "腾讯云加社区",
+        "homepage": "/u/qcloudcommunity"
+      }
+    },
+    {
+      "id": "1190000016313896",
+      "title": "安卓数据库开源框架 litepal 与greenDao之间比较",
+      "url": "/a/1190000016313896",
+      "desc": "这篇文章两个目的一个是为了android开发使用开源数据库框架有个选择标准,一个是郭神的第一行代码中litepal在update时候有点小瑕疵,简单说明一下",
+      "author": {
+        "nick": "20171112",
+        "homepage": "/u/20171112"
+      }
+    },
+    {
+      "id": "1190000016313471",
+      "title": "设计模式走一遍---观察者模式(下)",
+      "url": "/a/1190000016313471",
+      "desc": "对于观察者模式，JDK中提供了一个Observer接口(观察者)，一个Observable类(主题对象)。",
+      "author": {
+        "nick": "帅地",
+        "homepage": "/u/iamshuaidi"
+      }
+    },
+    {
+      "id": "1190000016312526",
+      "title": "【架构】Tomcat单机部署多应用Windows",
+      "url": "/a/1190000016312526",
+      "desc": "Tomcat单机部署多应用-Windows 1、添加新增的Tomcat相关环境变量 {代码...} 2、第一个tomcat不变 3、打开第二个tomcat目录bin下catalina.bat ，即${tomcat}/bin/catalina.bat 4、打开第二个tomcat目录bin下startu...",
+      "author": {
+        "nick": "MySelf",
+        "homepage": "/u/myself_5ab9f390c6129"
+      }
+    },
+    {
+      "id": "1190000016312320",
+      "title": "策略模式",
+      "url": "/a/1190000016312320",
+      "desc": "某公司需要每个周五每名员工都要提交周报，在该公司可以提交周报的行为或者“算法”有：邮箱提交、SVN、Git后两种一般是开发部门使用的(刚开始还没有Git提交方式)。 那么在该场景中我们是如何设计业务逻辑呢？",
+      "author": {
+        "nick": "Eirunye",
+        "homepage": "/u/ug_5b618cc2741af"
+      }
+    },
+    {
+      "id": "1190000016311925",
+      "title": "Java多线程进阶（三二）—— J.U.C之collections框架：ArrayBlockingQueue",
+      "url": "/a/1190000016311925",
+      "desc": "ArrayBlockingQueue是在JDK1.5时，随着J.U.C包引入的一种阻塞队列，它实现了BlockingQueue接口，底层基于数组实现：",
+      "author": {
+        "nick": "NIT_EIP",
+        "homepage": "/u/niteip"
+      }
+    },
+    {
+      "id": "1190000016311834",
+      "title": "Spring专题之Bean初始化源码分析（2）",
+      "url": "/a/1190000016311834",
+      "desc": "这篇是Spring专题Bean初始化的第二篇，主要对bean初始化具体过程的源码分析。上篇博客Spring专题之Bean初始化源码分析（1）中我们对Spring如何开始初始化bean以及bena初始化的总体过程有了大致的了解，接下来就继...",
+      "author": {
+        "nick": "DearBelinda",
+        "homepage": "/u/dearbelinda"
+      }
+    },
+    {
+      "id": "1190000016311260",
+      "title": "【架构】Tomcat单机部署多应用Mac/Linux",
+      "url": "/a/1190000016311260",
+      "desc": "Tomcat单机部署多应用-Mac/Linux 1、修改/etc/profile 增加tomcat环境变量 {代码...} 2、保存退出，输入esc 然后:wq 3、执行：source /etc/profile 使配置文件生效 4、保持第一个Tomcat配置不变 5、打开第二个Tom...",
+      "author": {
+        "nick": "MySelf",
+        "homepage": "/u/myself_5ab9f390c6129"
+      }
+    },
+    {
+      "id": "1190000016311129",
+      "title": "这里是纯干货！2018年深度学习的10个发展预测",
+      "url": "/a/1190000016311129",
+      "desc": "【网易智能讯1月4日消息】我有一种预感，2018年可能是一切都发生戏剧性变化的一年。2017年深度学习取得的惊人突破将在2018年以一种非常有力的方式延续下去。2017年的研究工作将会转移到日常的软件应用中。",
+      "author": {
+        "nick": "王跃广",
+        "homepage": "/u/wangyueguang"
+      }
+    }
+  ]
+}
