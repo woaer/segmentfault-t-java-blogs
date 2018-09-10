@@ -1,0 +1,155 @@
+{
+  "watchNum": "28296",
+  "blogs": [
+    {
+      "id": "1190000016334814",
+      "title": "短视频APP开发行业，你了解多少？",
+      "url": "/a/1190000016334814",
+      "desc": "今年是短视频爆发的一年，人们琐碎的时间都被短视频占据了，好像不知道几个抖音同款网红就out了，就连广场舞大爷大妈都在刷着短视频。短视频就这么侵占了我们的休息时间，火爆程度可见一斑。也有不少投资者将眼光...",
+      "author": {
+        "nick": "直播2144899870",
+        "homepage": "/u/xiaowangzi_5afe4821d9562"
+      }
+    },
+    {
+      "id": "1190000016334781",
+      "title": "vue-admin自定义后台管理系统(二)之vue-cli3创建前端项目",
+      "url": "/a/1190000016334781",
+      "desc": "vue-admin自定义后台管理系统(二)之vue-cli3创建前端项目 安装vue-cli3 vue-cli官方文档 使用vue-cli3创建vue-admin项目 安装完vue-cli3后请使用'vue --version' 测试vue版本是不是3.x版本 你也可以通过 vue ui ...",
+      "author": {
+        "nick": "残风",
+        "homepage": "/u/kingvspan"
+      }
+    },
+    {
+      "id": "1190000016333566",
+      "title": "mybatis注解和xml常用语句",
+      "url": "/a/1190000016333566",
+      "desc": "mybatis注解使用 1.简单crud {代码...} 2.一对一注解 {代码...} 3，一对多注解 mybatis的xml配置 {代码...} 2.通用sql短语 {代码...} 3.需要验证的插入 {代码...} 4.需要验证的更新 {代码...} 5.<!--批量更新t...",
+      "author": {
+        "nick": "wotrd",
+        "homepage": "/u/wotrd"
+      }
+    },
+    {
+      "id": "1190000016325765",
+      "title": "Java多线程——重入锁ReentrantLock源码阅读",
+      "url": "/a/1190000016325765",
+      "desc": "上一章《AQS源码阅读》讲了AQS框架，这次讲讲它的应用类（注意不是子类实现，待会细讲）。ReentrantLock，顾名思义重入锁，但什么是重入，这个锁到底是怎样的，我们来看看类的注解说明ReentrantLock与隐式锁synch...",
+      "author": {
+        "nick": "Zack",
+        "homepage": "/u/zack_587d6bc057a6a"
+      }
+    },
+    {
+      "id": "1190000016331984",
+      "title": "[算法总结] 搞定 BAT 面试——几道常见的子符串算法题",
+      "url": "/a/1190000016331984",
+      "desc": "考虑到篇幅问题，我会分两次更新这个内容。本篇文章只是原文的一部分，我在原文的基础上增加了部分内容以及修改了部分代码和注释。另外，我增加了爱奇艺 2018 秋招 Java：求给定合法括号序列的深度 这道题。所有...",
+      "author": {
+        "nick": "Snailclimb",
+        "homepage": "/u/snailclimb"
+      }
+    },
+    {
+      "id": "1190000016331514",
+      "title": "[LeetCode] Add Binary",
+      "url": "/a/1190000016331514",
+      "desc": "Given two binary strings, return their sum (also a binary string).",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000016331437",
+      "title": "[LeetCode] Group Anagram",
+      "url": "/a/1190000016331437",
+      "desc": "Given an array of strings, group anagrams together.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000016330547",
+      "title": "开发利器之IntelliJ IDEA学习笔记",
+      "url": "/a/1190000016330547",
+      "desc": "这篇文章主要记录的是本人学习使用IntelliJ IDEA的笔记，可能不是特别的详细。旨在记录自己的学习过程，方便日后遇到问题是及时查阅复习，另一方面也希望能帮助像笔者一样从来没使用过IDEA的人快速熟悉IDEA。文章...",
+      "author": {
+        "nick": "AbsolutelyEmpty",
+        "homepage": "/u/absolutelyempty"
+      }
+    },
+    {
+      "id": "1190000016330424",
+      "title": "Java语法糖的编译结果分析（一）",
+      "url": "/a/1190000016330424",
+      "desc": "语法糖（Syntactic Sugar）的出现是为了降低我们编写某些代码时陷入的重复或繁琐，这使得我们使用语法糖后可以写出简明而优雅的代码。在Java中不加工的语法糖代码运行时可不会被虚拟机接受，因此编译器为了让这些...",
+      "author": {
+        "nick": "JinhaoPlus",
+        "homepage": "/u/jinhaoplus"
+      }
+    },
+    {
+      "id": "1190000016330001",
+      "title": "源码|jdk源码之栈、队列及ArrayDeque分析",
+      "url": "/a/1190000016330001",
+      "desc": "栈、队列、双端队列都是非常经典的数据结构。和链表、数组不同，这三种数据结构的抽象层次更高。它只描述了数据结构有哪些行为，而并不关心数据结构内部用何种思路、方式去组织。本篇博文重点关注这三种数据结构...",
+      "author": {
+        "nick": "frapples",
+        "homepage": "/u/frapples"
+      }
+    },
+    {
+      "id": "1190000016329895",
+      "title": "树和树的算法",
+      "url": "/a/1190000016329895",
+      "desc": "树（英语：tree）是一种抽象数据类型（ADT）或是实作这种抽象数据类型的数据结构，用来模拟具有树状结构性质的数据集合。它是由n（n>=1）个有限节点组成一个具有层次关系的集合。把它叫做“树”是因为它看起来像...",
+      "author": {
+        "nick": "Neal",
+        "homepage": "/u/catpro"
+      }
+    },
+    {
+      "id": "1190000016329633",
+      "title": "901-股票价格跨度",
+      "url": "/a/1190000016329633",
+      "desc": "编写一个StockSpanner类，它收集某些股票的每日报价，并返回该股票当日价格的跨度。 今天股票价格的跨度被定义为股票价格小于或等于今天价格的最大连续日数（从今天开始往回数，包括今天）。 例如，如果未来7天股...",
+      "author": {
+        "nick": "Null",
+        "homepage": "/u/null_ryan"
+      }
+    },
+    {
+      "id": "1190000016329497",
+      "title": "Netty 4.x 官方入门指南 [译]",
+      "url": "/a/1190000016329497",
+      "desc": "本篇翻译自netty官方Get Start教程，一方面能把好的文章分享给各位，另一方面能巩固所学的知识。若有错误和遗漏，欢迎各位指出。",
+      "author": {
+        "nick": "风歌",
+        "homepage": "/u/_windy"
+      }
+    },
+    {
+      "id": "1190000016329451",
+      "title": "Json底层一览",
+      "url": "/a/1190000016329451",
+      "desc": "{\"id\":\"a\",\"name\":\"b\"}但是运行这段程序，你会发现控制台打印出来的是如下代码：{\"name\":\"b\",\"id\":\"a\"}",
+      "author": {
+        "nick": "Somersames",
+        "homepage": "/u/somersame"
+      }
+    },
+    {
+      "id": "1190000016328919",
+      "title": "Java编程基础12——Eclipse使用&Object类型",
+      "url": "/a/1190000016328919",
+      "desc": "1.常见开发工具了解 A:操作系统自带的记事本软件 B:高级记事本软件 C:集成开发环境 IDE (Integrated Development Environment) D:Eclipse和MyEclipse的区别 a:Eclipse是一种可扩展的开放源代码的IDE。 b:Eclipse...",
+      "author": {
+        "nick": "扎瓦",
+        "homepage": "/u/ideas"
+      }
+    }
+  ]
+}
