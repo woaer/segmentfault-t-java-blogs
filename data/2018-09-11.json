@@ -1,0 +1,155 @@
+{
+  "watchNum": "28409",
+  "blogs": [
+    {
+      "id": "1190000016351345",
+      "title": "RabbitMq 最全的性能调优笔记",
+      "url": "/a/1190000016351345",
+      "desc": "服务端默认配置是当内存使用达到40%，磁盘空闲空间小于50M，即启动内存报警，磁盘报警；报警后服务端触发流控（flowcontrol）机制。",
+      "author": {
+        "nick": "石志远",
+        "homepage": "/u/shizhiyuan"
+      }
+    },
+    {
+      "id": "1190000016351095",
+      "title": "分布式锁机制原理及实现方式",
+      "url": "/a/1190000016351095",
+      "desc": "在分布式系统中，常常需要协调他们的动作。如果不同的系统或是同一个系统的不同主机之间共享了一个或一组资源，那么访问这些资源的时候，往往需要互斥来防止彼此干扰来保证一致性，在这种情况下，便需要使用到分...",
+      "author": {
+        "nick": "繁星落眼眶",
+        "homepage": "/u/fanxingluoyankuang"
+      }
+    },
+    {
+      "id": "1190000016344364",
+      "title": "Java并发编程：AbstractQueuedSynchronizer的内部结构",
+      "url": "/a/1190000016344364",
+      "desc": "虽然已经有很多前辈已经分析过AbstractQueuedSynchronizer（简称AQS，也叫队列同步器）类，但是感觉那些点始终是别人的，看一遍甚至几遍终不会印象深刻。所以还是记录下来印象更深刻，还能和大家一起探讨（这就是...",
+      "author": {
+        "nick": "bali",
+        "homepage": "/u/bali_5a0a92fba16aa"
+      }
+    },
+    {
+      "id": "1190000016349882",
+      "title": "Broadleaf概念",
+      "url": "/a/1190000016349882",
+      "desc": "本部分是可以找到有关Broadleaf功能和概念的大部分信息的地方。我们描述了购物车修改，定价和付款等操作的重要性，以及Broadleaf支持的其他配置。请使用左侧的菜单浏览本文档。",
+      "author": {
+        "nick": "团结",
+        "homepage": "/u/2006"
+      }
+    },
+    {
+      "id": "1190000016349824",
+      "title": "可能是全网把 ZooKeeper 概念讲的最清楚的一篇文章",
+      "url": "/a/1190000016349824",
+      "desc": "相信大家对 ZooKeeper 应该不算陌生。但是你真的了解 ZooKeeper 是个什么东西吗？如果别人/面试官让你给他讲讲 ZooKeeper 是个什么东西，你能回答到什么地步呢？",
+      "author": {
+        "nick": "Snailclimb",
+        "homepage": "/u/snailclimb"
+      }
+    },
+    {
+      "id": "1190000016348312",
+      "title": "MyBatis 源码分析系列文章合集",
+      "url": "/a/1190000016348312",
+      "desc": "我从七月份开始阅读MyBatis源码，并在随后的40天内陆续更新了7篇文章。起初，我只是打算通过博客的形式进行分享。但在写作的过程中，发现要分析的代码太多，以至于文章篇幅特别大。在这7篇文章中，有4篇文章字数...",
+      "author": {
+        "nick": "coolblog",
+        "homepage": "/u/coolblog"
+      }
+    },
+    {
+      "id": "1190000016348074",
+      "title": "资源分享——Python、Java、Linux、Go、vue、react、javaScript",
+      "url": "/a/1190000016348074",
+      "desc": "又见面了。废话不多说，最近多了一些在校学生关注，并问我有没有 xxxx 学习资料。作为自学出身的程序猿怎么可能没有，这不就整理了一份超全的编程资料分享给你们。其中包括 Python、java、Go、Linux、vue、react...",
+      "author": {
+        "nick": "biaochenxuying",
+        "homepage": "/u/biaochenxuying"
+      }
+    },
+    {
+      "id": "1190000016347836",
+      "title": "Java String常量池",
+      "url": "/a/1190000016347836",
+      "desc": "前者在constant pool中开辟一个常量，并返回相应的引用，而后者是在heap中开辟一个常量，再返回相应的对象。所以，两者的reference肯定是不同的：",
+      "author": {
+        "nick": "geekartt",
+        "homepage": "/u/geekartt"
+      }
+    },
+    {
+      "id": "1190000016347201",
+      "title": "Java编程思想之多线程（一）",
+      "url": "/a/1190000016347201",
+      "desc": "多线程技术是个很庞大的课题，《Java编程思想》这本书（英文版，以下简称TIJ）中也用了136页介绍Java的多线程体系。的确，Java语言发展到今天，多线程机制相比其他的语言从稳定性，API的丰富度上绝对是数一数二的...",
+      "author": {
+        "nick": "matoujun",
+        "homepage": "/u/matoujun"
+      }
+    },
+    {
+      "id": "1190000016326015",
+      "title": "Java多线程—ReentrantReadWriteLock源码阅读",
+      "url": "/a/1190000016326015",
+      "desc": "之前讲了《AQS源码阅读》和《ReentrantLock源码阅读》，本次将延续阅读下ReentrantReadWriteLock，建议没看过之前两篇文章的，先大概了解下，有些内容会基于之前的基础上阅读。这个并不是ReentrantLock简单的升级...",
+      "author": {
+        "nick": "Zack",
+        "homepage": "/u/zack_587d6bc057a6a"
+      }
+    },
+    {
+      "id": "1190000016344278",
+      "title": "Java 内存分配及垃圾回收机制初探",
+      "url": "/a/1190000016344278",
+      "desc": "Java虚拟机在执行Java程序的过程中会把它所管理的内存划分为若干个不同的数据区域。这些区域都有各自的用途，以及创建和销毁的时间，有的区域随着虚拟机进程的启动而存在，有些区域则依赖用户线程的启动和结束而...",
+      "author": {
+        "nick": "bali",
+        "homepage": "/u/bali_5a0a92fba16aa"
+      }
+    },
+    {
+      "id": "1190000016345157",
+      "title": "MyBatis总结（简介）",
+      "url": "/a/1190000016345157",
+      "desc": "Mybatis是一个数据持久层框架，MyBatis消除了几乎所有的JDBC代码和参数的手工设置以及结果集的检索。MyBatis使用简单的XML或者注解用于配置和原始映射，将接口和Java的POJO（Plain Old Java Objects，普通的 Java...",
+      "author": {
+        "nick": "苏生",
+        "homepage": "/u/susheng_579d70745d3d3"
+      }
+    },
+    {
+      "id": "1190000016345113",
+      "title": "springboot配置线程池使用多线程插入数据",
+      "url": "/a/1190000016345113",
+      "desc": "最近在工作中需要将一大批数据导入到数据库中，因为种种原因这些数据不能使用同步数据的方式来进行复制，而是提供了一批文本，文本里面有很多行url地址，需要的字段都包含在这些url中。最开始是使用的正常的普通...",
+      "author": {
+        "nick": "Half",
+        "homepage": "/u/half_5ab2635cc04bc"
+      }
+    },
+    {
+      "id": "1190000016344056",
+      "title": "腾讯云搭建JavaWeb运行环境",
+      "url": "/a/1190000016344056",
+      "desc": "在根目录新建java文件夹，在java文件夹下分别新建tomcat，mysql，jdk文件夹：图片描述",
+      "author": {
+        "nick": "名字真是太难起了",
+        "homepage": "/u/sunx_x"
+      }
+    },
+    {
+      "id": "1190000016344049",
+      "title": "【跃迁之路】【582天】程序员高效学习方法论探索系列（实验阶段339-2018.09.10）",
+      "url": "/a/1190000016344049",
+      "desc": "从2018.7.1起，【跃迁之路】奖励金计划正式起航，从今以后，， 每月1日，我会将自己个人上月收入的1%计入【跃迁之路】奖励金池，积累到足够金额后，将适时用于奖励那些虽然身处困境，却依然不放弃努力，通过坚持...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    }
+  ]
+}
