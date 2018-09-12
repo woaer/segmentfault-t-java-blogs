@@ -1,0 +1,155 @@
+{
+  "watchNum": "28552",
+  "blogs": [
+    {
+      "id": "1190000016366196",
+      "title": "【java并发编程实战6】AQS之独占锁ReentrantLock实现",
+      "url": "/a/1190000016366196",
+      "desc": "自从JDK1.5后，jdk新增一个并发工具包java.util.concurrent，提供了一系列的并发工具类。而今天我们需要学习的是java.util.concurrent.lock也就是它下面的lock包，其中有一个最为常见类ReentrantLock，",
+      "author": {
+        "nick": "YuKong",
+        "homepage": "/u/yukong_597bf9741aee7"
+      }
+    },
+    {
+      "id": "1190000016365098",
+      "title": "LintCode Fizz Buzz 只用一个if语句",
+      "url": "/a/1190000016365098",
+      "desc": "when number is divided by 3, print \"fizz\".when number is divided by 5, print \"buzz\".when number is divided by both 3 and 5, print \"fizz buzz\".Example",
+      "author": {
+        "nick": "diert",
+        "homepage": "/u/diert"
+      }
+    },
+    {
+      "id": "1190000016364565",
+      "title": "百度地图绘制点、图形",
+      "url": "/a/1190000016364565",
+      "desc": "准备条件： 配置百度地图，只要能findViewById（R.id.baidumap）能显示百度地图就ok 定位图片 四个点经纬度 {代码...}",
+      "author": {
+        "nick": "hosition",
+        "homepage": "/u/hosition"
+      }
+    },
+    {
+      "id": "1190000016326062",
+      "title": "你真的懂ThreadPoolExecutor线程池技术吗？看了源码你会有全新的认识",
+      "url": "/a/1190000016326062",
+      "desc": "Java是一门多线程的语言，基本上生产环境的Java项目都离不开多线程。而线程则是其中最重要的系统资源之一，如果这个资源利用得不好，很容易导致程序低效率，甚至是出问题。",
+      "author": {
+        "nick": "Zack",
+        "homepage": "/u/zack_587d6bc057a6a"
+      }
+    },
+    {
+      "id": "1190000016361476",
+      "title": "ovirt笔记：基于ovirt4.0的虚拟资源管理的权限分析",
+      "url": "/a/1190000016361476",
+      "desc": "虚拟资源管理平台是在ovirt4.0的基础上开发的，从原有的一个admin用户扩展成三个管理员用户和普通用户，下面简单分析一下其实现权限管理的原理。",
+      "author": {
+        "nick": "ZCJ爱笑的菇凉",
+        "homepage": "/u/zcjaixiaodeguliang"
+      }
+    },
+    {
+      "id": "1190000016360636",
+      "title": "理解 Java 中的值、指针与引用",
+      "url": "/a/1190000016360636",
+      "desc": "本文主要分三部分介绍 Java 中的值、指针与引用的概念。第一部分从编程语言的三种参数传递方式入手，阐释“为什么 Java 中只有值传递”。第二部分排除自动装箱和自动拆箱的干扰，理解 Integer 等封装类作为参数传值...",
+      "author": {
+        "nick": "Sumkor",
+        "homepage": "/u/sumkor"
+      }
+    },
+    {
+      "id": "1190000016360408",
+      "title": "“生于忧患,死于安乐”之程序员人生",
+      "url": "/a/1190000016360408",
+      "desc": "前言 这本是《孟子》的一首诗词，拿来用有些惭愧。 废话不多讲，本章我们聊聊 “生于忧患,死于安乐” 忧患 上天要把重任降临在某人的身上，一定先要使他心意苦恼，筋骨劳累，使他忍饥挨饿，身体空虚乏力，使他的每...",
+      "author": {
+        "nick": "CrazyCodes",
+        "homepage": "/u/CrazyCodes"
+      }
+    },
+    {
+      "id": "1190000016359551",
+      "title": "Java多线程进阶（三五）—— J.U.C之collections框架：SynchronousQueue",
+      "url": "/a/1190000016359551",
+      "desc": "SynchronousQueue是JDK1.5时，随着J.U.C包一起引入的一种阻塞队列，它实现了BlockingQueue接口，底层基于栈和队列实现：",
+      "author": {
+        "nick": "NIT_EIP",
+        "homepage": "/u/niteip"
+      }
+    },
+    {
+      "id": "1190000016359280",
+      "title": "【跃迁之路】【583天】程序员高效学习方法论探索系列（实验阶段340-2018.09.11）",
+      "url": "/a/1190000016359280",
+      "desc": "从2018.7.1起，【跃迁之路】奖励金计划正式起航，从今以后，， 每月1日，我会将自己个人上月收入的1%计入【跃迁之路】奖励金池，积累到足够金额后，将适时用于奖励那些虽然身处困境，却依然不放弃努力，通过坚持...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000016357524",
+      "title": "MySQL SQL模式特点汇总",
+      "url": "/a/1190000016357524",
+      "desc": "MySQL服务器可以在不同的SQL模式下运行，并且可以针对不同的客户端以不同的方式应用这些模式，具体取决于sql_mode系统变量的值。DBA可以设置全局SQL模式以匹配站点服务器操作要求，并且每个应用程序可以将其会话S...",
+      "author": {
+        "nick": "CrazyCodes",
+        "homepage": "/u/CrazyCodes"
+      }
+    },
+    {
+      "id": "1190000016357287",
+      "title": "技术选型：Sentinel vs Hystrix",
+      "url": "/a/1190000016357287",
+      "desc": "摘要： 这是围绕 Sentinel 的使用场景、技术对比和实现、开发者实践等维度推出的系列文章的第三篇。 » 第一篇回顾： Dubbo 的流量防卫兵 | Sentinel如何通过限流实现服务的高可用性 - 传送门 » 第二篇回顾： Rock...",
+      "author": {
+        "nick": "暖忆",
+        "homepage": "/u/nuanyi"
+      }
+    },
+    {
+      "id": "1190000016356896",
+      "title": "java学习(七) —— API集合类",
+      "url": "/a/1190000016356896",
+      "desc": "在编程中，常常需要集中存放多个数据。从传统意义上讲，数组是我们的一个很好的选择，前提是我们实现已经明确知道我们将要保存的对象的数量。",
+      "author": {
+        "nick": "繁星落眼眶",
+        "homepage": "/u/fanxingluoyankuang"
+      }
+    },
+    {
+      "id": "1190000016356796",
+      "title": "android采用MVP漫画APP、适配刘海屏、小黄车主界面、录音波浪动画、综合APP等源码",
+      "url": "/a/1190000016356796",
+      "desc": "Android精选源码 一款采用MVP架构的仿完整漫画APP源码 Android适配刘海屏幕 基于Xmpp协议的即时通讯社交软件(客户端+服务端) Android小黄车(ofo)app主页菜单效果 一款mvp开发框架 RxJava+Retrofit+MVP打造高颜值A...",
+      "author": {
+        "nick": "ld11620967",
+        "homepage": "/u/ld11620967"
+      }
+    },
+    {
+      "id": "1190000016356141",
+      "title": "Java的方法参数传递——值传递or引用传递？",
+      "url": "/a/1190000016356141",
+      "desc": "有种流行的观点说String的另外一个特殊之处在于，在方法调用传参数时，String是按值传递的，其他普通对象是引用传递。",
+      "author": {
+        "nick": "yangyangxian",
+        "homepage": "/u/yangyangxian"
+      }
+    },
+    {
+      "id": "1190000016355993",
+      "title": "从用户模式角度看零拷贝",
+      "url": "/a/1190000016355993",
+      "desc": "​ 到目前为止，每个人都听说过Linux下所谓的零拷贝功能，但我遇到有些人对这个主题没有完全理解，正因为如此，我决定写几篇文章来更深入研究下这个问题，希望能够阐明这个有用的特性；这本文中，我们将从用户模式...",
+      "author": {
+        "nick": "杨辉",
+        "homepage": "/u/qzuser_5831baa1efc7f"
+      }
+    }
+  ]
+}
