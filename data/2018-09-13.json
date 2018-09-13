@@ -1,0 +1,155 @@
+{
+  "watchNum": "28684",
+  "blogs": [
+    {
+      "id": "1190000016381765",
+      "title": "Java基础笔记（一）",
+      "url": "/a/1190000016381765",
+      "desc": "常量与变量 常量：final 常量类型 常量标识符[=数值]变量：变量类型 变量名[=数值] 数据类型 基本数据类型 数值型(整数型Ⅰ、浮点型Ⅱ) 字符型(char) 布尔型(boolean) 引用数据类型 类 接口 数组 Ⅰ、字节型：byte;...",
+      "author": {
+        "nick": "司木",
+        "homepage": "/u/evasimu"
+      }
+    },
+    {
+      "id": "1190000016326103",
+      "title": "零基础带你看Spring源码——IOC控制反转",
+      "url": "/a/1190000016326103",
+      "desc": "本章开始来学习下Spring的源码，看看Spring框架最核心、最常用的功能是怎么实现的。网上介绍Spring，说源码的文章，大多数都是生搬硬推，都是直接看来的观点换个描述就放出来。这并不能说有问题，但没有从一个很...",
+      "author": {
+        "nick": "Zack",
+        "homepage": "/u/zack_587d6bc057a6a"
+      }
+    },
+    {
+      "id": "1190000016376216",
+      "title": "RabbitMQ和Kafka到底怎么选？",
+      "url": "/a/1190000016376216",
+      "desc": "开源社区有好多优秀的队列中间件，比如RabbitMQ和Kafka，每个队列都貌似有其特性，在进行工程选择时，往往眼花缭乱，不知所措。对于RabbitMQ和Kafka，到底应该选哪个？",
+      "author": {
+        "nick": "bali",
+        "homepage": "/u/bali_5a0a92fba16aa"
+      }
+    },
+    {
+      "id": "1190000016377710",
+      "title": " 【Leetcode】66. 加一",
+      "url": "/a/1190000016377710",
+      "desc": "作者: 码蹄疾毕业于哈尔滨工业大学。 小米广告第三代广告引擎的设计者、开发者；负责小米应用商店、日历、开屏广告业务线研发；主导小米广告引擎多个模块重构；关注推荐、搜索、广告领域相关知识;",
+      "author": {
+        "nick": "Acceml",
+        "homepage": "/u/acceml"
+      }
+    },
+    {
+      "id": "1190000016376666",
+      "title": "使用Mybatis遇到的there is no getter 异常",
+      "url": "/a/1190000016376666",
+      "desc": "在使用mybatis的时候有时候会遇到一个问题就是明明参数是正确的，但是还是会提示There is no getter XXX这个异常，但是一般的解决办法是在mapper里面添加@Param注解来完成是别的，那么为什么会遇到这个问题呢？",
+      "author": {
+        "nick": "Somersames",
+        "homepage": "/u/somersame"
+      }
+    },
+    {
+      "id": "1190000016376631",
+      "title": "JDK8安装与环境变量配置",
+      "url": "/a/1190000016376631",
+      "desc": "安装jdk1.8及配置环境变量，jdk下载地址： [链接] {代码...} 安装完成直接环境配置 系统变量→新建 JAVA_HOME 变量 。变量值填写jdk的安装目录（本人是 C:Program Files (x86)Javajdk1.8.0_71) 系统变量→寻找 Path...",
+      "author": {
+        "nick": "wait",
+        "homepage": "/u/wait_5b992631a24de"
+      }
+    },
+    {
+      "id": "1190000016375429",
+      "title": "源码|jdk源码之Object及装箱类型分析",
+      "url": "/a/1190000016375429",
+      "desc": "jdk源码读到现在这里，重要的集合类也读了一部分了。集合类再往下读的话，就要涉及到两个方向。第一，是比较典型的但是不常用的数据结构，这部分我准备将数据结构复习、回顾后再继续阅读。第二，是并发相关的集合...",
+      "author": {
+        "nick": "frapples",
+        "homepage": "/u/frapples"
+      }
+    },
+    {
+      "id": "1190000016375388",
+      "title": "【跃迁之路】【584天】程序员高效学习方法论探索系列（实验阶段341-2018.09.12）",
+      "url": "/a/1190000016375388",
+      "desc": "从2018.7.1起，【跃迁之路】奖励金计划正式起航，从今以后，， 每月1日，我会将自己个人上月收入的1%计入【跃迁之路】奖励金池，积累到足够金额后，将适时用于奖励那些虽然身处困境，却依然不放弃努力，通过坚持...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000016375312",
+      "title": "MyBatis理解与掌握（入门例子）",
+      "url": "/a/1190000016375312",
+      "desc": "这个类可以被实例化、使用和丢弃， 一旦创建了 SqlSessionFactory，就不再需要它了 。因此 SqlSessionFactoryBuilder 实例的最佳作用域是方法作用域（也就是局部方法变量）。",
+      "author": {
+        "nick": "苏生",
+        "homepage": "/u/susheng_579d70745d3d3"
+      }
+    },
+    {
+      "id": "1190000016375251",
+      "title": "Java的初始化顺序",
+      "url": "/a/1190000016375251",
+      "desc": "需要考虑的”初始化“或者说”调用“部分就4个： member method 特殊的method：constructor。 特殊的member：static member/block。 理解记忆方式： 对单独一个method来讲，它所在的类已经被构建了，所以它所在类的co...",
+      "author": {
+        "nick": "geekartt",
+        "homepage": "/u/geekartt"
+      }
+    },
+    {
+      "id": "1190000016374807",
+      "title": "Spring Boot（六）集成 MyBatis 操作 MySQL 8",
+      "url": "/a/1190000016374807",
+      "desc": "MyBatis 是一款优秀的持久层框架，它支持定制化 SQL、存储过程以及高级映射。MyBatis 避免了几乎所有的 JDBC代码和手动设置参数以及获取结果集。",
+      "author": {
+        "nick": "王磊",
+        "homepage": "/u/vipstone"
+      }
+    },
+    {
+      "id": "1190000016374634",
+      "title": "redis各数据类型应用概述",
+      "url": "/a/1190000016374634",
+      "desc": "redis是一个开源的使用ANSI C语言编写、支持网络、可基于内存、亦可持久化的日志型、key-value数据库，并提供多种语言的API。",
+      "author": {
+        "nick": "繁星落眼眶",
+        "homepage": "/u/fanxingluoyankuang"
+      }
+    },
+    {
+      "id": "1190000016371770",
+      "title": "[LeetCode] Island Perimeter",
+      "url": "/a/1190000016371770",
+      "desc": "You are given a map in form of a two-dimensional integer grid where 1 represents land and 0 represents water. Grid cells are connected horizontally/vertically (not diagonally). The grid is complete...",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000016371318",
+      "title": "[LeetCode] Path Sum (I & II & III)",
+      "url": "/a/1190000016371318",
+      "desc": "Given a binary tree and a sum, determine if the tree has a root-to-leaf path such that adding up all the values along the path equals the given sum.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000016371263",
+      "title": "Drill storage plugin实现原理分析",
+      "url": "/a/1190000016371263",
+      "desc": "Drill是一个交互式SQL查询引擎，官方默认支持的数据源有hive、hbase、kafka、kudu、mongo、opentsdb、jdbc等，其中jdbc storage plugin可以覆盖所有支持jdbc协议的数据源，如：mysql、oracle等关系型数据库。所有...",
+      "author": {
+        "nick": "阿里云云栖社区",
+        "homepage": "/u/yunqishequ_5aa899aad5395"
+      }
+    }
+  ]
+}
