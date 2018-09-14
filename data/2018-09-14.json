@@ -1,0 +1,155 @@
+{
+  "watchNum": "28818",
+  "blogs": [
+    {
+      "id": "1190000016398154",
+      "title": "代码规范实战",
+      "url": "/a/1190000016398154",
+      "desc": "Short-circuit logic （短路逻辑）should be used to prevent null pointer dereferences （防止条件中的空指针）in conditionals",
+      "author": {
+        "nick": "rockyzhang",
+        "homepage": "/u/rockyzhang_javalearningnote"
+      }
+    },
+    {
+      "id": "1190000016396757",
+      "title": "你只差这两步 | 将Sentinel 控制台应用于生产环境",
+      "url": "/a/1190000016396757",
+      "desc": "摘要： 这是围绕 Sentinel 的使用场景、技术对比和实现、开发者实践等维度推出的系列文章的第四篇。 第一篇回顾：Dubbo 的流量防卫兵 | Sentinel如何通过限流实现服务的高可用性 - 传送门 第二篇回顾：RocketMQ ...",
+      "author": {
+        "nick": "阿里云云栖社区",
+        "homepage": "/u/yunqishequ_5aa899aad5395"
+      }
+    },
+    {
+      "id": "1190000016395404",
+      "title": "【跃迁之路】【586天】程序员高效学习方法论探索系列（实验阶段343-2018.09.14）",
+      "url": "/a/1190000016395404",
+      "desc": "从2018.7.1起，【跃迁之路】奖励金计划正式起航，从今以后，， 每月1日，我会将自己个人上月收入的1%计入【跃迁之路】奖励金池，积累到足够金额后，将适时用于奖励那些虽然身处困境，却依然不放弃努力，通过坚持...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000016393473",
+      "title": "服务限流(自定义注解令牌桶算法)",
+      "url": "/a/1190000016393473",
+      "desc": "令牌桶会以一个恒定的速率向固定容量大小桶中放入令牌，当有浏览来时取走一个或者多个令牌,当发生高并发情况下拿到令牌的执行业务逻辑,没有获取到令牌的就会丢弃获取服务降级处理,提示一个友好的错误信息给用户。",
+      "author": {
+        "nick": "只写BUG的攻城狮",
+        "homepage": "/u/zhixiebugdegongchengshi"
+      }
+    },
+    {
+      "id": "1190000016326147",
+      "title": "你真的完全了解Java动态代理吗？看这篇就够了",
+      "url": "/a/1190000016326147",
+      "desc": "之前讲了《零基础带你看Spring源码——IOC控制反转》，本来打算下一篇讲讲Srping的AOP的，但是其中会涉及到Java的动态代理，所以先单独一篇来了解下Java的动态代理到底是什么，Java是怎么实现它的。",
+      "author": {
+        "nick": "Zack",
+        "homepage": "/u/zack_587d6bc057a6a"
+      }
+    },
+    {
+      "id": "1190000016392129",
+      "title": "「造个轮子」——cicada 设计一个配置模块",
+      "url": "/a/1190000016392129",
+      "desc": "前言 在前两次的 cicada 版本中其实还不支持读取配置文件，比如对端口、路由的配置。 因此我按照自己的想法创建了一个 issue ，也收集到了一些很不错的建议。 最终其实还是按照我之前的想法来做了这个配置管理。 ...",
+      "author": {
+        "nick": "crossoverJie",
+        "homepage": "/u/crossoverjie"
+      }
+    },
+    {
+      "id": "1190000016391745",
+      "title": "【跃迁之路】【585天】程序员高效学习方法论探索系列（实验阶段342-2018.09.13）",
+      "url": "/a/1190000016391745",
+      "desc": "从2018.7.1起，【跃迁之路】奖励金计划正式起航，从今以后，， 每月1日，我会将自己个人上月收入的1%计入【跃迁之路】奖励金池，积累到足够金额后，将适时用于奖励那些虽然身处困境，却依然不放弃努力，通过坚持...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000016391516",
+      "title": "ovirt笔记:通过登录策略配置模块来熟悉系统的框架",
+      "url": "/a/1190000016391516",
+      "desc": "最近在写登录策略配置LoginConfig模块，现在通过分析登录策略配置模块来说明系统的层次结构。系统后台主要包括四层：",
+      "author": {
+        "nick": "ZCJ爱笑的菇凉",
+        "homepage": "/u/zcjaixiaodeguliang"
+      }
+    },
+    {
+      "id": "1190000016390452",
+      "title": "使用servlet3.0异步特性改造spring-cloud-zuul",
+      "url": "/a/1190000016390452",
+      "desc": "​ 我们知道spring-cloud-zuul是依赖springMVC来注册路由的，而springMVC又是在建立在servlet之上的（这里微服务专家杨波老师写过一篇文章讲述其网络模型，可以参考看看），在servlet3.0之前使用的是thread per co...",
+      "author": {
+        "nick": "杨辉",
+        "homepage": "/u/qzuser_5831baa1efc7f"
+      }
+    },
+    {
+      "id": "1190000016389683",
+      "title": "自定义注解实例实现SQL语句生成",
+      "url": "/a/1190000016389683",
+      "desc": "通过以上几种我们可以大致了解了注解的作用，方便开发，提高逼格，如果你能自定义注解来实现功能那就是又强又牛皮呀！",
+      "author": {
+        "nick": "MySelf",
+        "homepage": "/u/myself_5ab9f390c6129"
+      }
+    },
+    {
+      "id": "1190000016388894",
+      "title": "java学习(九) —— java中的File文件操作及IO流概述",
+      "url": "/a/1190000016388894",
+      "desc": "前言 流是干什么的：为了永久性的保存数据。 IO流用来处理设备之间的数据传输（上传和下载文件） java对数据的操作是通过流的方式。 java用于操作流的对象都在IO包中。 java IO系统的学习，本质上就是对文件的读...",
+      "author": {
+        "nick": "繁星落眼眶",
+        "homepage": "/u/fanxingluoyankuang"
+      }
+    },
+    {
+      "id": "1190000016388106",
+      "title": "Java多线程进阶（三六）—— J.U.C之collections框架：DelayQueue",
+      "url": "/a/1190000016388106",
+      "desc": "DelayQueue是JDK1.5时，随着J.U.C包一起引入的一种阻塞队列，它实现了BlockingQueue接口，底层基于已有的PriorityBlockingQueue实现：",
+      "author": {
+        "nick": "NIT_EIP",
+        "homepage": "/u/niteip"
+      }
+    },
+    {
+      "id": "1190000016387912",
+      "title": "SAPI V1.4发布，轻巧的API输出测试组件",
+      "url": "/a/1190000016387912",
+      "desc": "一个简单的API输出工具，只需简单配置，即可将接口中的所有API接口及参数全部以结构化的方式输出的页面上。基于SpringMvc或Springboot的接口管理工具",
+      "author": {
+        "nick": "小鱼儿哥",
+        "homepage": "/u/xiaour"
+      }
+    },
+    {
+      "id": "1190000016385434",
+      "title": "java学习(八) —— 异常及异常处理",
+      "url": "/a/1190000016385434",
+      "desc": "只要在java程序中产生了异常，就会用一个对应类型的异常对象来封装异常，JRE会试图寻找异常处理程序来处理异常。",
+      "author": {
+        "nick": "繁星落眼眶",
+        "homepage": "/u/fanxingluoyankuang"
+      }
+    },
+    {
+      "id": "1190000016384641",
+      "title": "NamedParameterJdbcTemplate学习总结",
+      "url": "/a/1190000016384641",
+      "desc": "环境 版本信息 spring的版本为4.1.4(spring3我也用过，就配置信息略有不同，其用法还是一样的) 配置信息 需要在applicationContext.xml中配置以下信息 {代码...} 如果已经在文件中配置了jdbctemplate的话还可以使...",
+      "author": {
+        "nick": "不完美主义者",
+        "homepage": "/u/fangdangbudetuzi"
+      }
+    }
+  ]
+}
