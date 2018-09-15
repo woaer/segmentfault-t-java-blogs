@@ -1,0 +1,155 @@
+{
+  "watchNum": "28940",
+  "blogs": [
+    {
+      "id": "1190000016407975",
+      "title": "Julia和Java性能比较",
+      "url": "/a/1190000016407975",
+      "desc": "Julia性能号称可以赶得上c/c++，我很好奇Julia的执行速度，因为我一直用的是Java，所以就想把Julia和Java做一下简单的比较。这次比较一下Julia和Java做一亿次加法运算的速度。",
+      "author": {
+        "nick": "杜若",
+        "homepage": "/u/menglihuaxiangbian"
+      }
+    },
+    {
+      "id": "1190000016404830",
+      "title": "Android屏幕适配方案",
+      "url": "/a/1190000016404830",
+      "desc": "目录介绍 1.屏幕适配定义 2.相关重要的概念 2.1 屏幕尺寸[物理尺寸] 2.2 屏幕分辨率[px] 2.3 屏幕像素密度[dpi] 2.4 dp、dip、dpi、sp、px 2.5 mdpi、hdpi、xdpi、xxdpi 2.6 获取屏幕分辨率[宽高] 3.Android屏幕...",
+      "author": {
+        "nick": "潇湘剑雨",
+        "homepage": "/u/xiangjianyu"
+      }
+    },
+    {
+      "id": "1190000016404364",
+      "title": "spring jdbcTemplate中获取jdbc Connection并执行操作",
+      "url": "/a/1190000016404364",
+      "desc": "实际应用例子在项目中需要获取数据库中元数据相关信息，比如表名，字段名，长度等jdbcTemplate 可以通过SqlRowSetMetaData 可以获取到部分元数据，但是不能获取备注信息（comment中的内容）",
+      "author": {
+        "nick": "Garfield",
+        "homepage": "/u/soft_xiang"
+      }
+    },
+    {
+      "id": "1190000016403161",
+      "title": "深入研究Java String",
+      "url": "/a/1190000016403161",
+      "desc": "开始写 Java 一年来，一直都是遇到什么问题再去解决，还没有主动的深入的去学习过 Java 语言的特性和深入阅读 JDK 的源码。既然决定今后靠 Java吃饭，还是得花些心思在上面，放弃一些打游戏的时间，系统深入的去...",
+      "author": {
+        "nick": "jshanet",
+        "homepage": "/u/jshanet"
+      }
+    },
+    {
+      "id": "1190000016402662",
+      "title": "Java 线程中断(interrupt)与阻塞 (park)的区别",
+      "url": "/a/1190000016402662",
+      "desc": "    很多Java开发人员(包括我)，尤其是刚进入软件行业的新手，认为Java设置线程中断就是表示线程停止了，不往前执行了，",
+      "author": {
+        "nick": "higherzjm",
+        "homepage": "/u/higherzjm"
+      }
+    },
+    {
+      "id": "1190000016401531",
+      "title": "Java编程基础14——常见对象_StringBuffer&数组排序",
+      "url": "/a/1190000016401531",
+      "desc": "线程安全的可变字符序列 (一个类似于 String 的字符串缓冲区，但不能修改 : 不能像String那样用 + 连接来修改String)",
+      "author": {
+        "nick": "扎瓦",
+        "homepage": "/u/ideas"
+      }
+    },
+    {
+      "id": "1190000016400904",
+      "title": "《从零构建前后分离的web项目》实战 -5分钟快速构建炒鸡规范的VUE项目骨架",
+      "url": "/a/1190000016400904",
+      "desc": "任何不错的开源项目都有 project-cli 脚手架、我们用它生成往往能快速配制出最佳的、理想的脚手架",
+      "author": {
+        "nick": "pkwenda",
+        "homepage": "/u/pkwenda"
+      }
+    },
+    {
+      "id": "1190000016400850",
+      "title": "学习资源分享| 第一篇：Java，Python，PHP，VUE，Angular，React一网打尽",
+      "url": "/a/1190000016400850",
+      "desc": "公众号回复“学习”，拉你进程序员技术讨论群，干货资源第一时间分享。 后端： java： Activiti6.0工作流引擎深度解析与实战： 链接：[链接] 密码：3bpv BAT大牛亲授 基于ElasticSearch的搜房网实战： 链接：[链接]...",
+      "author": {
+        "nick": "星缘",
+        "homepage": "/u/xingyuan_59b0b68ebe448"
+      }
+    },
+    {
+      "id": "1190000016400305",
+      "title": "jconsole监控远程运行在centos上的spring boot程序",
+      "url": "/a/1190000016400305",
+      "desc": "由于需要设置的java启动参数较多，故而将其设置到环境变量中，在/etc/profile 最后一行增加",
+      "author": {
+        "nick": "小白龙",
+        "homepage": "/u/xiaobailong_5b6017cbf24e2"
+      }
+    },
+    {
+      "id": "1190000016399024",
+      "title": "Java 线程池详解",
+      "url": "/a/1190000016399024",
+      "desc": "最近项目中越来越多需要异步调用的地方，系统中虽有线程池管理，但还有可优化的空间，通过分享该文章，帮助大家了解线程池，同时学习使用线程池开启线程需要注意的地方。",
+      "author": {
+        "nick": "码魇",
+        "homepage": "/u/ma_5b4fe416664f8"
+      }
+    },
+    {
+      "id": "1190000016398508",
+      "title": "Java多线程进阶（三七）—— J.U.C之collections框架：LinkedBlockingDeque",
+      "url": "/a/1190000016398508",
+      "desc": "LinkedBlockingDeque和ConcurrentLinkedDeque类似，都是一种双端队列的结构，只不过LinkedBlockingDeque同时也是一种阻塞队列，它是在JDK1.5时随着J.U.C包引入的，实现了BlockingDueue接口，底层基于双链表实现：",
+      "author": {
+        "nick": "NIT_EIP",
+        "homepage": "/u/niteip"
+      }
+    },
+    {
+      "id": "1190000016398359",
+      "title": "从源码入手，一文带你读懂Spring AOP面向切面编程",
+      "url": "/a/1190000016398359",
+      "desc": "基于这两者的实现上，这次来探索下Spring的AOP原理。虽然AOP是基于Spring容器和动态代理，但不了解这两者原理也丝毫不影响理解AOP的原理实现，因为大家起码都会用。",
+      "author": {
+        "nick": "Zack",
+        "homepage": "/u/zack_587d6bc057a6a"
+      }
+    },
+    {
+      "id": "1190000016396757",
+      "title": "你只差这两步 | 将Sentinel 控制台应用于生产环境",
+      "url": "/a/1190000016396757",
+      "desc": "摘要： 这是围绕 Sentinel 的使用场景、技术对比和实现、开发者实践等维度推出的系列文章的第四篇。 第一篇回顾：Dubbo 的流量防卫兵 | Sentinel如何通过限流实现服务的高可用性 - 传送门 第二篇回顾：RocketMQ ...",
+      "author": {
+        "nick": "阿里云云栖社区",
+        "homepage": "/u/yunqishequ_5aa899aad5395"
+      }
+    },
+    {
+      "id": "1190000016395404",
+      "title": "【跃迁之路】【586天】程序员高效学习方法论探索系列（实验阶段343-2018.09.14）",
+      "url": "/a/1190000016395404",
+      "desc": "从2018.7.1起，【跃迁之路】奖励金计划正式起航，从今以后，， 每月1日，我会将自己个人上月收入的1%计入【跃迁之路】奖励金池，积累到足够金额后，将适时用于奖励那些虽然身处困境，却依然不放弃努力，通过坚持...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000016393473",
+      "title": "服务限流(自定义注解令牌桶算法)",
+      "url": "/a/1190000016393473",
+      "desc": "令牌桶会以一个恒定的速率向固定容量大小桶中放入令牌，当有浏览来时取走一个或者多个令牌,当发生高并发情况下拿到令牌的执行业务逻辑,没有获取到令牌的就会丢弃获取服务降级处理,提示一个友好的错误信息给用户。",
+      "author": {
+        "nick": "只写BUG的攻城狮",
+        "homepage": "/u/zhixiebugdegongchengshi"
+      }
+    }
+  ]
+}
