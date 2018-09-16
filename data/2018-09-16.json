@@ -1,0 +1,155 @@
+{
+  "watchNum": "29007",
+  "blogs": [
+    {
+      "id": "1190000016414576",
+      "title": "905-按奇偶校验排序数组",
+      "url": "/a/1190000016414576",
+      "desc": "给定一个非负整数数组 A，返回一个由 A 的所有偶数元素组成的数组，后面跟 A 的所有奇数元素。你可以返回满足此条件的任何数组作为答案。 示例： {代码...} 提示： 1 <= A.length <= 5000 0 <= A[i] <...",
+      "author": {
+        "nick": "Null",
+        "homepage": "/u/null_ryan"
+      }
+    },
+    {
+      "id": "1190000016412962",
+      "title": "【开源项目】Spring Security三大权限框架案例讲解01—项目初始化",
+      "url": "/a/1190000016412962",
+      "desc": "大致简介项目主要逐步迭代讲解Spring Security + Spring Social + Spring Security OAuth + REST服务开发，通过实际的案例开发来讲解，项目注解详细适合作为教程案例，同时对代码的演进还有重构也会有对应的推文...",
+      "author": {
+        "nick": "MySelf",
+        "homepage": "/u/myself_5ab9f390c6129"
+      }
+    },
+    {
+      "id": "1190000016411981",
+      "title": "Java 8之数值流使用和构建流的方式",
+      "url": "/a/1190000016411981",
+      "desc": "数值流，顾名思义就是专门用来操作基础数据类型的流，那它的作用是什么呢？先看下面的代码。这段代码是获取集合每个对象的num字段的值，然后求所和。得出的结果是15，看上去没有问题，但是要注意的是流在进行求和...",
+      "author": {
+        "nick": "Half",
+        "homepage": "/u/half_5ab2635cc04bc"
+      }
+    },
+    {
+      "id": "1190000016410804",
+      "title": "原理剖析（第 013 篇）应用系统性能调优",
+      "url": "/a/1190000016410804",
+      "desc": "原理剖析（第 013 篇）应用系统性能调优 - 一、大致介绍 {代码...} 二、调优背景 {代码...} 三、计划分析 {代码...} 四、Linux命令相关查看指标 4.1 CPU 指标 {代码...} 4.2 Memory 指标 {代码...} 4.3 Disk 指标...",
+      "author": {
+        "nick": "HMILYYLIMH",
+        "homepage": "/u/hmilyylimh"
+      }
+    },
+    {
+      "id": "1190000016409546",
+      "title": "angularjs+springMvc学习笔记",
+      "url": "/a/1190000016409546",
+      "desc": "说白了，就是把函数当参数传给另一根函数，在另一个函数执行时调用此函数例如，在下面这段代码中，上面定义了两个函数success和error，下面的promise.then(success,error)方法请求成功执行success，失败执行error",
+      "author": {
+        "nick": "某杰",
+        "homepage": "/u/moujie"
+      }
+    },
+    {
+      "id": "1190000016407975",
+      "title": "Julia和Java性能比较",
+      "url": "/a/1190000016407975",
+      "desc": "Julia性能号称可以赶得上c/c++，我很好奇Julia的执行速度，因为我一直用的是Java，所以就想把Julia和Java做一下简单的比较。这次比较一下Julia和Java做一亿次加法运算的速度。",
+      "author": {
+        "nick": "杜若",
+        "homepage": "/u/menglihuaxiangbian"
+      }
+    },
+    {
+      "id": "1190000016404830",
+      "title": "Android屏幕适配方案",
+      "url": "/a/1190000016404830",
+      "desc": "目录介绍 1.屏幕适配定义 2.相关重要的概念 2.1 屏幕尺寸[物理尺寸] 2.2 屏幕分辨率[px] 2.3 屏幕像素密度[dpi] 2.4 dp、dip、dpi、sp、px 2.5 mdpi、hdpi、xdpi、xxdpi 2.6 获取屏幕分辨率[宽高] 3.Android屏幕...",
+      "author": {
+        "nick": "潇湘剑雨",
+        "homepage": "/u/xiangjianyu"
+      }
+    },
+    {
+      "id": "1190000016404364",
+      "title": "spring jdbcTemplate中获取jdbc Connection并执行操作",
+      "url": "/a/1190000016404364",
+      "desc": "实际应用例子在项目中需要获取数据库中元数据相关信息，比如表名，字段名，长度等jdbcTemplate 可以通过SqlRowSetMetaData 可以获取到部分元数据，但是不能获取备注信息（comment中的内容）",
+      "author": {
+        "nick": "Garfield",
+        "homepage": "/u/soft_xiang"
+      }
+    },
+    {
+      "id": "1190000016403161",
+      "title": "深入研究Java String",
+      "url": "/a/1190000016403161",
+      "desc": "开始写 Java 一年来，一直都是遇到什么问题再去解决，还没有主动的深入的去学习过 Java 语言的特性和深入阅读 JDK 的源码。既然决定今后靠 Java吃饭，还是得花些心思在上面，放弃一些打游戏的时间，系统深入的去...",
+      "author": {
+        "nick": "jshanet",
+        "homepage": "/u/jshanet"
+      }
+    },
+    {
+      "id": "1190000016402662",
+      "title": "Java 线程中断(interrupt)与阻塞 (park)的区别",
+      "url": "/a/1190000016402662",
+      "desc": "    很多Java开发人员(包括我)，尤其是刚进入软件行业的新手，认为Java设置线程中断就是表示线程停止了，不往前执行了，",
+      "author": {
+        "nick": "higherzjm",
+        "homepage": "/u/higherzjm"
+      }
+    },
+    {
+      "id": "1190000016401531",
+      "title": "Java编程基础14——常见对象_StringBuffer&数组排序",
+      "url": "/a/1190000016401531",
+      "desc": "线程安全的可变字符序列 (一个类似于 String 的字符串缓冲区，但不能修改 : 不能像String那样用 + 连接来修改String)",
+      "author": {
+        "nick": "扎瓦",
+        "homepage": "/u/ideas"
+      }
+    },
+    {
+      "id": "1190000016400904",
+      "title": "《从零构建前后分离的web项目》实战 -5分钟快速构建炒鸡规范的VUE项目骨架",
+      "url": "/a/1190000016400904",
+      "desc": "任何不错的开源项目都有 project-cli 脚手架、我们用它生成往往能快速配制出最佳的、理想的脚手架",
+      "author": {
+        "nick": "pkwenda",
+        "homepage": "/u/pkwenda"
+      }
+    },
+    {
+      "id": "1190000016400850",
+      "title": "学习资源分享| 第一篇：Java，Python，PHP，VUE，Angular，React一网打尽",
+      "url": "/a/1190000016400850",
+      "desc": "公众号回复“学习”，拉你进程序员技术讨论群，干货资源第一时间分享。 后端： java： Activiti6.0工作流引擎深度解析与实战： 链接：[链接] 密码：3bpv BAT大牛亲授 基于ElasticSearch的搜房网实战： 链接：[链接]...",
+      "author": {
+        "nick": "星缘",
+        "homepage": "/u/xingyuan_59b0b68ebe448"
+      }
+    },
+    {
+      "id": "1190000016400305",
+      "title": "jconsole监控远程运行在centos上的spring boot程序",
+      "url": "/a/1190000016400305",
+      "desc": "由于需要设置的java启动参数较多，故而将其设置到环境变量中，在/etc/profile 最后一行增加",
+      "author": {
+        "nick": "小白龙",
+        "homepage": "/u/xiaobailong_5b6017cbf24e2"
+      }
+    },
+    {
+      "id": "1190000016399024",
+      "title": "Java 线程池详解",
+      "url": "/a/1190000016399024",
+      "desc": "最近项目中越来越多需要异步调用的地方，系统中虽有线程池管理，但还有可优化的空间，通过分享该文章，帮助大家了解线程池，同时学习使用线程池开启线程需要注意的地方。",
+      "author": {
+        "nick": "码魇",
+        "homepage": "/u/ma_5b4fe416664f8"
+      }
+    }
+  ]
+}
