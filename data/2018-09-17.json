@@ -1,0 +1,155 @@
+{
+  "watchNum": "29061",
+  "blogs": [
+    {
+      "id": "1190000016420347",
+      "title": "【Myself-Security】SpringMVC 开发 RESTFul API",
+      "url": "/a/1190000016420347",
+      "desc": "简单的说，RESTFul就是：1、用URL描述资源2、使用HTTP方法描述行为，使用HTTP状态码来表示不同的结果3、使用json交互数据4、RESTFul只是一种风格，并不是强制的标准",
+      "author": {
+        "nick": "MySelf",
+        "homepage": "/u/myself_5ab9f390c6129"
+      }
+    },
+    {
+      "id": "1190000016419438",
+      "title": "[LeetCode] 647. Palindromic Substrings",
+      "url": "/a/1190000016419438",
+      "desc": "Given a string, your task is to count how many palindromic substrings in this string.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000016418132",
+      "title": "Rabbit MQ基本概念介绍",
+      "url": "/a/1190000016418132",
+      "desc": "ConnectionFactory、Connection、Channel都是RabbitMQ对外提供的API中最基本的对象。Connection是RabbitMQ的socket链接，它封装了socket协议相关部分逻辑。ConnectionFactory为Connection的制造工厂。",
+      "author": {
+        "nick": "bali",
+        "homepage": "/u/bali_5a0a92fba16aa"
+      }
+    },
+    {
+      "id": "1190000016419330",
+      "title": "[LeetCode] 609. Find Duplicate File in System",
+      "url": "/a/1190000016419330",
+      "desc": "Given a list of directory info including directory path, and all the files with contents in this directory, you need to find out all the groups of duplicate files in the file system in terms of the...",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000016419241",
+      "title": "[LeetCode] 549. Binary Tree Longest Consecutive Sequence II",
+      "url": "/a/1190000016419241",
+      "desc": "Given a binary tree, you need to find the length of Longest Consecutive Path in Binary Tree.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000016419098",
+      "title": "Java语法糖的编译结果分析（二）",
+      "url": "/a/1190000016419098",
+      "desc": "语法糖（Syntactic Sugar）的出现是为了降低我们编写某些代码时陷入的重复或繁琐，这使得我们使用语法糖后可以写出简明而优雅的代码。在Java中不加工的语法糖代码运行时可不会被虚拟机接受，因此编译器为了让这些...",
+      "author": {
+        "nick": "JinhaoPlus",
+        "homepage": "/u/jinhaoplus"
+      }
+    },
+    {
+      "id": "1190000016418596",
+      "title": "UnexpectedRollbackException解决方案",
+      "url": "/a/1190000016418596",
+      "desc": "最近在项目中发现了一则报错：“org.springframework.transaction.UnexpectedRollbackException: Transaction rolled back because it has been marked as rollback-only”。根据报错信息来看是spring框架中的事务...",
+      "author": {
+        "nick": "码魇",
+        "homepage": "/u/ma_5b4fe416664f8"
+      }
+    },
+    {
+      "id": "1190000016418424",
+      "title": "「Do.012」记一次mac版AS3.1升级的坑",
+      "url": "/a/1190000016418424",
+      "desc": "首发公众号：Android程序员日记作者：贤榆的榆如果你觉得有帮助欢迎关注、赞赏、转发阅读时间：2277字 6分钟",
+      "author": {
+        "nick": "贤榆的榆",
+        "homepage": "/u/ronny"
+      }
+    },
+    {
+      "id": "1190000016418363",
+      "title": "904-水果成篮",
+      "url": "/a/1190000016418363",
+      "desc": "在一排树中，第 i 棵树产生 tree[i] 型的水果。你可以从你选择的任何树开始，然后重复执行以下步骤： 把这棵树上的水果放进你的篮子里。如果你做不到，就停下来。 移动到当前树右侧的下一棵树。如果右边没有树，...",
+      "author": {
+        "nick": "Null",
+        "homepage": "/u/null_ryan"
+      }
+    },
+    {
+      "id": "1190000016417017",
+      "title": "Java 中的 Monitor 机制",
+      "url": "/a/1190000016417017",
+      "desc": "管程，英文是 Monitor，也常被翻译为“监视器”，monitor 不管是翻译为“管程”还是“监视器”，都是比较晦涩的，通过翻译后的中文，并无法对 monitor 达到一个直观的描述。在《操作系统同步原语》 这篇文章中，介绍了...",
+      "author": {
+        "nick": "beanlam",
+        "homepage": "/u/beanlam"
+      }
+    },
+    {
+      "id": "1190000016416976",
+      "title": "Java 线程实现方式",
+      "url": "/a/1190000016416976",
+      "desc": "在传统的操作系统中，最核心的概念是“进程”，进程是对正在运行的程序的一个抽象。进程的存在让“并行”成为了可能，在一个操作系统中，允许运行着多个进程，这些进程“看起来”是同时在运行的。如果我们的计算机同时...",
+      "author": {
+        "nick": "beanlam",
+        "homepage": "/u/beanlam"
+      }
+    },
+    {
+      "id": "1190000016416846",
+      "title": "【跃迁之路】【587-588天】程序员高效学习方法论探索系列（实验阶段345-2018.09.15-16）",
+      "url": "/a/1190000016416846",
+      "desc": "从2018.7.1起，【跃迁之路】奖励金计划正式起航，从今以后，， 每月1日，我会将自己个人上月收入的1%计入【跃迁之路】奖励金池，积累到足够金额后，将适时用于奖励那些虽然身处困境，却依然不放弃努力，通过坚持...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000016416387",
+      "title": "[LeetCode] Student Attendance Record I",
+      "url": "/a/1190000016416387",
+      "desc": "You are given a string representing an attendance record for a student. The record only contains the following three characters:'A' : Absent.'L' : Late.'P' : Present.A student could be rewarded if ...",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000016416291",
+      "title": "[LeetCode] Validate IP Address",
+      "url": "/a/1190000016416291",
+      "desc": "Write a function to check whether an input string is a valid IPv4 address or IPv6 address or neither.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000016415939",
+      "title": "Java类加载机制",
+      "url": "/a/1190000016415939",
+      "desc": "类加载器把class文件中的二进制数据读入到内存中，存放在方法区，然后在堆区创建一个java.lang.Class对象，用来封装类在方法区内的数据结构。",
+      "author": {
+        "nick": "Huangy远",
+        "homepage": "/u/huangyuanlu"
+      }
+    }
+  ]
+}
