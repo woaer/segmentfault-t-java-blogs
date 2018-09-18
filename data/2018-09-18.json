@@ -1,0 +1,155 @@
+{
+  "watchNum": "29179",
+  "blogs": [
+    {
+      "id": "1190000016438184",
+      "title": "[LeetCode] 811. Subdomain Visit Count",
+      "url": "/a/1190000016438184",
+      "desc": "A website domain like \"discuss.leetcode.com\" consists of various subdomains. At the top level, we have \"com\", at the next level, we have \"leetcode.com\", and at the lowest level, \"discuss.leetcode.c...",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000016438167",
+      "title": "MyBatis理解与掌握（关联查询）",
+      "url": "/a/1190000016438167",
+      "desc": "从Order的角度，一个订单对应一个用户：order----->user (一对一）从User的角度，一个用户可以有多个订单：user------>order (多对一）",
+      "author": {
+        "nick": "苏生",
+        "homepage": "/u/susheng_579d70745d3d3"
+      }
+    },
+    {
+      "id": "1190000016436020",
+      "title": "浅谈程序员职业规划，来自一名8年开发经验的程序员",
+      "url": "/a/1190000016436020",
+      "desc": "在中国有很多人都认为IT行业是吃青春饭的，如果过了30岁就很难有机会再发展下去！其实现实并不是这样子的，从事.NET及JAVA方面的开发的也有8年的时间了，在这里想凭借自己的亲身经历，与大家一起探讨一下这个话题。",
+      "author": {
+        "nick": "糖宝",
+        "homepage": "/u/tangbao_5a152bb72d2ed"
+      }
+    },
+    {
+      "id": "1190000016435494",
+      "title": "为什么JavaWeb放弃jsp，去做前后端分离",
+      "url": "/a/1190000016435494",
+      "desc": "前后端分离已成为互联网项目开发的业界标准使用方式，通过nginx+tomcat的方式（也可以中间加一个nodejs）有效的进行解耦，并且前后端分离会为以后的大型分布式架构、弹性计算架构、微服务架构、多端化服务（多种...",
+      "author": {
+        "nick": "糖宝",
+        "homepage": "/u/tangbao_5a152bb72d2ed"
+      }
+    },
+    {
+      "id": "1190000016434570",
+      "title": "Java编程基础16——Colletion集合",
+      "url": "/a/1190000016434570",
+      "desc": "A:案例演示 需求：我有5个学生，请把这个5个学生的信息存储到数组中，并遍历数组，获取得到每一个学生信息。Student[] arr = new Student[5]; //存储学生对象arr[0] = new Student(\"张三\", 23);arr[1] = new Stud...",
+      "author": {
+        "nick": "扎瓦",
+        "homepage": "/u/ideas"
+      }
+    },
+    {
+      "id": "1190000016432092",
+      "title": " 【Leetcode】71. 简化路径",
+      "url": "/a/1190000016432092",
+      "desc": "例如，path = \"/home/\", => \"/home\"path = \"/a/./b/../../c/\", => \"/c\"",
+      "author": {
+        "nick": "Acceml",
+        "homepage": "/u/acceml"
+      }
+    },
+    {
+      "id": "1190000016430531",
+      "title": "maven安装环境配置",
+      "url": "/a/1190000016430531",
+      "desc": "windows版本安装配置解压apache-maven-3.5.4-bin.zip，并把解压后的文件夹下的apache-maven-3.5.4文件夹移动到E:DNXYapache-maven-3.5.4-bin 下，如果没有Maven 这个文件夹的话，请自行创建。",
+      "author": {
+        "nick": "wait",
+        "homepage": "/u/wait_5b992631a24de"
+      }
+    },
+    {
+      "id": "1190000016429789",
+      "title": "[LeetCode] 772. Basic Calculator III",
+      "url": "/a/1190000016429789",
+      "desc": "Implement a basic calculator to evaluate a simple expression string.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000016429212",
+      "title": "IntentService源码分析",
+      "url": "/a/1190000016429212",
+      "desc": "目录介绍 1.IntentService的作用 2.IntentService使用场景 3.IntentService使用步骤 4.IntentService源码分析 4.1 整体源码展示及归纳 4.2 如何单独开启1个新的工作线程 4.3 IntentService如何将Intent传递给服务...",
+      "author": {
+        "nick": "潇湘剑雨",
+        "homepage": "/u/xiangjianyu"
+      }
+    },
+    {
+      "id": "1190000016428770",
+      "title": "[LeetCode] 224. Basic Calculator",
+      "url": "/a/1190000016428770",
+      "desc": "Implement a basic calculator to evaluate a simple expression string.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000016427861",
+      "title": "【跃迁之路】【589天】程序员高效学习方法论探索系列（实验阶段346-2018.09.17）",
+      "url": "/a/1190000016427861",
+      "desc": "从2018.7.1起，【跃迁之路】奖励金计划正式起航，从今以后，， 每月1日，我会将自己个人上月收入的1%计入【跃迁之路】奖励金池，积累到足够金额后，将适时用于奖励那些虽然身处困境，却依然不放弃努力，通过坚持...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000016427760",
+      "title": "Java 反射教程",
+      "url": "/a/1190000016427760",
+      "desc": "Java反射可以在运行时检视类、接口、属性和方法，而无需在编译时知道类名、方法名等等。它也同样使用反射支持实例化新的对象、调用方法和get/set属性值。 Java反射非常强大和有用。例如， Java反射可以用在映射JS...",
+      "author": {
+        "nick": "团结",
+        "homepage": "/u/2006"
+      }
+    },
+    {
+      "id": "1190000016427465",
+      "title": "JVM GC 之「AdaptiveSizePolicy」实战",
+      "url": "/a/1190000016427465",
+      "desc": "AdaptiveSizePolicy(自适应大小策略) 是 JVM GC Ergonomics(自适应调节策略) 的一部分。",
+      "author": {
+        "nick": "阿菜",
+        "homepage": "/u/jjason"
+      }
+    },
+    {
+      "id": "1190000016427190",
+      "title": "[LeetCode] 227. Basic Calculator II",
+      "url": "/a/1190000016427190",
+      "desc": "Implement a basic calculator to evaluate a simple expression string.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000016427178",
+      "title": "java学习(十) —— java中的多线程概述",
+      "url": "/a/1190000016427178",
+      "desc": "进程概述 进程：正在运行的程序，是系统进行资源分配和调用的独立单位。 进程就是一个程序在一个数据集上的一次动态执行过程。 进程一般由程序、数据集、进程控制块三部分组成。 每一个进程都有它自己的内存空间...",
+      "author": {
+        "nick": "繁星落眼眶",
+        "homepage": "/u/fanxingluoyankuang"
+      }
+    }
+  ]
+}
