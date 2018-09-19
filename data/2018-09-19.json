@@ -1,0 +1,155 @@
+{
+  "watchNum": "29294",
+  "blogs": [
+    {
+      "id": "1190000016451169",
+      "title": "美团面试题：Java-线程池 ThreadPool 专题详解",
+      "url": "/a/1190000016451169",
+      "desc": "java.util.concurrent.Executors提供了一个 java.util.concurrent.Executor接口的实现用于创建线程池",
+      "author": {
+        "nick": "程序员小灰",
+        "homepage": "/u/chengxuyuanxiaohui"
+      }
+    },
+    {
+      "id": "1190000016449988",
+      "title": "线程间的同步与通信(4)——Lock 和 Condtion",
+      "url": "/a/1190000016449988",
+      "desc": "前面几篇我们学习了synchronized同步代码块，了解了java的内置锁，并学习了监视器锁的wait/notify机制。在大多数情况下，内置锁都能很好的工作，但它在功能上存在一些局限性，例如无法实现非阻塞结构的加锁规则等...",
+      "author": {
+        "nick": "ChiuCheng",
+        "homepage": "/u/chiucheng"
+      }
+    },
+    {
+      "id": "1190000016449865",
+      "title": "Java程序制作Docker Image推荐方案",
+      "url": "/a/1190000016449865",
+      "desc": "要求 这里先给出一些Docker Image制作的要求，之后我们再看怎么做。 制作过程要融合在项目构建过程中 使用官方Image作为基础Image 设定正确的时区 Container内的程序以非root用户启动 指定Web程序的接口 能够传递...",
+      "author": {
+        "nick": "chanjarster",
+        "homepage": "/u/chanjarster"
+      }
+    },
+    {
+      "id": "1190000016449780",
+      "title": "Spring Boot 连接数据库(五)",
+      "url": "/a/1190000016449780",
+      "desc": "本篇我们将学习如何在项目中连接数据库。在一个成熟的项目是离不开数据库的，数据库很好的为我们的项目管理数据，让我们的开发变得简单，我们只需关注数据操作，而无需关注更多的数据库是如何操作的。那么Spring ...",
+      "author": {
+        "nick": "Eirunye",
+        "homepage": "/u/eirunye"
+      }
+    },
+    {
+      "id": "1190000016449434",
+      "title": "【面试必备】透过源码角度一步一步带你分析 ArrayList 扩容机制",
+      "url": "/a/1190000016449434",
+      "desc": "细心的同学一定会发现 ：以无参数构造方法创建 ArrayList 时，实际上初始化赋值的是一个空数组。当真正对数组进行添加元素操作时，才真正分配容量。即向数组中添加第一个元素时，数组容量扩为10。 下面在我们分析...",
+      "author": {
+        "nick": "Snailclimb",
+        "homepage": "/u/snailclimb"
+      }
+    },
+    {
+      "id": "1190000016447967",
+      "title": "hadoop编译---+2.x编译",
+      "url": "/a/1190000016447967",
+      "desc": "hadoop+2.X编译(centos系统) 为了是hadoop更兼容当前使用的操作系统 所以介绍下如何编译当前使用平台的hadoop 1.准备软件 jdk 1.8+ Maven 3.5.4 protobuf 2.5.0 (其他版本测试会有问题 建议用2.5.0) {代码...} ha...",
+      "author": {
+        "nick": "source",
+        "homepage": "/u/webyh"
+      }
+    },
+    {
+      "id": "1190000016447307",
+      "title": "逐行分析AQS源码(3)——共享锁的获取与释放",
+      "url": "/a/1190000016447307",
+      "desc": "前面两篇我们以ReentrantLock为例了解了AQS独占锁的获取与释放，本篇我们来看看共享锁。由于AQS对于共享锁与独占锁的实现框架比较类似，因此如果你搞定了前面的独占锁模式，则共享锁也就很容易弄懂了。",
+      "author": {
+        "nick": "ChiuCheng",
+        "homepage": "/u/chiucheng"
+      }
+    },
+    {
+      "id": "1190000016445785",
+      "title": "手把手教你从零开始搭建SpringBoot后端项目框架",
+      "url": "/a/1190000016445785",
+      "desc": "打开IDE，点击File -> New Project。在左侧的列表中的选择Maven项目，点击Next。",
+      "author": {
+        "nick": "detectiveHLH",
+        "homepage": "/u/detectivehlh"
+      }
+    },
+    {
+      "id": "1190000016445389",
+      "title": "180918-JDK之Deflater压缩与Inflater解压",
+      "url": "/a/1190000016445389",
+      "desc": "title: 180918-JDK之Deflater压缩与Inflater解压tags: JDK categories: Java JDK date: 2018-09-18 16:53:13 keywords: JDK,Inflater,Deflater,解压,压缩 JDK 压缩与解压工具类 在实际的应用场景中，特别是对外传...",
+      "author": {
+        "nick": "小灰灰Blog",
+        "homepage": "/u/xiaohuihuiblog"
+      }
+    },
+    {
+      "id": "1190000016445068",
+      "title": "内存泄漏优化",
+      "url": "/a/1190000016445068",
+      "desc": "目录介绍： 1.什么是内存泄漏 2.内存泄漏造成什么影响 3.内存泄漏检测的工具有哪些 4.关于Leakcanary使用介绍 5.Leakcanary捕捉常见的内存泄漏及解决办法 5.0.1 错误使用单例造成的内存泄漏 5.0.2 错误使用静态变...",
+      "author": {
+        "nick": "潇湘剑雨",
+        "homepage": "/u/xiangjianyu"
+      }
+    },
+    {
+      "id": "1190000016444974",
+      "title": "【跃迁之路】【590天】程序员高效学习方法论探索系列（实验阶段347-2018.09.18）",
+      "url": "/a/1190000016444974",
+      "desc": "从2018.7.1起，【跃迁之路】奖励金计划正式起航，从今以后，， 每月1日，我会将自己个人上月收入的1%计入【跃迁之路】奖励金池，积累到足够金额后，将适时用于奖励那些虽然身处困境，却依然不放弃努力，通过坚持...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000016444777",
+      "title": "关于分布式框架DUBBO的学习",
+      "url": "/a/1190000016444777",
+      "desc": "什么是DUBBO？它是阿里开发的高性能服务框架，使得应用能够通过高性能的RPC实现服务的输入和输出，可以和Spring无缝进行集成。",
+      "author": {
+        "nick": "冰雨",
+        "homepage": "/u/bingyu_5ba0580ea2e9c"
+      }
+    },
+    {
+      "id": "1190000016444549",
+      "title": "android采用MVP完整漫画APP、钉钉地图效果、功能完善的音乐播放器、仿QQ动态登录效果、触手app主页等源码",
+      "url": "/a/1190000016444549",
+      "desc": "Android精选源码 一个可以上拉下滑的Ui效果，觉得好看可以学学 APP登陆页面适配 一款采用MVP的的完整漫画APP源码 android实现钉钉地图效果源码 一个使用单个文字生成壁纸图片的app android 仿QQ动态背景登录效果...",
+      "author": {
+        "nick": "ld11620967",
+        "homepage": "/u/ld11620967"
+      }
+    },
+    {
+      "id": "1190000016443445",
+      "title": "Android AsyncListDiffer-RecyclerView最好的伙伴",
+      "url": "/a/1190000016443445",
+      "desc": "版权声明：本文已授权微信公众号：Android必修课，转载请申明出处自Android5.0以来，RecyclerView渐渐取代ListView成为Android开发中使用最多的列表控件，对于RecyclerView的使用相信大家都不陌生，但对于Recycle...",
+      "author": {
+        "nick": "XBaron",
+        "homepage": "/u/xbaron"
+      }
+    },
+    {
+      "id": "1190000016443108",
+      "title": "Android-Lifecycle超能解析-生命周期的那些事儿",
+      "url": "/a/1190000016443108",
+      "desc": "版权声明：本文已授权微信公众号：Android必修课，转载请申明出处众所周知，Android凡是需要展示给用户看的，都包含着生命周期这个概念，例如Activity、Fragment、View等都与生命周期息息相关，在生命周期函数里...",
+      "author": {
+        "nick": "XBaron",
+        "homepage": "/u/xbaron"
+      }
+    }
+  ]
+}
