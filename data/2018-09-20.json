@@ -1,0 +1,155 @@
+{
+  "watchNum": "29425",
+  "blogs": [
+    {
+      "id": "1190000016465866",
+      "title": "为什么优秀的程序员都写博客？",
+      "url": "/a/1190000016465866",
+      "desc": "没写文章的时候感觉自己很厉害啥都懂，但是写的时候却写不出来，这其实就是对这个知识理解的不过透彻，从而可以认识自己的不足。",
+      "author": {
+        "nick": "陈宇明",
+        "homepage": "/u/cymchad"
+      }
+    },
+    {
+      "id": "1190000016465780",
+      "title": "moquette改造笔记(四)：解决InterceptHandler中的onConnectionLost()调用两次",
+      "url": "/a/1190000016465780",
+      "desc": "在使用中设备异常断开,InterceptHandler中的onConnectionLost()。经过调试发现是MoquetteIdleTimeoutHandler中的代码导致的，代码如下：",
+      "author": {
+        "nick": "liuhh",
+        "homepage": "/u/liuhh"
+      }
+    },
+    {
+      "id": "1190000016462281",
+      "title": "逐行分析AQS源码(4)——Condition接口实现",
+      "url": "/a/1190000016462281",
+      "desc": "本篇文章是基于线程间的同步与通信(4)——Lock 和 Condtion 这篇文章写的，在那篇文章中，我们分析了Condition接口所定义的方法，本篇我们就来看看AQS对于Condition接口的这些接口方法的具体实现。",
+      "author": {
+        "nick": "ChiuCheng",
+        "homepage": "/u/chiucheng"
+      }
+    },
+    {
+      "id": "1190000016461888",
+      "title": "Redis-jedis客户端报Too many Cluster redirections异常",
+      "url": "/a/1190000016461888",
+      "desc": "jedis客户端报Too many Cluster redirections异常？很困扰？不知道是什么问题？请看以下文章，为你一一解答。",
+      "author": {
+        "nick": "joe_chou",
+        "homepage": "/u/joe_chou"
+      }
+    },
+    {
+      "id": "1190000016461719",
+      "title": "夯实基础系列一：Java 基础总结",
+      "url": "/a/1190000016461719",
+      "desc": "大学期间接触 Java 的时间也不短了，不论学习还是实习，都让我发觉基础的重要性。互联网发展太快了，各种框架各种技术更新迭代的速度非常快，可能你刚好掌握了一门技术的应用，它却已经走在淘汰的边缘了。",
+      "author": {
+        "nick": "花永伦",
+        "homepage": "/u/yonglun"
+      }
+    },
+    {
+      "id": "1190000016461183",
+      "title": "Java线程池简单总结",
+      "url": "/a/1190000016461183",
+      "desc": "线程可认为是操作系统可调度的最小的程序执行序列，一般作为进程的组成部分，同一进程中多个线程可共享该进程的资源（如内存等）。在单核处理器架构下，操作系统一般使用分时的方式实现多线程；在多核处理器架构...",
+      "author": {
+        "nick": "BlueRhino",
+        "homepage": "/u/bluerhino"
+      }
+    },
+    {
+      "id": "1190000016460411",
+      "title": "Java多线程进阶（三八）—— J.U.C之collections框架：LinkedTransferQueue",
+      "url": "/a/1190000016460411",
+      "desc": "LinkedTransferQueue是在JDK1.7时，J.U.C包新增的一种比较特殊的阻塞队列，它除了具备阻塞队列的常用功能外，还有一个比较特殊的transfer方法。",
+      "author": {
+        "nick": "ress90",
+        "homepage": "/u/niteip"
+      }
+    },
+    {
+      "id": "1190000016460148",
+      "title": "Java编程基础17——集合(List集合)",
+      "url": "/a/1190000016460148",
+      "desc": "B:注意事项 重写equals()方法的 contains方法判断是否包含,底层依赖的是equals方法",
+      "author": {
+        "nick": "扎瓦",
+        "homepage": "/u/ideas"
+      }
+    },
+    {
+      "id": "1190000016460077",
+      "title": "leetcode小题解析",
+      "url": "/a/1190000016460077",
+      "desc": "描述Given an array of integers, return indices of the two numbers such that they add up to a specific target.",
+      "author": {
+        "nick": "coder777",
+        "homepage": "/u/coder777"
+      }
+    },
+    {
+      "id": "1190000016459747",
+      "title": "Java入坑指南",
+      "url": "/a/1190000016459747",
+      "desc": "Java入坑指南是滴，下面是一个最低的入坑 还应该有23种设计模式应该掌握的。╮(╯▽╰)╭注意，第一个j是大写。 Java的特点跨平台，风格接近C++最重要的api文档 [链接] 语言特点 面向对象 跨平台，运行在JRE上，JRE包...",
+      "author": {
+        "nick": "小小____",
+        "homepage": "/u/xiaoxiao___________"
+      }
+    },
+    {
+      "id": "1190000016459419",
+      "title": "[LeetCode] 210. Course Schedule II",
+      "url": "/a/1190000016459419",
+      "desc": "There are a total of n courses you have to take, labeled from 0 to n-1.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000016459250",
+      "title": "moquette改造笔记(三)：优化BrokerInterceptor 中的线程池",
+      "url": "/a/1190000016459250",
+      "desc": "在io.moquette.spi.impl.BrokerInterceptor的构造函数中，新建了一个线程池，代码如下：",
+      "author": {
+        "nick": "liuhh",
+        "homepage": "/u/liuhh"
+      }
+    },
+    {
+      "id": "1190000016459051",
+      "title": "【跃迁之路】【591天】程序员高效学习方法论探索系列（实验阶段348-2018.09.19）",
+      "url": "/a/1190000016459051",
+      "desc": "从2018.7.1起，【跃迁之路】奖励金计划正式起航，从今以后，， 每月1日，我会将自己个人上月收入的1%计入【跃迁之路】奖励金池，积累到足够金额后，将适时用于奖励那些虽然身处困境，却依然不放弃努力，通过坚持...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000016458928",
+      "title": "原来这样就可以开发出一个百万量级的Android相机",
+      "url": "/a/1190000016458928",
+      "desc": "最近我负责开发了一个跟Android相机有关的需求，新功能允许用户使用手机摄像头，快速拍摄特定尺寸（1：1或3：4）的照片，并支持在拍摄出的照片上做贴纸相关的操作。由于之前没有接触过Android相机开发，所以在整...",
+      "author": {
+        "nick": "腾讯云加社区",
+        "homepage": "/u/qcloudcommunity"
+      }
+    },
+    {
+      "id": "1190000016458527",
+      "title": "moquette改造笔记(二)：优化BrokerInterceptor  notifyTopicPublished()逻辑",
+      "url": "/a/1190000016458527",
+      "desc": "下面部分是io.moquette.spi.impl.BrokerInterceptor.java部分源码",
+      "author": {
+        "nick": "liuhh",
+        "homepage": "/u/liuhh"
+      }
+    }
+  ]
+}
