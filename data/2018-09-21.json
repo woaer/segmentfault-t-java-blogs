@@ -1,0 +1,155 @@
+{
+  "watchNum": "29564",
+  "blogs": [
+    {
+      "id": "1190000016481368",
+      "title": "程序员如何预估自己的项目开发时间？",
+      "url": "/a/1190000016481368",
+      "desc": "项目时间的估算对项目的成败至关重要。项目时间管理包括了项目按时完成所需的各个过程。但是，在实际项目中，经常出现项目延期，估算严重不准确的现象。",
+      "author": {
+        "nick": "程序员小灰",
+        "homepage": "/u/chengxuyuanxiaohui"
+      }
+    },
+    {
+      "id": "1190000016481104",
+      "title": "Netty对socket的抽象",
+      "url": "/a/1190000016481104",
+      "desc": "在netty中步骤1监听端口对应就是NioEventLoop，即事件循环，这里的循环包括两个部分，一个是新连接的接入，而另一个则是当前存在连接的数据流的读写。",
+      "author": {
+        "nick": "MySelf",
+        "homepage": "/u/myself_5ab9f390c6129"
+      }
+    },
+    {
+      "id": "1190000016478566",
+      "title": "一次mybatis中ognl引发的bug排查",
+      "url": "/a/1190000016478566",
+      "desc": "项目组一妹子程序员求助，说mybatis有bug，有一个值明明设置的是A.prop1=XXX，但是存到数据库里面却会自动变成A.prop1=true，尝试了各种调整也找不原因，都快急疯了！我以前确实没有研究过mybatis源码，本着专(ba...",
+      "author": {
+        "nick": "唯心不易",
+        "homepage": "/u/weixinbuyi"
+      }
+    },
+    {
+      "id": "1190000016477254",
+      "title": "不发不行！Netty集成文字图片聊天室外加TCP/IP软硬件通信",
+      "url": "/a/1190000016477254",
+      "desc": "熬了一晚上硬是磨出来了，更新到了GitHub上，善存一些小BUG，不过这个版本的整体功能算是实现了。",
+      "author": {
+        "nick": "MySelf",
+        "homepage": "/u/myself_5ab9f390c6129"
+      }
+    },
+    {
+      "id": "1190000016476618",
+      "title": "夯实基础系列二：网络知识总结",
+      "url": "/a/1190000016476618",
+      "desc": "无论是 C/S 开发还是 B/S 开发，无论是前端开发还是后台开发，网络总是无法避免的，数据如何传输，如何保证正确性和可靠性，如何提高传输效率，如何解决会话管理问题，如何在网络拥堵环境下采取措施。这些都是需...",
+      "author": {
+        "nick": "花永伦",
+        "homepage": "/u/yonglun"
+      }
+    },
+    {
+      "id": "1190000016476255",
+      "title": "Gson简明处理",
+      "url": "/a/1190000016476255",
+      "desc": "关于为什么突然会使用Java,实际上还是公司要将之前原先Python开发的Elasticsearch搜索集成到到项目中,而必须在国庆前给出1个版本。真心的说,进度很赶,对于一个平时不怎么写Java的Pythoner来说,花了1天的时间把对...",
+      "author": {
+        "nick": "我勒个去",
+        "homepage": "/u/yafeile"
+      }
+    },
+    {
+      "id": "1190000016476142",
+      "title": "rocketmq简介",
+      "url": "/a/1190000016476142",
+      "desc": "但是rocketmq提供的能力会比这个复杂的多，如一个生产方发布消息，需要多个消费方订阅，也会存在多个生产方生产消息，一个消费方消费消息，出现一对多，多对一的情况。",
+      "author": {
+        "nick": "杨辉",
+        "homepage": "/u/qzuser_5831baa1efc7f"
+      }
+    },
+    {
+      "id": "1190000016475827",
+      "title": "分库分表后如何部署上线？",
+      "url": "/a/1190000016475827",
+      "desc": "面试官：“有并发的经验没？”应聘者：“有一点。” 面试官：“那你们为了处理并发，做了哪些优化？” 应聘者：“前后端分离啊，限流啊，分库分表啊。。” 面试官:\"谈谈分库分表吧？\" 应聘者：“bala。bala。bala。。” 面...",
+      "author": {
+        "nick": "bali",
+        "homepage": "/u/bali_5a0a92fba16aa"
+      }
+    },
+    {
+      "id": "1190000016475006",
+      "title": "迷宫问题java作业",
+      "url": "/a/1190000016475006",
+      "desc": "迷宫问题java作业-这道题非常有趣，通过变换使得给出的初始迷宫变换成为最终的迷宫状态，我们需要找到这样一个算法，但是深度优先遍历可能会导致耗尽时间，所以采用广度优先遍历。",
+      "author": {
+        "nick": "coder777",
+        "homepage": "/u/coder777"
+      }
+    },
+    {
+      "id": "1190000016474702",
+      "title": "[LeetCode] 297. Serialize and Deserialize Binary Tree",
+      "url": "/a/1190000016474702",
+      "desc": "Serialization is the process of converting a data structure or object into a sequence of bits so that it can be stored in a file or memory buffer, or transmitted across a network connection link to...",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000016474524",
+      "title": "Java编程基础18——集合（Set集合）",
+      "url": "/a/1190000016474524",
+      "desc": "1_HashSet存储字符串并遍历 A:Set集合概述及特点 通过API查看即可 B:案例演示 HashSet存储字符串并遍历 {代码...} 2_HashSet存储自定义对象保证元素唯一性 A:案例演示 存储自定义对象，并保证元素唯一性。 重写ha...",
+      "author": {
+        "nick": "扎瓦",
+        "homepage": "/u/ideas"
+      }
+    },
+    {
+      "id": "1190000016474451",
+      "title": "[LintCode] 300. Longest Increasing Subsequence",
+      "url": "/a/1190000016474451",
+      "desc": "Given an unsorted array of integers, find the length of longest increasing subsequence.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000016474366",
+      "title": "【跃迁之路】【592天】程序员高效学习方法论探索系列（实验阶段349-2018.09.20）",
+      "url": "/a/1190000016474366",
+      "desc": "从2018.7.1起，【跃迁之路】奖励金计划正式起航，从今以后，， 每月1日，我会将自己个人上月收入的1%计入【跃迁之路】奖励金池，积累到足够金额后，将适时用于奖励那些虽然身处困境，却依然不放弃努力，通过坚持...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000016473414",
+      "title": "我是这样手写 Spring 的（麻雀虽小五脏俱全）",
+      "url": "/a/1190000016473414",
+      "desc": "人见人爱的 Spring 已然不仅仅只是一个框架了。如今，Spring 已然成为了一个生态。但深入了解 Spring 的却寥寥无几。这里，我带大家一起来看看，我是如何手写 Spring 的。我将结合对 Spring 十多年的研究经验，用...",
+      "author": {
+        "nick": "茶轴的青春",
+        "homepage": "/u/chazhoudeqingchun"
+      }
+    },
+    {
+      "id": "1190000016473188",
+      "title": "[LeetCode] 460. LFU Cache",
+      "url": "/a/1190000016473188",
+      "desc": "Design and implement a data structure for Least Frequently Used (LFU) cache. It should support the following operations: get and put.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    }
+  ]
+}
