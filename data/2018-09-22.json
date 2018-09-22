@@ -1,0 +1,155 @@
+{
+  "watchNum": "29688",
+  "blogs": [
+    {
+      "id": "1190000016491262",
+      "title": "Java-FlameGraph火焰图",
+      "url": "/a/1190000016491262",
+      "desc": "什么是FlameGraph火焰图？怎么用？以下会为你一一解答。 Let's Go! 1.结论 如果能生成出来对应图表，分析java使用cpu性能很好用。 但是有时生成出来的堆栈写着Unknown，没有具体堆栈信息，会比较抓狂。 如想获取...",
+      "author": {
+        "nick": "joe_chou",
+        "homepage": "/u/joe_chou"
+      }
+    },
+    {
+      "id": "1190000016488964",
+      "title": "良好的RPC接口设计，需要注意这些方面",
+      "url": "/a/1190000016488964",
+      "desc": "RPC 框架的讨论一直是各个技术交流群中的热点话题，阿里的 dubbo，新浪微博的 motan，谷歌的 grpc，以及不久前蚂蚁金服开源的 sofa，都是比较出名的 RPC 框架。RPC 框架，或者一部分人习惯称之为服务治理框架，更...",
+      "author": {
+        "nick": "bali",
+        "homepage": "/u/bali_5a0a92fba16aa"
+      }
+    },
+    {
+      "id": "1190000016488763",
+      "title": "Java编程基础19——Map集合&斗地主案例",
+      "url": "/a/1190000016488763",
+      "desc": "1_Map集合概述和特点 A:Map接口概述 查看API可以知道： 将键映射到值的对象 一个映射不能包含重复的键 每个键最多只能映射到一个值 B:Map接口和Collection接口的不同 Map是双列的,Collection是单列的 Map的键唯一...",
+      "author": {
+        "nick": "扎瓦",
+        "homepage": "/u/ideas"
+      }
+    },
+    {
+      "id": "1190000016488521",
+      "title": "怎么用Java从网上下载一个视频下来",
+      "url": "/a/1190000016488521",
+      "desc": "原理：就是用URL对象与目标地址建立一个链接，用IO流的方式从这个链接上把视频的二进制数据读取下载然后再写入本地文件。",
+      "author": {
+        "nick": "13678398293",
+        "homepage": "/u/13678398293"
+      }
+    },
+    {
+      "id": "1190000016488046",
+      "title": "【跃迁之路】【593天】程序员高效学习方法论探索系列（实验阶段350-2018.09.21）",
+      "url": "/a/1190000016488046",
+      "desc": "从2018.7.1起，【跃迁之路】奖励金计划正式起航，从今以后，， 每月1日，我会将自己个人上月收入的1%计入【跃迁之路】奖励金池，积累到足够金额后，将适时用于奖励那些虽然身处困境，却依然不放弃努力，通过坚持...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000016487541",
+      "title": "工厂和抽象工厂模式",
+      "url": "/a/1190000016487541",
+      "desc": "工厂模式：一般我们通过new创建一个产品类，为了简化操作我们可以创建一个工厂类，由这个工厂类负责创建所需要的产品；",
+      "author": {
+        "nick": "scu酱油仔",
+        "homepage": "/u/scu2jiangyouzi"
+      }
+    },
+    {
+      "id": "1190000016486279",
+      "title": "spring事务",
+      "url": "/a/1190000016486279",
+      "desc": "1.        在需要事务管理的地方加@Transactional注解。@Transactional 注解可以被应用于接口定义和接口方法、类定义和类的 public 方法上。",
+      "author": {
+        "nick": "wotrd",
+        "homepage": "/u/wotrd"
+      }
+    },
+    {
+      "id": "1190000016485614",
+      "title": "java中字符串的比较",
+      "url": "/a/1190000016485614",
+      "desc": "首先，在java中String是一个对象，在用==比较两个String对象的引用时，是比较两个对象引用的值是否相等，就是比较是否指向同一个对象。name1在堆上创建了一个对象，name2也在堆上创建了一个对象，虽然对象的值都...",
+      "author": {
+        "nick": "鲸冬香",
+        "homepage": "/u/jingdongxiang"
+      }
+    },
+    {
+      "id": "1190000016483357",
+      "title": "手把手教你搭APM之Skywalking搭建指南(支持Java/C#/Node.js)",
+      "url": "/a/1190000016483357",
+      "desc": "后来到了新公司,因为历史包袱有点多,追踪性能问题太麻烦,用过收费的New Relic | Real-time insights for modern software ,newrelic按照CPU核数和内存来收费,实在太贵了我们就放弃了.",
+      "author": {
+        "nick": "李国宝",
+        "homepage": "/u/codelover"
+      }
+    },
+    {
+      "id": "1190000016483290",
+      "title": "一个阿里工作4年java程序员的从业心得，写给还在迷茫的朋友",
+      "url": "/a/1190000016483290",
+      "desc": "貌似这一点适应的行业最广，但是我可以很肯定的说：当你从事Java一年后，重新找工作时，才会真实的感受到这句话。",
+      "author": {
+        "nick": "阿阳",
+        "homepage": "/u/ayang_5ba3341a1e69c"
+      }
+    },
+    {
+      "id": "1190000016483136",
+      "title": "TableStore发布多元索引功能，打造统一的在线数据平台",
+      "url": "/a/1190000016483136",
+      "desc": "摘要： TableStore发布多元索引功能，提供多字段ad-hoc查询、模糊查询、全文检索、排序、范围查询、嵌套查询、空间查询等功能，打造统一的在线数据平台",
+      "author": {
+        "nick": "阿里云云栖社区",
+        "homepage": "/u/yunqishequ_5aa899aad5395"
+      }
+    },
+    {
+      "id": "1190000016482512",
+      "title": "androidstudio2.3升级到3.2遇到的坑",
+      "url": "/a/1190000016482512",
+      "desc": "好久不做安卓的项目了，公司今天需要对原来的安卓项目进行升级维护。下载新版的androidstudio3.2版本用的是gradle4.5。distributionUrl=https\\://services.gradle.org/distributions/gradle-4.5-all.zip 导入原来...",
+      "author": {
+        "nick": "荔枝",
+        "homepage": "/u/lizhi_5b29f51f61e05"
+      }
+    },
+    {
+      "id": "1190000016482481",
+      "title": "学习图形化界面实现百人分钱问题的收获与问题",
+      "url": "/a/1190000016482481",
+      "desc": "人们一般都会觉得后面应该财富分配也是差不多的，毕竟每个人失去钱的概率和得到钱的概率都是一样的，但在很多事情上人们的感觉都是不准的，例如视觉欺骗，眼见都不一定为实",
+      "author": {
+        "nick": "笙歌会停",
+        "homepage": "/u/gehuiting"
+      }
+    },
+    {
+      "id": "1190000016482306",
+      "title": "Android App 如何生成以太坊钱包",
+      "url": "/a/1190000016482306",
+      "desc": "2.我们将设计一个Android UI示例，屏幕上将有文本编辑和按钮。在EditText中，将要求用户输入钱包的密码。然后在按钮的单击事件上，我们将开始发送密码的过程。以下是layout.xml文件：",
+      "author": {
+        "nick": "malakashi",
+        "homepage": "/u/malakashi"
+      }
+    },
+    {
+      "id": "1190000016482283",
+      "title": "MyBatis理解与掌握（缓存）",
+      "url": "/a/1190000016482283",
+      "desc": "框架处理缓存是 依赖sql映射id ，Mybatis的内部缓存使用一个HashMap，key为hashcode+statementId+sql语句。Value为查询出来的结果集映射成的java对象。",
+      "author": {
+        "nick": "苏生",
+        "homepage": "/u/susheng_579d70745d3d3"
+      }
+    }
+  ]
+}
