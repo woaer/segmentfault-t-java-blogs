@@ -1,0 +1,155 @@
+{
+  "watchNum": "29818",
+  "blogs": [
+    {
+      "id": "1190000016508108",
+      "title": "线程间的同步与通信(6)——CountDownLatch源码分析",
+      "url": "/a/1190000016508108",
+      "desc": "CountDownLatch是一个很有用的工具，latch是门闩的意思，该工具是为了解决某些操作只能在一组操作全部执行完成后才能执行的情景。例如，小组早上开会，只有等所有人到齐了才能开；再如，游乐园里的过山车，一次可...",
+      "author": {
+        "nick": "ChiuCheng",
+        "homepage": "/u/chiucheng"
+      }
+    },
+    {
+      "id": "1190000016506302",
+      "title": "《Java8实战》-第六章读书笔记（用流收集数据-02）",
+      "url": "/a/1190000016506302",
+      "desc": "分区是分组的特殊情况：由一个谓词（返回一个布尔值的函数）作为分类函数，它称分区函数。分区函数返回一个布尔值，这意味着得到的分组 Map 的键类型是 Boolean ，于是它最多可以分为两组—— true 是一组， false ...",
+      "author": {
+        "nick": "NGLSL",
+        "homepage": "/u/nglsl666"
+      }
+    },
+    {
+      "id": "1190000016506284",
+      "title": "智能合约实施指南",
+      "url": "/a/1190000016506284",
+      "desc": "传统的商业关系模型都是集中式的，始终存在一个第三方，​​它位于正在进行交易并确认合约中的条款和条件在交易双方间。该第三方可以是银行机构，执法机关，政府机构或其他中介机构。",
+      "author": {
+        "nick": "malakashi",
+        "homepage": "/u/malakashi"
+      }
+    },
+    {
+      "id": "1190000016502709",
+      "title": "设计一个百万级的消息推送系统",
+      "url": "/a/1190000016502709",
+      "desc": "前言 首先迟到的祝大家中秋快乐。 最近一周多没有更新了。其实我一直想憋一个大招，分享一些大家感兴趣的干货。 鉴于最近我个人的工作内容，于是利用这三天小长假憋了一个出来（其实是玩了两天🤣）。 先简单说下本...",
+      "author": {
+        "nick": "crossoverJie",
+        "homepage": "/u/crossoverjie"
+      }
+    },
+    {
+      "id": "1190000016503581",
+      "title": "【Leetcode】77. 组合",
+      "url": "/a/1190000016503581",
+      "desc": "这道题目我就不做解析了，就是全排列的变种，全排列用backtrack的方法，我们之前已经解析过好几期了，都是一套解题模板，直接记住这种backtrack题目的模板即可快速A掉。",
+      "author": {
+        "nick": "Acceml",
+        "homepage": "/u/acceml"
+      }
+    },
+    {
+      "id": "1190000016503518",
+      "title": "线程间的同步与通信(5)——ReentrantLock源码分析",
+      "url": "/a/1190000016503518",
+      "desc": "上一篇 我们学习了lock接口，本篇我们就以ReentrantLock为例，学习一下Lock锁的基本的实现。我们先来看看Lock接口中的方法与ReentrantLock对其实现的对照表：",
+      "author": {
+        "nick": "ChiuCheng",
+        "homepage": "/u/chiucheng"
+      }
+    },
+    {
+      "id": "1190000016502871",
+      "title": "Java 设计模式之观察者模式",
+      "url": "/a/1190000016502871",
+      "desc": "观察者模式定义了对象之间的一对多依赖，这样一来，当一个对象状态改变时，它的所有依赖者都会收到通知并自动更新。",
+      "author": {
+        "nick": "留兰香",
+        "homepage": "/u/zchen96"
+      }
+    },
+    {
+      "id": "1190000016502649",
+      "title": "Java Optional 实践",
+      "url": "/a/1190000016502649",
+      "desc": "在大热的Spring Boot 2.0中，在将原来的泛型改为了Optional，旨在让我们的代码更简洁。",
+      "author": {
+        "nick": "张喜硕",
+        "homepage": "/u/zhangxishuo"
+      }
+    },
+    {
+      "id": "1190000016502278",
+      "title": "ArrayList源码解析",
+      "url": "/a/1190000016502278",
+      "desc": "ArrayList是对java中数组的扩展，其底层还是使用数据实现，支持自动扩容，不是线程安全的类。其继承AbstractList，实现了List, RandomAccess, Cloneable,Serializable各个接口，其中RandomAccess为支持随机读写的...",
+      "author": {
+        "nick": "何长治",
+        "homepage": "/u/hechangzhi"
+      }
+    },
+    {
+      "id": "1190000016501716",
+      "title": "我理解的数据结构（五）—— 二分搜索树（Binary Search Tree）",
+      "url": "/a/1190000016501716",
+      "desc": "我理解的数据结构（五）—— 二分搜索树（Binary Search Tree） 一、二叉树 和链表一样，动态数据结构 具有唯一根节点 每个节点最多有两个子节点 每个节点最多有一个父节点 具有天然的递归结构 每个节点的左子树也...",
+      "author": {
+        "nick": "罗纳尔多Coder",
+        "homepage": "/u/xiezong"
+      }
+    },
+    {
+      "id": "1190000016501316",
+      "title": "[LeetCode] 451. Sort Characters By Frequency",
+      "url": "/a/1190000016501316",
+      "desc": "Given a string, sort it in decreasing order based on the frequency of characters.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000016501265",
+      "title": "[LeetCode] 611. Valid Triangle Number",
+      "url": "/a/1190000016501265",
+      "desc": "Given an array consists of non-negative integers, your task is to count the number of triplets chosen from the array that can make triangles if we take them as side lengths of a triangle.Example 1:...",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000016500653",
+      "title": "正则表达式真的很骚，可惜你不会写！！！",
+      "url": "/a/1190000016500653",
+      "desc": "正则表达式在几乎所有语言中都可以使用，无论是前端的JavaScript、还是后端的Java、c#。他们都提供相应的接口/函数支持正则表达式。",
+      "author": {
+        "nick": "jaybril",
+        "homepage": "/u/jaybril"
+      }
+    },
+    {
+      "id": "1190000016500256",
+      "title": "递归实现迷宫求解",
+      "url": "/a/1190000016500256",
+      "desc": "这周数据结构老师布置了一个作业，用栈来实现迷宫的求解，本来是要求自己写一个栈的类来实现，但是自己懒得写了，因为递归也是栈的一种实现，就直接用了递归来写。",
+      "author": {
+        "nick": "鲸冬香",
+        "homepage": "/u/jingdongxiang"
+      }
+    },
+    {
+      "id": "1190000016499989",
+      "title": "【跃迁之路】【596天】程序员高效学习方法论探索系列（实验阶段353-2018.09.24）",
+      "url": "/a/1190000016499989",
+      "desc": "从2018.7.1起，【跃迁之路】奖励金计划正式起航，从今以后，， 每月1日，我会将自己个人上月收入的1%计入【跃迁之路】奖励金池，积累到足够金额后，将适时用于奖励那些虽然身处困境，却依然不放弃努力，通过坚持...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    }
+  ]
+}
