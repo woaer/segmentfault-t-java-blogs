@@ -1,0 +1,155 @@
+{
+  "watchNum": "29890",
+  "blogs": [
+    {
+      "id": "1190000016547288",
+      "title": "JDK源码解析系列之object",
+      "url": "/a/1190000016547288",
+      "desc": "Java中，用native关键字修饰的函数表明该方法的实现并不是在Java中去完成，而是由C++去完成，并被编译成了.dll，由Java去调用。方法的具体实现体在dll文件中，对于像Window，Linux，Mac不同平台，其具体实现有所...",
+      "author": {
+        "nick": "雨露",
+        "homepage": "/u/yulu_5b175873aeaf9"
+      }
+    },
+    {
+      "id": "1190000016542779",
+      "title": "FutureTask源码解析(1)——预备知识",
+      "url": "/a/1190000016542779",
+      "desc": "FutureTask 是一个同步工具类，它实现了Future语义，表示了一种抽象的可生成结果的计算。在包括线程池在内的许多工具类中都会用到，弄懂它的实现将有利于我们更加深入地理解Java异步操作实现。",
+      "author": {
+        "nick": "ChiuCheng",
+        "homepage": "/u/chiucheng"
+      }
+    },
+    {
+      "id": "1190000016543297",
+      "title": "[LeetCode] 289. Game of Life",
+      "url": "/a/1190000016543297",
+      "desc": "According to the Wikipedia's article: \"The Game of Life, also known simply as Life, is a cellular automaton devised by the British mathematician John Horton Conway in 1970.\"",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000016543191",
+      "title": "LinkedList源码解析",
+      "url": "/a/1190000016543191",
+      "desc": "LinkedList是对链表的扩展，其底层使用链表实现，不是线程安全的集合类。其继承AbstractSequentialList，实现了List, Deque, Cloneable,Serializable各个接口，其中AbstractSequentialList继承了AbstractList抽象...",
+      "author": {
+        "nick": "何长治",
+        "homepage": "/u/hechangzhi"
+      }
+    },
+    {
+      "id": "1190000016542131",
+      "title": "前后端分离项目 — SpringSocial 绑定与解绑社交账号如微信、QQ",
+      "url": "/a/1190000016542131",
+      "desc": "申请QQ、微信相关AppId和AppSecret，这些大家自己到QQ互联和微信开发平台 去申请吧 还有java后台要引入相关的jar包，如下：",
+      "author": {
+        "nick": "Awbeci",
+        "homepage": "/u/awbeci"
+      }
+    },
+    {
+      "id": "1190000016542060",
+      "title": " 【Leetcode】79.单词搜索",
+      "url": "/a/1190000016542060",
+      "desc": "单词必须按照字母顺序，通过相邻的单元格内的字母构成，其中“相邻”单元格是那些水平相邻或垂直相邻的单元格。同一个单元格内的字母不允许被重复使用。",
+      "author": {
+        "nick": "Acceml",
+        "homepage": "/u/acceml"
+      }
+    },
+    {
+      "id": "1190000016541621",
+      "title": "SpringBoot 入门简介",
+      "url": "/a/1190000016541621",
+      "desc": "Spring-Boot是由Pivotal团队提供的全新框架，其设计目的是用来简化新Spring应用的初始搭建以及开发过程。个人理解来说Spring-Boot其实不是什么新的框架，它默认配置了很多框架的使用方式，就像maven整合了所有的j...",
+      "author": {
+        "nick": "RunBird",
+        "homepage": "/u/suocaiyuan"
+      }
+    },
+    {
+      "id": "1190000016541061",
+      "title": "这些Spring中的设计模式，你都知道吗？",
+      "url": "/a/1190000016541061",
+      "desc": "设计模式作为工作学习中的枕边书，却时常处于勤说不用的尴尬境地，也不是我们时常忘记，只是一直没有记忆。",
+      "author": {
+        "nick": "木鱼",
+        "homepage": "/u/muyu_5b92839d61247"
+      }
+    },
+    {
+      "id": "1190000016540318",
+      "title": "【跃迁之路】【599天】程序员高效学习方法论探索系列（实验阶段356-2018.09.27）",
+      "url": "/a/1190000016540318",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000016539773",
+      "title": "推荐一个互联网很火的技术——阿里巴巴微服务架构到底有多牛逼？",
+      "url": "/a/1190000016539773",
+      "desc": "解释一下：Spring Boot 可以构建一切。Spring Boot 设计之初就是为了最少的配置，最快的速度来启动和运行 Spring 项目。Spring Boot 使用特定的配置来构建生产就绪型的项目。",
+      "author": {
+        "nick": "阿里java",
+        "homepage": "/u/alijava"
+      }
+    },
+    {
+      "id": "1190000016539755",
+      "title": "有货基于Kubernetes容器环境的持续交付实践",
+      "url": "/a/1190000016539755",
+      "desc": "业内各大云服务商以及公司逐渐选择Kubernetes与Docker作为微服务支撑的首选平台。为了更好满足DevOps，我们采用了开源框架Spinnaker作为持续交付平台，完成服务的快速部署，回滚，A/B测试，以及金丝雀等等的部署...",
+      "author": {
+        "nick": "007大树将军",
+        "homepage": "/u/javajiagoushi007"
+      }
+    },
+    {
+      "id": "1190000016539316",
+      "title": "Java Flight Recorder小试牛刀",
+      "url": "/a/1190000016539316",
+      "desc": "主要有5个命令，configure、check、start、dump、stop。执行顺序的话，先start再dump，最后stop。",
+      "author": {
+        "nick": "codecraft",
+        "homepage": "/u/codecraft"
+      }
+    },
+    {
+      "id": "1190000016538946",
+      "title": "android音乐播放器、多种架构综合应用、滤镜处理等源码",
+      "url": "/a/1190000016538946",
+      "desc": "Android仿微信朋友圈查看图片下拽返回。 Android图片滤镜处理，相机滤镜处理效果源码 Android自定义View源码：一个水平的进度条 基于MVP-Clean + Weex + RxJava2 + Retrofit + Dagger2 + MTRVA的综合应用 Android...",
+      "author": {
+        "nick": "ld11620967",
+        "homepage": "/u/ld11620967"
+      }
+    },
+    {
+      "id": "1190000016538566",
+      "title": "[LeetCode] 22. Generate Parentheses",
+      "url": "/a/1190000016538566",
+      "desc": "Given n pairs of parentheses, write a function to generate all combinations of well-formed parentheses.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000016538224",
+      "title": "必知必会JVM垃圾回收——对象搜索算法与回收算法",
+      "url": "/a/1190000016538224",
+      "desc": "垃圾回收（GC）是JVM的一大杀器，它使程序员可以更高效地专注于程序的开发设计，而不用过多地考虑对象的创建销毁等操作。但是这并不是说程序员不需要了解GC。GC只是Java编程中一项自动化工具，任何一个工具都有它...",
+      "author": {
+        "nick": "Zack",
+        "homepage": "/u/zack_587d6bc057a6a"
+      }
+    }
+  ]
+}
