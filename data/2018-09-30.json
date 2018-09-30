@@ -1,0 +1,155 @@
+{
+  "watchNum": "29909",
+  "blogs": [
+    {
+      "id": "1190000016571329",
+      "title": "【MYSQL】使用RAID增加传统机器硬盘的性能",
+      "url": "/a/1190000016571329",
+      "desc": "RAID是磁盘冗余队列的简称（Redundant Arrays of Independent Disks）。简单来说，RAID的作用就是可以把多个容量较小的磁盘组成一组容量更大的磁盘，并提供数据冗余来保证数据完整性的技术。",
+      "author": {
+        "nick": "MySelf",
+        "homepage": "/u/myself_5ab9f390c6129"
+      }
+    },
+    {
+      "id": "1190000016570668",
+      "title": "Java反射-私有属性和方法",
+      "url": "/a/1190000016570668",
+      "desc": "尽管普遍认知是，实际可以通过反射访问其他类的私有属性和方法。它甚至并不难。这个特性在单元测试中特别有用。本文将告诉你如何做。注意：这只能在单体Java应用程序中运行，比如单元测试和常规程序。如果你尝试...",
+      "author": {
+        "nick": "团结",
+        "homepage": "/u/2006"
+      }
+    },
+    {
+      "id": "1190000016570268",
+      "title": "Spring Boot （七）MyBatis代码自动生成和辅助插件",
+      "url": "/a/1190000016570268",
+      "desc": "MyBatis Generator 是MyBatis 官方出品的一款，用来自动生成MyBatis的 mapper、dao、entity 的框架，让我们省去规律性最强的一部分最基础的代码编写。",
+      "author": {
+        "nick": "王磊",
+        "homepage": "/u/vipstone"
+      }
+    },
+    {
+      "id": "1190000016569821",
+      "title": "聊聊jdk httpclient的executor",
+      "url": "/a/1190000016569821",
+      "desc": "java.net.http/jdk/internal/net/http/HttpClientImpl.java",
+      "author": {
+        "nick": "codecraft",
+        "homepage": "/u/codecraft"
+      }
+    },
+    {
+      "id": "1190000016569598",
+      "title": "RecyclerView用法和源码深度解析",
+      "url": "/a/1190000016569598",
+      "desc": "目录介绍 1.RecycleView的结构 2.Adapter 2.1 RecyclerView.Adapter扮演的角色 2.2 重写的方法 2.3 notifyDataSetChanged()刷新数据 2.4 数据变更通知之观察者模式 a.首先看.notifyDataSetChanged()源码 b.接着查...",
+      "author": {
+        "nick": "潇湘剑雨",
+        "homepage": "/u/xiangjianyu"
+      }
+    },
+    {
+      "id": "1190000016568734",
+      "title": "如何准备一份「Java工程师范儿」的简历？",
+      "url": "/a/1190000016568734",
+      "desc": "定制简历我自己的经验是，每个岗位的具体要求都不同，因此大家不要用一个通用的简历去应付所有的岗位，最好是根据特定公司的特定岗位来定制简历。当然这并不是让大家编故事，而是突出与目标岗位匹配的经验和能力...",
+      "author": {
+        "nick": "糖宝",
+        "homepage": "/u/tangbao_5a152bb72d2ed"
+      }
+    },
+    {
+      "id": "1190000016568462",
+      "title": "[LeetCode] 383. Ransom Note",
+      "url": "/a/1190000016568462",
+      "desc": "Given an arbitrary ransom note string and another string containing letters from all the magazines, write a function that will return true if the ransom note can be constructed from the magazines ;...",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000016568049",
+      "title": "在spring中实践观察者模式（二）",
+      "url": "/a/1190000016568049",
+      "desc": "楔子基于spring容器的事件发布功能，定制自己的容器事件并委托容器进行发布，达到解耦应用组件的目的。",
+      "author": {
+        "nick": "時不知歸",
+        "homepage": "/u/fbbuzhikx"
+      }
+    },
+    {
+      "id": "1190000016568031",
+      "title": " 我的2019秋招记忆（完整版）",
+      "url": "/a/1190000016568031",
+      "desc": "本文主要包括三部分内容，这三部分内容也是我在三个时期完成的。 第一部分是我在参加2018春招时所写，主要记录了我在研究生期间学习Java后端的心路历程。 第二部分内容是我参加2019秋季招聘过程中所作，记录了秋...",
+      "author": {
+        "nick": "程序员江湖",
+        "homepage": "/u/h2pl"
+      }
+    },
+    {
+      "id": "1190000016567386",
+      "title": "SpringCloud服务的平滑上下线",
+      "url": "/a/1190000016567386",
+      "desc": "吐槽： 以前都是手撸RPC，最近接触 SpringCloud ，深感痛心。主要有以下几点： 1）代码量巨大，找BUG时间长，超级复杂的设计 2）版本管理混乱，经常出现莫名其妙的配置错误（所以2.0是打死不敢上生产啊） 3）Netf...",
+      "author": {
+        "nick": "如愿",
+        "homepage": "/u/javakaifa"
+      }
+    },
+    {
+      "id": "1190000016566793",
+      "title": "Java编程基础24——递归练习",
+      "url": "/a/1190000016566793",
+      "desc": "递归练习递归练习递归练习递归练习递归练习",
+      "author": {
+        "nick": "扎瓦",
+        "homepage": "/u/ideas"
+      }
+    },
+    {
+      "id": "1190000016566596",
+      "title": "基于 Spring Cloud 完整的微服务架构实战",
+      "url": "/a/1190000016566596",
+      "desc": "Spring boot - 微服务的入门级微框架，用来简化 Spring 应用的初始搭建以及开发过程。",
+      "author": {
+        "nick": "007大树将军",
+        "homepage": "/u/javajiagoushi007"
+      }
+    },
+    {
+      "id": "1190000016565187",
+      "title": "服务化改造实践（二）| Dubbo + Kubernetes",
+      "url": "/a/1190000016565187",
+      "desc": "摘要： “没有最好的技术，只有最合适的技术。”我想这句话也同样适用于微服务领域，没有最好的服务框架，只有最适合自己的服务改造。在Dubbo的未来规划中，除了保持自身技术上的领先性，关注性能，大流量，大规模...",
+      "author": {
+        "nick": "暖忆",
+        "homepage": "/u/nuanyi"
+      }
+    },
+    {
+      "id": "1190000016564440",
+      "title": "为什么我们做分布式使用Redis？",
+      "url": "/a/1190000016564440",
+      "desc": "绝大部分写业务的程序员，在实际开发中使用 Redis 的时候，只会 Set Value 和 Get Value 两个操作，对 Redis 整体缺乏一个认知。这里对 Redis 常见问题做一个总结，解决大家的知识盲点。",
+      "author": {
+        "nick": "进取的心",
+        "homepage": "/u/jinqudexin"
+      }
+    },
+    {
+      "id": "1190000016564070",
+      "title": "java多线程系列：通过对战游戏学习CyclicBarrier",
+      "url": "/a/1190000016564070",
+      "desc": "CyclicBarrier是java.util.concurrent包下面的一个工具类，字面意思是可循环使用（Cyclic）的屏障（Barrier），通过它可以实现让一组线程到达一个屏障（也可以叫同步点）时被阻塞，直到最后一个线程到达屏障时，...",
+      "author": {
+        "nick": "阿里云云栖社区",
+        "homepage": "/u/yunqishequ_5aa899aad5395"
+      }
+    }
+  ]
+}
