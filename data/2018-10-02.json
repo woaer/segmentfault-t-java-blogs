@@ -1,0 +1,155 @@
+{
+  "watchNum": "29913",
+  "blogs": [
+    {
+      "id": "1190000016579566",
+      "title": "史上最全 40 道 Dubbo 面试题及答案，看完碾压面试官！",
+      "url": "/a/1190000016579566",
+      "desc": "Dubbo是国内最出名的分布式服务框架，也是 Java 程序员必备的必会的框架之一。Dubbo 更是中高级面试过程中经常会问的技术，无论你是否用过，你都必须熟悉。",
+      "author": {
+        "nick": "Java技术栈",
+        "homepage": "/u/javastack"
+      }
+    },
+    {
+      "id": "1190000016582089",
+      "title": "聊聊jdk httpclient的connect timeout异常",
+      "url": "/a/1190000016582089",
+      "desc": "responseAsync最后调用ExchangeImpl.get(this, connection)",
+      "author": {
+        "nick": "codecraft",
+        "homepage": "/u/codecraft"
+      }
+    },
+    {
+      "id": "1190000016581904",
+      "title": "Spring Boot 参考指南（Spring bean和依赖项注入）",
+      "url": "/a/1190000016581904",
+      "desc": "你可以自由使用任何标准Spring框架技术来定义bean及其注入的依赖项，为了简单起见，我们经常发现使用@ComponentScan（找到你的bean）和使用@Autowired（进行构造函数注入）工作得很好。",
+      "author": {
+        "nick": "博弈",
+        "homepage": "/u/leon_qi"
+      }
+    },
+    {
+      "id": "1190000016581889",
+      "title": "Spring Boot 参考指南（自动配置）",
+      "url": "/a/1190000016581889",
+      "desc": "Spring Boot支持基于java的配置，虽然可以使用XML源的SpringApplication，但是我们通常建议你的主源是一个@Configuration类。通常，定义main方法的类是一个很好的候选者，作为主要的@Configuration。",
+      "author": {
+        "nick": "博弈",
+        "homepage": "/u/leon_qi"
+      }
+    },
+    {
+      "id": "1190000016580515",
+      "title": "想知道Java与内存的关系？这篇文章全部告诉你",
+      "url": "/a/1190000016580515",
+      "desc": "又是一年秋招季，哎呀妈呀我被虐的惨来~这不，前几阵失踪没更新博客，其实是我偷偷把时间用在复习课本了（雾",
+      "author": {
+        "nick": "tengshe789",
+        "homepage": "/u/tengshe789"
+      }
+    },
+    {
+      "id": "1190000016579536",
+      "title": "聊聊jdk httpclient的retry参数",
+      "url": "/a/1190000016579536",
+      "desc": "java.net.http/jdk/internal/net/http/MultiExchange.java",
+      "author": {
+        "nick": "codecraft",
+        "homepage": "/u/codecraft"
+      }
+    },
+    {
+      "id": "1190000016578522",
+      "title": "[LeetCode] 143. Reorder List",
+      "url": "/a/1190000016578522",
+      "desc": "Given a singly linked list L: L0→L1→…→Ln-1→Ln,reorder it to: L0→Ln→L1→Ln-1→L2→Ln-2→…",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000016578470",
+      "title": "[LeetCode] 148. Sort List",
+      "url": "/a/1190000016578470",
+      "desc": "Sort a linked list in O(n log n) time using constant space complexity.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000016577552",
+      "title": "从程序员到架构师的方法与逻辑",
+      "url": "/a/1190000016577552",
+      "desc": "架构师这个词经常见到，很多人都冠着这个头衔，实际上很多人对架构师究竟是干什么的都没有统一的认识。V众投发起人李智勇则利用特定场景进行分析，诠释了架构师这个概念，并给出如何成为架构师方法。",
+      "author": {
+        "nick": "007大树将军",
+        "homepage": "/u/javajiagoushi007"
+      }
+    },
+    {
+      "id": "1190000016576827",
+      "title": "java实现多线程的两种方式",
+      "url": "/a/1190000016576827",
+      "desc": "多线程环境存在共享资源多个线程操作（修改）共享资源下面分别用继承Thread类和实现Runnable接口俩种方式实现并发控制，",
+      "author": {
+        "nick": "进取的心",
+        "homepage": "/u/jinqudexin"
+      }
+    },
+    {
+      "id": "1190000016576805",
+      "title": "分布式的系统核心是什么——日志",
+      "url": "/a/1190000016576805",
+      "desc": "日志就是按照时间顺序追加的、完全有序的记录序列，其实就是一种特殊的文件格式，文件是一个字节数组，而这里日志是一个记录数据，只是相对于文件来说，这里每条记录都是按照时间的相对顺序排列的，可以说日志是...",
+      "author": {
+        "nick": "007大树将军",
+        "homepage": "/u/javajiagoushi007"
+      }
+    },
+    {
+      "id": "1190000016576329",
+      "title": "前后端分离项目 — Java后台统一错误消息处理",
+      "url": "/a/1190000016576329",
+      "desc": "一般我们后台出错报Exception都是直接抛出来的，但是微信公众号，或者支付宝支付等等，他们的异常都有错误码对应错误信息，他们是如何根据错误信息展示对应的错误码提供给前端的呢，这也就是我们要说的统一错误消...",
+      "author": {
+        "nick": "Awbeci",
+        "homepage": "/u/awbeci"
+      }
+    },
+    {
+      "id": "1190000016576212",
+      "title": "Centos学习笔记14-java程序启动脚本",
+      "url": "/a/1190000016576212",
+      "desc": "服务器如果关机，应用比较多的话，需要重启把所有程序启动一遍。在网上找了一些脚本，综合改了一个新的出来。以后启动就可以少写一些命令了。",
+      "author": {
+        "nick": "星空",
+        "homepage": "/u/xingkong2017"
+      }
+    },
+    {
+      "id": "1190000016576091",
+      "title": "优秀架构师必须掌握的架构思维",
+      "url": "/a/1190000016576091",
+      "desc": "如果要问软件研发/系统架构中最重要的能力是什么，我会毫不犹豫回答是抽象能力。抽象(abstraction)这个词大家经常听到，但是真正理解和能讲清楚什么是抽象的人少之又少。抽象其实是这样定义的：",
+      "author": {
+        "nick": "007大树将军",
+        "homepage": "/u/javajiagoushi007"
+      }
+    },
+    {
+      "id": "1190000016575200",
+      "title": "Java 11 教程",
+      "url": "/a/1190000016575200",
+      "desc": "Java11 已于 2018/09/25 成功发布，不过目前 绝大多数人 在生产环境仍旧使用的是Java 8。这篇以案例为主的教程涵盖了从 Java 9 到 Java 11的绝大多数重要的语法与API特性。让我们开始吧！",
+      "author": {
+        "nick": "wangweiX",
+        "homepage": "/u/wangweix"
+      }
+    }
+  ]
+}
