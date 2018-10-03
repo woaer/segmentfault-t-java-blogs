@@ -1,0 +1,155 @@
+{
+  "watchNum": "29916",
+  "blogs": [
+    {
+      "id": "1190000016585728",
+      "title": "聊聊jdk httpclient的ConnectionPool",
+      "url": "/a/1190000016585728",
+      "desc": "java.net.http/jdk/internal/net/http/HttpConnection.java",
+      "author": {
+        "nick": "codecraft",
+        "homepage": "/u/codecraft"
+      }
+    },
+    {
+      "id": "1190000016585383",
+      "title": "如何开发比特币钱包应用程序",
+      "url": "/a/1190000016585383",
+      "desc": "尽管目前加密货币市场相当黯淡，但比特币和其他山寨币继续受欢迎。每天都有新的交易者加入市场，希望能够在下一个价格高涨时获利。",
+      "author": {
+        "nick": "malakashi",
+        "homepage": "/u/malakashi"
+      }
+    },
+    {
+      "id": "1190000016584983",
+      "title": "Spring Boot 参考指南（验证&发送电子邮件）",
+      "url": "/a/1190000016584983",
+      "desc": "只要类路径上有JSR-303实现（比如Hibernate验证器），Bean validation 1.1支持的方法验证特性就会自动启用，这就让bean方法在参数和/或返回值上使用javax.validation约束进行注解，使用这种带注解的方法的目标类...",
+      "author": {
+        "nick": "博弈",
+        "homepage": "/u/leon_qi"
+      }
+    },
+    {
+      "id": "1190000016584939",
+      "title": "Spring Boot 参考指南（使用WebClient调用REST服务）",
+      "url": "/a/1190000016584939",
+      "desc": "如果你的classpath上有Spring WebFlux，那么你还可以选择使用WebClient来调用远程REST服务，与RestTemplate相比，这个客户端具有更强的功能性，并且完全具有响应性。你可以使用builder，WebClient.create()创建自...",
+      "author": {
+        "nick": "博弈",
+        "homepage": "/u/leon_qi"
+      }
+    },
+    {
+      "id": "1190000016584890",
+      "title": "Spring Boot 参考指南（使用RestTemplate调用REST服务）",
+      "url": "/a/1190000016584890",
+      "desc": "如果需要从应用程序调用远程REST服务，你可以使用Spring框架的RestTemplate类，由于RestTemplate实例通常需要在使用之前进行定制，因此Spring Boot不提供任何自动配置的RestTemplate bean。但是，它可以自动配置...",
+      "author": {
+        "nick": "博弈",
+        "homepage": "/u/leon_qi"
+      }
+    },
+    {
+      "id": "1190000016584773",
+      "title": "Spring Boot 参考指南（使用NoSQL技术）",
+      "url": "/a/1190000016584773",
+      "desc": "Spring Data提供了额外的项目，帮助你访问各种NoSQL技术，包括：MongoDB，Neo4J，Elasticsearch，Solr，Redis，Gemfire，Cassandra，Couchbase和LDAP。Spring Boot为Redis、MongoDB、Neo4j、Elasticsearch、Solr ...",
+      "author": {
+        "nick": "博弈",
+        "homepage": "/u/leon_qi"
+      }
+    },
+    {
+      "id": "1190000016584598",
+      "title": "Spring Boot 参考指南（安全）",
+      "url": "/a/1190000016584598",
+      "desc": "如果在类路径上有Spring Security，那么web应用程序默认是安全的，Spring Boot依赖Spring Security的内容协商策略来决定是使用httpBasic还是formLogin，要向web应用程序添加方法级安全性，还可以使用所需的设置添...",
+      "author": {
+        "nick": "博弈",
+        "homepage": "/u/leon_qi"
+      }
+    },
+    {
+      "id": "1190000016584290",
+      "title": "Spring Boot 参考指南（开发Web应用程序）",
+      "url": "/a/1190000016584290",
+      "desc": "Spring Boot非常适合web应用程序开发，通过使用嵌入式Tomcat、Jetty、Undertow或Netty，你可以创建一个自包含的HTTP服务器。大多数web应用程序都使用spring-boot-starter-web模块来快速启动和运行，你还可以选择...",
+      "author": {
+        "nick": "博弈",
+        "homepage": "/u/leon_qi"
+      }
+    },
+    {
+      "id": "1190000016584054",
+      "title": "Java工程师修炼之路",
+      "url": "/a/1190000016584054",
+      "desc": "在下本是跨专业渣考研的985渣硕一枚，经历研究生两年的学习积累，有幸于2019秋季招聘中拿到几个公司的研发岗offer，包括百度，阿里，腾讯，今日头条，网易，华为等。",
+      "author": {
+        "nick": "程序员江湖",
+        "homepage": "/u/h2pl"
+      }
+    },
+    {
+      "id": "1190000016583998",
+      "title": "[LeetCode] 482. License Key Formatting",
+      "url": "/a/1190000016583998",
+      "desc": "You are given a license key represented as a string S which consists only alphanumeric character and dashes. The string is separated into N+1 groups by N dashes.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000016583861",
+      "title": "[LeetCode] 429. N-ary Tree Level Order Traversal (vs. LC102)",
+      "url": "/a/1190000016583861",
+      "desc": "Given an n-ary tree, return the level order traversal of its nodes' values. (ie, from left to right, level by level).",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000016583773",
+      "title": "[LeetCode] 590. N-ary Tree Postorder Traversal (vs. LC145)",
+      "url": "/a/1190000016583773",
+      "desc": "Given an n-ary tree, return the postorder traversal of its nodes' values.For example, given a 3-ary tree:Return its postorder traversal as: [5,6,3,2,4,1].Note: Recursive solution is trivial, could ...",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000016583741",
+      "title": "[LeetCode] 589. N-ary Tree Preorder Traversal (vs. LC144)",
+      "url": "/a/1190000016583741",
+      "desc": "Given an n-ary tree, return the preorder traversal of its nodes' values.For example, given a 3-ary tree:Return its preorder traversal as: [1,3,5,6,2,4].Note: Recursive solution is trivial, could yo...",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000016583658",
+      "title": "[LeetCode] 559. Maximum Depth of N-ary Tree",
+      "url": "/a/1190000016583658",
+      "desc": "The maximum depth is the number of nodes along the longest path from the root node down to the farthest leaf node.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000016583573",
+      "title": " 前后端分离项目 — 基于SpringSecurity OAuth2.0用户认证",
+      "url": "/a/1190000016583573",
+      "desc": "现在的好多项目都是基于APP移动端以及前后端分离的项目，之前基于Session的前后端放到一起的项目已经慢慢失宠并淡出我们视线，尤其是当基于SpringCloud的微服务架构以及Vue、React单页面应用流行起来后，情况更甚...",
+      "author": {
+        "nick": "Awbeci",
+        "homepage": "/u/awbeci"
+      }
+    }
+  ]
+}
