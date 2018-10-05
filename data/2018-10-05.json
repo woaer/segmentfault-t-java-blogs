@@ -1,0 +1,155 @@
+{
+  "watchNum": "29919",
+  "blogs": [
+    {
+      "id": "1190000016593407",
+      "title": "Java基础【一】 - 基本数据类型和引用数据类型",
+      "url": "/a/1190000016593407",
+      "desc": "1、逻辑性 boolean（表示一位的信息）。2、浮点型 float（32位） double（64 位）。3、字符型 char（一个单一的 16 位 Unicode 字符）。4、整型 byte（8位） short （16 位） int（32位） long （64 位）。",
+      "author": {
+        "nick": "315574925",
+        "homepage": "/u/315574925"
+      }
+    },
+    {
+      "id": "1190000016593394",
+      "title": "[LeetCode] 232. 225 Implement Queue/Stack using Stacks/Queues",
+      "url": "/a/1190000016593394",
+      "desc": "Implement the following operations of a queue using stacks.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000016593219",
+      "title": "UML顺序图(sequence diagram)",
+      "url": "/a/1190000016593219",
+      "desc": "注意上面的顺序图中只表达出了骰子游戏的正常逻辑，没有表达异常逻辑。这也是顺序图的主要用法，顺序图一般只用来表达实体间调用关系的主要逻辑，也就是说只用来表达正常逻辑。如果想表达实体间的异常情况(例如某...",
+      "author": {
+        "nick": "poype",
+        "homepage": "/u/liudongliang"
+      }
+    },
+    {
+      "id": "1190000016591542",
+      "title": "Springboot 2.0 - 集成redis",
+      "url": "/a/1190000016591542",
+      "desc": "最近在入门SpringBoot，然后在感慨 SpringBoot较于Spring真的方便多时，顺便记录下自己在集成redis时的一些想法。",
+      "author": {
+        "nick": "bali",
+        "homepage": "/u/bali_5a0a92fba16aa"
+      }
+    },
+    {
+      "id": "1190000016592369",
+      "title": "[LeetCode] BST Series #98 #99 #109 #173 #270",
+      "url": "/a/1190000016592369",
+      "desc": "Given a binary tree, determine if it is a valid binary search tree (BST).",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000016591671",
+      "title": "UML类图介绍",
+      "url": "/a/1190000016591671",
+      "desc": "该图表示一个叫做Person的类，该类有name、age、sex三个private属性，每个属性的类型紧跟在冒号的后面。该类有walk和speak两个方法，其中walk方法是public的，而speak方法是protected的，两个方法的返回值类型紧...",
+      "author": {
+        "nick": "poype",
+        "homepage": "/u/liudongliang"
+      }
+    },
+    {
+      "id": "1190000016590734",
+      "title": "java基础回顾",
+      "url": "/a/1190000016590734",
+      "desc": "基本数据类型 声明时直接在栈内存中开辟空间，并直接在当前内存中存放数据，赋值时传递的是变量中的值，总的来说，基本数据类型是传值的。",
+      "author": {
+        "nick": "315574925",
+        "homepage": "/u/315574925"
+      }
+    },
+    {
+      "id": "1190000016590374",
+      "title": "[LeetCode] 635. Design Log Storage System",
+      "url": "/a/1190000016590374",
+      "desc": "You are given several logs that each log contains a unique id and timestamp. Timestamp is a string that has the following format: Year:Month:Day:Hour:Minute:Second, for example, 2017:01:01:23:59:59...",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000016589568",
+      "title": "前后端分离项目 — SpringSocial 社交账号登录与注册",
+      "url": "/a/1190000016589568",
+      "desc": "今天我们就来讲解下最后一篇如何使用SpringSocial来处理类似微信、QQ社交账号登录自己的平台，也就是大家说的第三方登录，获取社交账户所在平台的用户信息，与自己平台信息做个绑定的操作，两个系统之间是通过Use...",
+      "author": {
+        "nick": "Awbeci",
+        "homepage": "/u/awbeci"
+      }
+    },
+    {
+      "id": "1190000016587402",
+      "title": "[LeetCode] 381. Insert Delete GetRandom",
+      "url": "/a/1190000016587402",
+      "desc": "Design a data structure that supports all following operations in average O(1) time.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000016587269",
+      "title": "[LeetCode] 380. Insert Delete GetRandom O(1)",
+      "url": "/a/1190000016587269",
+      "desc": "Design a data structure that supports all following operations in average O(1) time.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000016587068",
+      "title": "[LeetCode] 305. Number of Islands II",
+      "url": "/a/1190000016587068",
+      "desc": "A 2d grid map of m rows and n columns is initially filled with water. We may perform an addLand operation which turns the water at position (row, col) into a land. Given a list of positions to oper...",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000016586700",
+      "title": "Java 8之stream分组和分区",
+      "url": "/a/1190000016586700",
+      "desc": "在前面几篇文章中主要介绍了stream中的筛选、求和、排序以及生成stream的方式，今天还要讲一个很重要的功能，那就是分组和分区。分组分区实际上就是在筛选的基础上把整个流里面的数据分为不同的组。",
+      "author": {
+        "nick": "Half",
+        "homepage": "/u/half_5ab2635cc04bc"
+      }
+    },
+    {
+      "id": "1190000016586578",
+      "title": "Java多线程进阶（三九）—— J.U.C之executors框架：executors框架概述",
+      "url": "/a/1190000016586578",
+      "desc": "juc-executors框架是整个J.U.C包中类/接口关系最复杂的框架，真正理解executors框架的前提是理清楚各个模块之间的关系，高屋建瓴，从整体到局部才能透彻理解其中各个模块的功能和背后的设计思路。",
+      "author": {
+        "nick": "ress90",
+        "homepage": "/u/niteip"
+      }
+    },
+    {
+      "id": "1190000016585728",
+      "title": "聊聊jdk httpclient的ConnectionPool",
+      "url": "/a/1190000016585728",
+      "desc": "java.net.http/jdk/internal/net/http/HttpConnection.java",
+      "author": {
+        "nick": "codecraft",
+        "homepage": "/u/codecraft"
+      }
+    }
+  ]
+}
