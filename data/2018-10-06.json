@@ -1,0 +1,155 @@
+{
+  "watchNum": "29924",
+  "blogs": [
+    {
+      "id": "1190000016597411",
+      "title": "Java基础【二】 - 值传递和引用传递",
+      "url": "/a/1190000016597411",
+      "desc": "在方法的调用过程中，实参把它的实际值传递给形参，此传递过程就是将实参的值复制一份传递到函数中，这样如果在函数中对该值（形参的值）进行了操作将不会影响实参的值。因为是直接复制，所以这种方式在传递大量...",
+      "author": {
+        "nick": "315574925",
+        "homepage": "/u/315574925"
+      }
+    },
+    {
+      "id": "1190000016597303",
+      "title": "【跃迁之路】【602天】程序员高效学习方法论探索系列（实验阶段359-2018.10.6）",
+      "url": "/a/1190000016597303",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000016597221",
+      "title": "基于ZStack设计一个较为简单的自动化测试系统",
+      "url": "/a/1190000016597221",
+      "desc": "在笔者目前的项目中，大部分业务跑在基于kvm的vm上。鉴于对项目质量的追求及尽可能节省人力资源的目的，着手调研高测试覆盖率的解决方案。",
+      "author": {
+        "nick": "泊浮目",
+        "homepage": "/u/camile"
+      }
+    },
+    {
+      "id": "1190000016596774",
+      "title": "JAVA 8 函数式接口( java.util.function 详解)",
+      "url": "/a/1190000016596774",
+      "desc": "函数式接口(Functional Interface)是Java 8对一类特殊类型的接口的称呼。 这类接口只定义了唯一的抽象方法的接口，并且这类接口使用了@FunctionalInterface进行注解。在jdk8中，引入了一个新的包java.util.functi...",
+      "author": {
+        "nick": "Luckyqiao",
+        "homepage": "/u/luckyqiao"
+      }
+    },
+    {
+      "id": "1190000016595939",
+      "title": "【跃迁之路】【601天】程序员高效学习方法论探索系列（实验阶段358-2018.10.5）",
+      "url": "/a/1190000016595939",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000016594458",
+      "title": "短链接算法实现--加盐hash",
+      "url": "/a/1190000016594458",
+      "desc": "但是这个算法还是有可能会有hash冲突。而且位数越短越可能发生。最好设置6位以上解决方法：覆盖数据库方法或者重新计算",
+      "author": {
+        "nick": "木木甫",
+        "homepage": "/u/mumufu"
+      }
+    },
+    {
+      "id": "1190000016594156",
+      "title": "[LeetCode] 346. Moving Average from Data Stream",
+      "url": "/a/1190000016594156",
+      "desc": "Given a stream of integers and a window size, calculate the moving average of all integers in the sliding window.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000016593832",
+      "title": "[LeetCode] 438. Find All Anagrams in a String [滑动窗口]",
+      "url": "/a/1190000016593832",
+      "desc": "Given a string s and a non-empty string p, find all the start indices of p's anagrams in s.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000016593407",
+      "title": "Java基础【一】 - 基本数据和引用数据",
+      "url": "/a/1190000016593407",
+      "desc": "1、逻辑性 boolean（表示一位的信息）。2、浮点型 float（32位） double（64 位）。3、字符型 char（一个单一的 16 位 Unicode 字符）。4、整型 byte（8位） short （16 位） int（32位） long （64 位）。",
+      "author": {
+        "nick": "315574925",
+        "homepage": "/u/315574925"
+      }
+    },
+    {
+      "id": "1190000016593394",
+      "title": "[LeetCode] 232. 225 Implement Queue/Stack using Stacks/Queues",
+      "url": "/a/1190000016593394",
+      "desc": "Implement the following operations of a queue using stacks.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000016593219",
+      "title": "UML顺序图(sequence diagram)",
+      "url": "/a/1190000016593219",
+      "desc": "注意上面的顺序图中只表达出了骰子游戏的正常逻辑，没有表达异常逻辑。这也是顺序图的主要用法，顺序图一般只用来表达实体间调用关系的主要逻辑，也就是说只用来表达正常逻辑。如果想表达实体间的异常情况(例如某...",
+      "author": {
+        "nick": "poype",
+        "homepage": "/u/liudongliang"
+      }
+    },
+    {
+      "id": "1190000016591542",
+      "title": "Springboot 2.0 - 集成redis",
+      "url": "/a/1190000016591542",
+      "desc": "最近在入门SpringBoot，然后在感慨 SpringBoot较于Spring真的方便多时，顺便记录下自己在集成redis时的一些想法。",
+      "author": {
+        "nick": "bali",
+        "homepage": "/u/bali_5a0a92fba16aa"
+      }
+    },
+    {
+      "id": "1190000016592369",
+      "title": "[LeetCode] BST Series #98 #99 #109 #173 #270",
+      "url": "/a/1190000016592369",
+      "desc": "Given a binary tree, determine if it is a valid binary search tree (BST).",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000016591671",
+      "title": "UML类图介绍",
+      "url": "/a/1190000016591671",
+      "desc": "该图表示一个叫做Person的类，该类有name、age、sex三个private属性，每个属性的类型紧跟在冒号的后面。该类有walk和speak两个方法，其中walk方法是public的，而speak方法是protected的，两个方法的返回值类型紧...",
+      "author": {
+        "nick": "poype",
+        "homepage": "/u/liudongliang"
+      }
+    },
+    {
+      "id": "1190000016590734",
+      "title": "java基础回顾",
+      "url": "/a/1190000016590734",
+      "desc": "基本数据类型 声明时直接在栈内存中开辟空间，并直接在当前内存中存放数据，赋值时传递的是变量中的值，总的来说，基本数据类型是传值的。",
+      "author": {
+        "nick": "315574925",
+        "homepage": "/u/315574925"
+      }
+    }
+  ]
+}
