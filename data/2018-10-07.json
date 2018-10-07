@@ -1,0 +1,155 @@
+{
+  "watchNum": "29929",
+  "blogs": [
+    {
+      "id": "1190000016601130",
+      "title": "[LeetCode] 254. Factor Combinations",
+      "url": "/a/1190000016601130",
+      "desc": "Numbers can be regarded as product of its factors. For example,",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000016601010",
+      "title": "Java基础【五】 - 常用类库：java.lang.String",
+      "url": "/a/1190000016601010",
+      "desc": "String对象中字符串主要是以 char[] (字符数组)的形式存储。当调用对象方法获取字符串长度时，直接返回数组长度。判断字符串是否为空isEmpty()时，也直接检查数组长度是否为0。",
+      "author": {
+        "nick": "315574925",
+        "homepage": "/u/315574925"
+      }
+    },
+    {
+      "id": "1190000016600725",
+      "title": "Java基础【四】 - 常用类库：java.lang.ThreadLocal",
+      "url": "/a/1190000016600725",
+      "desc": "ThreadLocal和synchronized都是为了解决多线程中相同变量的访问冲突问题。synchronized保证同一时刻只有一个线程对共享变量进行操作，synchronized是时间换空间的体现。ThreadLocal使变量在每个线程中都有独立拷...",
+      "author": {
+        "nick": "315574925",
+        "homepage": "/u/315574925"
+      }
+    },
+    {
+      "id": "1190000016600560",
+      "title": "Elastic Search 上市了，市值翻倍，这群人财务自由了！",
+      "url": "/a/1190000016600560",
+      "desc": "国庆长假，大部分人还深浸在风花雪月之中，而就在昨天（美国时间10月5号），我们 Java 程序员所熟知的大名鼎鼎的 Elastic Search 居然在美国纽约证券交易所上市了！",
+      "author": {
+        "nick": "Java技术栈",
+        "homepage": "/u/javastack"
+      }
+    },
+    {
+      "id": "1190000016600443",
+      "title": "Spring中注解大全和应用",
+      "url": "/a/1190000016600443",
+      "desc": "@Controller@RestController：@Service@Autowired@RequestMapping@RequestParam@ModelAttribute@Cacheable@CacheEvict@Resource@PostConstruct@PreDestroy@Repository@Component @Scope@SessionAttributes@Requir...",
+      "author": {
+        "nick": "jaybril",
+        "homepage": "/u/jaybril"
+      }
+    },
+    {
+      "id": "1190000016599519",
+      "title": "6-9月技术文章汇总",
+      "url": "/a/1190000016599519",
+      "desc": "HTTP 【HTTP】分布式session的管理 【HTTP】Cookie和Session 【HTTP】当我在谈论RestFul架构时我在谈啥？ 【HTTP】HTTP状态码详解 【HTTP】无状态协议和Cookie 【HTTP】HTTP请求支持哪些方法？ 【HTTP】分层协议...",
+      "author": {
+        "nick": "Acceml",
+        "homepage": "/u/acceml"
+      }
+    },
+    {
+      "id": "1190000016599301",
+      "title": "fast-family 框架中 fast-family-mvc模块使用介绍",
+      "url": "/a/1190000016599301",
+      "desc": "fast-family-mvc是fast-family框架其中的一个模块，此模块主要是对传统的springmvc进行增强，让其开发人员更加轻松便捷的写代码，达到开箱即用的效果。而且可以通过fast-family-generator配套的代码生成器快速生成。",
+      "author": {
+        "nick": "有点站不稳",
+        "homepage": "/u/youdianzhanbuwen"
+      }
+    },
+    {
+      "id": "1190000016599075",
+      "title": "Java基础【四】 - 常用类库：java.math.BigDecimal",
+      "url": "/a/1190000016599075",
+      "desc": "float和double类型的主要设计目标是为了科学计算和工程计算。他们执行二进制浮点运算，这是为了在广域数值范围上提供较为精确的快速近似计算而精心设计的。然而，它们没有提供完全精确的结果，所以不应该被用于要...",
+      "author": {
+        "nick": "315574925",
+        "homepage": "/u/315574925"
+      }
+    },
+    {
+      "id": "1190000016599056",
+      "title": "Java版本兼容问题",
+      "url": "/a/1190000016599056",
+      "desc": "Java代码编写完成后，通常要经过编译，编译后产生jar再运行。随着Java版本的升级，编译工具与运行环境都有一定的升级，不过官方称这些都是向下兼容的。",
+      "author": {
+        "nick": "争夕",
+        "homepage": "/u/zhengxi"
+      }
+    },
+    {
+      "id": "1190000016599053",
+      "title": "Java基础【三】 - 常用类库：java.lang.Enum",
+      "url": "/a/1190000016599053",
+      "desc": "当我们需要限制一系列变量的时候，通常想到数组或者集合；其实很多时候我们需要限定变量需要做的事情很多，或者说如果被限制的变量可以做其他事情的话就更好了，而不是单纯的一个变量，那么，枚举的作用不仅仅可...",
+      "author": {
+        "nick": "315574925",
+        "homepage": "/u/315574925"
+      }
+    },
+    {
+      "id": "1190000016598916",
+      "title": "一个程序员的国庆血泪相亲史，惨败而归…",
+      "url": "/a/1190000016598916",
+      "desc": "这不，刚下火车，父亲大人就来接我了。在车上，还有另外一个陌生的阿姨（媒婆），我才得知，要去的目的的不是自己家，而是一个女孩的家，没错，就是被安排了相亲，半路杀出了个程咬金。。",
+      "author": {
+        "nick": "Java技术栈",
+        "homepage": "/u/javastack"
+      }
+    },
+    {
+      "id": "1190000016598299",
+      "title": "Java环境搭建",
+      "url": "/a/1190000016598299",
+      "desc": "title: Jekyll Blog Testlayout: postcategories: Techtags: [Java,环境]",
+      "author": {
+        "nick": "seaweed",
+        "homepage": "/u/seaweed_5bae0e6f9a54f"
+      }
+    },
+    {
+      "id": "1190000016598069",
+      "title": "java rmi 使用教程及原理",
+      "url": "/a/1190000016598069",
+      "desc": "RMI，是Remote Method Invocation（远程方法调用）的缩写，即在一个JVM中java程序调用在另一个远程JVM中运行的java程序，这个远程JVM既可以在同一台实体机上，也可以在不同的实体机上，两者之间通过网络进行通信...",
+      "author": {
+        "nick": "Luckyqiao",
+        "homepage": "/u/luckyqiao"
+      }
+    },
+    {
+      "id": "1190000016597648",
+      "title": "Lambda表达式",
+      "url": "/a/1190000016597648",
+      "desc": "暂不解释lambda表达式是什么，我们从一个需求一步一步探讨。假如我们目前有一个List，里面的内容是一个Employee类（公司的员工实体类），定义如下：",
+      "author": {
+        "nick": "指尖改变世界",
+        "homepage": "/u/ascent"
+      }
+    },
+    {
+      "id": "1190000016597411",
+      "title": "Java基础【二】 - 值传递和引用传递",
+      "url": "/a/1190000016597411",
+      "desc": "在方法的调用过程中，实参把它的实际值传递给形参，此传递过程就是将实参的值复制一份传递到函数中，这样如果在函数中对该值（形参的值）进行了操作将不会影响实参的值。因为是直接复制，所以这种方式在传递大量...",
+      "author": {
+        "nick": "315574925",
+        "homepage": "/u/315574925"
+      }
+    }
+  ]
+}
