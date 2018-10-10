@@ -1,0 +1,155 @@
+{
+  "watchNum": "29943",
+  "blogs": [
+    {
+      "id": "1190000016634172",
+      "title": "从Java 调用JavaScript",
+      "url": "/a/1190000016634172",
+      "desc": "篇幅过长 下载资源链接[链接]",
+      "author": {
+        "nick": "示说网平台",
+        "homepage": "/u/slidestalk"
+      }
+    },
+    {
+      "id": "1190000016633761",
+      "title": "JDK 源码 Integer解读之一（toString)",
+      "url": "/a/1190000016633761",
+      "desc": "1：首先我们可以通过一个main函数，通过断点调试，正式开启Integer.toString（）方法之旅。 public static void main ( String[] arg ) {",
+      "author": {
+        "nick": "雨露",
+        "homepage": "/u/yulu_5b175873aeaf9"
+      }
+    },
+    {
+      "id": "1190000016633233",
+      "title": "Android P的APP适配总结，让你快人一步",
+      "url": "/a/1190000016633233",
+      "desc": "在 Android 8.0 时代各个手机厂商就开始发布自己的全面屏手机，但是此时 Android 官方并未支持到该功能，所以各个厂商都各自实现了一套全面屏判断逻辑，对于开发者来说甚是麻烦。终于在 Android P 里官方收归了该...",
+      "author": {
+        "nick": "腾讯云加社区",
+        "homepage": "/u/qcloudcommunity"
+      }
+    },
+    {
+      "id": "1190000016631003",
+      "title": "【跃迁之路】【605天】程序员高效学习方法论探索系列（实验阶段362-2018.10.09）",
+      "url": "/a/1190000016631003",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000016607740",
+      "title": "Java编程基础27——网络编程",
+      "url": "/a/1190000016607740",
+      "desc": "A:计算机网络 是指将地理位置不同的具有独立功能的多台计算机及其外部设备，通过通信线路连接起来，在网络操作系统，网络管理软件及网络通信协议的管理和协调下，实现资源共享和信息传递的计算机系统。",
+      "author": {
+        "nick": "扎瓦",
+        "homepage": "/u/ideas"
+      }
+    },
+    {
+      "id": "1190000016629668",
+      "title": "Java多线程进阶（四十）—— J.U.C之executors框架：ThreadPoolExecutor",
+      "url": "/a/1190000016629668",
+      "desc": "在juc-executors框架概述的章节中，我们已经简要介绍过ThreadPoolExecutor了，通过Executors工厂，用户可以创建自己需要的执行器对象。ThreadPoolExecutor，它是J.U.C在JDK1.5时提供的一种实现了ExecutorService...",
+      "author": {
+        "nick": "ress90",
+        "homepage": "/u/niteip"
+      }
+    },
+    {
+      "id": "1190000016629022",
+      "title": "Java 常用 API 学习",
+      "url": "/a/1190000016629022",
+      "desc": "API 是什么？应用程序编程接口，就是JDK提供的类 （供开发者使用），开发者可以 这些类 进行程序开发API文档 是什么？就是 类的说明文档，对 JDK提供的类 进行说明",
+      "author": {
+        "nick": "104828720",
+        "homepage": "/u/104828720_582bfbf471440"
+      }
+    },
+    {
+      "id": "1190000016628796",
+      "title": "++操作的线程安全性及相关问题",
+      "url": "/a/1190000016628796",
+      "desc": "众所周知，++操作并不是线程安全的。这篇文章主要讲述其非线程安全的原因以及相关问题。 使用volatile修饰仍不是线程安全的原因 i++分为以下3步： 从内存中读取到count count+1 将结果写回内存 这3步每一步之间都...",
+      "author": {
+        "nick": "HamilFei",
+        "homepage": "/u/hamilfei"
+      }
+    },
+    {
+      "id": "1190000016628679",
+      "title": "深入理解高并发下分布式事务的解决方案",
+      "url": "/a/1190000016628679",
+      "desc": "分布式事务就是指事务的参与者、支持事务的服务器、资源服务器以及事务管理器分别位于不同的分布式系统的不同节点之上。以上是百度百科的解释，简单的说，就是一次大的操作由不同的小操作组成，这些小的操作分布...",
+      "author": {
+        "nick": "bali",
+        "homepage": "/u/bali_5a0a92fba16aa"
+      }
+    },
+    {
+      "id": "1190000016627988",
+      "title": "Java 11 的新特性(下)",
+      "url": "/a/1190000016627988",
+      "desc": "性能测试。便于在性能测试的时候排除GC的影响 内存压力测试 VM接口测试。 短生命周期任务。 短生命周期的任务希望能够非常快速地得到响应，对于no-op GC，可以排除GC对此造成的影响。 Last-drop latency improvem...",
+      "author": {
+        "nick": "HamilFei",
+        "homepage": "/u/hamilfei"
+      }
+    },
+    {
+      "id": "1190000016627648",
+      "title": "Java并发编程（一）Thread详解",
+      "url": "/a/1190000016627648",
+      "desc": "线程(Thread)是进程的一个实体，是CPU调度和分派的基本单位。 线程不能够独立执行，必须依存在应用程序中，由应用程序提供多个线程执行控制。 线程和进程的关系是：线程是属于进程的，线程运行在进程空间内，同一...",
+      "author": {
+        "nick": "王磊",
+        "homepage": "/u/vipstone"
+      }
+    },
+    {
+      "id": "1190000016626274",
+      "title": "CANAL 高可用",
+      "url": "/a/1190000016626274",
+      "desc": "Canal 的常见使用场景之一就是数据同步, 例如我们使用 canal 就是为了把 mysql 的数据同步到 elasticsearch 中. 使用 canal 做数据同步的时候无疑会涉及到三个部分: 数据源(mysql), canal server(接收 mysql binl...",
+      "author": {
+        "nick": "sfyumi",
+        "homepage": "/u/sfyumi"
+      }
+    },
+    {
+      "id": "1190000016626196",
+      "title": "[LeetCode] 674. Longest Continuous Increasing Subsequence",
+      "url": "/a/1190000016626196",
+      "desc": "Given an unsorted array of integers, find the length of longest continuous increasing subsequence (subarray).",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000016625752",
+      "title": "[LeetCode] 314. Binary Tree Vertical Order Traversal",
+      "url": "/a/1190000016625752",
+      "desc": "Given a binary tree, return the vertical order traversal of its nodes' values. (ie, from top to bottom, column by column).",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000016625622",
+      "title": "Java并发编程-CountDownLatch",
+      "url": "/a/1190000016625622",
+      "desc": "CountDownLatch是并发包中用来控制一个或者多个线程等待其他线程完成操作的并发工具类。现以工作中的一个场景来描述下CountDownLatch的应用，代码如下：",
+      "author": {
+        "nick": "进取的心",
+        "homepage": "/u/jinqudexin"
+      }
+    }
+  ]
+}
