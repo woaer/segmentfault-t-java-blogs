@@ -1,0 +1,155 @@
+{
+  "watchNum": "29957",
+  "blogs": [
+    {
+      "id": "1190000016667647",
+      "title": "面试：spring ioc实现原理",
+      "url": "/a/1190000016667647",
+      "desc": "首先加载一个spring的容器beanfactory，beanfactory的构造方法会创建一个实现了resource接口实例对象。resource对象通过setconfiguration（）方法设置spring配置文件位置。resource对象有三种实现分别是fileresou...",
+      "author": {
+        "nick": "木木甫",
+        "homepage": "/u/mumufu"
+      }
+    },
+    {
+      "id": "1190000016666667",
+      "title": "【跃迁之路】【608天】程序员高效学习方法论探索系列（实验阶段365-2018.10.12）",
+      "url": "/a/1190000016666667",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000016607816",
+      "title": "Java编程基础30——利息计算器案例&总复习",
+      "url": "/a/1190000016607816",
+      "desc": "Java编程基础30——利息计算器案例&总复习Java编程基础30——利息计算器案例&总复习Java编程基础30——利息计算器案例&总复习Java编程基础30——利息计算器案例&总复习Java编程基础30——利息计算器案例&am...",
+      "author": {
+        "nick": "扎瓦",
+        "homepage": "/u/ideas"
+      }
+    },
+    {
+      "id": "1190000016666041",
+      "title": "Java反射-数组",
+      "url": "/a/1190000016666041",
+      "desc": "通过反射使用数组有时会比较棘手。特别是需要获得一个特定类型数组的Class对象，如int[]等。本文将讨论如何通过反射创建数组和获得他们的Class对象。注意：本文在阅读Eyal Lupu的博客\"Two Side Notes About Array...",
+      "author": {
+        "nick": "团结",
+        "homepage": "/u/2006"
+      }
+    },
+    {
+      "id": "1190000016665196",
+      "title": "DialogFragment源码分析",
+      "url": "/a/1190000016665196",
+      "desc": "目录介绍 1.最简单的使用方法 1.1 官方建议 1.2 最简单的使用方法 1.3 DialogFragment做屏幕适配 2.源码分析 2.1 DialogFragment继承Fragment 2.2 onCreate(@Nullable Bundle savedInstanceState)源码分析 2.3 se...",
+      "author": {
+        "nick": "潇湘剑雨",
+        "homepage": "/u/xiangjianyu"
+      }
+    },
+    {
+      "id": "1190000016664352",
+      "title": "基于SpringCloud+vue(ElementUI)+mySQL前后端分离设计之--前端Fetch请求封装",
+      "url": "/a/1190000016664352",
+      "desc": "开发一个博客系统文章数：菜单文章都没更新完搭建eureka注册中心 （请先阅读此文章） [链接]搭建Beans编写Token解析注解 [链接]搭建权限管理系统 [链接]搭建后台管理系统 [链接]前端Fetch请求封装 [链接]",
+      "author": {
+        "nick": "代码猿Y_Y",
+        "homepage": "/u/vidanao"
+      }
+    },
+    {
+      "id": "1190000016664237",
+      "title": "基于SpringCloud+vue(ElementUI)+mySQL前后端分离设计之--搭建后台管理系统",
+      "url": "/a/1190000016664237",
+      "desc": "开发一个博客系统文章数：菜单文章都没更新完搭建eureka注册中心 （请先阅读此文章） [链接]搭建Beans编写Token解析注解 [链接]搭建权限管理系统 [链接]搭建后台管理系统 [链接]前端Fetch请求封装 [链接] pom.xml",
+      "author": {
+        "nick": "代码猿Y_Y",
+        "homepage": "/u/vidanao"
+      }
+    },
+    {
+      "id": "1190000016664177",
+      "title": "基于SpringCloud+vue(ElementUI)+mySQL前后端分离设计之--搭建权限管理系统",
+      "url": "/a/1190000016664177",
+      "desc": "开发一个博客系统文章数：菜单文章都没更新完搭建eureka注册中心 （请先阅读此文章） [链接]搭建Beans编写Token解析注解 [链接]搭建权限管理系统 [链接]搭建后台管理系统 [链接]前端Fetch请求封装 [链接]",
+      "author": {
+        "nick": "代码猿Y_Y",
+        "homepage": "/u/vidanao"
+      }
+    },
+    {
+      "id": "1190000016664082",
+      "title": "基于SpringCloud+vue(ElementUI)+mySQL前后端分离设计之--搭建Beans编写Token解析注解",
+      "url": "/a/1190000016664082",
+      "desc": "开发一个博客系统文章数：菜单文章都没更新完搭建eureka注册中心 （请先阅读此文章） [链接]搭建Beans编写Token解析注解 [链接]搭建权限管理系统 [链接]搭建后台管理系统 [链接]前端Fetch请求封装 [链接]",
+      "author": {
+        "nick": "代码猿Y_Y",
+        "homepage": "/u/vidanao"
+      }
+    },
+    {
+      "id": "1190000016664058",
+      "title": "基于SpringCloud+vue(ElementUI)+mySQL前后端分离设计之--搭建eureka注册中心",
+      "url": "/a/1190000016664058",
+      "desc": "开发一个博客系统文章数：菜单文章都没更新完搭建eureka注册中心 （本文）[链接]搭建Beans编写Token解析注解 [链接]搭建权限管理系统 [链接]搭建后台管理系统 [链接]前端Fetch请求封装 [链接]",
+      "author": {
+        "nick": "代码猿Y_Y",
+        "homepage": "/u/vidanao"
+      }
+    },
+    {
+      "id": "1190000016663720",
+      "title": "Java反射-范型",
+      "url": "/a/1190000016663720",
+      "desc": "我经常在文章或论坛中读到所有的Java范型信息都会在编译时搽除，所以不能在运行时访问范型的任何信息。这并不完全准确。某些案例下可以在运行时访问范型信息，这些案例实际上覆盖了我们对范型信息的一些需求。本...",
+      "author": {
+        "nick": "团结",
+        "homepage": "/u/2006"
+      }
+    },
+    {
+      "id": "1190000016663678",
+      "title": "Wiggle Sort 系列题目",
+      "url": "/a/1190000016663678",
+      "desc": "Given an unsorted array nums, reorder it in-place such that nums[0] <= nums[1] >= nums[2] <= nums[3]....",
+      "author": {
+        "nick": "胡椒五菇",
+        "homepage": "/u/hujiaowugu"
+      }
+    },
+    {
+      "id": "1190000016663648",
+      "title": "Java中的Set",
+      "url": "/a/1190000016663648",
+      "desc": "HashSet与LinkedHashSet的关系就如同HashMap和LinkedHashMap一样。HashSet内部保存了一个HashMap对象来存储。",
+      "author": {
+        "nick": "柒叶",
+        "homepage": "/u/qiye_5acdad75c59d1"
+      }
+    },
+    {
+      "id": "1190000016663015",
+      "title": "使用idea打包springcloud项目并部署到tomcat下",
+      "url": "/a/1190000016663015",
+      "desc": "说明：有三个项目， 一个提供 eureka 服务——ehl-eureka-server1， 一个数据接口服务——apps-is， 一个web服务-appsweb 使用 idea 打成 war 包： {代码...} 在工作空间下找到 war 包，比如： {代码...} 部署到 tomc...",
+      "author": {
+        "nick": "prepared",
+        "homepage": "/u/prepared"
+      }
+    },
+    {
+      "id": "1190000016662666",
+      "title": "@jsonView过滤属性",
+      "url": "/a/1190000016662666",
+      "desc": "在写学期管理的获取时，写的服务测试之后没有什么问题，却在测试控制器时出现了问题。控制台报了一大堆错误。",
+      "author": {
+        "nick": "鲸冬香",
+        "homepage": "/u/jingdongxiang"
+      }
+    }
+  ]
+}
