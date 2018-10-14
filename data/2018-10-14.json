@@ -1,0 +1,155 @@
+{
+  "watchNum": "29959",
+  "blogs": [
+    {
+      "id": "1190000016676150",
+      "title": "「Do.014」Android 实战项目（5）—— gradle 配置release与debug环境分离",
+      "url": "/a/1190000016676150",
+      "desc": "首发公众号：Android程序员日记作者：贤榆的榆如果你觉得有帮助欢迎关注、赞赏、转发阅读时间：4750字 9分钟",
+      "author": {
+        "nick": "贤榆的榆",
+        "homepage": "/u/ronny"
+      }
+    },
+    {
+      "id": "1190000016674617",
+      "title": "Java容器",
+      "url": "/a/1190000016674617",
+      "desc": "默认为0.75，如果设置太大，空间利用率高了，但是桶中的键碰撞的几率就会越大，同一个桶可能会存放好几个value值，这样就添加了搜索的时间。",
+      "author": {
+        "nick": "dack",
+        "homepage": "/u/dack_5b3b85f9d7cd4"
+      }
+    },
+    {
+      "id": "1190000016674469",
+      "title": "【跃迁之路】【609天】程序员高效学习方法论探索系列（实验阶段366-2018.10.13）",
+      "url": "/a/1190000016674469",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000016673955",
+      "title": "可能是全网首个支持阿里云Elasticsearch Xapck鉴权的Skywalking",
+      "url": "/a/1190000016673955",
+      "desc": "之前在搭建Skywalking的时候发现,官方Skywalking 5.X并支持有鉴权的Elasticsearch.",
+      "author": {
+        "nick": "李国宝",
+        "homepage": "/u/codelover"
+      }
+    },
+    {
+      "id": "1190000016672638",
+      "title": "Java多线程进阶（四一）—— J.U.C之executors框架：ScheduledThreadPoolExecutor",
+      "url": "/a/1190000016672638",
+      "desc": "在executors框架概述一节中，我们曾经提到过一种可对任务进行延迟/周期性调度的执行器（Executor），这类Executor一般实现了ScheduledExecutorService这个接口。ScheduledExecutorService在普通执行器接口（Execu...",
+      "author": {
+        "nick": "ress90",
+        "homepage": "/u/niteip"
+      }
+    },
+    {
+      "id": "1190000016671543",
+      "title": "Toast源码深度分析",
+      "url": "/a/1190000016671543",
+      "desc": "目录介绍 1.最简单的创建方法 1.1 Toast构造方法 1.2 最简单的创建 1.3 简单改造避免重复创建 1.4 为何会出现内存泄漏 1.5 吐司是系统级别的 2.源码分析 2.1 Toast(Context context)构造方法源码分析 2.2 show()...",
+      "author": {
+        "nick": "潇湘剑雨",
+        "homepage": "/u/xiangjianyu"
+      }
+    },
+    {
+      "id": "1190000016667647",
+      "title": "面试：spring ioc实现原理",
+      "url": "/a/1190000016667647",
+      "desc": "首先加载一个spring的容器beanfactory，beanfactory的构造方法会创建一个实现了resource接口实例对象。resource对象通过setconfiguration（）方法设置spring配置文件位置。resource对象有三种实现分别是fileresou...",
+      "author": {
+        "nick": "木木甫",
+        "homepage": "/u/mumufu"
+      }
+    },
+    {
+      "id": "1190000016666667",
+      "title": "【跃迁之路】【608天】程序员高效学习方法论探索系列（实验阶段365-2018.10.12）",
+      "url": "/a/1190000016666667",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000016607816",
+      "title": "Java编程基础30——利息计算器案例&总复习",
+      "url": "/a/1190000016607816",
+      "desc": "未完待续未完待续未完待续",
+      "author": {
+        "nick": "扎瓦",
+        "homepage": "/u/ideas"
+      }
+    },
+    {
+      "id": "1190000016666041",
+      "title": "Java反射-数组",
+      "url": "/a/1190000016666041",
+      "desc": "通过反射使用数组有时会比较棘手。特别是需要获得一个特定类型数组的Class对象，如int[]等。本文将讨论如何通过反射创建数组和获得他们的Class对象。注意：本文在阅读Eyal Lupu的博客\"Two Side Notes About Array...",
+      "author": {
+        "nick": "团结",
+        "homepage": "/u/2006"
+      }
+    },
+    {
+      "id": "1190000016665196",
+      "title": "DialogFragment源码分析",
+      "url": "/a/1190000016665196",
+      "desc": "目录介绍 1.最简单的使用方法 1.1 官方建议 1.2 最简单的使用方法 1.3 DialogFragment做屏幕适配 2.源码分析 2.1 DialogFragment继承Fragment 2.2 onCreate(@Nullable Bundle savedInstanceState)源码分析 2.3 se...",
+      "author": {
+        "nick": "潇湘剑雨",
+        "homepage": "/u/xiangjianyu"
+      }
+    },
+    {
+      "id": "1190000016664352",
+      "title": "基于SpringCloud+vue(ElementUI)+mySQL前后端分离设计之--前端Fetch请求封装",
+      "url": "/a/1190000016664352",
+      "desc": "开发一个博客系统文章数：菜单文章都没更新完搭建eureka注册中心 （请先阅读此文章） [链接]搭建Beans编写Token解析注解 [链接]搭建权限管理系统 [链接]搭建后台管理系统 [链接]前端Fetch请求封装 [链接]",
+      "author": {
+        "nick": "代码猿Y_Y",
+        "homepage": "/u/vidanao"
+      }
+    },
+    {
+      "id": "1190000016664237",
+      "title": "基于SpringCloud+vue(ElementUI)+mySQL前后端分离设计之--搭建后台管理系统",
+      "url": "/a/1190000016664237",
+      "desc": "开发一个博客系统文章数：菜单文章都没更新完搭建eureka注册中心 （请先阅读此文章） [链接]搭建Beans编写Token解析注解 [链接]搭建权限管理系统 [链接]搭建后台管理系统 [链接]前端Fetch请求封装 [链接] pom.xml",
+      "author": {
+        "nick": "代码猿Y_Y",
+        "homepage": "/u/vidanao"
+      }
+    },
+    {
+      "id": "1190000016664177",
+      "title": "基于SpringCloud+vue(ElementUI)+mySQL前后端分离设计之--搭建权限管理系统",
+      "url": "/a/1190000016664177",
+      "desc": "开发一个博客系统文章数：菜单文章都没更新完搭建eureka注册中心 （请先阅读此文章） [链接]搭建Beans编写Token解析注解 [链接]搭建权限管理系统 [链接]搭建后台管理系统 [链接]前端Fetch请求封装 [链接]",
+      "author": {
+        "nick": "代码猿Y_Y",
+        "homepage": "/u/vidanao"
+      }
+    },
+    {
+      "id": "1190000016664082",
+      "title": "基于SpringCloud+vue(ElementUI)+mySQL前后端分离设计之--搭建Beans编写Token解析注解",
+      "url": "/a/1190000016664082",
+      "desc": "开发一个博客系统文章数：菜单文章都没更新完搭建eureka注册中心 （请先阅读此文章） [链接]搭建Beans编写Token解析注解 [链接]搭建权限管理系统 [链接]搭建后台管理系统 [链接]前端Fetch请求封装 [链接]",
+      "author": {
+        "nick": "代码猿Y_Y",
+        "homepage": "/u/vidanao"
+      }
+    }
+  ]
+}
