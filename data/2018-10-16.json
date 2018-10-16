@@ -1,0 +1,155 @@
+{
+  "watchNum": "29975",
+  "blogs": [
+    {
+      "id": "1190000016698022",
+      "title": "多线程简单笔记",
+      "url": "/a/1190000016698022",
+      "desc": "比较:继承Thread类耦合性太强，因为java只能单继承，所以不利于扩展。实现Runnable接口的方式比继承类的方式更灵活，也能减少程序之间的耦合度。实现Callable接口与Thread、Runnable最大的不同是Callable能返回一...",
+      "author": {
+        "nick": "模糊",
+        "homepage": "/u/mohu"
+      }
+    },
+    {
+      "id": "1190000016697318",
+      "title": "从零开始学 Kotlin 之「2」数据类型",
+      "url": "/a/1190000016697318",
+      "desc": "前言 大家好，这里是「从零开始学 Kotlin 之『2 』数据类型」，本文首发于公众号「Binguner」，欢迎前往大家关注。我会每周分享一些关于 Android 和其他方向的技术干货或一些关于认知的文章。学习一门技术最好的...",
+      "author": {
+        "nick": "Binguner",
+        "homepage": "/u/binguner"
+      }
+    },
+    {
+      "id": "1190000016697085",
+      "title": "Spring Boot 的简单教程（一） web页面开发",
+      "url": "/a/1190000016697085",
+      "desc": "在之前的示例中，我们都是通过@RestController来处理请求，所以返回的内容为json对象。我们现在需要实现更复杂的页面显示，就需要用到模板引擎来帮我实现了。",
+      "author": {
+        "nick": "周兆东",
+        "homepage": "/u/zhouzhaodong"
+      }
+    },
+    {
+      "id": "1190000016696831",
+      "title": "Java web 服务启动时Xss溢出异常处理笔记",
+      "url": "/a/1190000016696831",
+      "desc": "方法一 调整Xss参数Xss是什么呢？它是用来设置每个线程的堆栈大小。JDK5.0以后每个线程堆栈大小为1M，以前每个线程堆栈大小为256K。更具应用的线程所需内存大小进行调整。在相同物理内存下，减小这个值能生成更多...",
+      "author": {
+        "nick": "网易云社区",
+        "homepage": "/u/wangyiyunshequ"
+      }
+    },
+    {
+      "id": "1190000016696343",
+      "title": "Spring Boot 最核心的 3 个注解详解",
+      "url": "/a/1190000016696343",
+      "desc": "最近面试一些 Java 开发者，他们其中有些在公司实际用过 Spring Boot, 有些是自己兴趣爱好在业余自己学习过。然而，当我问他们 Spring Boot 最核心的 3 个注解是什么，令我失望的是鲜有人能答上来，这样你能说你...",
+      "author": {
+        "nick": "Java技术栈",
+        "homepage": "/u/javastack"
+      }
+    },
+    {
+      "id": "1190000016696336",
+      "title": "工作中看到的一些小技巧",
+      "url": "/a/1190000016696336",
+      "desc": "如果密码有特殊字符，请使用uri编码方式编码一下，可以打开Chrome浏览器的调试工具使用encodeURIComponent函数编码一下自己的密码。",
+      "author": {
+        "nick": "Michael_翔_",
+        "homepage": "/u/michael_xiang_"
+      }
+    },
+    {
+      "id": "1190000016693811",
+      "title": "Oracle发布开源的轻量级 Java 微服务框架 Helidon",
+      "url": "/a/1190000016693811",
+      "desc": "近日，Oracle推出了一个新的开源框架Helidon，该项目是一个用于创建基于微服务的应用程序的Java库集合。和Payara Micro、Thorntail（之前的WildFly Swarm）、OpenLiberty、TomEE等项目一样，该项目也加入了MicroP...",
+      "author": {
+        "nick": "搜云库",
+        "homepage": "/u/souyunku"
+      }
+    },
+    {
+      "id": "1190000016696196",
+      "title": "JavaScript线程机制与事件机制",
+      "url": "/a/1190000016696196",
+      "desc": "进程是指程序的一次执行,它占有一片独有的内存空间,可以通过windows任务管理器查看进程(如下图)。同一个时间里，同一个计算机系统中允许两个或两个以上的进程处于并行状态，这是多进程。比如电脑同时运行微信，QQ...",
+      "author": {
+        "nick": "浪里行舟",
+        "homepage": "/u/langlixingzhou"
+      }
+    },
+    {
+      "id": "1190000016695809",
+      "title": "程序员的修行-《1.高效chrome插件》",
+      "url": "/a/1190000016695809",
+      "desc": "Chrome浏览器无论是作为浏览器市场的NO1还是其强大的跨平台能力以及丰富的扩展插件，一直是许多开发者的首要选择的浏览器。chrome浏览器也因为其丰富的Chrome插件，帮助开发者们在开发流程中极大地提高开发效率。",
+      "author": {
+        "nick": "爱编码的coder",
+        "homepage": "/u/chengxuyuanxiaohui"
+      }
+    },
+    {
+      "id": "1190000016694292",
+      "title": "快速失败(fail-fast)与安全失败(fail-safe)",
+      "url": "/a/1190000016694292",
+      "desc": "对于线程不安全的类，并发情况下可能会出现fail-fast情况；而线程安全的类，可能出现fail-safe的情况。",
+      "author": {
+        "nick": "柒叶",
+        "homepage": "/u/qiye_5acdad75c59d1"
+      }
+    },
+    {
+      "id": "1190000016694247",
+      "title": "JVM内存模型与运行时数据区域",
+      "url": "/a/1190000016694247",
+      "desc": "java内存模型规定了所有的变量都存储在主内存中，每条线程拥有自己的工作内存，工作内存保存了主内存中变量的副本。",
+      "author": {
+        "nick": "柒叶",
+        "homepage": "/u/qiye_5acdad75c59d1"
+      }
+    },
+    {
+      "id": "1190000016693703",
+      "title": "AOP的两种实现方式",
+      "url": "/a/1190000016693703",
+      "desc": "大家都知道spring最大的特点就IOC和AOP，IOC是最常用的注入，就是被注入的类上加@Component注解，在需要用到时候，通过 @Autowired注入，不用每次都new出来。当然为了分清层级，@Component通常使用@Repository、@...",
+      "author": {
+        "nick": "Mshu",
+        "homepage": "/u/mshu"
+      }
+    },
+    {
+      "id": "1190000016693251",
+      "title": "J2EE 核心模式",
+      "url": "/a/1190000016693251",
+      "desc": "前端控制器模式 - Front Controller一个用来支撑视图层的通用处理，以及一些视图上的错误的容器",
+      "author": {
+        "nick": "麦冬",
+        "homepage": "/u/poseidon_ocean"
+      }
+    },
+    {
+      "id": "1190000016691559",
+      "title": "Snackbar源码分析",
+      "url": "/a/1190000016691559",
+      "desc": "目录介绍 1.最简单创造方法 1.1 Snackbar作用 1.2 最简单的创建 1.3 Snackbar消失的几种方式 2.源码分析 2.1 Snackbar的make方法源码分析 2.2 对Snackbar属性进行设置 2.3 Snackbar的show显示与点击消失 2.4 显示...",
+      "author": {
+        "nick": "潇湘剑雨",
+        "homepage": "/u/xiangjianyu"
+      }
+    },
+    {
+      "id": "1190000016691085",
+      "title": "【跃迁之路】【611天】程序员高效学习方法论探索系列（实验阶段368-2018.10.15）",
+      "url": "/a/1190000016691085",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    }
+  ]
+}
