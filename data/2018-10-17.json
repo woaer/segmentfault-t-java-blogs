@@ -1,0 +1,155 @@
+{
+  "watchNum": "29978",
+  "blogs": [
+    {
+      "id": "1190000016709615",
+      "title": "微博什么技术啊……还说支持八个明星并发出轨，结果…",
+      "url": "/a/1190000016709615",
+      "desc": "为什么我头脑一瞬间出现的是张靓颖，作为一个码农，技术宅，拼音缩小都是 ZLY，博主我真有点傻傻分不清楚了。。",
+      "author": {
+        "nick": "Java技术栈",
+        "homepage": "/u/javastack"
+      }
+    },
+    {
+      "id": "1190000016709546",
+      "title": "可视化爬虫配置chrome插件开发之搭建vue开发环境",
+      "url": "/a/1190000016709546",
+      "desc": "本次开发的插件是抓取配置插件，有很多的form表单以及弹出层，如果纯使用js的话会有很多动态创建dom的操作。使用vue和ES6的import语法以及webpack的html加载器相配合，可以减少大量动态创建dom的代码。",
+      "author": {
+        "nick": "绒花雪冷",
+        "homepage": "/u/ronghuaxueleng"
+      }
+    },
+    {
+      "id": "1190000016706147",
+      "title": "设计模式-单例模式",
+      "url": "/a/1190000016706147",
+      "desc": "In software engineering, the singleton pattern is a software design pattern that restricts the instantiation of a class to one object. This is useful when exactly one object is needed to coordinate...",
+      "author": {
+        "nick": "HamilFei",
+        "homepage": "/u/hamilfei"
+      }
+    },
+    {
+      "id": "1190000016708187",
+      "title": "一致性Hash",
+      "url": "/a/1190000016708187",
+      "desc": "问：对于三十岁的程度员，如果还想再深入做技术，有什么建议？答：技术人员一定要有危机感，无论多大年纪仍然要持续的学习，我也已经三十多了，每周会花点时间学习点技术。但是年纪大了，其实时间不会那么多，所...",
+      "author": {
+        "nick": "Yuicon",
+        "homepage": "/u/yuicon"
+      }
+    },
+    {
+      "id": "1190000016708006",
+      "title": "JavaScript常见的六种继承方式",
+      "url": "/a/1190000016708006",
+      "desc": "面向对象编程很重要的一个方面，就是对象的继承。A 对象通过继承 B 对象，就能直接拥有 B 对象的所有属性和方法。这对于代码的复用是非常有用的。",
+      "author": {
+        "nick": "浪里行舟",
+        "homepage": "/u/langlixingzhou"
+      }
+    },
+    {
+      "id": "1190000016707994",
+      "title": "利用递归输出杨辉三角 Java",
+      "url": "/a/1190000016707994",
+      "desc": "{代码...}",
+      "author": {
+        "nick": "小小____",
+        "homepage": "/u/xiaoxiao___________"
+      }
+    },
+    {
+      "id": "1190000016706372",
+      "title": "Functional接口简介",
+      "url": "/a/1190000016706372",
+      "desc": "什么是Functional接口？包含有单一抽象方法（Single Abstract Method）的接口就是Functional接口。简单来说，就是有且只有一个非default方法的接口。为什么default方法不被计算进去呢？原因也很简单，因为default...",
+      "author": {
+        "nick": "RobynLiu",
+        "homepage": "/u/robynliu"
+      }
+    },
+    {
+      "id": "1190000016706237",
+      "title": "你用过不写代码就能完成一个简单模块的组件么？",
+      "url": "/a/1190000016706237",
+      "desc": "开篇四连问你是否懒得写普通的增删改查方法?你是否不喜欢代码生成插件的重复代码？你是否渴望一个没有冗余代码的项目？你是否渴望一行代码都不用写就能完成一个简单的模块？组件由来作为后端程序员，相信大家都写...",
+      "author": {
+        "nick": "最初",
+        "homepage": "/u/zuichu_5bacf025e44e7"
+      }
+    },
+    {
+      "id": "1190000016706218",
+      "title": "快速了解zookeeper",
+      "url": "/a/1190000016706218",
+      "desc": "本文适合有一定分布式基础的读者阅读。什么叫相关的基础呢？起码你得知道系统架构为何从集中式演变成了分布式，分布式有哪些优点和问题。基于分布式的问题，适当的学习下CAP，知道分布式面临了什么的问题以及如何...",
+      "author": {
+        "nick": "Alpaca",
+        "homepage": "/u/alpaca_5a094f8e22ff6"
+      }
+    },
+    {
+      "id": "1190000016705955",
+      "title": "Java多线程基础-ThreadLocal",
+      "url": "/a/1190000016705955",
+      "desc": "在多线程环境下，访问非线程安全的变量时必须进行线程同步，例如使用synchronized方式访问HashMap实例。但是同步访问会降低并发性，影响系统性能。这时候就可以用空间换时间，如果我们给每个线程都分配一个独立的...",
+      "author": {
+        "nick": "Yuicon",
+        "homepage": "/u/yuicon"
+      }
+    },
+    {
+      "id": "1190000016705870",
+      "title": "支持成千上万的并发客户端的系统底层框架",
+      "url": "/a/1190000016705870",
+      "desc": "写过一段时间的代码后，大多数人都会学到：直接使用底层的APi暴露了复杂性，并且引入了对往往供不应求的技能的关键性依赖，当然，学过Java的朋友或者其他语言也知道，面向对象的概念：用较简单的抽象隐藏底层实现...",
+      "author": {
+        "nick": "MySelf",
+        "homepage": "/u/myself_5ab9f390c6129"
+      }
+    },
+    {
+      "id": "1190000016705191",
+      "title": "【跃迁之路】【612天】程序员高效学习方法论探索系列（实验阶段369-2018.10.16）",
+      "url": "/a/1190000016705191",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000016703886",
+      "title": "Java反射-模块",
+      "url": "/a/1190000016703886",
+      "desc": "Java模块反射教程将解释如何通过反射访问Java类所属的模块。模块的概念是Java 9Java Platform Module System添加的。一个Java模块是一个Java包的集合。因此，每一个类都属于一个包，且每一个包都属于一个模块。一...",
+      "author": {
+        "nick": "团结",
+        "homepage": "/u/2006"
+      }
+    },
+    {
+      "id": "1190000016703752",
+      "title": "Eureka服务注册入门，服务启动",
+      "url": "/a/1190000016703752",
+      "desc": "Spring Cloud Eureka 基于Netflix Eureka做了二次封装 两个组件组成： Eureka Server 注册中心 Eureka Client 服务注册 入门注册中心（Eureka Server） 1、下载Eureka快速开发模板代码 2、填坑开始！ 直接启动，...",
+      "author": {
+        "nick": "MySelf",
+        "homepage": "/u/myself_5ab9f390c6129"
+      }
+    },
+    {
+      "id": "1190000016703032",
+      "title": "求贤若渴-蚂蚁金服招聘devops高级开发工程师/技术专家",
+      "url": "/a/1190000016703032",
+      "desc": "蚂蚁研发效能部是服务于整个蚂蚁金服集团的核心技术团队，打造了世界领先的金融级一体化智能研发效能平台，致力于不断提高组织研发效率和整体效能，并将服务与产品输出到金融云企业和客户。",
+      "author": {
+        "nick": "角落里的阳光",
+        "homepage": "/u/simbest"
+      }
+    }
+  ]
+}
