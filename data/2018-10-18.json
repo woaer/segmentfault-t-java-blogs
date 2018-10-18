@@ -1,0 +1,155 @@
+{
+  "watchNum": "29987",
+  "blogs": [
+    {
+      "id": "1190000016724645",
+      "title": "MySQL JDBC StreamResult通信原理浅析",
+      "url": "/a/1190000016724645",
+      "desc": "使用MySQL JDBC读取过较大数据量的人应该清楚（例如超过1GB），在读取的时候内存很可能会Java堆内存溢出，而我们的解决方案是statement.setFetchSize(Integer.MIN_VALUE)并确保游标是只读向前滚动的即可（为游标...",
+      "author": {
+        "nick": "阿里云云栖社区",
+        "homepage": "/u/yunqishequ_5aa899aad5395"
+      }
+    },
+    {
+      "id": "1190000016724178",
+      "title": "Java NIO SocketChannel",
+      "url": "/a/1190000016724178",
+      "desc": "Java NIO中的SocketChannel是一个连接到TCP网络套接字的通道。可以通过以下2种方式创建SocketChannel：",
+      "author": {
+        "nick": "ShanXF",
+        "homepage": "/u/shanxf"
+      }
+    },
+    {
+      "id": "1190000016723575",
+      "title": "Java NIO ServerSocketChannel",
+      "url": "/a/1190000016723575",
+      "desc": "Java NIO中的 ServerSocketChannel 是一个可以监听新进来的TCP连接的通道, 就像标准IO中的ServerSocket一样。ServerSocketChannel类在 java.nio.channels包中。",
+      "author": {
+        "nick": "ShanXF",
+        "homepage": "/u/shanxf"
+      }
+    },
+    {
+      "id": "1190000016723259",
+      "title": "LeetCode 272 Closest Binary Tree Traversal II 解题思路",
+      "url": "/a/1190000016723259",
+      "desc": "Given a non-empty binary search tree and a target value, find k values in the BST that are closest to the target.",
+      "author": {
+        "nick": "胡椒五菇",
+        "homepage": "/u/hujiaowugu"
+      }
+    },
+    {
+      "id": "1190000016722941",
+      "title": "多表联查",
+      "url": "/a/1190000016722941",
+      "desc": "SUN公司提供的一种数据库访问规则、规范, 由于数据库种类较多，并且java语言使用比较广泛，sun公司就提供了一种规范，让其他的数据库提供商去实现底层的访问规则。 我们的java程序只要使用sun公司提供的jdbc驱动...",
+      "author": {
+        "nick": "扎瓦",
+        "homepage": "/u/ideas"
+      }
+    },
+    {
+      "id": "1190000016722562",
+      "title": "Java NIO Java NIO DatagramChannel",
+      "url": "/a/1190000016722562",
+      "desc": "Java NIO中的DatagramChannel是一个能收发UDP包的通道。因为UDP是无连接的网络协议，所以不能像其它通道那样读取和写入。它发送和接收的是数据包。",
+      "author": {
+        "nick": "ShanXF",
+        "homepage": "/u/shanxf"
+      }
+    },
+    {
+      "id": "1190000016722507",
+      "title": "Java NIO Pipe",
+      "url": "/a/1190000016722507",
+      "desc": "Java NIO 管道是2个线程之间的单向数据连接。Pipe有一个source通道和一个sink通道。数据会被写到sink通道，从source通道读取。",
+      "author": {
+        "nick": "ShanXF",
+        "homepage": "/u/shanxf"
+      }
+    },
+    {
+      "id": "1190000016722396",
+      "title": "Java NIO与IO 区别",
+      "url": "/a/1190000016722396",
+      "desc": "我应该何时使用IO，何时使用NIO呢？在本文中，我会尽量清晰地解析Java NIO和IO的差异、它们的使用场景，以及它们如何影响您的代码设计。",
+      "author": {
+        "nick": "ShanXF",
+        "homepage": "/u/shanxf"
+      }
+    },
+    {
+      "id": "1190000016722293",
+      "title": "一个故事讲清楚NIO",
+      "url": "/a/1190000016722293",
+      "desc": "假设某银行只有10个职员。该银行的业务流程分为以下4个步骤：1） 顾客填申请表（5分钟）；2） 职员审核（1分钟）；3） 职员叫保安去金库取钱（3分钟）；4） 职员打印票据，并将钱和票据返回给顾客（1分钟）。　　...",
+      "author": {
+        "nick": "ShanXF",
+        "homepage": "/u/shanxf"
+      }
+    },
+    {
+      "id": "1190000016721940",
+      "title": "数据结构与算法随笔之链表-链表是否有环(二)",
+      "url": "/a/1190000016721940",
+      "desc": "一、可以使用hash表来实现，遍历链表，每个节点放入hash表中，如果hash表中包含了某个节点，那么说明有重复节点存在，即是有环。如果没环，那么链表会遍历结束。代码如下：",
+      "author": {
+        "nick": "杨辉",
+        "homepage": "/u/qzuser_5831baa1efc7f"
+      }
+    },
+    {
+      "id": "1190000016721766",
+      "title": "spring cloud admin开源项目ACE源码阅读-鉴权",
+      "url": "/a/1190000016721766",
+      "desc": "ACE项目是一个比较完整的使用了spring cloud框架的开源项目，可以用它来快速搭建分布式系统。本次着重看的部分是其服务以及用户鉴权的部分。ACE有一个鉴权服务，负责微服务群的鉴权。启动ACE项目依次启动center，...",
+      "author": {
+        "nick": "沈子平",
+        "homepage": "/u/shenziping"
+      }
+    },
+    {
+      "id": "1190000016721280",
+      "title": " 【Leetcode】82. 删除排序链表中的重复元素 II",
+      "url": "/a/1190000016721280",
+      "desc": "题目 给定一个排序链表，删除所有含有重复数字的节点，只保留原始链表中 没有重复出现 的数字。 示例 1: {代码...} 示例 2: {代码...} 题解 在所有题目中，我觉得链表题目是最简单的。具体画图模拟一道题就可以了...",
+      "author": {
+        "nick": "Acceml",
+        "homepage": "/u/acceml"
+      }
+    },
+    {
+      "id": "1190000016721238",
+      "title": "Java基础-泛型详解",
+      "url": "/a/1190000016721238",
+      "desc": "我的博客 转载请注明原创出处。 序 之所以会想来写泛型相关的内容，是因为看到这样的一段代码： 当时我的内心是这样的： 所以就赶紧去复习了下，记录下来。基础不扎实，源码看不懂啊。 泛型介绍 Java 泛型（gener...",
+      "author": {
+        "nick": "Yuicon",
+        "homepage": "/u/yuicon"
+      }
+    },
+    {
+      "id": "1190000016718564",
+      "title": "【跃迁之路】【613天】程序员高效学习方法论探索系列（实验阶段370-2018.10.17）",
+      "url": "/a/1190000016718564",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000016718090",
+      "title": "架构思想之CAP原理",
+      "url": "/a/1190000016718090",
+      "desc": "由于自己负责后端的设计已经有一段时间，对设计的一些思想和理论有一些理解，但最近被问到什么是CAP时，却一脸懵逼，下来后专门针对CAP架构思想进行了一些专题学习，在这里也将这个概念引入给大家，大家可以有意...",
+      "author": {
+        "nick": "码魇",
+        "homepage": "/u/ma_5b4fe416664f8"
+      }
+    }
+  ]
+}
