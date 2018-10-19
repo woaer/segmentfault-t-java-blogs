@@ -1,0 +1,155 @@
+{
+  "watchNum": "29997",
+  "blogs": [
+    {
+      "id": "1190000016736938",
+      "title": "Java 多线程基础 - CyclicBarrier",
+      "url": "/a/1190000016736938",
+      "desc": "java.util.concurrent包里有几个能帮助人们管理相互合作的线程集的类，为多线程常见的应用场景预置了抽象好的类库。在遇到这些应用场景时应该直接重用合适的库类而不要试图提供手工的锁与条件的集合。",
+      "author": {
+        "nick": "Yuicon",
+        "homepage": "/u/yuicon"
+      }
+    },
+    {
+      "id": "1190000016731516",
+      "title": "同是ZooKeeper，你和架构师的理解差在哪里？",
+      "url": "/a/1190000016731516",
+      "desc": "提到ZooKeeper，相信大家都不会陌生。Dubbo，Kafka,Hadoop等等项目里都能看到它的影子。但是你真的了解 ZooKeeper 吗？如果面试官让你给他讲讲 ZooKeeper 是个什么东西，你能回答到什么地步呢？",
+      "author": {
+        "nick": "olle",
+        "homepage": "/u/olle"
+      }
+    },
+    {
+      "id": "1190000016732579",
+      "title": "几种方式实现WordCount",
+      "url": "/a/1190000016732579",
+      "desc": "1、精简的Shell {代码...} 2、反人类的MapReduce {代码...} 3、好用的spark {代码...}",
+      "author": {
+        "nick": "sev7e0",
+        "homepage": "/u/sev7e0_"
+      }
+    },
+    {
+      "id": "1190000016732492",
+      "title": "编译与调试 OpenJDK",
+      "url": "/a/1190000016732492",
+      "desc": "关于编译 OpenJDK 官方文档有很好的介绍，[链接]，汇总了 JDK 6, JDK 7, JDK 8, JDK 9 的 build OpenJDK 的 README 文件。编译 JDK 8 需要 Xcode 4，现在 Xcode 版本已远高于 4 了，前人尝试编译发现有很多坑 [do...",
+      "author": {
+        "nick": "nullwy",
+        "homepage": "/u/nullwy"
+      }
+    },
+    {
+      "id": "1190000016732455",
+      "title": "java基础——单例模式",
+      "url": "/a/1190000016732455",
+      "desc": "单例模式的优缺点： {代码...} 场景 运行结果 一个管理多个单例的数组 场景 运行结果",
+      "author": {
+        "nick": "雨露",
+        "homepage": "/u/yulu_5b175873aeaf9"
+      }
+    },
+    {
+      "id": "1190000016732160",
+      "title": "function包概述及大纲",
+      "url": "/a/1190000016732160",
+      "desc": "function包下总共有43个接口，嗯~看上去数量还是不少。不必害怕，其实满打满算也就这么5类：Function、Supplier、Consumer、Predicate、Operator。这么看就很少了吧。这还不只，它们还有很多相似的地方，咱们再根...",
+      "author": {
+        "nick": "RobynLiu",
+        "homepage": "/u/robynliu"
+      }
+    },
+    {
+      "id": "1190000016730684",
+      "title": "Synchronize和ReentrantLock区别",
+      "url": "/a/1190000016730684",
+      "desc": "目录介绍 1.Synchronize和ReentrantLock区别 1.1 相似点 1.2 区别 1.3 什么是线程安全问题？如何理解 1.4 线程安全需要保证几个基本特性 2.Synchronize在编译时如何实现锁机制 3.ReentrantLock使用方法 4.Reentra...",
+      "author": {
+        "nick": "潇湘剑雨",
+        "homepage": "/u/xiangjianyu"
+      }
+    },
+    {
+      "id": "1190000016718047",
+      "title": "基础知识-cas,synchronized,lock,volatile,concurrent大集合",
+      "url": "/a/1190000016718047",
+      "desc": "（1）每个线程都有自己的本地内存空间（java栈中的帧）。线程执行时，先把变量从内存读到线程自己的本地内存空间，然后对变量进行操作。 （2）对该变量操作完成后，在某个时间再把变量刷新回主内存。",
+      "author": {
+        "nick": "大贺",
+        "homepage": "/u/dahe_599cd6600b757"
+      }
+    },
+    {
+      "id": "1190000016730313",
+      "title": "Java泛型复习",
+      "url": "/a/1190000016730313",
+      "desc": "一、什么是泛型？Java泛型设计原则：只要在编译时期没有出现警告，那么运行时期就不会出现ClassCastException异常.",
+      "author": {
+        "nick": "W_LG",
+        "homepage": "/u/w_lg"
+      }
+    },
+    {
+      "id": "1190000016730234",
+      "title": "一个简单的例子教会您使用javap",
+      "url": "/a/1190000016730234",
+      "desc": "javap是JDK自带的工具： 这篇文章使用下面这段简单的Java代码作为例子进行讲解。 {代码...} 使用下面的命令行对NullableTest进行反编译，以java编译器生成的字节码： javap -v NullableTest >c:code1.txt 查看...",
+      "author": {
+        "nick": "JerryWangSAP",
+        "homepage": "/u/jerrywangsap"
+      }
+    },
+    {
+      "id": "1190000016730189",
+      "title": "Cordova插件中JavaScript代码与Java的交互细节介绍",
+      "url": "/a/1190000016730189",
+      "desc": "在Cordova官网中有这么一张架构图：大家看右下角蓝色的矩形框\"Custom Plugin\"——自定义插件。意思就是如果您用Cordova打包Mobile应用时，发现您的移动应用里需要使用一些功能，这些功能用普通的JavaScript无法实现...",
+      "author": {
+        "nick": "JerryWangSAP",
+        "homepage": "/u/jerrywangsap"
+      }
+    },
+    {
+      "id": "1190000016730164",
+      "title": "Java和ABAP中的几种引用类型的分析和比较",
+      "url": "/a/1190000016730164",
+      "desc": "根据ABAP帮助文档，我们可以把某个对象的引用包在一个Weak Reference的实例里。ABAP的Weak Reference实例通过类CL_ABAP_WEAK_REFERENCE实现。",
+      "author": {
+        "nick": "JerryWangSAP",
+        "homepage": "/u/jerrywangsap"
+      }
+    },
+    {
+      "id": "1190000016730134",
+      "title": "使用工具Source Monitor测量您Java代码的环复杂度",
+      "url": "/a/1190000016730134",
+      "desc": "代码的环复杂度(Cyclomatic complexity，有时也翻译成圈复杂度)是一种代码复杂度的衡量标准，在1976年由Thomas J. McCabe, Sr. 提出。",
+      "author": {
+        "nick": "JerryWangSAP",
+        "homepage": "/u/jerrywangsap"
+      }
+    },
+    {
+      "id": "1190000016730108",
+      "title": "使用JDK自带的VisualVM进行Java程序的性能分析",
+      "url": "/a/1190000016730108",
+      "desc": "VisualVM是JDK自带的一个用于Java程序性能分析的工具，JDK安装完毕后就有啦，在JDK安装目录的bin文件夹下能找到名称为jvisualvm.exe。",
+      "author": {
+        "nick": "JerryWangSAP",
+        "homepage": "/u/jerrywangsap"
+      }
+    },
+    {
+      "id": "1190000016729717",
+      "title": "【跃迁之路】【614天】程序员高效学习方法论探索系列（实验阶段371-2018.10.18）",
+      "url": "/a/1190000016729717",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    }
+  ]
+}
