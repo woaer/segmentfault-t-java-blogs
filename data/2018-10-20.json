@@ -1,0 +1,155 @@
+{
+  "watchNum": "30003",
+  "blogs": [
+    {
+      "id": "1190000016744430",
+      "title": "微服务架构组件分析",
+      "url": "/a/1190000016744430",
+      "desc": "服务描述：服务调用首先解决的问题就是服务如何对外描述。 常用的服务描述方式包括 RESTful API、XML 配置以及 IDL 文件三种。",
+      "author": {
+        "nick": "bali",
+        "homepage": "/u/bali_5a0a92fba16aa"
+      }
+    },
+    {
+      "id": "1190000016744955",
+      "title": "【跃迁之路】【615天】程序员高效学习方法论探索系列（实验阶段372-2018.10.19）",
+      "url": "/a/1190000016744955",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000016743892",
+      "title": "Java编程基础34——JDBC&DBUtil",
+      "url": "/a/1190000016743892",
+      "desc": "Java编程基础34——JDBC&DBUtilJava编程基础34——JDBC&DBUtilJava编程基础34——JDBC&DBUtil",
+      "author": {
+        "nick": "扎瓦",
+        "homepage": "/u/ideas"
+      }
+    },
+    {
+      "id": "1190000016743843",
+      "title": "用SpringMVC来简单的操作Excel文件",
+      "url": "/a/1190000016743843",
+      "desc": "通过Java来生成Excel文件或者导入一个Excel文件的数据都需要用到Apache的一个POI包，这里我就先把这个包提供出来。",
+      "author": {
+        "nick": "13678398293",
+        "homepage": "/u/13678398293"
+      }
+    },
+    {
+      "id": "1190000016742517",
+      "title": "开发必会的vim命令技巧总结",
+      "url": "/a/1190000016742517",
+      "desc": "上图可以清晰的看到早期的vim作者使用的机器,此时的终端机键盘是没有独立上下左右键位的，所以在vim的设计之初，HJKL分别代表了(起到了光标移动)，其余字符基本一致。",
+      "author": {
+        "nick": "olle",
+        "homepage": "/u/olle"
+      }
+    },
+    {
+      "id": "1190000016740857",
+      "title": "第二章 一切都是对象",
+      "url": "/a/1190000016740857",
+      "desc": "根据java虚拟机规范第七版的规定，Java虚拟机所管理的内存将包括以下几个运行时数据区域：程序计数器、方法区、堆、虚拟机栈、本地方法栈。(详见深入理解java虚拟机)",
+      "author": {
+        "nick": "橡皮擦",
+        "homepage": "/u/xiangpica_5b9793e17526e"
+      }
+    },
+    {
+      "id": "1190000016740796",
+      "title": "浅析如何用Redis实现分布式锁",
+      "url": "/a/1190000016740796",
+      "desc": "SETNX key val当且仅当key不存在时，set一个key为val的字符串，返回1；若key存在，则什么都不做，返回0。",
+      "author": {
+        "nick": "olle",
+        "homepage": "/u/olle"
+      }
+    },
+    {
+      "id": "1190000016739735",
+      "title": "Spring框架IOC容器",
+      "url": "/a/1190000016739735",
+      "desc": "Spring是一个开源框架，也是于2003 年兴起的一个轻量级的Java 开发框架，由Rod Johnson 在其著作《Expert One-On-One J2EE Development and Design》中阐述的部分理念和原型衍生而来。它是为了解决企业应用开发的...",
+      "author": {
+        "nick": "olle",
+        "homepage": "/u/olle"
+      }
+    },
+    {
+      "id": "1190000016738440",
+      "title": "MyBatis 为什么需要通用 Mapper ?",
+      "url": "/a/1190000016738440",
+      "desc": "我个人最早用 MyBatis 时，先是完全手写，然后用上了 MyBatis 代码生成器（简称为 MBG），在使用 MBG 过程中，发现一个很麻烦的问题，如果数据库字段变化很频繁，就需要反复重新生成代码，并且由于 MBG 覆盖生成...",
+      "author": {
+        "nick": "进取的心",
+        "homepage": "/u/jinqudexin"
+      }
+    },
+    {
+      "id": "1190000016738252",
+      "title": "Apache孵化器主席Justin Mclean：如何成为Apache顶级开源项目",
+      "url": "/a/1190000016738252",
+      "desc": "近日，Apache孵化器主席、Apache基金会成员、Dubbo & RocketMQ等开源项目的导师Justin Mclean来到阿里巴巴西溪园区，与众多开发者分享了如何打造一个Apache顶级项目，以及项目孵化过程会遇到的一些盲点和挑战。",
+      "author": {
+        "nick": "阿里云云栖社区",
+        "homepage": "/u/yunqishequ_5aa899aad5395"
+      }
+    },
+    {
+      "id": "1190000016737977",
+      "title": "java 线程同步",
+      "url": "/a/1190000016737977",
+      "desc": "当我们有多个线程要对同一个资源进行操作的时候，比如说文件，这时候就不能让多个线程同时操作这个文件了。因为当文件共享的时候，多个操作就会产生冲突。相信使用过git进行团队开发的人就会有比价深刻的体会。",
+      "author": {
+        "nick": "喵先生的进阶之路",
+        "homepage": "/u/poshichao"
+      }
+    },
+    {
+      "id": "1190000016736938",
+      "title": "Java 多线程基础 - CyclicBarrier",
+      "url": "/a/1190000016736938",
+      "desc": "java.util.concurrent包里有几个能帮助人们管理相互合作的线程集的类，为多线程常见的应用场景预置了抽象好的类库。在遇到这些应用场景时应该直接重用合适的库类而不要试图提供手工的锁与条件的集合。",
+      "author": {
+        "nick": "Yuicon",
+        "homepage": "/u/yuicon"
+      }
+    },
+    {
+      "id": "1190000016731516",
+      "title": "同是ZooKeeper，你和架构师的理解差在哪里？",
+      "url": "/a/1190000016731516",
+      "desc": "提到ZooKeeper，相信大家都不会陌生。Dubbo，Kafka,Hadoop等等项目里都能看到它的影子。但是你真的了解 ZooKeeper 吗？如果面试官让你给他讲讲 ZooKeeper 是个什么东西，你能回答到什么地步呢？",
+      "author": {
+        "nick": "olle",
+        "homepage": "/u/olle"
+      }
+    },
+    {
+      "id": "1190000016732579",
+      "title": "几种方式实现WordCount",
+      "url": "/a/1190000016732579",
+      "desc": "1、精简的Shell {代码...} 2、反人类的MapReduce {代码...} 3、好用的spark {代码...}",
+      "author": {
+        "nick": "sev7e0",
+        "homepage": "/u/sev7e0_"
+      }
+    },
+    {
+      "id": "1190000016732492",
+      "title": "编译与调试 OpenJDK",
+      "url": "/a/1190000016732492",
+      "desc": "关于编译 OpenJDK 官方文档有很好的介绍，[链接]，汇总了 JDK 6, JDK 7, JDK 8, JDK 9 的 build OpenJDK 的 README 文件。编译 JDK 8 需要 Xcode 4，现在 Xcode 版本已远高于 4 了，前人尝试编译发现有很多坑 [do...",
+      "author": {
+        "nick": "nullwy",
+        "homepage": "/u/nullwy"
+      }
+    }
+  ]
+}
