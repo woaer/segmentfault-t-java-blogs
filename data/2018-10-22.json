@@ -1,0 +1,155 @@
+{
+  "watchNum": "30009",
+  "blogs": [
+    {
+      "id": "1190000016759681",
+      "title": "Java代理设计模式(Proxy)的四种具体实现：静态代理和动态代理",
+      "url": "/a/1190000016759681",
+      "desc": "面试问题：Java里的代理设计模式（Proxy Design Pattern）一共有几种实现方式？这个题目很像孔乙己问“茴香豆的茴字有哪几种写法？”",
+      "author": {
+        "nick": "JerryWangSAP",
+        "homepage": "/u/jerrywangsap"
+      }
+    },
+    {
+      "id": "1190000016759613",
+      "title": "什么是Java Marker Interface（标记接口）",
+      "url": "/a/1190000016759613",
+      "desc": "先看看什么是标记接口？标记接口有时也叫标签接口（Tag interface），即接口不包含任何方法。在Java里很容易找到标记接口的例子，比如JDK里的Serializable接口就是一个标记接口。",
+      "author": {
+        "nick": "JerryWangSAP",
+        "homepage": "/u/jerrywangsap"
+      }
+    },
+    {
+      "id": "1190000016759543",
+      "title": "Spring MVC能响应HTTP请求的原因？",
+      "url": "/a/1190000016759543",
+      "desc": "一个Spring MVC的项目文件里，开发人员没有开发自己的Servlet，只通过注解@RequestMapping定义了方法home能响应发向 /mvc/test1的请求。",
+      "author": {
+        "nick": "JerryWangSAP",
+        "homepage": "/u/jerrywangsap"
+      }
+    },
+    {
+      "id": "1190000016759293",
+      "title": "使用javap分析Java的字符串操作",
+      "url": "/a/1190000016759293",
+      "desc": "我们看这样一行简单的字符串赋值操作的Java代码。 String a = \"i042416\"; 使用命令行将包含了这行代码的Java类反编译查看其字节码： javap -v constant.ConstantFolding 我们看到字符串 \"i042416\" 被Java编译器加...",
+      "author": {
+        "nick": "JerryWangSAP",
+        "homepage": "/u/jerrywangsap"
+      }
+    },
+    {
+      "id": "1190000016759215",
+      "title": "使用javap深入理解Java整型常量和整型变量的区别",
+      "url": "/a/1190000016759215",
+      "desc": "我下图代码第五行和第九行分别定义了一个整型变量和一个整型常量： static final int number1 = 512; static int number3 = 545; Java程序员都知道两者的区别。 下面我们就用javap将.class文件反编译出来然后深入...",
+      "author": {
+        "nick": "JerryWangSAP",
+        "homepage": "/u/jerrywangsap"
+      }
+    },
+    {
+      "id": "1190000016759032",
+      "title": "Java动态代理之InvocationHandler最简单的入门教程",
+      "url": "/a/1190000016759032",
+      "desc": "网上关于Java的动态代理，Proxy和InvocationHandler这些概念有讲解得非常高深的文章。其实这些概念没有那么复杂。现在咱们通过一个最简单的例子认识什么是InvocationHandler。值得一提的是，InvocationHandler在S...",
+      "author": {
+        "nick": "JerryWangSAP",
+        "homepage": "/u/jerrywangsap"
+      }
+    },
+    {
+      "id": "1190000016758927",
+      "title": "如何让Spring MVC显示自定义的404 Not Found页面",
+      "url": "/a/1190000016758927",
+      "desc": "不知道大家对千篇一律的404 Not Found的错误页面是否感到腻歪了？其实通过很简单的配置就能够让Spring MVC显示您自定义的404 Not Found错误页面。",
+      "author": {
+        "nick": "JerryWangSAP",
+        "homepage": "/u/jerrywangsap"
+      }
+    },
+    {
+      "id": "1190000016758443",
+      "title": "使用JDK自带的jmap和jhat监控处于运行状态的Java进程",
+      "url": "/a/1190000016758443",
+      "desc": "对于处于运行状态中的Java进程，JDK自带了很多工具，允许Java开发人员监控运行进程中的各种状态，比如该进程内部创建了多少个对象实例，消耗了多少内存，等等。",
+      "author": {
+        "nick": "JerryWangSAP",
+        "homepage": "/u/jerrywangsap"
+      }
+    },
+    {
+      "id": "1190000016757991",
+      "title": "在ABAP里模拟实现Java Spring的依赖注入",
+      "url": "/a/1190000016757991",
+      "desc": "Dependency Injection- 依赖注入，在Java Spring框架中有着广泛地应用。通过依赖注入，我们不必在应用代码里繁琐地初始化依赖的资源，非常方便。",
+      "author": {
+        "nick": "JerryWangSAP",
+        "homepage": "/u/jerrywangsap"
+      }
+    },
+    {
+      "id": "1190000016757856",
+      "title": "使用nodejs和Java访问远程服务器的服务",
+      "url": "/a/1190000016757856",
+      "desc": "既然这篇文章用的是nodejs和Java访问远程服务器的服务，那么咱们先用另一门编程语言，SAP的ABAP（我日常工作使用得最多的编程语言）来开发一个服务吧。",
+      "author": {
+        "nick": "JerryWangSAP",
+        "homepage": "/u/jerrywangsap"
+      }
+    },
+    {
+      "id": "1190000016756869",
+      "title": "分布式系统中处理参数配置的 4 种方案",
+      "url": "/a/1190000016756869",
+      "desc": "一个系统中包含有各种各样的配置信息，如一个日志文件需要配置以下几个信息。 日志文件生成主目录 日志文件名称，不同的日志级别对应不同的文件 当前日志级别 还有其他各种业务参数、系统参数等，大多单一系统是...",
+      "author": {
+        "nick": "Java技术栈",
+        "homepage": "/u/javastack"
+      }
+    },
+    {
+      "id": "1190000016756538",
+      "title": "Android&Java面试题大全—金九银十面试必备",
+      "url": "/a/1190000016756538",
+      "desc": "加载。 加载是将字节码数据从不同的数据源读取到JVM内存，并映射为 JVM 认可的数据结构，也就是 Class 对象的过程。数据源可以是 Jar 文件、Class 文件等等。如果数据的格式并不是 ClassFile 的结构，则会报 Clas...",
+      "author": {
+        "nick": "爱编码的coder",
+        "homepage": "/u/chengxuyuanxiaohui"
+      }
+    },
+    {
+      "id": "1190000016756526",
+      "title": "Java基础-内部类详解",
+      "url": "/a/1190000016756526",
+      "desc": "内部类（inner class）是定义在另一个类内部的类。之所以定义在内部是因为内部类有一些普通类没有的“特权”，可以方便实现一些需求。",
+      "author": {
+        "nick": "Yuicon",
+        "homepage": "/u/yuicon"
+      }
+    },
+    {
+      "id": "1190000016756432",
+      "title": "跨域几种方式",
+      "url": "/a/1190000016756432",
+      "desc": "JavaScript出于安全方面的考虑，不允许跨域调用其他页面的对象。那什么是跨域呢，简单地理解就是因为JavaScript同源策略的限制，a.com域名下的js无法操作b.com或是c.a.com域名下的对象。当协议、子域名、主域名、...",
+      "author": {
+        "nick": "浪里行舟",
+        "homepage": "/u/langlixingzhou"
+      }
+    },
+    {
+      "id": "1190000016755691",
+      "title": "利用责任链模式设计一个拦截器",
+      "url": "/a/1190000016755691",
+      "desc": "前言 近期在做 Cicada 的拦截器功能，正好用到了责任链模式。 这个设计模式在日常使用中频率还是挺高的，借此机会来分析分析。 责任链模式 先来看看什么是责任链模式。 引用一段维基百科对其的解释： 责任链模式...",
+      "author": {
+        "nick": "crossoverJie",
+        "homepage": "/u/crossoverjie"
+      }
+    }
+  ]
+}
