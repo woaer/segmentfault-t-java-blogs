@@ -1,0 +1,155 @@
+{
+  "watchNum": "30032",
+  "blogs": [
+    {
+      "id": "1190000016799377",
+      "title": "Arthas实践--使用redefine排查应用奇怪的日志来源",
+      "url": "/a/1190000016799377",
+      "desc": "那么怎样排查这些奇怪的日志从哪里打印出来的呢？因为搞不清楚是什么logger打印出来的，所以想定位就比较头疼。",
+      "author": {
+        "nick": "阿里云云栖社区",
+        "homepage": "/u/yunqishequ_5aa899aad5395"
+      }
+    },
+    {
+      "id": "1190000016796830",
+      "title": "RestTemplate的三种使用方式",
+      "url": "/a/1190000016796830",
+      "desc": "第二种方式（利用loadBalancerClient通过应用名获取url，然后再使用restTemplate）",
+      "author": {
+        "nick": "MySelf",
+        "homepage": "/u/myself_5ab9f390c6129"
+      }
+    },
+    {
+      "id": "1190000016796657",
+      "title": "Java 11正式发布，这几个逆天新特性教你写出更牛逼的代码",
+      "url": "/a/1190000016796657",
+      "desc": "就在前段时间，Oracle 官方宣布 Java 11 (18.9 LTS) 正式发布，可在生产环境中使用! 这无疑对我们来说是一大好的消息。作为一名java开发者来说，虽然又要去学习和了解java11，但内心还是欣慰的。我想至少你和我一...",
+      "author": {
+        "nick": "爱编码的coder",
+        "homepage": "/u/chengxuyuanxiaohui"
+      }
+    },
+    {
+      "id": "1190000016796284",
+      "title": "XXL-CONF v1.5.1 发布，分布式配置管理平台",
+      "url": "/a/1190000016796284",
+      "desc": "v1.5.1 新特性 1、ftl变量判空问题修复； 2、配置快照文件生成时自动创建多层父目录； 3、移除ehcache依赖，取消local cache容量限制； 4、ZK初始化逻辑优化，避免并发初始化，阻塞至TCP连接创建成功才允许后续操...",
+      "author": {
+        "nick": "xuxueli",
+        "homepage": "/u/xuxueli"
+      }
+    },
+    {
+      "id": "1190000016794318",
+      "title": " Java 高级算法——字符串字符替换",
+      "url": "/a/1190000016794318",
+      "desc": "题目一：在字符串中例如public static String info = \"we are friend\";将空格替换为888，例如 public static String ifo =\"we888are888friend\";",
+      "author": {
+        "nick": "雨露",
+        "homepage": "/u/yulu_5b175873aeaf9"
+      }
+    },
+    {
+      "id": "1190000016793722",
+      "title": "Java 外部函数接口：JNI, JNA, JNR",
+      "url": "/a/1190000016793722",
+      "desc": "前段时间开发的时候，遇到一个问题，就是如何用 Java 实现 chdir？网上搜索一番，发现了 JNR-POSIX 项目 [stackoverflow ]。俗话说，好记性不如烂笔头。现在将涉及到的相关知识点总结成笔记。",
+      "author": {
+        "nick": "nullwy",
+        "homepage": "/u/nullwy"
+      }
+    },
+    {
+      "id": "1190000016793242",
+      "title": "【跃迁之路】【620天】程序员高效学习方法论探索系列（实验阶段377-2018.10.24）",
+      "url": "/a/1190000016793242",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000016792452",
+      "title": "Spring Cloud 分布式事务管理",
+      "url": "/a/1190000016792452",
+      "desc": "在微服务如火如荼的情况下，越来越多的项目开始尝试改造成微服务架构，微服务即带来了项目开发的方便性，又提高了运维难度以及网络不可靠的概率.",
+      "author": {
+        "nick": "zyndev",
+        "homepage": "/u/zyndev"
+      }
+    },
+    {
+      "id": "1190000016791601",
+      "title": "《阿里巴巴Java开发手册》2018年完整资料下载！",
+      "url": "/a/1190000016791601",
+      "desc": "《阿里巴巴Java开发手册》（以下简称《手册》）是阿里内部Java工程师所遵循的开发规范，涵盖编程规约、异常日志、单元测试、安全规约、MySQL数据库、工程规约、设计规约7大维度。",
+      "author": {
+        "nick": "阿里云云栖社区",
+        "homepage": "/u/yunqishequ_5aa899aad5395"
+      }
+    },
+    {
+      "id": "1190000016791460",
+      "title": "使用Prometheus+Grafana监控JVM",
+      "url": "/a/1190000016791460",
+      "desc": "原文地址 摘要 用到的工具： Docker，本文大量使用了Docker来启动各个应用。 Prometheus，负责抓取/存储指标信息，并提供查询功能。 Grafana，负责数据可视化。 JMX exporter，提供JMX中和JVM相关的信息。 Tomcat...",
+      "author": {
+        "nick": "chanjarster",
+        "homepage": "/u/chanjarster"
+      }
+    },
+    {
+      "id": "1190000016791290",
+      "title": "服务化改造实践（三） | Dubbo + Zipkin",
+      "url": "/a/1190000016791290",
+      "desc": "摘要： 随着业务的发展，应用的规模不断的扩大，传统的应用架构无法满足诉求，服务化架构改造势在必行，以 Dubbo 为代表的分布式服务框架成为了服务化改造架构中的基石。随着微服务理念逐渐被大众接受，应用进一...",
+      "author": {
+        "nick": "小暖忆",
+        "homepage": "/u/xiaonuanyi"
+      }
+    },
+    {
+      "id": "1190000016790744",
+      "title": "git 详解及实用指南之四（标签管理）",
+      "url": "/a/1190000016790744",
+      "desc": "标签可以简单的理解为属于分支定义的别名，分支本身都会进行指针的配置（分支都会指向某一个commit id）, 但是标签却是一个固定的内容，可以说，标签永远指向一个commit id。",
+      "author": {
+        "nick": "前端小智",
+        "homepage": "/u/minnanitkong"
+      }
+    },
+    {
+      "id": "1190000016790653",
+      "title": "服务化改造实践（三） | Dubbo + Zipkin",
+      "url": "/a/1190000016790653",
+      "desc": "随着业务的发展，应用的规模不断的扩大，传统的应用架构无法满足诉求，服务化架构改造势在必行，以 Dubbo 为代表的分布式服务框架成为了服务化改造架构中的基石。随着微服务理念逐渐被大众接受，应用进一步向更细...",
+      "author": {
+        "nick": "阿里云云栖社区",
+        "homepage": "/u/yunqishequ_5aa899aad5395"
+      }
+    },
+    {
+      "id": "1190000016790466",
+      "title": "[LeetCode] 689. Maximum Sum of 3 Non-Overlapping Subarrays",
+      "url": "/a/1190000016790466",
+      "desc": "In a given array nums of positive integers, find three non-overlapping subarrays with maximum sum.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000016788856",
+      "title": "【1024程序员节】程序员，你学编程的初衷是什么？",
+      "url": "/a/1190000016788856",
+      "desc": "前言 今天是1024程序员节，中国500w+的程序员今天可以享受一天专属的节日，网络上也有各种庆祝方式： 一些公司祭出了“程序员鼓励师” 一些公司给程序员放了个“假” 还有公司出了张“海报” 都是玩的很嗨，套路一波接...",
+      "author": {
+        "nick": "olle",
+        "homepage": "/u/olle"
+      }
+    }
+  ]
+}
