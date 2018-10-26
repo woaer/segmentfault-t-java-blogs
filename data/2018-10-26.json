@@ -1,0 +1,155 @@
+{
+  "watchNum": "30040",
+  "blogs": [
+    {
+      "id": "1190000016813653",
+      "title": "汇报",
+      "url": "/a/1190000016813653",
+      "desc": "问题 断言旳为200，实际上返回的401 Debug debug发现teacher的用户名和密码和我设置的是一样的，但就是登录失败，返回状态401 我用了最笨的方法找到了问题出在了那，看了很多遍教程，最后把老师的代码拿过来发现...",
+      "author": {
+        "nick": "潘佳琦",
+        "homepage": "/u/panjia_5b3b83f7743e9"
+      }
+    },
+    {
+      "id": "1190000016813484",
+      "title": "MongoDB最简单的入门教程之三 使用Java代码往MongoDB里插入数据",
+      "url": "/a/1190000016813484",
+      "desc": "前两篇教程我们介绍了如何搭建MongoDB的本地环境： MongoDB最简单的入门教程之一 环境搭建 以及如何用nodejs读取MongoDB里的记录： MongoDB最简单的入门教程之二 使用nodejs访问MongoDB 这篇教程我们会介绍如何使...",
+      "author": {
+        "nick": "JerryWangSAP",
+        "homepage": "/u/jerrywangsap"
+      }
+    },
+    {
+      "id": "1190000016813382",
+      "title": "XXL-API v1.1.1 发布，API管理平台",
+      "url": "/a/1190000016813382",
+      "desc": "新特性 1、接口\"成功/失败响应结果\"支持JSON格式化校验与展示，方便数据查看； 2、项目迁移至 springboot 版本； 3、docker支持：提供 Dockerfile 方便快速构建docker镜像； 4、项目下存在接口时拒绝删除，防止数...",
+      "author": {
+        "nick": "xuxueli",
+        "homepage": "/u/xuxueli"
+      }
+    },
+    {
+      "id": "1190000016813307",
+      "title": "XXL-RPC v1.2.0，分布式服务框架",
+      "url": "/a/1190000016813307",
+      "desc": "4、各模块扩展改为非强制依赖：扩展依赖需要单独进行 maven 引入（provided类型）；提供强制依赖最小精简选型组合 \"jetty + hessian + 无注册中心\"；",
+      "author": {
+        "nick": "xuxueli",
+        "homepage": "/u/xuxueli"
+      }
+    },
+    {
+      "id": "1190000016813062",
+      "title": "Java Web项目，Android和微信小程序的初始页面配置",
+      "url": "/a/1190000016813062",
+      "desc": "我们在Eclipse里开了Java Web项目之后，Run As Tomcat或者Apache服务器，本地运行，如果直接用[链接]:8080访问项目，会发现浏览器会打开一个默认的页面。",
+      "author": {
+        "nick": "JerryWangSAP",
+        "homepage": "/u/jerrywangsap"
+      }
+    },
+    {
+      "id": "1190000016812251",
+      "title": "Eclipse被卡死了或者失去响应了后分析根源的一个小技巧",
+      "url": "/a/1190000016812251",
+      "desc": "提升程序员工作效率的工具/技巧推荐系列 推荐一个功能强大的文件搜索工具SearchMyFiles 介绍一个好用的免费流程图和UML绘制软件-Diagram Designer 介绍Windows任务管理器的替代者-Process Explorer 介绍一个强大...",
+      "author": {
+        "nick": "JerryWangSAP",
+        "homepage": "/u/jerrywangsap"
+      }
+    },
+    {
+      "id": "1190000016812204",
+      "title": "从重复到重用",
+      "url": "/a/1190000016812204",
+      "desc": "本文是我之前写的文章——《你试过这样写C程序吗》——的第二版，并把文章名改成更贴切的“从重复到重用”。",
+      "author": {
+        "nick": "阿里云云栖社区",
+        "homepage": "/u/yunqishequ_5aa899aad5395"
+      }
+    },
+    {
+      "id": "1190000016812153",
+      "title": "落地 Spring Could 所踩过的坑（二）Feign Client 调用服务接口报错",
+      "url": "/a/1190000016812153",
+      "desc": "为了方便统一管理服务接口调用，服务调用 HTTP 客户端采用Feign Client，实施下来一直很顺利。负责测试的同事反馈其中一个接口调用报错：Could not extract response: no suitable HttpMessageConverter found fo...",
+      "author": {
+        "nick": "江州司马",
+        "homepage": "/u/jiangzhousima"
+      }
+    },
+    {
+      "id": "1190000016811667",
+      "title": "推荐一款功能强大的Tomcat 管理监控工具，可替代Tomcat Manager",
+      "url": "/a/1190000016811667",
+      "desc": "再点Manager App，即可进入Tomcat自带的Manager这个应用，此处可以单独部署/卸载每一个应用。可以看到在Manager应用里提供的功能是很有限的。",
+      "author": {
+        "nick": "JerryWangSAP",
+        "homepage": "/u/jerrywangsap"
+      }
+    },
+    {
+      "id": "1190000016811621",
+      "title": "如何通过Java代码判断当前的环境是否支持JRE 9",
+      "url": "/a/1190000016811621",
+      "desc": "JDK9已经出来有一段时间了，因此很多流行的Java应用纷纷增添了对JDK9乃至JDK10的支持，比如Tomcat。",
+      "author": {
+        "nick": "JerryWangSAP",
+        "homepage": "/u/jerrywangsap"
+      }
+    },
+    {
+      "id": "1190000016811068",
+      "title": "在云环境上使用SLF4J对Java程序进行日志记录",
+      "url": "/a/1190000016811068",
+      "desc": "我开发了一个Java应用，部署到云环境上之后，用postman测试发现不能按照我期望的工作，但是返回的消息对我没有任何帮助。",
+      "author": {
+        "nick": "JerryWangSAP",
+        "homepage": "/u/jerrywangsap"
+      }
+    },
+    {
+      "id": "1190000016810325",
+      "title": "EventBus源码分析",
+      "url": "/a/1190000016810325",
+      "desc": "前面我学习了如何使用EventBus，还有了解了EventBus的特性，那么接下来我们一起来学习EventBus的源码，查看EventBus的源码，看看EventBus给我们带来什么惊喜以及编程思想。",
+      "author": {
+        "nick": "Eirunye",
+        "homepage": "/u/eirunye"
+      }
+    },
+    {
+      "id": "1190000016810155",
+      "title": "Synchronized 关键字使用、底层原理、JDK1.6 之后的底层优化以及 和ReenTrantLock 的对比",
+      "url": "/a/1190000016810155",
+      "desc": "以下内容摘自我的 Gitchat ：Java 程序员必备：并发知识系统总结，欢迎订阅！ Github 地址：[链接] synchronized关键字最主要的三种使用方式的总结 修饰实例方法，作用于当前对象实例加锁，进入同步代码前要获得...",
+      "author": {
+        "nick": "Snailclimb",
+        "homepage": "/u/snailclimb"
+      }
+    },
+    {
+      "id": "1190000016809872",
+      "title": "比特币UTXO模型介绍",
+      "url": "/a/1190000016809872",
+      "desc": "如果你曾上过BlockExplorer观察自己的比特币收入状况，你是否曾经被搞的一头雾水呢？这正是因为比特币所使用的交易模型并非我们直觉上以账户为基础的，而是一种叫做UTXO的模型 。在我的前一篇文章：《深入了解NEX...",
+      "author": {
+        "nick": "malakashi",
+        "homepage": "/u/malakashi"
+      }
+    },
+    {
+      "id": "1190000016809359",
+      "title": "扩展Zuul实现敏捷开发的小小技巧",
+      "url": "/a/1190000016809359",
+      "desc": "你在开发工作的是否遇到这个问题，微服务模块划分过细，基础模块依赖的比较多？ 比如你要进行微服务开发则需要启动以下基础模块",
+      "author": {
+        "nick": "冷冷",
+        "homepage": "/u/gie"
+      }
+    }
+  ]
+}
