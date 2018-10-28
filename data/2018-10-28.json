@@ -1,0 +1,155 @@
+{
+  "watchNum": "30047",
+  "blogs": [
+    {
+      "id": "1190000016826809",
+      "title": "930-和相同的二元子数组",
+      "url": "/a/1190000016826809",
+      "desc": "在由若干 0 和 1 组成的数组 A 中，有多少个和为 S 的非空子数组。示例： {代码...} 提示 A.length <= 30000 0 <= S <= A.length A[i] 为 0 或 1",
+      "author": {
+        "nick": "Null",
+        "homepage": "/u/null_ryan"
+      }
+    },
+    {
+      "id": "1190000016826773",
+      "title": "929-独特的电子邮件地址",
+      "url": "/a/1190000016826773",
+      "desc": "每封电子邮件都由一个本地名称和一个域名组成，以@符号分隔。 例如，在 alice@leetcode.com中， alice 是本地名称，而 leetcode.com 是域名。 除了小写字母，这些电子邮件还可能包含 ',' 或 '+'。 如果在电子邮件...",
+      "author": {
+        "nick": "Null",
+        "homepage": "/u/null_ryan"
+      }
+    },
+    {
+      "id": "1190000016826131",
+      "title": "[LeetCode] 170. Two Sum III - Data structure design",
+      "url": "/a/1190000016826131",
+      "desc": "Design and implement a TwoSum class. It should support the following operations: add and find.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000016826108",
+      "title": "[LeetCode] 567. Permutation in String",
+      "url": "/a/1190000016826108",
+      "desc": "Given two strings s1 and s2, write a function to return true if s2 contains the permutation of s1. In other words, one of the first string's permutations is the substring of the second string.Examp...",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000016826013",
+      "title": "Elasticsearch Java REST Client（Java Low Level REST Client 入门）",
+      "url": "/a/1190000016826013",
+      "desc": "低级别REST客户端与Elasticsearch具有相同的发布周期，将版本替换为想要的客户端版本，首先使用5.0.0-alpha4发布版，客户端版本与客户端可以与之通信的Elasticsearch版本之间没有任何关系，低级别REST客户端与所...",
+      "author": {
+        "nick": "博弈",
+        "homepage": "/u/leon_qi"
+      }
+    },
+    {
+      "id": "1190000016825772",
+      "title": "【跃迁之路】【623天】程序员高效学习方法论探索系列（实验阶段380-2018.10.27）",
+      "url": "/a/1190000016825772",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000016825130",
+      "title": "Java后端书籍——阿里大牛推荐",
+      "url": "/a/1190000016825130",
+      "desc": "人的大脑记忆力有限，在一天内快速看完一本书会在大脑里留下深刻印象，对于之后复习以及总结都会有特别好的作用。对于每一章的知识，先阅读标题，弄懂大概讲的是什么主题，再去快速看一遍，不懂也没有关系，但是...",
+      "author": {
+        "nick": "007大树将军",
+        "homepage": "/u/javajiagoushi007"
+      }
+    },
+    {
+      "id": "1190000016825072",
+      "title": "从Java到区块链：如何成为区块链开发人员",
+      "url": "/a/1190000016825072",
+      "desc": "最近这些天，区块链是每个开发人员的谈资。来自各个领域的许多软件开发商现在正试图进入区块链市场。我们与Mobilunity的区块链软件开发人员Eugene Kyselev 讨论了他是如何走出区块链开发方面的第一步的，希望对大...",
+      "author": {
+        "nick": "malakashi",
+        "homepage": "/u/malakashi"
+      }
+    },
+    {
+      "id": "1190000016824348",
+      "title": "Android异步消息机制",
+      "url": "/a/1190000016824348",
+      "desc": "目录介绍 1.Handler的常见的使用方式 2.如何在子线程中定义Handler 3.主线程如何自动调用Looper.prepare() 4.Looper.prepare()方法源码分析 5.Looper中用什么存储消息 6.Handler发送消息如何运作 7.Looper.loop()...",
+      "author": {
+        "nick": "潇湘剑雨",
+        "homepage": "/u/xiangjianyu"
+      }
+    },
+    {
+      "id": "1190000016824064",
+      "title": "使用--spring.profiles.active=prod指定的配置会覆盖命令行传入的配置",
+      "url": "/a/1190000016824064",
+      "desc": "命令行传入的server.port没有作用，服务仍然使用80端口启动，原因是spring-cloud-config会覆盖命令行传入的参数，这是有意为之。",
+      "author": {
+        "nick": "IMDZ",
+        "homepage": "/u/imdz"
+      }
+    },
+    {
+      "id": "1190000016824025",
+      "title": "Java 多线程编程基础——Thread 类",
+      "url": "/a/1190000016824025",
+      "desc": "Java 程序执行时，至少会有一个线程在运行，这个运行的线程被称为主线程（Main Thread）。",
+      "author": {
+        "nick": "includecmath",
+        "homepage": "/u/includecmath"
+      }
+    },
+    {
+      "id": "1190000016823834",
+      "title": "Java性能问题定位",
+      "url": "/a/1190000016823834",
+      "desc": "首先先介绍下jvisualvm这款jdk自带的性能工具。通常我们要定位哪块代码性能差，耗时久，最原始的办法就是在各个方法前后日志打印时间戳并计算耗时，这种方法很繁琐，通常要加很多日志多次部署才能定位到，我一开...",
+      "author": {
+        "nick": "进取的心",
+        "homepage": "/u/jinqudexin"
+      }
+    },
+    {
+      "id": "1190000016823137",
+      "title": "ABAP，Java, nodejs和go语言的web server编程",
+      "url": "/a/1190000016823137",
+      "desc": "ABAP and Java see my blog). nodejs 用nodejs现成的express module，几行代码就能写个server出来： {代码...} go 要获取更多Jerry的原创文章，请关注公众号\"汪子熙\":",
+      "author": {
+        "nick": "JerryWangSAP",
+        "homepage": "/u/jerrywangsap"
+      }
+    },
+    {
+      "id": "1190000016821828",
+      "title": "拦截过滤模式",
+      "url": "/a/1190000016821828",
+      "desc": "拦截过滤模式 来源：[链接] 问题需求 需要在一次请求处理的之前或之后进行拦截处理请求和响应 集中统一校验数据编码、记录请求信息、压缩响应信息等 松耦合处理额外的添加和删除 希望预处理和后处理相互独立，也...",
+      "author": {
+        "nick": "麦冬",
+        "homepage": "/u/poseidon_ocean"
+      }
+    },
+    {
+      "id": "1190000016821789",
+      "title": "Java IO框架总揽--FileInputStream源码解读",
+      "url": "/a/1190000016821789",
+      "desc": "FileInputStream(File file) // 构造函数1：创建“File对象”对应的“文件输入流”FileInputStream(FileDescriptor fd) // 构造函数2：创建“文件描述符”对应的“文件输入流”FileInputStream(String path) // 构造函数3...",
+      "author": {
+        "nick": "雨露",
+        "homepage": "/u/yulu_5b175873aeaf9"
+      }
+    }
+  ]
+}
