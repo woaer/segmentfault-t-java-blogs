@@ -1,0 +1,155 @@
+{
+  "watchNum": "30053",
+  "blogs": [
+    {
+      "id": "1190000016835505",
+      "title": "Retrofit源码分析",
+      "url": "/a/1190000016835505",
+      "desc": "2.3 addConverterFactory(Converter.Factory factory)源码分析",
+      "author": {
+        "nick": "潇湘剑雨",
+        "homepage": "/u/xiangjianyu"
+      }
+    },
+    {
+      "id": "1190000016835344",
+      "title": "我用ABAP做过的那些无聊的事情",
+      "url": "/a/1190000016835344",
+      "desc": "Jerry的成都同事李贝宁(Li Ben), 《SAP成都研究院李三郎：SCP Application Router简介》的作者，有一次11月份的时候和Jerry一起去德国出差，不解地问到：德国好歹也有八千多万人口，怎么街上冷冷清清的几乎看不到...",
+      "author": {
+        "nick": "JerryWangSAP",
+        "homepage": "/u/jerrywangsap"
+      }
+    },
+    {
+      "id": "1190000016835046",
+      "title": "2018阿里云双11拼团大促主会场全攻略",
+      "url": "/a/1190000016835046",
+      "desc": "2018阿里云双十一拼团大促活动已经于10月29日正式开启，从已开放的活动页面来看，活动分为两个阶段： 10月29日-11月08日的拼团阶段和11月09日-11月12日的百团大战阶段。",
+      "author": {
+        "nick": "阿里云云栖社区",
+        "homepage": "/u/yunqishequ_5aa899aad5395"
+      }
+    },
+    {
+      "id": "1190000016833428",
+      "title": "Hadoop新手篇：hadoop入门基础教程",
+      "url": "/a/1190000016833428",
+      "desc": "Hadoop新手篇：hadoop入门基础教程关于hadoop的分享此前一直都是零零散散的想到什么就写什么，整体写的比较乱吧。最近可能还算好的吧，毕竟花了两周的时间详细的写完的了hadoop从规划到环境安装配置等全部内容。...",
+      "author": {
+        "nick": "本宫没空9",
+        "homepage": "/u/bengongmeikong9"
+      }
+    },
+    {
+      "id": "1190000016833413",
+      "title": "实现一个ArrayList过程",
+      "url": "/a/1190000016833413",
+      "desc": "一个无参构造器、一个参数为int型的有参构造器、一个参数为Collection型的有参构造器。参数为Collection型的构造器用来实现将其他继承Collection类的容器类转换成ArrayList。此处仅实现前两种。",
+      "author": {
+        "nick": "MySelf",
+        "homepage": "/u/myself_5ab9f390c6129"
+      }
+    },
+    {
+      "id": "1190000016833323",
+      "title": "实用贴:hadoop系统下载安装教程",
+      "url": "/a/1190000016833323",
+      "desc": "实用贴:hadoop系统下载安装教程在前几篇的文章中分别就虚拟系统安装、LINUX系统安装以及hadoop运行服务器的设置等内容写了详细的操作教程，本篇分享的是hadoop的下载安装步骤。在此之前有必要做一个简单的说明：...",
+      "author": {
+        "nick": "本宫没空9",
+        "homepage": "/u/bengongmeikong9"
+      }
+    },
+    {
+      "id": "1190000016830872",
+      "title": "一份针对于新手的多线程实践",
+      "url": "/a/1190000016830872",
+      "desc": "前段时间在某个第三方平台看到我写作字数居然突破了 10W 字，难以想象高中 800 字作文我都得巧妙的利用换行来完成(懂的人肯定也干过😏)。",
+      "author": {
+        "nick": "crossoverJie",
+        "homepage": "/u/crossoverjie"
+      }
+    },
+    {
+      "id": "1190000016831084",
+      "title": "[LeetCode] 557. Reverse Words in a String III",
+      "url": "/a/1190000016831084",
+      "desc": "Given a string, you need to reverse the order of characters in each word within a sentence while still preserving whitespace and initial word order.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000016830796",
+      "title": "Elasticsearch Java High Level REST Client（搜索 API）",
+      "url": "/a/1190000016830796",
+      "desc": "SearchRequest用于与搜索文档、聚合、suggestions相关的任何操作，还提供了在结果文档上请求高亮的方法。",
+      "author": {
+        "nick": "博弈",
+        "homepage": "/u/leon_qi"
+      }
+    },
+    {
+      "id": "1190000016830088",
+      "title": "JavaSE小实践1：Java爬取斗图网站的所有表情包",
+      "url": "/a/1190000016830088",
+      "desc": "跟朋友聊天总会用到大量表情包，有些人甚至专门收集各种各样的表情包，看看谁能打败谁。今天我就用java爬取了一个斗图网站上的所有表情包，用来充实自己的表情包库。代码逻辑有可能并不完美，哈哈，也花了我几个...",
+      "author": {
+        "nick": "Augustu",
+        "homepage": "/u/augustu"
+      }
+    },
+    {
+      "id": "1190000016829923",
+      "title": "自己开发的在线视频下载工具，基于Java多线程",
+      "url": "/a/1190000016829923",
+      "desc": "比如这个在线视频： 我们可以正常播放，但是找不到下载按钮。 打开Chrome开发者工具，在Network标签页里能看到很多网络传输请求： 随便看一个请求的响应，发现类型为video，大小为500多k。因此，这个在线视频被拆...",
+      "author": {
+        "nick": "JerryWangSAP",
+        "homepage": "/u/jerrywangsap"
+      }
+    },
+    {
+      "id": "1190000016767175",
+      "title": "JavaWEB开发06——XML&tomcat",
+      "url": "/a/1190000016767175",
+      "desc": "1.Xml概念 eXtendsible markup language 可扩展的标记语言 2.XML 有什么用? 可以用来保存数据 可以用来做配置文件 数据传输载体 3. 文档声明 {代码...} 4.元素定义（标签） 其实就是里面的标签， <> 括起来...",
+      "author": {
+        "nick": "扎瓦",
+        "homepage": "/u/ideas"
+      }
+    },
+    {
+      "id": "1190000016829266",
+      "title": "如何搭建一个MySQL分布式集群",
+      "url": "/a/1190000016829266",
+      "desc": "使用6台虚拟机来搭建 MySQL分布式集群 ，相应的实验环境与对应的MySQL节点之间的对应关系如下图所示：",
+      "author": {
+        "nick": "茶轴的青春",
+        "homepage": "/u/chazhoudeqingchun"
+      }
+    },
+    {
+      "id": "1190000016829195",
+      "title": "【跃迁之路】【624天】程序员高效学习方法论探索系列（实验阶段381-2018.10.28）",
+      "url": "/a/1190000016829195",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000016828977",
+      "title": "Elasticsearch Java Low Level REST Client（Sniffer）",
+      "url": "/a/1190000016828977",
+      "desc": "允许从正在运行的Elasticsearch集群中自动发现节点并将它们设置到现有的RestClient实例的最小的库，它默认使用节点信息api检索属于集群的节点，并使用jackson解析获得的json响应。",
+      "author": {
+        "nick": "博弈",
+        "homepage": "/u/leon_qi"
+      }
+    }
+  ]
+}
