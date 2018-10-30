@@ -1,0 +1,155 @@
+{
+  "watchNum": "30063",
+  "blogs": [
+    {
+      "id": "1190000016847832",
+      "title": "JAVA volatile 关键字",
+      "url": "/a/1190000016847832",
+      "desc": "volatile 关键字能把 Java 变量标记成\"被存储到主存中\"。这表示每一次读取 volatile 变量都会访问计算机主存，而不是 CPU 缓存。每一次对 volatile 变量的写操作不仅会写到 CPU 缓存，还会刷新到主存中。实际上从...",
+      "author": {
+        "nick": "风歌",
+        "homepage": "/u/_windy"
+      }
+    },
+    {
+      "id": "1190000016847332",
+      "title": "小程序的全栈开发新时代",
+      "url": "/a/1190000016847332",
+      "desc": "小程序·云开发是微信团队和腾讯云团队共同研发的一套小程序基础能力，简言之就是：云能力将会成为小程序的基础能力。整套功能是基于腾讯云全新推出的云开发(Tencent Cloud Base)所研发出来的一套完备的小程序后台...",
+      "author": {
+        "nick": "腾讯云加社区",
+        "homepage": "/u/qcloudcommunity"
+      }
+    },
+    {
+      "id": "1190000016847160",
+      "title": "Java动态性(2) - 之反射机制(Reflection)",
+      "url": "/a/1190000016847160",
+      "desc": "1.Java的动态性 反射机制 动态编译 动态执行JavaScript代码 动态字节码操作 2.动态语言 程序运行时,可以改变程序得结构或变量类型.典型语言: Python,Ruby,JavaScript等. 如下JavaScript代码 {代码...} C,C++,Java...",
+      "author": {
+        "nick": "Matrix42",
+        "homepage": "/u/matrix42"
+      }
+    },
+    {
+      "id": "1190000016846576",
+      "title": "不喜欢SAP GUI？那试试用Eclipse进行ABAP开发吧",
+      "url": "/a/1190000016846576",
+      "desc": "Jerry和SAP成都研究院一些新同事聊天时，谈到ABAP和SAP GUI这个话题。很多新同事在加入SAP成都之前，是做Java和C++开发的，习惯了Eclipse/IntelliJ IDEA/Visual Studio这些现代IDE，对于SAP GUI这个比较”复古“的I...",
+      "author": {
+        "nick": "JerryWangSAP",
+        "homepage": "/u/jerrywangsap"
+      }
+    },
+    {
+      "id": "1190000016846540",
+      "title": "ABAP，Java和JavaScript的序列化，反序列化",
+      "url": "/a/1190000016846540",
+      "desc": "1. ABAP提供了一个工具类cl_proxy_xml_transform，通过它的两个方法abap_to_xml_xstring和xml_xstring_to_abap实现两种格式的互换。",
+      "author": {
+        "nick": "JerryWangSAP",
+        "homepage": "/u/jerrywangsap"
+      }
+    },
+    {
+      "id": "1190000016846470",
+      "title": "🐷 Apiggs - 非侵入的RestDoc文档生成工具",
+      "url": "/a/1190000016846470",
+      "desc": "Python提出了一个方案，叫docstring，来试图解决这个问题。即编写代码，同时也能写出文档，保持代码和文档的一致。docstring说白了就是一堆代码中的注释。Python的docstring可以通过help函数直接输出一份有格式的...",
+      "author": {
+        "nick": "王哲",
+        "homepage": "/u/wangzhe_57be2cce5ad71"
+      }
+    },
+    {
+      "id": "1190000016846326",
+      "title": "DKhadoop安装包下载与监控参数说明",
+      "url": "/a/1190000016846326",
+      "desc": "DKhadoop安装包下载与监控参数说明前阶段用了差不多两周的时间把DKhadoop的运行环境搭建以及安装的各个操作都介绍了一遍。关于DKhadoop安装包下载也只是顺带说了一下，但好像大快搜索的服务器在更新，新的下载页...",
+      "author": {
+        "nick": "本宫没空9",
+        "homepage": "/u/bengongmeikong9"
+      }
+    },
+    {
+      "id": "1190000016846165",
+      "title": "标题：DKhadoop大数据处理平台监控数据介绍",
+      "url": "/a/1190000016846165",
+      "desc": "标题：DKhadoop大数据处理平台监控数据介绍2018年国内大数据公司50强榜单排名已经公布了出来，大快以黑马之姿闯入50强，并摘得多项桂冠。Hanlp自然语言处理技术也荣膺了“2018中国数据星技术”奖。对这份榜单感兴趣...",
+      "author": {
+        "nick": "本宫没空9",
+        "homepage": "/u/bengongmeikong9"
+      }
+    },
+    {
+      "id": "1190000016842546",
+      "title": "Java动态性(1) - 动态编译(DynamicCompile)",
+      "url": "/a/1190000016842546",
+      "desc": "动态编译的两种做法: 通过Runtime调用javac,启动新的进程去操作(6.0之前,不是真正的动态编译)Runtime run = Runtime.getRuntime(); Process process = run.exec(\"javac -cp d:/myjava/Helloworld.java\")",
+      "author": {
+        "nick": "Matrix42",
+        "homepage": "/u/matrix42"
+      }
+    },
+    {
+      "id": "1190000016842389",
+      "title": "【跃迁之路】【625天】程序员高效学习方法论探索系列（实验阶段382-2018.10.29）",
+      "url": "/a/1190000016842389",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000016842192",
+      "title": "一次有趣的局部变量GC",
+      "url": "/a/1190000016842192",
+      "desc": "前言 最近在看《实战Java虚拟机》, 发现书上的一个关于局部变量表GC挺有意思，先上代码。 主角 没有GC {代码...} 分配了一块6MB的堆空间，并使用局部变量引用这块空间, 然后显式进行一次Full GC。 先配置一下JVM...",
+      "author": {
+        "nick": "杨凯文",
+        "homepage": "/u/yangkw"
+      }
+    },
+    {
+      "id": "1190000016841825",
+      "title": "明天面试？吓得我赶紧手写了一个Spring",
+      "url": "/a/1190000016841825",
+      "desc": "几乎每个面试的程序员都会碰到Spring相关的面试问题，或浅或深。你都是如何回答面试官的问题的？——我不知道，我一般会通过手写一个Spring来加深自己的印象。",
+      "author": {
+        "nick": "olle",
+        "homepage": "/u/olle"
+      }
+    },
+    {
+      "id": "1190000016841800",
+      "title": "nosql-redis-网络资料学习-07-redis入门",
+      "url": "/a/1190000016841800",
+      "desc": "Redis不仅仅支持简单的key-value类型的数据，同时还提供list，set，zset，hash等数据结构的存储",
+      "author": {
+        "nick": "dhxx",
+        "homepage": "/u/dhxx"
+      }
+    },
+    {
+      "id": "1190000016840506",
+      "title": "[LeetCode] 814. Binary Tree Pruning",
+      "url": "/a/1190000016840506",
+      "desc": "We are given the head node root of a binary tree, where additionally every node's value is either a 0 or a 1.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000016840342",
+      "title": "用代码判断当前系统是否支持某个版本的feature",
+      "url": "/a/1190000016840342",
+      "desc": "JDK9已经出来有一段时间了，因此很多流行的Java应用纷纷增添了对JDK9乃至JDK10的支持，比如Tomcat。",
+      "author": {
+        "nick": "JerryWangSAP",
+        "homepage": "/u/jerrywangsap"
+      }
+    }
+  ]
+}
