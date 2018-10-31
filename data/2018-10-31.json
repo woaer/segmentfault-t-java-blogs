@@ -1,0 +1,155 @@
+{
+  "watchNum": "30072",
+  "blogs": [
+    {
+      "id": "1190000016856222",
+      "title": "springAop -- 实例",
+      "url": "/a/1190000016856222",
+      "desc": "一个简单的AOP示例：1 定义接口 2 方法实现类 3 增强实现 4 业务场景 5 运行结果",
+      "author": {
+        "nick": "雨露",
+        "homepage": "/u/yulu_5b175873aeaf9"
+      }
+    },
+    {
+      "id": "1190000016856157",
+      "title": "Java基础知识储备一：Java的值传递和引用传递",
+      "url": "/a/1190000016856157",
+      "desc": "学过Java基础的人都知道：值传递和引用传递是初次接触Java时的一个难点，有时候记得了语法却记不得怎么实际运用，有时候会的了运用却解释不出原理，而且坊间讨论的话题又是充满争议：有的论坛帖子说Java只有值传...",
+      "author": {
+        "nick": "Augustu",
+        "homepage": "/u/augustu"
+      }
+    },
+    {
+      "id": "1190000016855439",
+      "title": "Java多线程学习（九）JUC 中的 Atomic 原子类总结",
+      "url": "/a/1190000016855439",
+      "desc": "Atomic 翻译成中文是原子的意思。在化学上，我们知道原子是构成一般物质的最小单位，在化学反应中是不可分割的。在我们这里 Atomic 是指一个操作是不可中断的。即使是在多个线程一起执行的时候，一个操作一旦开始...",
+      "author": {
+        "nick": "Snailclimb",
+        "homepage": "/u/snailclimb"
+      }
+    },
+    {
+      "id": "1190000016855336",
+      "title": "ElasticSearch学习日记（二） kibana安装",
+      "url": "/a/1190000016855336",
+      "desc": "目前我的机器elasticsearch用的是6.3 所以下载kibana也是6.3的版本 下载好解压，进入kibana下config目录 打开kibana.yml 配置好elasticsearch连接 如下图",
+      "author": {
+        "nick": "Andy",
+        "homepage": "/u/andy_5aa66c2709b59"
+      }
+    },
+    {
+      "id": "1190000016855275",
+      "title": "【跃迁之路】【626天】程序员高效学习方法论探索系列（实验阶段383-2018.10.30）",
+      "url": "/a/1190000016855275",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000016854733",
+      "title": "SpringAop解析",
+      "url": "/a/1190000016854733",
+      "desc": "带有横切逻辑的实例： JDK自带的动态代理 CGLib代理 CGLib与JDK代理的性能对比：CGLib所创建的动态代理是JDK代理的10被左右，但是CGLib在创建代理对象时所化的时间是JDK代理的8倍左右。 AOP概念：连接点（JoinPoi...",
+      "author": {
+        "nick": "雨露",
+        "homepage": "/u/yulu_5b175873aeaf9"
+      }
+    },
+    {
+      "id": "1190000016854623",
+      "title": "Spring Boot（十）Logback和Log4j2集成与日志发展史",
+      "url": "/a/1190000016854623",
+      "desc": "Java知名的日志有很多，比如：JUL、Log4j、JCL、SLF4J、Logback、Log4j2，那么这些日志框架之间有着怎样的关系？诞生的原因又是解决什么问题？下面一起来看。",
+      "author": {
+        "nick": "王磊",
+        "homepage": "/u/vipstone"
+      }
+    },
+    {
+      "id": "1190000016854084",
+      "title": "[LeetCode] 844. Backspace String Compare",
+      "url": "/a/1190000016854084",
+      "desc": "Given two strings S and T, return if they are equal when both are typed into empty text editors. # means a backspace character.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000016853779",
+      "title": "AsyncTask异步任务类",
+      "url": "/a/1190000016853779",
+      "desc": "目录介绍 01.先看下AsyncTask用法 02.AsyncTask源码深入分析 2.1 构造方法源码分析 2.2 看execute(Params... params)方法 2.3 mWorker和mFuture的创建过程 03.异步机制的实现 04.不同的SDK版本区别 05.AsyncTask...",
+      "author": {
+        "nick": "潇湘剑雨",
+        "homepage": "/u/xiangjianyu"
+      }
+    },
+    {
+      "id": "1190000016853295",
+      "title": "[LeetCode] 904. Fruit Into Baskets",
+      "url": "/a/1190000016853295",
+      "desc": "In a row of trees, the i-th tree produces fruit with type tree[i].",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000016852653",
+      "title": "Java动态代理实现原理(模拟实现)",
+      "url": "/a/1190000016852653",
+      "desc": "​ 动态代理是java语言中常用的设计模式，java在1.3版本以后也提供了动态代理技术，允许开发者在运行期间创建接口的代理对象。 很多框架底层都使用了java的动态代理技术来实现的，比如大名鼎鼎的springAOP；这篇文...",
+      "author": {
+        "nick": "杨辉",
+        "homepage": "/u/qzuser_5831baa1efc7f"
+      }
+    },
+    {
+      "id": "1190000016852142",
+      "title": "android完整资讯App、Kotlin新闻应用、优雅区间选择器等源码",
+      "url": "/a/1190000016852142",
+      "desc": "Android精选源码 Android完整资讯客户端源码 android展示注册进度效果源码 Android Wifi热点数据传输Socket 通信示例源码 Android Dota的辅助信息app源码 Android 播报栏 一款Kotlin新闻客户端, MVP + RxJava + R...",
+      "author": {
+        "nick": "ld11620967",
+        "homepage": "/u/ld11620967"
+      }
+    },
+    {
+      "id": "1190000016851137",
+      "title": "Java 动态性(4) - 字节码操作",
+      "url": "/a/1190000016851137",
+      "desc": "运行时操作字节码可以让我们实现如下功能动态生成新的类 动态改变某个类的结构(添加/删除/修改 新的属性/方法)",
+      "author": {
+        "nick": "Matrix42",
+        "homepage": "/u/matrix42"
+      }
+    },
+    {
+      "id": "1190000016850583",
+      "title": "Java动态性(3) - 脚本引擎执行javascript代码",
+      "url": "/a/1190000016850583",
+      "desc": "脚本引擎介绍使得Java应用程序可以通过一套固定的接口与各种脚本引擎交互,从而达到在Java平台上调用各种脚本语言的目的 Java脚本API是连通Java平台和脚本语言的桥梁 可以吧一些复杂异变的业务逻辑交给脚本语言处...",
+      "author": {
+        "nick": "Matrix42",
+        "homepage": "/u/matrix42"
+      }
+    },
+    {
+      "id": "1190000016849628",
+      "title": "Java static变量、作用域、构造函数初始化顺序",
+      "url": "/a/1190000016849628",
+      "desc": "{代码...} 输出： {代码...} 备注：「静态变量和静态作用域」，「常规变量和常规作用域」的先后顺序等同于代码出现的先后顺序。",
+      "author": {
+        "nick": "文戏那瞥",
+        "homepage": "/u/wenxinapie"
+      }
+    }
+  ]
+}
