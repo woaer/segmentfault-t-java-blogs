@@ -1,0 +1,155 @@
+{
+  "watchNum": "30084",
+  "blogs": [
+    {
+      "id": "1190000016885753",
+      "title": "Eclipse中关于package和build path错误消息的处理",
+      "url": "/a/1190000016885753",
+      "desc": "我从github下载了一个开源项目后，导入到自己Eclipse之后，遇到了这个烦人的错误消息：The declared package \"com.sap.smartService\" does not match the expected package \"main.java.com.sap.smartService\"",
+      "author": {
+        "nick": "JerryWangSAP",
+        "homepage": "/u/jerrywangsap"
+      }
+    },
+    {
+      "id": "1190000016884234",
+      "title": "基于Javascript， Springboot的管理系统报表查询页面代码设计",
+      "url": "/a/1190000016884234",
+      "desc": "以经验来看，几乎所有的查询页面中多是这样的情况， 在页面的上半部分多是查询条件， 下半部分则多是显示效果， 但是在开发中肯定会有很多的复杂的结构，细节实现。函数不知不觉得就变的很多，这也导致前端的Java...",
+      "author": {
+        "nick": "Andy",
+        "homepage": "/u/segmentfaultandywong"
+      }
+    },
+    {
+      "id": "1190000016883552",
+      "title": "类的加载机制",
+      "url": "/a/1190000016883552",
+      "desc": "目录介绍 01.Java对象的创建过程 1.0 看下创建类加载过程 1.1 对象的创建 1.2 对象的内存布局 02.Java内存区域 2.0 运行时数据区域 2.1 程序计数器 2.2 虚拟机栈 2.3 本地方法栈 2.4 Java堆 2.5 方法区 2.6 运行...",
+      "author": {
+        "nick": "潇湘剑雨",
+        "homepage": "/u/xiangjianyu"
+      }
+    },
+    {
+      "id": "1190000016881439",
+      "title": "golang学习（1）---快速hello world",
+      "url": "/a/1190000016881439",
+      "desc": "很多著名的计算机语言都是一两个人在业余时间捣鼓出来的，但是Go语言是由Google的团队打造的。可能一些基础的知识点我不会细讲，因为这个时代你真的得快速学习，才能适应发展。",
+      "author": {
+        "nick": "zrds2e",
+        "homepage": "/u/zrds2e"
+      }
+    },
+    {
+      "id": "1190000016881148",
+      "title": "java 键值对 按值排序",
+      "url": "/a/1190000016881148",
+      "desc": "在最近写程序题的时候，需要存储一个key为char,value为string的map,后来需要根据string的长度对map从小到大进行排序。",
+      "author": {
+        "nick": "鲸冬香",
+        "homepage": "/u/jingdongxiang"
+      }
+    },
+    {
+      "id": "1190000016880341",
+      "title": "浅析微信支付：开发前的准备",
+      "url": "/a/1190000016880341",
+      "desc": "本文是【浅析微信支付】系列文章的第三篇，主要会讲一下在开发前的一些注意事项。 浅析微信支付系列已经更新两篇了哟～，没有看过的朋友们可以看一下。 浅析微信支付：前篇大纲 浅析微信支付：微信支付简单介绍（...",
+      "author": {
+        "nick": "YClimb",
+        "homepage": "/u/yclimb"
+      }
+    },
+    {
+      "id": "1190000016879944",
+      "title": "解决Java执行过程中抛签名异常的问题",
+      "url": "/a/1190000016879944",
+      "desc": "java.lang.SecurityException: class \"javax.servlet.AsyncListener\"'s signer information does not match signer information of other classes in the same package",
+      "author": {
+        "nick": "EthanSun",
+        "homepage": "/u/ethansun"
+      }
+    },
+    {
+      "id": "1190000016879908",
+      "title": "【跃迁之路】【628天】程序员高效学习方法论探索系列（实验阶段385-2018.11.01）",
+      "url": "/a/1190000016879908",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000016877931",
+      "title": "Java多线程进阶（四三）—— J.U.C之executors框架：Fork/Join框架（2）实现",
+      "url": "/a/1190000016877931",
+      "desc": "回顾一下，Fork/Join框架的核心实现类是ForkJoinPool线程池，其它核心组件包括：ForkJoinTask（任务）、ForkJoinWorkerThread（工作线程）、WorkQueue（任务队列）。",
+      "author": {
+        "nick": "ress90",
+        "homepage": "/u/niteip"
+      }
+    },
+    {
+      "id": "1190000016876016",
+      "title": "java在filter中获取POST请求中request参数以及解决ServletInputStream重复读取的问题",
+      "url": "/a/1190000016876016",
+      "desc": "想要回去GET请求中的请求参数，可以直接使用request.getParamMap()方法。但是POST请求的requestBody参数就必须使用流的方式来获取。",
+      "author": {
+        "nick": "盘子",
+        "homepage": "/u/panzi_5abcaf30a5e6b"
+      }
+    },
+    {
+      "id": "1190000016875496",
+      "title": "单手撸了个springboot+mybatis+druid",
+      "url": "/a/1190000016875496",
+      "desc": "最近身边的程序员掀起了学习springboot的热潮，说什么学会了springboot在大街上就可以横着走、什么有了springboot妈妈再也不担心我的编程了、什么BAT都喜欢的框架...听得作者那个心痒痒的，于是找了个时间，下载...",
+      "author": {
+        "nick": "jaybril",
+        "homepage": "/u/jaybril"
+      }
+    },
+    {
+      "id": "1190000016872648",
+      "title": "浅析微信支付：微信支付简单介绍（小程序、公众号、App、H5）",
+      "url": "/a/1190000016872648",
+      "desc": "微信支付是集成在微信客户端的支付功能，用户可以通过手机完成快速的支付流程。微信支付以余额、绑定银行卡的快捷支付为基础，向用户提供安全、快捷、高效的支付服务。",
+      "author": {
+        "nick": "YClimb",
+        "homepage": "/u/yclimb"
+      }
+    },
+    {
+      "id": "1190000016871371",
+      "title": "JBCrypt：方便的密码管理工具类",
+      "url": "/a/1190000016871371",
+      "desc": "JBCrypt对管理密码非常方便，采用hash+salt的方式，使用密码生成salt和hash，并将salt加入到hash里面去，从而使得salt不需要单独保存，同时嫌“MD5”计算速度“太快”，从而加入了反复执行的功能，降低暴力破解的风险。",
+      "author": {
+        "nick": "沈子平",
+        "homepage": "/u/shenziping"
+      }
+    },
+    {
+      "id": "1190000016870806",
+      "title": "写完这段代码，就被开除了……",
+      "url": "/a/1190000016870806",
+      "desc": "最近在Java技术栈微信公众号粉丝微信群里看到一张图，说是刚写完这段下面这段代码就被开除了。 开除的原因是因为没写注释吗？ 显然不是，休眠的逻辑，大家都懂，不需要写注释，你注释写休眠 1 天也没意义啊。。。...",
+      "author": {
+        "nick": "Java技术栈",
+        "homepage": "/u/javastack"
+      }
+    },
+    {
+      "id": "1190000016869825",
+      "title": "Dubbo 源码分析 - 服务导出",
+      "url": "/a/1190000016869825",
+      "desc": "本篇文章，我们来研究一下 Dubbo 导出服务的过程。Dubbo 服务导出过程始于 Spring 容器发布刷新事件，Dubbo 在接收到事件后，会立即执行服务导出逻辑。整个逻辑大致可分为三个部分，第一是前置工作，主要用于检查...",
+      "author": {
+        "nick": "coolblog",
+        "homepage": "/u/coolblog"
+      }
+    }
+  ]
+}
