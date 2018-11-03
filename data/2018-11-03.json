@@ -1,0 +1,155 @@
+{
+  "watchNum": "30090",
+  "blogs": [
+    {
+      "id": "1190000016893579",
+      "title": "Spring Boot（十一）Redis集成从Docker安装到分布式Session共享",
+      "url": "/a/1190000016893579",
+      "desc": "Redis是一个开源的使用ANSI C语言编写、支持网络、可基于内存亦可持久化的日志型、Key-Value数据库，并提供多种语言的API，Redis也是技术领域使用最为广泛的存储中间件，它是「Remote Dictionary Service」首字母...",
+      "author": {
+        "nick": "王磊",
+        "homepage": "/u/vipstone"
+      }
+    },
+    {
+      "id": "1190000016892796",
+      "title": "集合框架知识系列04  LinkedList的源码分析和使用示例",
+      "url": "/a/1190000016892796",
+      "desc": "LinkedList内部是通过双向链表存储的，提供顺序访问。继承了AbstractSequentialList，实现在迭代器上的随机访问。并且，还实现了List、Deque、Cloneable,Serializable。Deque是双端队列接口，继承自Queue，Queue...",
+      "author": {
+        "nick": "zhzhd",
+        "homepage": "/u/zhzhd"
+      }
+    },
+    {
+      "id": "1190000016892735",
+      "title": "集合框架知识系列03  ArrayList的源码分析和使用示例",
+      "url": "/a/1190000016892735",
+      "desc": "ArrayList的内部实现了动态数组，提供了动态的增加和减少元素，继承AbstractList类，并且实现了List、RandomAccess、Cloneable和java.io.Serializable接口。ArrayList是一个数组队列，提供添加、删除、修改和遍历...",
+      "author": {
+        "nick": "zhzhd",
+        "homepage": "/u/zhzhd"
+      }
+    },
+    {
+      "id": "1190000016892233",
+      "title": "解决Android Studio 的SDK下载速度极慢的问题？ 应该是",
+      "url": "/a/1190000016892233",
+      "desc": "我有闲来无事了，，，，，，装Android Studio 玩玩！然而这个东西半天也不动一下啊。。。。。。",
+      "author": {
+        "nick": "耗子",
+        "homepage": "/u/hack_haozi"
+      }
+    },
+    {
+      "id": "1190000016891621",
+      "title": "《java编程思想》—— 泛型",
+      "url": "/a/1190000016891621",
+      "desc": "一般的类和方法，只能使用具体的类型：要么是基本类型，要么是自定义类的对应类型；如果要编写可以应用于多种类型的代码，这种刻板的限制对代码的束缚就会很大。----摘自原书Ordinary classes and methods work w...",
+      "author": {
+        "nick": "夜里的太阳",
+        "homepage": "/u/yejm"
+      }
+    },
+    {
+      "id": "1190000016891516",
+      "title": "什么样的经历，才能领悟成为架构师？",
+      "url": "/a/1190000016891516",
+      "desc": "最近我发现，无论是博客也好，还是我写的技术专栏也好，经常会收到很多朋友的留言，留言的内容除了讨论技术问题以外，问的最多的，莫过于职业生涯规划相关的了。",
+      "author": {
+        "nick": "bali",
+        "homepage": "/u/bali_5a0a92fba16aa"
+      }
+    },
+    {
+      "id": "1190000016890654",
+      "title": "【跃迁之路】【629天】程序员高效学习方法论探索系列（实验阶段386-2018.11.02）",
+      "url": "/a/1190000016890654",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000016890616",
+      "title": "集合框架知识系列02  集合顶层接口",
+      "url": "/a/1190000016890616",
+      "desc": "首先，下面是Collection、Map和、Set接口的相关架构图 Collection接口 Map接口 图片来源：[链接] 一、Collection相关接口和类 和Collection相关的接口主要有Collection、List和Set接口，其他接口会在介绍三个接口...",
+      "author": {
+        "nick": "zhzhd",
+        "homepage": "/u/zhzhd"
+      }
+    },
+    {
+      "id": "1190000016890371",
+      "title": "server socket",
+      "url": "/a/1190000016890371",
+      "desc": "这次在java实验的时候，要求使用server socket编写服务器和客户端的网络通信。最开始认为应该是挺简单的，但是后来发现低估了它。出现了不少的问题，所以也在这里与大家分享。",
+      "author": {
+        "nick": "喵先生的进阶之路",
+        "homepage": "/u/poshichao"
+      }
+    },
+    {
+      "id": "1190000016890164",
+      "title": "集合框架知识系列01  总体框架",
+      "url": "/a/1190000016890164",
+      "desc": "Java集合工具包是在java.util.*包中，实现了数据结构：数组、栈、链表、队列、映射和集合。Java集合主要可以划分为4个部分：List列表、Set集合、Map映射、工具类(Iterator迭代器、Enumeration枚举类、Arrays和Col...",
+      "author": {
+        "nick": "zhzhd",
+        "homepage": "/u/zhzhd"
+      }
+    },
+    {
+      "id": "1190000016888916",
+      "title": "PHP DES-ECB加密对接Java解密",
+      "url": "/a/1190000016888916",
+      "desc": "最近公司有个业务，需要对接第三方接口，但是参数是需要加密的，对方也只提供了一个java的demo，在网上到处搜索，没有找到直接就能用的方法，后来还是跟公司的Android工程师对接出来的，在这里记录一下大致的流程...",
+      "author": {
+        "nick": "Libra",
+        "homepage": "/u/libra_5bbda9dae4197"
+      }
+    },
+    {
+      "id": "1190000016887169",
+      "title": "BATJ都爱问的多线程面试题",
+      "url": "/a/1190000016887169",
+      "desc": "下面最近发的一些并发编程的文章汇总，通过阅读这些文章大家再看大厂面试中的并发编程问题就没有那么头疼了。今天给大家总结一下，面试中出镜率很高的几个多线程面试题，希望对大家学习和面试都能有所帮助。备注...",
+      "author": {
+        "nick": "Snailclimb",
+        "homepage": "/u/snailclimb"
+      }
+    },
+    {
+      "id": "1190000016886420",
+      "title": "从JDK11新增HttpClient谈谈非阻塞模型",
+      "url": "/a/1190000016886420",
+      "desc": "其基类URLConnection当初是设计为支持多协议，但其中大多已经成为非主流（ftp, gopher…）",
+      "author": {
+        "nick": "执着的慢行者",
+        "homepage": "/u/yesdata"
+      }
+    },
+    {
+      "id": "1190000016885753",
+      "title": "Eclipse中关于package和build path错误消息的处理",
+      "url": "/a/1190000016885753",
+      "desc": "我从github下载了一个开源项目后，导入到自己Eclipse之后，遇到了这个烦人的错误消息：The declared package \"com.sap.smartService\" does not match the expected package \"main.java.com.sap.smartService\"",
+      "author": {
+        "nick": "JerryWangSAP",
+        "homepage": "/u/jerrywangsap"
+      }
+    },
+    {
+      "id": "1190000016884234",
+      "title": "基于Javascript， Springboot的管理系统报表查询页面代码设计",
+      "url": "/a/1190000016884234",
+      "desc": "以经验来看，几乎所有的查询页面中多是这样的情况， 在页面的上半部分多是查询条件， 下半部分则多是显示效果， 但是在开发中肯定会有很多的复杂的结构，细节实现。函数不知不觉得就变的很多，这也导致前端的Java...",
+      "author": {
+        "nick": "Andy",
+        "homepage": "/u/segmentfaultandywong"
+      }
+    }
+  ]
+}
