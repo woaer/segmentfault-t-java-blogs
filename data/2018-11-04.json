@@ -1,0 +1,155 @@
+{
+  "watchNum": "30091",
+  "blogs": [
+    {
+      "id": "1190000016898404",
+      "title": "ABAP和Java SpringBoot的单元测试",
+      "url": "/a/1190000016898404",
+      "desc": "在Spring及Spring Boot “Convention over configuration”的设定思路里，放在路径src/test/java下面以Tests.java结尾的Java类会被当成单元测试类处理。",
+      "author": {
+        "nick": "JerryWangSAP",
+        "homepage": "/u/jerrywangsap"
+      }
+    },
+    {
+      "id": "1190000016897551",
+      "title": "XXL-JOB v2.0.0 发布，分布式任务调度平台",
+      "url": "/a/1190000016897551",
+      "desc": "3、容器化：提供官方docker镜像，并实时更新推送dockerhub（docker pull xuxueli/xxl-job-admin），进一步实现产品开箱即用；",
+      "author": {
+        "nick": "xuxueli",
+        "homepage": "/u/xuxueli"
+      }
+    },
+    {
+      "id": "1190000016897197",
+      "title": "Java IO框架总揽--ObjectInputStream& ObjectOutputStream源码解读",
+      "url": "/a/1190000016897197",
+      "desc": "{代码...}",
+      "author": {
+        "nick": "雨露",
+        "homepage": "/u/yulu_5b175873aeaf9"
+      }
+    },
+    {
+      "id": "1190000016897070",
+      "title": "《Java8实战》-第十章笔记（用Optional取代null）",
+      "url": "/a/1190000016897070",
+      "desc": "如果你作为Java程序员曾经遭遇过NullPointerException，请举起手。如果这是你最常遭遇的异常，请继续举手。非常可惜，这个时刻，我们无法看到对方，但是我相信很多人的手这个时刻是举着的。我们还猜想你可能也有...",
+      "author": {
+        "nick": "雷侠",
+        "homepage": "/u/nglsl666"
+      }
+    },
+    {
+      "id": "1190000016896739",
+      "title": "【跃迁之路】【630天】程序员高效学习方法论探索系列（实验阶段387-2018.11.03）",
+      "url": "/a/1190000016896739",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000016896264",
+      "title": "Java IO框架总揽--序列化",
+      "url": "/a/1190000016896264",
+      "desc": "序列化：Java提供的一种对象序列化的机制，在该机制中，一个对象可以被表示为一个字节序列，该字节序列包括对象的数据、有关对象的类型的信息、和存储在对象中的数据类型。",
+      "author": {
+        "nick": "雨露",
+        "homepage": "/u/yulu_5b175873aeaf9"
+      }
+    },
+    {
+      "id": "1190000016895730",
+      "title": "Java IO框架总揽--FileOutputStream源码解读",
+      "url": "/a/1190000016895730",
+      "desc": "FileOutputStream 是继承与OutputStream的子类 1 常用属性 private final FileDescriptor fd;// 文件描述符 private final boolean append; // 是否在文件尾部开始追加写入 private FileChannel channel; // 用于...",
+      "author": {
+        "nick": "雨露",
+        "homepage": "/u/yulu_5b175873aeaf9"
+      }
+    },
+    {
+      "id": "1190000016895218",
+      "title": "Java IO框架总揽--File源码解读",
+      "url": "/a/1190000016895218",
+      "desc": "1 File直接继承与Object，实现了Serializable接口和Comparable接口，实现Serializable接口，意味着File对象支持序列化操作，而实现Comparable接口，意味着file之间可以比较大小。",
+      "author": {
+        "nick": "雨露",
+        "homepage": "/u/yulu_5b175873aeaf9"
+      }
+    },
+    {
+      "id": "1190000016893579",
+      "title": "Spring Boot（十一）Redis集成从Docker安装到分布式Session共享",
+      "url": "/a/1190000016893579",
+      "desc": "Redis是一个开源的使用ANSI C语言编写、支持网络、可基于内存亦可持久化的日志型、Key-Value数据库，并提供多种语言的API，Redis也是技术领域使用最为广泛的存储中间件，它是「Remote Dictionary Service」首字母...",
+      "author": {
+        "nick": "王磊",
+        "homepage": "/u/vipstone"
+      }
+    },
+    {
+      "id": "1190000016892796",
+      "title": "集合框架知识系列04  LinkedList的源码分析和使用示例",
+      "url": "/a/1190000016892796",
+      "desc": "LinkedList内部是通过双向链表存储的，提供顺序访问。继承了AbstractSequentialList，实现在迭代器上的随机访问。并且，还实现了List、Deque、Cloneable,Serializable。Deque是双端队列接口，继承自Queue，Queue...",
+      "author": {
+        "nick": "zhzhd",
+        "homepage": "/u/zhzhd"
+      }
+    },
+    {
+      "id": "1190000016892735",
+      "title": "集合框架知识系列03  ArrayList的源码分析和使用示例",
+      "url": "/a/1190000016892735",
+      "desc": "ArrayList的内部实现了动态数组，提供了动态的增加和减少元素，继承AbstractList类，并且实现了List、RandomAccess、Cloneable和java.io.Serializable接口。ArrayList是一个数组队列，提供添加、删除、修改和遍历...",
+      "author": {
+        "nick": "zhzhd",
+        "homepage": "/u/zhzhd"
+      }
+    },
+    {
+      "id": "1190000016892233",
+      "title": "解决Android Studio 的SDK下载速度极慢的问题？ 应该是",
+      "url": "/a/1190000016892233",
+      "desc": "我有闲来无事了，，，，，，装Android Studio 玩玩！然而这个东西半天也不动一下啊。。。。。。",
+      "author": {
+        "nick": "耗子",
+        "homepage": "/u/hack_haozi"
+      }
+    },
+    {
+      "id": "1190000016891621",
+      "title": "《java编程思想》—— 泛型",
+      "url": "/a/1190000016891621",
+      "desc": "一般的类和方法，只能使用具体的类型：要么是基本类型，要么是自定义类的对应类型；如果要编写可以应用于多种类型的代码，这种刻板的限制对代码的束缚就会很大。----摘自原书Ordinary classes and methods work w...",
+      "author": {
+        "nick": "夜里的太阳",
+        "homepage": "/u/yejm"
+      }
+    },
+    {
+      "id": "1190000016891516",
+      "title": "什么样的经历，才能领悟成为架构师？",
+      "url": "/a/1190000016891516",
+      "desc": "最近我发现，无论是博客也好，还是我写的技术专栏也好，经常会收到很多朋友的留言，留言的内容除了讨论技术问题以外，问的最多的，莫过于职业生涯规划相关的了。",
+      "author": {
+        "nick": "bali",
+        "homepage": "/u/bali_5a0a92fba16aa"
+      }
+    },
+    {
+      "id": "1190000016890654",
+      "title": "【跃迁之路】【629天】程序员高效学习方法论探索系列（实验阶段386-2018.11.02）",
+      "url": "/a/1190000016890654",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    }
+  ]
+}
