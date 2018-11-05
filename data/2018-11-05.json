@@ -1,0 +1,155 @@
+{
+  "watchNum": "30094",
+  "blogs": [
+    {
+      "id": "1190000016907178",
+      "title": "[LeetCode] 333. Largest BST Subtree",
+      "url": "/a/1190000016907178",
+      "desc": "Given a binary tree, find the largest subtree which is a Binary Search Tree (BST), where largest means subtree with largest number of nodes in it.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000016907162",
+      "title": "2018年如何快速学Java",
+      "url": "/a/1190000016907162",
+      "desc": "在今天(2018年11月4日)有个同学给我发微信找我 同学：能不能给他一个网页他改一下，他想参考一下，然后用于做毕业设计。",
+      "author": {
+        "nick": "Java3y",
+        "homepage": "/u/java_3y"
+      }
+    },
+    {
+      "id": "1190000016906180",
+      "title": "简谈文件下载的三种方式",
+      "url": "/a/1190000016906180",
+      "desc": "一、前言 本文章将以excel报表下载为例，给大家介绍三种文件下载的方式。 原文地址：简谈文件下载的三种方式 | Rychou 二、正文 1. 通过服务器文件地址下载 这是最常见的文件下载方式，大多数网站的音频、视频、...",
+      "author": {
+        "nick": "xxxsimons",
+        "homepage": "/u/xxxsimons"
+      }
+    },
+    {
+      "id": "1190000016905368",
+      "title": "大快搜索数据爬虫技术实例安装教学",
+      "url": "/a/1190000016905368",
+      "desc": "Hadoop作为搭建大数据处理平台的重要“基石”，关于它的分析和讲解的文章已经有很多了。Hadoop本身是一分布式的系统，因此在安装的时候，需要多每一个节点进行组建的安装。并且由于是开源软件，其安装过程相对比较...",
+      "author": {
+        "nick": "本宫没空9",
+        "homepage": "/u/bengongmeikong9"
+      }
+    },
+    {
+      "id": "1190000016905167",
+      "title": "大快搜索数据爬虫技术实例安装教学篇",
+      "url": "/a/1190000016905167",
+      "desc": "爬虫安装前准备工作：大快大数据平台安装完成、zookeeper、redis、elasticsearch、mysql等组件安装启动成功。",
+      "author": {
+        "nick": "本宫没空9",
+        "homepage": "/u/bengongmeikong9"
+      }
+    },
+    {
+      "id": "1190000016904596",
+      "title": "Springboot+poi导出Excel",
+      "url": "/a/1190000016904596",
+      "desc": "再依次写入每个单元格.本工具类兼容中文,对中文乱码等问题单独处理.导出所对应的字段key可保存在数据库中.",
+      "author": {
+        "nick": "沧海一粟",
+        "homepage": "/u/canghaiyisu_5a91066673c15"
+      }
+    },
+    {
+      "id": "1190000016903969",
+      "title": "送书拉！给开发者们的几本书籍 |福利",
+      "url": "/a/1190000016903969",
+      "desc": "这确实不假，当然也应证了一个问题：为什么中高级Android程序员不多呢？ 确实我不怎么好回答。但是我希望通过我自己的学习方法来帮助大家去提升技术：",
+      "author": {
+        "nick": "爱编码的coder",
+        "homepage": "/u/chengxuyuanxiaohui"
+      }
+    },
+    {
+      "id": "1190000016903952",
+      "title": "python 历险记——一个 Java 程序员的告白（一）",
+      "url": "/a/1190000016903952",
+      "desc": "想学爬虫还是 python 专业啊，之前一直在用 java， 现在决定尝尝鲜，使用 python及爬虫框架来完成网络数据采集。编程语言之间都是相通的，比如都需要模块化，引入其他文件来实现功能，使用列表等容器来处理数据，...",
+      "author": {
+        "nick": "ReyCG",
+        "homepage": "/u/reycg"
+      }
+    },
+    {
+      "id": "1190000016901447",
+      "title": "《从0到1学习Flink》—— Apache Flink 介绍",
+      "url": "/a/1190000016901447",
+      "desc": "Flink 是一种流式计算框架，为什么我会接触到 Flink 呢？因为我目前在负责的是监控平台的告警部分，负责采集到的监控数据会直接往 kafka 里塞，然后告警这边需要从 kafka topic 里面实时读取到监控数据，并将读取...",
+      "author": {
+        "nick": "zhisheng",
+        "homepage": "/u/zhisheng"
+      }
+    },
+    {
+      "id": "1190000016902635",
+      "title": "Android 初级面试者拾遗（前台界面篇）之 ListView 和 RecyclerView",
+      "url": "/a/1190000016902635",
+      "desc": "由于手机屏幕空间有限，无法显示全部内容。当有大量数据需要展示的时候，借助列表控件。通过手指上下滑动，使得屏幕内外的数据不断进出。",
+      "author": {
+        "nick": "includecmath",
+        "homepage": "/u/includecmath"
+      }
+    },
+    {
+      "id": "1190000016902624",
+      "title": "Android 初级面试者拾遗（前台界面篇）之 View 和 ViewGroup",
+      "url": "/a/1190000016902624",
+      "desc": "View 是 Android 中最基本的 UI 组件，在屏幕上绘制一块矩形区域。 ViewGroup 是一种特殊的 View，它可以包含多个子 View 和子 ViewGroup，用于放置、组织、管理视图结构。",
+      "author": {
+        "nick": "includecmath",
+        "homepage": "/u/includecmath"
+      }
+    },
+    {
+      "id": "1190000016902580",
+      "title": "Android 初级面试者拾遗（前台界面篇）之 Activity 和 Fragment",
+      "url": "/a/1190000016902580",
+      "desc": "Android 系统组件不同于普通类对象，能够直接创建实例，需要各自的上下文环境——Context。 Context 上下文环境确保 Android 系统组件（Activity、Service、BroadcastReceiver）能够正常工作。",
+      "author": {
+        "nick": "includecmath",
+        "homepage": "/u/includecmath"
+      }
+    },
+    {
+      "id": "1190000016902196",
+      "title": "Spring源码一（容器的基本实现）",
+      "url": "/a/1190000016902196",
+      "desc": "本文基于《Spring源码深度解析》学习， 《Spring源码深度解析》讲解的Spring版本低于Spring3.1，当前阅读的版本为Spring5.x，所以在文章内容上会有所不同。这篇文章基于有一定Spring 基础的人进行讲解，所以有些...",
+      "author": {
+        "nick": "Andy",
+        "homepage": "/u/segmentfaultandywong"
+      }
+    },
+    {
+      "id": "1190000016902145",
+      "title": "SpringBoot禁用命令行参数",
+      "url": "/a/1190000016902145",
+      "desc": "使用过springboot的人应该都知道，我们可以通过命令行启动参数来修改springboot应用的一些属性值，比如启动端口等。但是，如果我们想要禁用掉这个功能呢，springboot其实也提供了对应的方法。之前在网上搜了很多...",
+      "author": {
+        "nick": "loong",
+        "homepage": "/u/linyunlong"
+      }
+    },
+    {
+      "id": "1190000016901608",
+      "title": "寻找Java中String.split性能更好的方法",
+      "url": "/a/1190000016901608",
+      "desc": "String.split 是Java里很常用的字符串操作，在普通业务操作里使用的话并没有什么问题，但如果需要追求高性能的分割的话，需要花一点心思找出可以提高性能的方法。",
+      "author": {
+        "nick": "emengjzs",
+        "homepage": "/u/emengjzs"
+      }
+    }
+  ]
+}
