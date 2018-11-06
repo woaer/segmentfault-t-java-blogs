@@ -1,0 +1,155 @@
+{
+  "watchNum": "30097",
+  "blogs": [
+    {
+      "id": "1190000016921453",
+      "title": "JavaWEB开发08——HttpServletRequest",
+      "url": "/a/1190000016921453",
+      "desc": "1．HttpServletRequest概述我们在创建Servlet时会覆盖service()方法，或doGet()/doPost(),这些方法都有两个参数，一个为代表请求的request和代表响应response。service方法中的request的类型是ServletRequest，而...",
+      "author": {
+        "nick": "扎瓦",
+        "homepage": "/u/ideas"
+      }
+    },
+    {
+      "id": "1190000016921229",
+      "title": "Nacos 发布0.3.0版本，迄今为止最好看的版本",
+      "url": "/a/1190000016921229",
+      "desc": "近日，Nacos 0.3.0 正式发布，该版本旨在增强对服务列表，健康状态管理，服务治理，分布式配置管理等方面的管控能力，以便进一步帮助用户降低管理微服务应用架构的成本，在第一版的 UI 功能规划中，将提供包括下...",
+      "author": {
+        "nick": "阿里云云栖社区",
+        "homepage": "/u/yunqishequ_5aa899aad5395"
+      }
+    },
+    {
+      "id": "1190000016921201",
+      "title": "事务Transaction",
+      "url": "/a/1190000016921201",
+      "desc": "在日常的工作和开发中，接触最多的便是与数据库打交道，无论你使用什么框架进行开发都绕不开事务的管理. 在Java开发中你可能会接触很多ORM框架，无论是Hibernate、MyBatis、还是Spring Jdbc 都会遇到事务的相关操...",
+      "author": {
+        "nick": "zyndev",
+        "homepage": "/u/zyndev"
+      }
+    },
+    {
+      "id": "1190000016919625",
+      "title": "java.lang.IllegalStateException: @Scheduled method 'aa' found..",
+      "url": "/a/1190000016919625",
+      "desc": "{代码...}",
+      "author": {
+        "nick": "小小途中",
+        "homepage": "/u/tuzhong"
+      }
+    },
+    {
+      "id": "1190000016919392",
+      "title": "阿里巴巴开源 Spring Cloud Alibaba，加码微服务生态建设",
+      "url": "/a/1190000016919392",
+      "desc": "摘要： 本周，Spring Cloud联合创始人Spencer Gibb在Spring官网的博客页面宣布：阿里巴巴开源 Spring Cloud Alibaba，并发布了首个预览版本。随后，Spring Cloud 官方Twitter也发布了此消息。",
+      "author": {
+        "nick": "阿里云云栖社区",
+        "homepage": "/u/yunqishequ_5aa899aad5395"
+      }
+    },
+    {
+      "id": "1190000016917694",
+      "title": "零基础学习hadoop开发先明白这层关系",
+      "url": "/a/1190000016917694",
+      "desc": "零基础学习hadoop开发先明白这层关系大数据hadoop无疑是当前互联网领域受关注热度最高的词之一，大数据技术的应用正在潜移默化中对我们的生活和工作产生巨大的改变。这种改变给我们的感觉是“水到渠成”，更为让人...",
+      "author": {
+        "nick": "本宫没空9",
+        "homepage": "/u/bengongmeikong9"
+      }
+    },
+    {
+      "id": "1190000016917461",
+      "title": "873. 最长的斐波那契子序列的长度",
+      "url": "/a/1190000016917461",
+      "desc": "n >= 3对于所有 i + 2 <= n，都有 X_i + X_{i+1} = X_{i+2}给定一个严格递增的正整数数组形成序列，找到 A 中最长的斐波那契式的子序列的长度。如果一个不存在，返回 0 。",
+      "author": {
+        "nick": "george",
+        "homepage": "/u/george_5bdd0fcb0ef5b"
+      }
+    },
+    {
+      "id": "1190000016917250",
+      "title": "做了5年的Android，我转Java后台了！",
+      "url": "/a/1190000016917250",
+      "desc": "很多人做Java开发4，5年后，都会感觉自己遇到瓶颈。什么都会又什么都不会，如何改变困境，为什么很多人写了7,8年还是一个码农，工作中太多被动是因为不懂底层原理。公司的工作节奏又比较快，难有机会学习架构原理...",
+      "author": {
+        "nick": "爱编码的coder",
+        "homepage": "/u/chengxuyuanxiaohui"
+      }
+    },
+    {
+      "id": "1190000016917114",
+      "title": "Java 程序员必备的 15 个框架，前 3 个地位无可动摇！",
+      "url": "/a/1190000016917114",
+      "desc": "Java 程序员方向太多，且不说移动开发、大数据、区块链、人工智能这些，大部分 Java 程序员都是 Java Web/后端开发。那作为一名 Java Web 开发程序员必须需要熟悉哪些框架呢？",
+      "author": {
+        "nick": "Java技术栈",
+        "homepage": "/u/javastack"
+      }
+    },
+    {
+      "id": "1190000016916841",
+      "title": "如何做一个高效的开发者",
+      "url": "/a/1190000016916841",
+      "desc": "如果你是一个厨师，假设你是这样一个热爱烹饪的厨师，那么你一定会对自己的每一道菜都很用心的烹饪，准备材料、切菜、烹饪、火候、时间，甚至每一道菜的顺序。",
+      "author": {
+        "nick": "MySelf",
+        "homepage": "/u/myself_5ab9f390c6129"
+      }
+    },
+    {
+      "id": "1190000016916802",
+      "title": " 如果有人问你ZooKeeper是什么，就把这篇文章发给他。",
+      "url": "/a/1190000016916802",
+      "desc": "提到ZooKeeper，相信大家都不会陌生。Dubbo，Kafka,Hadoop等等项目里都能看到它的影子。但是你真的了解 ZooKeeper 吗？如果面试官让你给他讲讲 ZooKeeper 是个什么东西，你能回答到什么地步呢？",
+      "author": {
+        "nick": "codewill",
+        "homepage": "/u/codewill"
+      }
+    },
+    {
+      "id": "1190000016915701",
+      "title": "1.6W star 的 JCSprout 阅读体验大提升",
+      "url": "/a/1190000016915701",
+      "desc": "年初时创建这个 repo 原本只是想根据自己面试与被面试的经历记录一些核心知识点，结果却是越写越多。",
+      "author": {
+        "nick": "crossoverJie",
+        "homepage": "/u/crossoverjie"
+      }
+    },
+    {
+      "id": "1190000016901469",
+      "title": "《从0到1学习Flink》—— Mac 上搭建 Flink 1.6.0 环境并构建运行简单程序入门",
+      "url": "/a/1190000016901469",
+      "desc": "<!-- more --> 准备工作 1、安装查看 Java 的版本号，推荐使用 Java 8。 安装 Flink 2、在 Mac OS X 上安装 Flink 是非常方便的。推荐通过 homebrew 来安装。 {代码...} 3、检查安装： {代码...} 结果： {...",
+      "author": {
+        "nick": "zhisheng",
+        "homepage": "/u/zhisheng"
+      }
+    },
+    {
+      "id": "1190000016914452",
+      "title": "springcloud-eureka",
+      "url": "/a/1190000016914452",
+      "desc": "我们在学习springcloud之前，需要先了解springboot框架，springboot框架讲究约定优于配置，如果之前我们使用过spring项目的话，用起来特别的简单，可以说是零配置。首先，介绍一下如果通过idea来创建springboot项...",
+      "author": {
+        "nick": "wotrd",
+        "homepage": "/u/wotrd"
+      }
+    },
+    {
+      "id": "1190000016913887",
+      "title": "浅析微信支付：统一下单接口",
+      "url": "/a/1190000016913887",
+      "desc": "本文是【浅析微信支付】系列文章的第五篇，主要讲解如何调用统一下单接口生成预支付单及调起支付页面。 浅析微信支付系列已经更新四篇了哟～，没有看过的朋友们可以看一下哦。 浅析微信支付：微信公众号网页授权 ...",
+      "author": {
+        "nick": "YClimb",
+        "homepage": "/u/yclimb"
+      }
+    }
+  ]
+}
