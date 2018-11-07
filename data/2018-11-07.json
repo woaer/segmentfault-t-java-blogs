@@ -1,0 +1,155 @@
+{
+  "watchNum": "30100",
+  "blogs": [
+    {
+      "id": "1190000016933355",
+      "title": "python 历险记之面向对象——一个 Java 程序员的告白（二）",
+      "url": "/a/1190000016933355",
+      "desc": "在上篇文章 中，我使用了与 java 类比以及 代码实例展示 的方式涉及了 python 3 中 string, 数据结构(Dict, List, 元组)等重要的主题，今天我会继续探险，去了解 python 3 中的面向对象， let's go 让我们出发吧!",
+      "author": {
+        "nick": "ReyCG",
+        "homepage": "/u/reycg"
+      }
+    },
+    {
+      "id": "1190000016932561",
+      "title": "hadoop入门学习教程--DKHadoop完整安装步骤",
+      "url": "/a/1190000016932561",
+      "desc": "hadoop入门学习教程--DKHadoop完整安装步骤使用hadoop版本是DKH标准三节点发行版，DKHadoop版本的易用性比较好，环境部署要简单的多，参考此篇安装前请先下载DKHadoop版本，网盘链接：[链接] 提取码：vg2w 第一部...",
+      "author": {
+        "nick": "本宫没空9",
+        "homepage": "/u/bengongmeikong9"
+      }
+    },
+    {
+      "id": "1190000016932420",
+      "title": "大数据分布式存储的部署模式：分离式or超融合",
+      "url": "/a/1190000016932420",
+      "desc": "大数据分布式存储的部署模式：分离式or超融合数据中心内部系统的核心要求是“稳定可靠”，一是指系统在运行过程中有能力提供连续可靠的服务，长时间无故障运行；二是指当故障发生之后，有能力快速定位，及时排查，...",
+      "author": {
+        "nick": "本宫没空9",
+        "homepage": "/u/bengongmeikong9"
+      }
+    },
+    {
+      "id": "1190000016931825",
+      "title": "CopyOnWriteArrayList你都不知道，怎么拿offer？",
+      "url": "/a/1190000016931825",
+      "desc": "可能大家对这个技术比较陌生吧，但这项技术是挺多应用场景的。除了上文所说的Linux、文件系统外，其实在Java也有其身影。",
+      "author": {
+        "nick": "Java3y",
+        "homepage": "/u/java_3y"
+      }
+    },
+    {
+      "id": "1190000016931127",
+      "title": "spring-session实现分布式集群session的共享",
+      "url": "/a/1190000016931127",
+      "desc": "title: spring-session实现分布式集群session的共享tags: springboot,spring,session共享",
+      "author": {
+        "nick": "Garfield",
+        "homepage": "/u/soft_xiang"
+      }
+    },
+    {
+      "id": "1190000016901489",
+      "title": "《从0到1学习Flink》—— Flink 配置文件详解",
+      "url": "/a/1190000016901489",
+      "desc": "前面文章我们已经知道 Flink 是什么东西了，安装好 Flink 后，我们再来看下安装路径下的配置文件吧。",
+      "author": {
+        "nick": "zhisheng",
+        "homepage": "/u/zhisheng"
+      }
+    },
+    {
+      "id": "1190000016929599",
+      "title": "拜托！面试请不要再问我Spring Cloud底层原理！",
+      "url": "/a/1190000016929599",
+      "desc": "欢迎关注微信公众号：石杉的架构笔记（id：shishan100） 每周一三五，精品技术文章准时送上！ 目录 一、业务场景介绍 二、Spring Cloud核心组件：Eureka 三、Spring Cloud核心组件：Feign 四、Spring Cloud核心组...",
+      "author": {
+        "nick": "石杉的架构笔记",
+        "homepage": "/u/shishanmanongxueyuan"
+      }
+    },
+    {
+      "id": "1190000016928282",
+      "title": "tomcat8.0.15+spring4.1.2的集群下共享WebSocketSession?",
+      "url": "/a/1190000016928282",
+      "desc": "问题：如果用户 1 访问由服务器 A socket服务 ，用户2 由服务器 C socket服务 ，此时如果用户 1, 2 想通过 socket 对话 可以什么方案？(socket 集群由 nginx 分配）由于用户 1,2没法决定自己访问哪一台服务器，所...",
+      "author": {
+        "nick": "不爱吃鱼丶",
+        "homepage": "/u/dabaiguo"
+      }
+    },
+    {
+      "id": "1190000016927717",
+      "title": "【跃迁之路】【633天】程序员高效学习方法论探索系列（实验阶段390-2018.11.06）",
+      "url": "/a/1190000016927717",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000016927512",
+      "title": "实现一个简单的Tomcat",
+      "url": "/a/1190000016927512",
+      "desc": "我们的web应用会运行在Tomcat中，那么显然请求必定是先到达Tomcat的，Tomcat对于请求实际上会进行如下的处理：",
+      "author": {
+        "nick": "scu酱油仔",
+        "homepage": "/u/scu2jiangyouzi"
+      }
+    },
+    {
+      "id": "1190000016927419",
+      "title": "hashCode and equals in map",
+      "url": "/a/1190000016927419",
+      "desc": "问题描述 一道来自Java官方twitter的问题。风格很像目前国内各大互联网公司的笔试题。 {代码...} 挺有意义的一道题，绝对是学习equals和hashcode的经典案例，为官方社区点个赞。 分析 Java 集合 这是一个有关Java...",
+      "author": {
+        "nick": "张喜硕",
+        "homepage": "/u/zhangxishuo"
+      }
+    },
+    {
+      "id": "1190000016926887",
+      "title": "App启动流程",
+      "url": "/a/1190000016926887",
+      "desc": "目录介绍 1.什么是Zygote进程 1.1 简单介绍 1.2 各个进程的先后顺序 1.3 进程作用说明 2.Zygote进程的启动流程 2.1 源码位置 2.2 ZygoteInit类的main方法 2.3 registerZygoteSocket(socketName)分析 2.4 preLoad(...",
+      "author": {
+        "nick": "潇湘剑雨",
+        "homepage": "/u/xiangjianyu"
+      }
+    },
+    {
+      "id": "1190000016926054",
+      "title": "浅析微信支付：支付结果通知",
+      "url": "/a/1190000016926054",
+      "desc": "本文是【浅析微信支付】系列文章的第六篇，主要讲解支付成功后，微信回调商户支付结果通知的处理。 浅析微信支付系列已经更新五篇了哟～，没有看过的朋友们可以看一下哦。 浅析微信支付：统一下单接口 浅析微信支...",
+      "author": {
+        "nick": "YClimb",
+        "homepage": "/u/yclimb"
+      }
+    },
+    {
+      "id": "1190000016925873",
+      "title": "JavaWEB开发10——会话技术Cookie&Session",
+      "url": "/a/1190000016925873",
+      "desc": "一、会话技术简介1．存储客户端的状态由一个问题引出今天的内容，例如网站的购物系统，用户将购买的商品信息存储到哪 里？因为Http协议是无状态的，也就是说每个客户访问服务器端资源时，服务器并 不知道该客户端...",
+      "author": {
+        "nick": "扎瓦",
+        "homepage": "/u/ideas"
+      }
+    },
+    {
+      "id": "1190000016924445",
+      "title": "简易RPC框架：基于 netty 的协议编解码",
+      "url": "/a/1190000016924445",
+      "desc": "协议的解码我们称为 decode，编码我们成为 encode，下文我们将直接使用 decode 和 encode 术语。",
+      "author": {
+        "nick": "beanlam",
+        "homepage": "/u/beanlam"
+      }
+    }
+  ]
+}
