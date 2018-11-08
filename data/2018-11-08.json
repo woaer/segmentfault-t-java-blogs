@@ -1,0 +1,155 @@
+{
+  "watchNum": "30103",
+  "blogs": [
+    {
+      "id": "1190000016948142",
+      "title": "[LeetCode] 403. Frog Jump",
+      "url": "/a/1190000016948142",
+      "desc": "A frog is crossing a river. The river is divided into x units and at each unit there may or may not exist a stone. The frog can jump on a stone, but it must not jump into the water.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000016948069",
+      "title": "白说",
+      "url": "/a/1190000016948069",
+      "desc": "今天要给大家推荐的是白岩松的《白说》，一本很有趣的书。说来，也很有缘分。记得早在前年(2016年)就买了《白说》这本书，却将它打入冷宫，一直不曾翻阅。再次看到它时，却又一发不可收拾。恨不得一下子就将其读完。",
+      "author": {
+        "nick": "andyqian",
+        "homepage": "/u/andyqian"
+      }
+    },
+    {
+      "id": "1190000016944344",
+      "title": "Bytom Java版本离线签名",
+      "url": "/a/1190000016944344",
+      "desc": "Java implementation of signing transaction offline to bytomd.",
+      "author": {
+        "nick": "比原链Bytom",
+        "homepage": "/u/bytom"
+      }
+    },
+    {
+      "id": "1190000016943779",
+      "title": "一次 HashSet 所引起的并发问题",
+      "url": "/a/1190000016943779",
+      "desc": "背景 上午刚到公司，准备开始一天的摸鱼之旅时突然收到了一封监控中心的邮件。 心中暗道不好，因为监控系统从来不会告诉我应用完美无 bug，其实系统挺猥琐。 打开邮件一看，果然告知我有一个应用的线程池队列达到...",
+      "author": {
+        "nick": "crossoverJie",
+        "homepage": "/u/crossoverjie"
+      }
+    },
+    {
+      "id": "1190000016901504",
+      "title": "《从0到1学习Flink》—— Data Source 介绍",
+      "url": "/a/1190000016901504",
+      "desc": "Flink 做为一款流式计算框架，它可用来做批处理，即处理静态的数据集、历史的数据集；也可以用来做流处理，即实时的处理些实时数据流，实时的产生数据流结果，只要数据源源不断的过来，Flink 就能够一直计算下去...",
+      "author": {
+        "nick": "zhisheng",
+        "homepage": "/u/zhisheng"
+      }
+    },
+    {
+      "id": "1190000016942417",
+      "title": "【跃迁之路】【634天】程序员高效学习方法论探索系列（实验阶段391-2018.11.07）",
+      "url": "/a/1190000016942417",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000016941868",
+      "title": "Spring Boot 2.0 配置属性自定义转换",
+      "url": "/a/1190000016941868",
+      "desc": "当我们通过@ConfigurationProperties注解实现配置 bean的时候,如果默认的配置属性转换无法满足我们的需求的时候,我们可以根据自己的需求通过以下扩展方式对配置属性进行转换",
+      "author": {
+        "nick": "paderlol",
+        "homepage": "/u/paderlol"
+      }
+    },
+    {
+      "id": "1190000016941846",
+      "title": "Spring Boot 2.0 外部化配置介绍",
+      "url": "/a/1190000016941846",
+      "desc": "在应用中管理配置并不是一个容易的任务，尤其是在应用需要部署到多个环境中时。通常会需要为每个环境提供一个对应的属性文件，用来配置各自的数据库连接信息、服务器信息和第三方服务账号等。通常的应用部署会包...",
+      "author": {
+        "nick": "paderlol",
+        "homepage": "/u/paderlol"
+      }
+    },
+    {
+      "id": "1190000016941808",
+      "title": "浅析微信支付：查询订单和关闭订单",
+      "url": "/a/1190000016941808",
+      "desc": "本文是【浅析微信支付】系列文章的第七篇，主要讲解微信商户平台的订单查询和关闭接口的使用。 浅析微信支付系列已经更新六篇了哟～，没有看过的朋友们可以看一下哦。 浅析微信支付：支付结果通知 浅析微信支付：...",
+      "author": {
+        "nick": "YClimb",
+        "homepage": "/u/yclimb"
+      }
+    },
+    {
+      "id": "1190000016941757",
+      "title": "Spring Boot 2.0 @ConfigurationProperties 使用",
+      "url": "/a/1190000016941757",
+      "desc": "Spring Boot的一个便捷功能是外部化配置，可以轻松访问属性文件中定义的属性。本文将详细介绍@ConfigurationProperties的使用。",
+      "author": {
+        "nick": "paderlol",
+        "homepage": "/u/paderlol"
+      }
+    },
+    {
+      "id": "1190000016941260",
+      "title": "Thread源码",
+      "url": "/a/1190000016941260",
+      "desc": "在Andorid-27中查看Thread源码第一次看Thread源码的时候，很是懵，看源码里面的注释感觉实在无法理解，随后在网上看各种关于Thread的讲解，感觉这篇文章讲的挺好的（文章地址：[链接]），对一些不理解的地方有所...",
+      "author": {
+        "nick": "littleGrow",
+        "homepage": "/u/fanchen_5be259fe05cc1"
+      }
+    },
+    {
+      "id": "1190000016937735",
+      "title": "集合框架知识系列05  HashMap的源码分析和使用示例",
+      "url": "/a/1190000016937735",
+      "desc": "HashMap是基于“拉链法”实现的散列表。一般用于单线程程序中，JDK 1.8对HashMap进行了比较大的优化，底层实现由之前的“数组+链表”改为“数组+链表+红黑树”。下面先介绍HashMap中一些关键的知识点。",
+      "author": {
+        "nick": "zhzhd",
+        "homepage": "/u/zhzhd"
+      }
+    },
+    {
+      "id": "1190000016937108",
+      "title": "java.lang.IllegalArgumentException at java.sql.Date.getHours",
+      "url": "/a/1190000016937108",
+      "desc": "错误描述：在springboot中，使用进行net.sf.json.JSONObject.fromObject(javaObject)进行json序列化时，得到错误Caused by:java.lang.IllegalArgumentException at java.sql.Date.getHours(Date.java:187)。",
+      "author": {
+        "nick": "myskies",
+        "homepage": "/u/myskies"
+      }
+    },
+    {
+      "id": "1190000016936970",
+      "title": "码农，有趣的灵魂...",
+      "url": "/a/1190000016936970",
+      "desc": "今日，看到有些文章对码农和程序员做了一些界限划定和差异分析，吓得作者赶紧研究一下自己属于哪个身份，但当仔细查看了这些文章后，发现其实对于写代码的人来说，无非就像周星驰嘴里的”龙套“和”演员“之分，顿时...",
+      "author": {
+        "nick": "jaybril",
+        "homepage": "/u/jaybril"
+      }
+    },
+    {
+      "id": "1190000016935621",
+      "title": "Java IO学习一：File类",
+      "url": "/a/1190000016935621",
+      "desc": "File类是IO包中唯一代表磁盘文件本身的对象， File类定义了一些与平台无关的方法来操作文件。通过调用File类提供的各种方法，能够完成创建、删除文件、重命名文件、判断文件的读写权限权限是否存在、设置和查询文...",
+      "author": {
+        "nick": "Augustu",
+        "homepage": "/u/augustu"
+      }
+    }
+  ]
+}
