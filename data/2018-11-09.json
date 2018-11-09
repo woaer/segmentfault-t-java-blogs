@@ -1,0 +1,155 @@
+{
+  "watchNum": "30108",
+  "blogs": [
+    {
+      "id": "1190000016959088",
+      "title": "Elasticsearch Java Rest Client API 整理总结 (一)— Document API",
+      "url": "/a/1190000016959088",
+      "desc": "业余时间搞 python 爬虫爬取数据，完善我的汽车销量查询小助手（小程序）；工作时间还是要努力完成领导分配的任务，做我的 Java 老本行的。",
+      "author": {
+        "nick": "ReyCG",
+        "homepage": "/u/reycg"
+      }
+    },
+    {
+      "id": "1190000016958538",
+      "title": "学习hadoop需要什么基础",
+      "url": "/a/1190000016958538",
+      "desc": "学习hadoop需要什么基础“学习hadoop需要什么基础”这已经不是一个新鲜的话题了，随便上网搜索一下就能找出成百上千篇的文章在讲学习hadoop需要掌握的基础。再直接的一点的问题就是——学Hadoop难吗？用一句特别让人...",
+      "author": {
+        "nick": "本宫没空9",
+        "homepage": "/u/bengongmeikong9"
+      }
+    },
+    {
+      "id": "1190000016958354",
+      "title": "web开发安全框架中的Apache Shiro的应用",
+      "url": "/a/1190000016958354",
+      "desc": "web开发安全框架中的Apache Shiro的应用前阶段就hadoop的分享了一些内容，希望对新手入门的朋友有点帮助吧！对于hadoop新手入门的，还是比较推荐大快搜索的DKHadoop发行版，三节点标准版还是值得拥有的（三节点的...",
+      "author": {
+        "nick": "本宫没空9",
+        "homepage": "/u/bengongmeikong9"
+      }
+    },
+    {
+      "id": "1190000016957302",
+      "title": "Java多线程可以分组，还能这样玩！",
+      "url": "/a/1190000016957302",
+      "desc": "前面的文章，栈长和大家分享过多线程创建的3种方式《实现 Java 多线程的 3 种方式》。 但如果线程很多的情况下，你知道如何对它们进行分组吗？ 和 Dubbo 的服务分组一样，Java 可以对相同性质的线程进行分组。 来...",
+      "author": {
+        "nick": "Java技术栈",
+        "homepage": "/u/javastack"
+      }
+    },
+    {
+      "id": "1190000016956638",
+      "title": "【双11狂欢的背后】微服务注册中心如何承载大型系统的千万级访问？",
+      "url": "/a/1190000016956638",
+      "desc": "欢迎关注微信公众号：石杉的架构笔记 周一至周五早8点！精品技术文章准时送上！！ 往期文章1.拜托！面试请不要再问我Spring Cloud底层原理！ 目录： 一、问题起源 二、Eureka Server设计精妙的注册表存储结构 三...",
+      "author": {
+        "nick": "石杉的架构笔记",
+        "homepage": "/u/shishanmanongxueyuan"
+      }
+    },
+    {
+      "id": "1190000016901513",
+      "title": "《从0到1学习Flink》—— Data Sink 介绍",
+      "url": "/a/1190000016901513",
+      "desc": "再上一篇文章中 《从0到1学习Flink》—— Data Source 介绍 讲解了 Flink Data Source ，那么这里就来讲讲 Flink Data Sink 吧。",
+      "author": {
+        "nick": "zhisheng",
+        "homepage": "/u/zhisheng"
+      }
+    },
+    {
+      "id": "1190000016955530",
+      "title": "Java资源免费分享，每日一更新，找到你心仪的吧",
+      "url": "/a/1190000016955530",
+      "desc": "本栏目会不定期的更新一些优质的学习资源，可以经常的来这里逛逛，看看有没有对你有帮助的资源，如果能够帮助到你，小海同学也就心满意足。",
+      "author": {
+        "nick": "wx_好好学java",
+        "homepage": "/u/sihai_5ae5ba9170388"
+      }
+    },
+    {
+      "id": "1190000016954538",
+      "title": "浅析微信支付：申请退款、退款回调接口、查询退款",
+      "url": "/a/1190000016954538",
+      "desc": "本文是【浅析微信支付】系列文章的第八篇，主要讲解商户如何处理微信申请退款、退款回调、查询退款接口，其中有一些坑的地方，会着重强调。",
+      "author": {
+        "nick": "YClimb",
+        "homepage": "/u/yclimb"
+      }
+    },
+    {
+      "id": "1190000016954240",
+      "title": "JavaWEB开发11——JSP",
+      "url": "/a/1190000016954240",
+      "desc": "一、JSP技术1．jsp脚本和注释jsp脚本：1）<%java代码%> ----- 内部的java代码翻译到service方法的内部2）<%=java变量或表达式> ----- 会被翻译成service方法内部out.print()3）<%!java代码%> -...",
+      "author": {
+        "nick": "扎瓦",
+        "homepage": "/u/ideas"
+      }
+    },
+    {
+      "id": "1190000016952983",
+      "title": "【跃迁之路】【635天】程序员高效学习方法论探索系列（实验阶段392-2018.11.08）",
+      "url": "/a/1190000016952983",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000016952941",
+      "title": "[LeetCode] 628. Maximum Product of Three Numbers",
+      "url": "/a/1190000016952941",
+      "desc": "Given an integer array, find three numbers whose product is maximum and output the maximum product.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000016952529",
+      "title": "[LeetCode] 448. Find All Numbers Disappeared in an Array",
+      "url": "/a/1190000016952529",
+      "desc": "Given an array of integers where 1 ≤ a[i] ≤ n (n = size of array), some elements appear twice and others appear once.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000016951866",
+      "title": "从零单排学Redis【白银】",
+      "url": "/a/1190000016951866",
+      "desc": "今天继续来学习Redis，上一篇从零单排学Redis【青铜】已经将Redis常用的数据结构过了一遍了。如果还没看的同学可以先去看一遍再回来~",
+      "author": {
+        "nick": "Java3y",
+        "homepage": "/u/java_3y"
+      }
+    },
+    {
+      "id": "1190000016951762",
+      "title": "阿里巴巴开源 Spring Cloud Alibaba，加码微服务生态建设",
+      "url": "/a/1190000016951762",
+      "desc": "摘要： 本周，Spring Cloud联合创始人Spencer Gibb在Spring官网的博客页面宣布：阿里巴巴开源 Spring Cloud Alibaba，并发布了首个预览版本。随后，Spring Cloud 官方Twitter也发布了此消息。",
+      "author": {
+        "nick": "暖忆",
+        "homepage": "/u/nuanyi"
+      }
+    },
+    {
+      "id": "1190000016951465",
+      "title": "二分查找(BinarySearch)",
+      "url": "/a/1190000016951465",
+      "desc": "基本思想 二分查找算法的基本思想就是: 在一个有序的(默认我们都是升序，如果是降序后面的条件置反即可)数组中; 将要查找的值和数组中间的那个元素比较; 如果要找的数大于中间的元素,就从中间的元素后一个元素开...",
+      "author": {
+        "nick": "SUPERATURL",
+        "homepage": "/u/superaturl"
+      }
+    }
+  ]
+}
