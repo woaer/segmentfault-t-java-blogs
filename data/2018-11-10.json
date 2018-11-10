@@ -1,0 +1,155 @@
+{
+  "watchNum": "30113",
+  "blogs": [
+    {
+      "id": "1190000016968628",
+      "title": "简易RPC框架：序列化机制",
+      "url": "/a/1190000016968628",
+      "desc": "在上一篇文章《简易RPC框架：基于 netty 的协议编解码》中谈到对于协议的 decode 和 encode，在谈 decode 之前，必须先要知道 encode 的过程是什么，它把什么东西转化成了二进制协议。由于我们还未谈到具体的 RPC...",
+      "author": {
+        "nick": "beanlam",
+        "homepage": "/u/beanlam"
+      }
+    },
+    {
+      "id": "1190000016968156",
+      "title": "【备战春招/秋招系列】Java程序员必备书单",
+      "url": "/a/1190000016968156",
+      "desc": "【强烈推荐！非广告！】阿里云双11褥羊毛活动：[链接] 差不多一折，不过仅限阿里云新人购买，不是新人的朋友自己找方法买哦！",
+      "author": {
+        "nick": "Snailclimb",
+        "homepage": "/u/snailclimb"
+      }
+    },
+    {
+      "id": "1190000016967229",
+      "title": "开发NEO智能合约的步骤流程",
+      "url": "/a/1190000016967229",
+      "desc": "摘要：开发NEO智能合约的典型开发流程有两个实际阶段：编码（在IDE中编码并将源码编译为.avm文件）以及测试（在测试网上部署、调用、检查结果）。这个工作流需要编译和部署来调试任何代码的变更。在NEO社区开发的...",
+      "author": {
+        "nick": "NEO爱好者",
+        "homepage": "/u/neoaihaozhe"
+      }
+    },
+    {
+      "id": "1190000016966832",
+      "title": "【跃迁之路】【636天】程序员高效学习方法论探索系列（实验阶段393-2018.11.09）",
+      "url": "/a/1190000016966832",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000016966404",
+      "title": "SnapHelper源码深度解析",
+      "url": "/a/1190000016966404",
+      "desc": "目录介绍 01.SnapHelper简单介绍 1.1 SnapHelper作用 1.2 SnapHelper类分析 1.3 LinearSnapHelper类分析 1.4 PagerSnapHelper类分析 02.SnapHelper源码分析 2.1 attachToRecyclerView入口方法 2.2 SnapHelper的抽...",
+      "author": {
+        "nick": "潇湘剑雨",
+        "homepage": "/u/xiangjianyu"
+      }
+    },
+    {
+      "id": "1190000016966243",
+      "title": "[LeetCode] 606. Construct String from Binary Tree",
+      "url": "/a/1190000016966243",
+      "desc": "You need to construct a string consists of parenthesis and integers from a binary tree with the preorder traversing way.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000016964511",
+      "title": "从零单排学Redis【黄金】",
+      "url": "/a/1190000016964511",
+      "desc": "前言 只有光头才能变强 好的，今天我们要上黄金段位了，如果还没经历过青铜和白银阶段的，可以先去蹭蹭经验再回来： 从零单排学Redis【青铜】 从零单排学Redis【白银】 看过相关Redis基础的同学可以知道Redis是单...",
+      "author": {
+        "nick": "Java3y",
+        "homepage": "/u/java_3y"
+      }
+    },
+    {
+      "id": "1190000016963673",
+      "title": "[LeetCode] 640. Solve the Equation",
+      "url": "/a/1190000016963673",
+      "desc": "Solve a given equation and return the value of x in the form of string \"x=#value\". The equation contains only '+', '-' operation, the variable x and its coefficient.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000016963560",
+      "title": "如何查询动态创建的数据库的数据",
+      "url": "/a/1190000016963560",
+      "desc": "求教： 现在做一个社会数据采集系统，需要把各种数据分类到不同的表存放。用户可以创建分类，比如创建分类a，那么我就根据用户选择的字段（字段是后台提供的，比如20个，用户根据这个表需要的字段选择几个）在后...",
+      "author": {
+        "nick": "Cold不叫寇德",
+        "homepage": "/u/coldbjcd"
+      }
+    },
+    {
+      "id": "1190000016959088",
+      "title": "Elasticsearch Java Rest Client API 整理总结 (一)— Document API",
+      "url": "/a/1190000016959088",
+      "desc": "业余时间搞 python 爬虫爬取数据，完善我的汽车销量查询小助手（小程序）；工作时间还是要努力完成领导分配的任务，做我的 Java 老本行的。",
+      "author": {
+        "nick": "ReyCG",
+        "homepage": "/u/reycg"
+      }
+    },
+    {
+      "id": "1190000016958538",
+      "title": "学习hadoop需要什么基础",
+      "url": "/a/1190000016958538",
+      "desc": "学习hadoop需要什么基础“学习hadoop需要什么基础”这已经不是一个新鲜的话题了，随便上网搜索一下就能找出成百上千篇的文章在讲学习hadoop需要掌握的基础。再直接的一点的问题就是——学Hadoop难吗？用一句特别让人...",
+      "author": {
+        "nick": "本宫没空9",
+        "homepage": "/u/bengongmeikong9"
+      }
+    },
+    {
+      "id": "1190000016958354",
+      "title": "web开发安全框架中的Apache Shiro的应用",
+      "url": "/a/1190000016958354",
+      "desc": "web开发安全框架中的Apache Shiro的应用前阶段就hadoop的分享了一些内容，希望对新手入门的朋友有点帮助吧！对于hadoop新手入门的，还是比较推荐大快搜索的DKHadoop发行版，三节点标准版还是值得拥有的（三节点的...",
+      "author": {
+        "nick": "本宫没空9",
+        "homepage": "/u/bengongmeikong9"
+      }
+    },
+    {
+      "id": "1190000016957302",
+      "title": "Java多线程可以分组，还能这样玩！",
+      "url": "/a/1190000016957302",
+      "desc": "前面的文章，栈长和大家分享过多线程创建的3种方式《实现 Java 多线程的 3 种方式》。 但如果线程很多的情况下，你知道如何对它们进行分组吗？ 和 Dubbo 的服务分组一样，Java 可以对相同性质的线程进行分组。 来...",
+      "author": {
+        "nick": "Java技术栈",
+        "homepage": "/u/javastack"
+      }
+    },
+    {
+      "id": "1190000016956638",
+      "title": "【双11狂欢的背后】微服务注册中心如何承载大型系统的千万级访问？",
+      "url": "/a/1190000016956638",
+      "desc": "欢迎关注微信公众号：石杉的架构笔记 周一至周五早8点！精品技术文章准时送上！！ 往期文章1.拜托！面试请不要再问我Spring Cloud底层原理！ 目录： 一、问题起源 二、Eureka Server设计精妙的注册表存储结构 三...",
+      "author": {
+        "nick": "石杉的架构笔记",
+        "homepage": "/u/shishanmanongxueyuan"
+      }
+    },
+    {
+      "id": "1190000016901513",
+      "title": "《从0到1学习Flink》—— Data Sink 介绍",
+      "url": "/a/1190000016901513",
+      "desc": "再上一篇文章中 《从0到1学习Flink》—— Data Source 介绍 讲解了 Flink Data Source ，那么这里就来讲讲 Flink Data Sink 吧。",
+      "author": {
+        "nick": "zhisheng",
+        "homepage": "/u/zhisheng"
+      }
+    }
+  ]
+}
