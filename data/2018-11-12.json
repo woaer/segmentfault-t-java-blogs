@@ -1,0 +1,155 @@
+{
+  "watchNum": "30115",
+  "blogs": [
+    {
+      "id": "1190000016980728",
+      "title": "[LeetCode] 568. Maximum Vacation Days",
+      "url": "/a/1190000016980728",
+      "desc": "LeetCode wants to give one of its best employees the option to travel among N cities to collect algorithm problems. But all work and no play makes Jack a dull boy, you could take vacations in some ...",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000016980442",
+      "title": "ThreadLocal源码",
+      "url": "/a/1190000016980442",
+      "desc": "在Looper源码中，我们看到通过ThreadLocal的set方法来保存Looper,通过get方法来取出Looper。下来我们来看ThreadLocal中的set/get方法。",
+      "author": {
+        "nick": "littleGrow",
+        "homepage": "/u/littlegrow"
+      }
+    },
+    {
+      "id": "1190000016979082",
+      "title": "手写一个小程序评分组件",
+      "url": "/a/1190000016979082",
+      "desc": "使用此组件需要依赖小程序基础库 2.2.1 以上版本，同时依赖开发者工具的 npm 构建。具体详情可查阅官方 npm 文档。",
+      "author": {
+        "nick": "前端小智",
+        "homepage": "/u/minnanitkong"
+      }
+    },
+    {
+      "id": "1190000016978513",
+      "title": "不改一行代码定位线上性能问题",
+      "url": "/a/1190000016978513",
+      "desc": "背景 最近时运不佳，几乎天天被线上问题骚扰。前几天刚解决了一个 HashSet 的并发问题，周六又来了一个性能问题。 大致的现象是： 我们提供出去的一个 OpenAPI 反应时快时慢，快的时候几十毫秒，慢的时候几秒钟才...",
+      "author": {
+        "nick": "crossoverJie",
+        "homepage": "/u/crossoverjie"
+      }
+    },
+    {
+      "id": "1190000016901520",
+      "title": "《从0到1学习Flink》—— 如何自定义 Data Source ？",
+      "url": "/a/1190000016901520",
+      "desc": "在 《从0到1学习Flink》—— Data Source 介绍 文章中，我给大家介绍了 Flink Data Source 以及简短的介绍了一下自定义 Data Source，这篇文章更详细的介绍下，并写一个 demo 出来让大家理解。",
+      "author": {
+        "nick": "zhisheng",
+        "homepage": "/u/zhisheng"
+      }
+    },
+    {
+      "id": "1190000016978735",
+      "title": "[LeetCode] 528. Random Pick with Weight",
+      "url": "/a/1190000016978735",
+      "desc": "Given an array w of positive integers, where w[i] describes the weight of index i, write a function pickIndex which randomly picks an index in proportion to its weight.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000016977890",
+      "title": "938-二叉搜索树的范围和",
+      "url": "/a/1190000016977890",
+      "desc": "给定二叉搜索树的根结点 root，返回 L 和 R（含）之间的所有结点的值的和。 二叉搜索树保证具有唯一的值。 返回日志的最终顺序 示例1： {代码...} 示例2： {代码...} 提示： 树中的结点数量最多为 10000 个。 最...",
+      "author": {
+        "nick": "Null",
+        "homepage": "/u/null_ryan"
+      }
+    },
+    {
+      "id": "1190000016977854",
+      "title": "937-重新排列日志文件",
+      "url": "/a/1190000016977854",
+      "desc": "你有一个日志数组 logs。每条日志都是以空格分隔的字串。 对于每条日志，其第一个字为字母数字标识符。然后，要么： 标识符后面的每个字将仅由小写字母组成，或； 标识符后面的每个字将仅由数字组成。 我们将这两...",
+      "author": {
+        "nick": "Null",
+        "homepage": "/u/null_ryan"
+      }
+    },
+    {
+      "id": "1190000016976990",
+      "title": "Kubernetes Nacos集群",
+      "url": "/a/1190000016976990",
+      "desc": "最近几天完成了 Nacos 在Kubernetes 部署,顺便写篇文章记录下部署过程，项目地址Nacos-K8s,有兴趣的可以去了解下,后续会提交到Nacos-Group 里面。",
+      "author": {
+        "nick": "paderlol",
+        "homepage": "/u/paderlol"
+      }
+    },
+    {
+      "id": "1190000016976857",
+      "title": "用程序消除一道概率题的二义性",
+      "url": "/a/1190000016976857",
+      "desc": "无意在维基看到了一个关于概率悖论的讨论Boy or Girl paradox。有争议的的题目如下:  史密斯先生有两个孩子，至少其中之一是男孩，请问两个孩子都是男孩的可能性有多大？  原文如下：  Mr. Smith has two childre...",
+      "author": {
+        "nick": "东篱隐者",
+        "homepage": "/u/yinzhe_5ba34fa4d87fa"
+      }
+    },
+    {
+      "id": "1190000016976733",
+      "title": "使用spring的websocket创建通信服务",
+      "url": "/a/1190000016976733",
+      "desc": "基于socket通信，spring也有自己的socket通信服务：websocket，这次就介绍如何在spring项目中使用websocket进行通信交互。",
+      "author": {
+        "nick": "喵先生的进阶之路",
+        "homepage": "/u/poshichao"
+      }
+    },
+    {
+      "id": "1190000016976536",
+      "title": "【跃迁之路】【638天】程序员高效学习方法论探索系列（实验阶段395-2018.11.11）",
+      "url": "/a/1190000016976536",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000016975349",
+      "title": "前端控制器模式",
+      "url": "/a/1190000016975349",
+      "desc": "前端控制器 来源：[链接] 问题需求 您想要一个集中的访问点处理展示层的请求 您想避免重复控制层的逻辑处理 您想使用一个通用逻辑处理多个请求 您想分离系统的逻辑处理与视图展示 您想在您的系统中有一个集中控制...",
+      "author": {
+        "nick": "麦冬",
+        "homepage": "/u/poseidon_ocean"
+      }
+    },
+    {
+      "id": "1190000016975256",
+      "title": "[LeetCode] 642. Design Search Autocomplete System",
+      "url": "/a/1190000016975256",
+      "desc": "Design a search autocomplete system for a search engine. Users may input a sentence (at least one word and end with a special character '#'). For each character they type except '#', you need to re...",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000016973561",
+      "title": "【跃迁之路】【637天】程序员高效学习方法论探索系列（实验阶段394-2018.11.10）",
+      "url": "/a/1190000016973561",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    }
+  ]
+}
