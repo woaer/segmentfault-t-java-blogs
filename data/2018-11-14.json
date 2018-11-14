@@ -1,0 +1,155 @@
+{
+  "watchNum": "30132",
+  "blogs": [
+    {
+      "id": "1190000017008795",
+      "title": "《Java编程思想》笔记6.访问权限控制",
+      "url": "/a/1190000017008795",
+      "desc": "当编写一个Java源代码文件（编译单元）时，每个编译单元必须有一个后缀.java，而在编译单元内则可以有至多一个public类，该类名必须和文件名相同。",
+      "author": {
+        "nick": "SpiderSama",
+        "homepage": "/u/spidersama"
+      }
+    },
+    {
+      "id": "1190000017008315",
+      "title": "awesome web you should know",
+      "url": "/a/1190000017008315",
+      "desc": "🌏 awesome-web-you-should-know 🔨tool emoji homepage (emoji表情) json editor online (在线json格式转换) processOn (流程图) tiny png (图片压缩) youtube视频下载 (只需一个网页链接就可下载各大视频网站视频...",
+      "author": {
+        "nick": "秋雨",
+        "homepage": "/u/leinov"
+      }
+    },
+    {
+      "id": "1190000017007261",
+      "title": "Java诊断工具Arthas",
+      "url": "/a/1190000017007261",
+      "desc": "Arthas是阿里开源的一个线上java诊断工具，发现阿里还是挺喜欢开源一些技术的，造福人类。昨天试用了一下，发现真是强大，解决了我工作两年的很多困扰，有点相见恨晚的感觉。",
+      "author": {
+        "nick": "scu酱油仔",
+        "homepage": "/u/scu2jiangyouzi"
+      }
+    },
+    {
+      "id": "1190000017007034",
+      "title": "Spring框架学习笔记（二）：官方文档Core Technologies - Part 1",
+      "url": "/a/1190000017007034",
+      "desc": "在这一系列学习中，我阅读的主要资源是5.1.2 Reference Doc.，以及论坛大神的讲解blog。另外，Spring官方也给出了非常详细的API文档，适合较为熟悉的使用者查阅。Documentation主要包括6部分：Core, Testing, Dat...",
+      "author": {
+        "nick": "Rachel_YCWang",
+        "homepage": "/u/rachel_ycwang"
+      }
+    },
+    {
+      "id": "1190000017007028",
+      "title": "在springboot中使用Mybatis Generator的两种方式",
+      "url": "/a/1190000017007028",
+      "desc": "Mybatis Generator(MBG)是Mybatis的一个代码生成工具。MBG解决了对数据库操作有最大影响的一些CRUD操作，很大程度上提升开发效率。如果需要联合查询仍然需要手写sql。相信很多人都听说过微服务，各个微服务之间是...",
+      "author": {
+        "nick": "小揪揪",
+        "homepage": "/u/xiaojiujiu_5b94abc9a9358"
+      }
+    },
+    {
+      "id": "1190000017006924",
+      "title": "学习Hadoop大数据基础框架",
+      "url": "/a/1190000017006924",
+      "desc": "什么是大数据？进入本世纪以来，尤其是2010年之后，随着互联网特别是移动互联网的发展，数据的增长呈爆炸趋势，已经很难估计全世界的电子设备中存储的数据到底有多少，描述数据系统的数据量的计量单位从MB（1MB大...",
+      "author": {
+        "nick": "本宫没空9",
+        "homepage": "/u/bengongmeikong9"
+      }
+    },
+    {
+      "id": "1190000017006906",
+      "title": "《Java编程思想》笔记5.初始化与清理",
+      "url": "/a/1190000017006906",
+      "desc": "初始化和清理是编程安全的两个问题。Java延续了C++中的构造器确保初始化，并引入了“垃圾回收器”管理和释放内存。",
+      "author": {
+        "nick": "SpiderSama",
+        "homepage": "/u/spidersama"
+      }
+    },
+    {
+      "id": "1190000017006822",
+      "title": "网站技术架构",
+      "url": "/a/1190000017006822",
+      "desc": "可用性（Availablility）是指服务可被有效访问的特性，不是指有用性（Usability）。",
+      "author": {
+        "nick": "天天吃",
+        "homepage": "/u/tiantianchi"
+      }
+    },
+    {
+      "id": "1190000017006742",
+      "title": "什么是自然语言处理技术",
+      "url": "/a/1190000017006742",
+      "desc": "自然语言处理（NLP）是计算机科学，人工智能，语言学关注计算机和人类（自然）语言之间的相互作用的领域。自然语言处理是计算机科学领域与人工智能领域中的一个重要方向。它研究能实现人与计算机之间用自然语言进...",
+      "author": {
+        "nick": "本宫没空9",
+        "homepage": "/u/bengongmeikong9"
+      }
+    },
+    {
+      "id": "1190000017006636",
+      "title": "《Java编程思想》笔记4.控制执行流程",
+      "url": "/a/1190000017006636",
+      "desc": "Java里唯一用到逗号操作符（注意不是分割符）的地方就是for循环的控制表达式。在初始化和步进控制部分，可以用一系列由逗号分割的语句，而且那些语句会独立执行。在初始化部分可以拥有任意数量、类型相同的变量定...",
+      "author": {
+        "nick": "SpiderSama",
+        "homepage": "/u/spidersama"
+      }
+    },
+    {
+      "id": "1190000017006525",
+      "title": "Spring Boot缓存源码分析",
+      "url": "/a/1190000017006525",
+      "desc": "项目里面要增加一个应用缓存，原本想着要怎么怎么来整合ehcache和springboot，做好准备配置这个配置那个，结果只需要做三件事：",
+      "author": {
+        "nick": "沈子平",
+        "homepage": "/u/shenziping"
+      }
+    },
+    {
+      "id": "1190000017006421",
+      "title": "面试官：快排会写吗？",
+      "url": "/a/1190000017006421",
+      "desc": "之所以使用随机快速排序而不是普通的快排。是因为前者可以使得数列有序的概率降低，从而使随机快速排序平均速度是比快速排序要快的。具体的两者的性能差别可以看下这篇文章：",
+      "author": {
+        "nick": "不只Java",
+        "homepage": "/u/buzhijava"
+      }
+    },
+    {
+      "id": "1190000017006304",
+      "title": "什么是大数据技术架构",
+      "url": "/a/1190000017006304",
+      "desc": "大数据的应用开发过于偏向底层，具有学习难度大，涉及技术面广的问题，这制约了大数据的普及。现在需要一种技术，把大数据开发中一些通用的，重复使用的基础代码、算法封装为类库，降低大数据的学习门槛，降低开...",
+      "author": {
+        "nick": "本宫没空9",
+        "homepage": "/u/bengongmeikong9"
+      }
+    },
+    {
+      "id": "1190000017006212",
+      "title": "Spring框架学习笔记（一）：官方文档介绍，IoC与AOP概念学习",
+      "url": "/a/1190000017006212",
+      "desc": "Spring官方给出了非常全面的介绍，非常适合我这种完全的小白……在这一系列学习中，我阅读的主要资源是5.1.2 Reference Doc.，以及论坛大神的讲解blog。另外，Spring官方也给出了非常详细的API文档，适合较为熟悉的...",
+      "author": {
+        "nick": "Rachel_YCWang",
+        "homepage": "/u/rachel_ycwang"
+      }
+    },
+    {
+      "id": "1190000017005996",
+      "title": "空行会影响 Java 编译吗？",
+      "url": "/a/1190000017005996",
+      "desc": "这个月的 Stack Overflow 有篇热门文章是国外有位开发者提出：当我仅仅对 Java 类增加了一行空行,为什么编译后得到了两个不同的字节码文件？",
+      "author": {
+        "nick": "极光推送",
+        "homepage": "/u/jiguangtuisong"
+      }
+    }
+  ]
+}
