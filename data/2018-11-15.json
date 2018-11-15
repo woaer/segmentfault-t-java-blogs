@@ -1,0 +1,155 @@
+{
+  "watchNum": "30143",
+  "blogs": [
+    {
+      "id": "1190000017021475",
+      "title": "JAVA小笔记-List",
+      "url": "/a/1190000017021475",
+      "desc": "List：继承Collection,List元素是有序的，由于List有索引所以元素可以重复。常用的实现类有ArrayList（数据结构使用数组,查询速度快，增删很慢，线程不同步），LinkedList（数据结构使用链表，查询很慢，增删较快...",
+      "author": {
+        "nick": "小揪揪",
+        "homepage": "/u/xiaojiujiu_5b94abc9a9358"
+      }
+    },
+    {
+      "id": "1190000017017155",
+      "title": "设计一个可拔插的 IOC 容器",
+      "url": "/a/1190000017017155",
+      "desc": "前言 磨了许久，借助最近的一次通宵上线 cicada 终于更新了 v2.0.0 版本。 之所以大的版本号变为 2，确实是向下不兼容了；主要表现为： 修复了几个反馈的 bug。 灵活的路由方式。 可拔插的 IOC 容器选择。 其中重...",
+      "author": {
+        "nick": "crossoverJie",
+        "homepage": "/u/crossoverjie"
+      }
+    },
+    {
+      "id": "1190000017017574",
+      "title": "[LeetCode] 678. Valid Parenthesis String",
+      "url": "/a/1190000017017574",
+      "desc": "Given a string containing only three types of characters: '(', ')' and '*', write a function to check whether this string is valid. We define the validity of a string by these rules:",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000017017564",
+      "title": "[LeetCode] 416. Partition Equal Subset Sum",
+      "url": "/a/1190000017017564",
+      "desc": "Given a non-empty array containing only positive integers, find if the array can be partitioned into two subsets such that the sum of elements in both subsets is equal.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000017016445",
+      "title": "java-study-springcloud-网络资料-01-微服务是什么",
+      "url": "/a/1190000017016445",
+      "desc": "dubble 和springcloud对比：double 各个服务之间使用rpc远程调用，而springcloud是用restful API 调用",
+      "author": {
+        "nick": "dhxx",
+        "homepage": "/u/dhxx"
+      }
+    },
+    {
+      "id": "1190000017016283",
+      "title": "数据类型和字符集",
+      "url": "/a/1190000017016283",
+      "desc": "什么是数据类型简单理解就是数据的类型。what？数据怎么会有类型？数据难道不就是0或者1组成的字节码吗？没错，在计算机中，只能存储0或者1，也就是说从存储的角度来看，根本没有类型这种东西，它们确实不过就是0...",
+      "author": {
+        "nick": "Linus脱袜子",
+        "homepage": "/u/qiuqi_turing"
+      }
+    },
+    {
+      "id": "1190000017016061",
+      "title": "【跃迁之路】【641天】程序员高效学习方法论探索系列（实验阶段398-2018.11.14）",
+      "url": "/a/1190000017016061",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000017015987",
+      "title": "java-study-springboot-基础学习-05-springboot web开发",
+      "url": "/a/1190000017015987",
+      "desc": "Web开发的自动配置类： org.springframework.boot.autoconfigure.web.WebMvcAutoConfiguration",
+      "author": {
+        "nick": "dhxx",
+        "homepage": "/u/dhxx"
+      }
+    },
+    {
+      "id": "1190000017015846",
+      "title": "Java后端技术栈，到底如何深入学习？",
+      "url": "/a/1190000017015846",
+      "desc": "Java，是现阶段中国互联网公司中，覆盖度最广的研发语言。有不少朋友问，如何深入学习Java后端技术栈，今天分享一个，互联网牛人整理出来的Java深入学习路线图，以及免费学习资料。",
+      "author": {
+        "nick": "007大树将军",
+        "homepage": "/u/javajiagoushi007"
+      }
+    },
+    {
+      "id": "1190000017015671",
+      "title": "分别在Windows 和 Linux 搭建java环境",
+      "url": "/a/1190000017015671",
+      "desc": "不管在windows，还是linux，搭建java环境的步骤是类似的。 其实主要就是两步： 先下载解压，后配置环境变量，最后使用java -version检查是否配置成功。 但是关键就在于配置环境变量这一点上，对于初学者来说，经...",
+      "author": {
+        "nick": "yolanda",
+        "homepage": "/u/lijing_tester"
+      }
+    },
+    {
+      "id": "1190000017015637",
+      "title": "《Java编程思想》笔记12.通过异常处理错误",
+      "url": "/a/1190000017015637",
+      "desc": "Java异常处理的目的在于通过使用少于目前数量的代码来简化大型、可靠的程序的生成，并且通过这种方式可以使你更自信：你的应用中没有未处理的错误。",
+      "author": {
+        "nick": "SpiderSama",
+        "homepage": "/u/spidersama"
+      }
+    },
+    {
+      "id": "1190000017015595",
+      "title": "《Java编程思想》笔记11.持有对象",
+      "url": "/a/1190000017015595",
+      "desc": "我觉得本章名字改成容器似乎更好理解，持有对象让人感到一头雾水我们需要在任意时刻和任意位置创建任意数量的对象，所以依靠创建命名的引用来持有对象已经满足不了需求。Java可以用数组和其他容器类来（List、Set...",
+      "author": {
+        "nick": "SpiderSama",
+        "homepage": "/u/spidersama"
+      }
+    },
+    {
+      "id": "1190000017015565",
+      "title": "《Java编程思想》笔记10.内部类",
+      "url": "/a/1190000017015565",
+      "desc": "可以把一个类的定义放在另一个类的定义内部，这就是内部类。Java最晦涩的部分之一。内部类看起来就像是一种代码隐藏机制，将类只与其他类的内部。但远不止如此，内部类了解外部类，并能与之通信。",
+      "author": {
+        "nick": "SpiderSama",
+        "homepage": "/u/spidersama"
+      }
+    },
+    {
+      "id": "1190000017015537",
+      "title": "《Java编程思想》笔记9.接口",
+      "url": "/a/1190000017015537",
+      "desc": "抽象类：包含抽象方法的类叫做抽象类。如果一个类包含一个或多个抽象方法，该类必须被限定为抽象的。用abstract修饰的类。",
+      "author": {
+        "nick": "SpiderSama",
+        "homepage": "/u/spidersama"
+      }
+    },
+    {
+      "id": "1190000017015526",
+      "title": "java-study-springboot-基础学习-04-自动配置的原理",
+      "url": "/a/1190000017015526",
+      "desc": "SpringBoot自动配置 1、自动配置之spring.factories 从启动流程可以看到，会读取spring.factories配置文件，有几个spring.factories配置文件，比如：一个是Spring相关的实例化配置： 一个是自动配置： 备注，关于...",
+      "author": {
+        "nick": "dhxx",
+        "homepage": "/u/dhxx"
+      }
+    }
+  ]
+}
