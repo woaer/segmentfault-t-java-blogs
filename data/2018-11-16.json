@@ -1,0 +1,155 @@
+{
+  "watchNum": "30151",
+  "blogs": [
+    {
+      "id": "1190000017035540",
+      "title": "浅谈重构造成的灾难性毁灭",
+      "url": "/a/1190000017035540",
+      "desc": "这章我在7月20号的时候就准备好了标题，在那之前有写过一篇重构的文章，这段时间一直在等重构造成的弊端。",
+      "author": {
+        "nick": "CrazyCodes",
+        "homepage": "/u/CrazyCodes"
+      }
+    },
+    {
+      "id": "1190000017035498",
+      "title": "《Java编程思想》笔记14.类型信息",
+      "url": "/a/1190000017035498",
+      "desc": "运行时类型信息使得你可以在运行时发现和使用类型信息，主要有两种方式： “传统的”RTTI，它假定我们在编译时已经知道了所有的类型； “反射”机制，它允许我们在运行时发现和使用类的信息。 14.1 为什么需要RTTI RT...",
+      "author": {
+        "nick": "SpiderSama",
+        "homepage": "/u/spidersama"
+      }
+    },
+    {
+      "id": "1190000017035268",
+      "title": "聊聊 scala 的模式匹配",
+      "url": "/a/1190000017035268",
+      "desc": "pattern matching 可以说是 scala 中十分强大的一个语言特性，当然这不是 scala 独有的，但这不妨碍它成为 scala 的语言的一大利器。",
+      "author": {
+        "nick": "阿里云云栖社区",
+        "homepage": "/u/yunqishequ_5aa899aad5395"
+      }
+    },
+    {
+      "id": "1190000017034931",
+      "title": "Spring Boot 自定义日志详解",
+      "url": "/a/1190000017034931",
+      "desc": "本节内容基于 Spring Boot 2.0. 你所需具备的基础 什么是 Spring Boot? Spring Boot 核心配置文件详解 Spring Boot 开启的 2 种方式 Spring Boot 自动配置原理、实战 Spring Boot 2.x 启动全过程源码分析 更多请...",
+      "author": {
+        "nick": "Java技术栈",
+        "homepage": "/u/javastack"
+      }
+    },
+    {
+      "id": "1190000017033783",
+      "title": "Spring Boot（十四）RabbitMQ延迟队列",
+      "url": "/a/1190000017033783",
+      "desc": "延迟队列的使用场景：1.未按时支付的订单，30分钟过期之后取消订单；2.给活跃度比较低的用户间隔N天之后推送消息，提高活跃度；3.过1分钟给新注册会员的用户，发送注册邮件等。",
+      "author": {
+        "nick": "王磊",
+        "homepage": "/u/vipstone"
+      }
+    },
+    {
+      "id": "1190000017033710",
+      "title": "Intellij IDEA 中文输入法不跟随光标",
+      "url": "/a/1190000017033710",
+      "desc": "win10 系统自带输入法，在 IDEA 中输入中文时，候选词框固定出现右下角，不跟随光标，非常不习惯。",
+      "author": {
+        "nick": "bour",
+        "homepage": "/u/bour"
+      }
+    },
+    {
+      "id": "1190000017029982",
+      "title": "一位 30 岁程序员的编程职业生涯自述",
+      "url": "/a/1190000017029982",
+      "desc": "我是一名程序员，在几个月前刚过完三十岁生日。某个星期六的早晨，我参加了一个 React Native技术交流会，演讲者正在竭力说服我们为什么它会成为移动开发领域真正的下一个大事件。但对我来说，它有点像五年前的 j...",
+      "author": {
+        "nick": "越过山丘",
+        "homepage": "/u/yueguoshanqiu_5bc6f8d3f027b"
+      }
+    },
+    {
+      "id": "1190000017029964",
+      "title": "【跃迁之路】【642天】程序员高效学习方法论探索系列（实验阶段399-2018.11.15）",
+      "url": "/a/1190000017029964",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000017029094",
+      "title": "浅析微信支付：(余额提现)企业付款到微信用户零钱或银行卡账户",
+      "url": "/a/1190000017029094",
+      "desc": "本文是【浅析微信支付】系列文章的第十二篇，主要讲解在商户存在的提现、商户付款到微信用户零钱或者银行卡需求。",
+      "author": {
+        "nick": "YClimb",
+        "homepage": "/u/yclimb"
+      }
+    },
+    {
+      "id": "1190000017028473",
+      "title": "数据结构学习笔记-时间复杂度",
+      "url": "/a/1190000017028473",
+      "desc": "在进行算法分析时，语句总的执行次数T(n)是关于问题规模n的函数，进而分析T(n)随n的变化情况并确定T(n)的数量级。算法的时间复杂度，也就是算法的时间量度，记作：T(n) = O(f(n))。它表示随问题规模n的增大，算法...",
+      "author": {
+        "nick": "木子三金",
+        "homepage": "/u/muzisanjin"
+      }
+    },
+    {
+      "id": "1190000017027694",
+      "title": "slf4j 日志监控(一)",
+      "url": "/a/1190000017027694",
+      "desc": "问题描述 监控系统 新系统起步，旨在监控原有系统的各种问题。主要的一部分，就是监视原有系统的日志。 日志，是Java企业级应用开发必不可少的一部分，市场上有诸多日志框架。我们选用slf4j。 日志有以下级别： T...",
+      "author": {
+        "nick": "张喜硕",
+        "homepage": "/u/zhangxishuo"
+      }
+    },
+    {
+      "id": "1190000017026458",
+      "title": "[LeetCode] 9. Palindrome Number",
+      "url": "/a/1190000017026458",
+      "desc": "Determine whether an integer is a palindrome. An integer is a palindrome when it reads the same backward as forward.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000017025829",
+      "title": "传统行业程序员的深度焦虑？——快来互联网行业吧！",
+      "url": "/a/1190000017025829",
+      "desc": "不少在传统行业摸爬滚打的程序员越来越焦虑了，有些甚至睡不着觉。为什么？传统行业的程序员们每天进行的都是业务代码的编写，接触不到更新更好的技术；公司的效益并不好，如未达到目标收益，只能进行“瘦身”，技...",
+      "author": {
+        "nick": "olle",
+        "homepage": "/u/olle"
+      }
+    },
+    {
+      "id": "1190000017025645",
+      "title": "mvn exec运行java Main报错",
+      "url": "/a/1190000017025645",
+      "desc": "今天在IDEA上写了一个项目，使用IDEA运行main函数时，程序运行正常，但是放到服务器上，使用maven的指令：mvn exec:java -Dexec.mainClass=\"\"的时候，报了一个八竿子打不着的错误：ObjectInputStream的异常。但是...",
+      "author": {
+        "nick": "十三",
+        "homepage": "/u/shisan_5b3c8ddbf1d02"
+      }
+    },
+    {
+      "id": "1190000017024549",
+      "title": "集成spring boot + mysql + docker实战",
+      "url": "/a/1190000017024549",
+      "desc": "网上找过很多文章，关于通过docker构建mysql容器并将应用容器和docker容器关联起来的文章不多。本文将给出具体的范例。此处为项目的源码",
+      "author": {
+        "nick": "raledong",
+        "homepage": "/u/raledong"
+      }
+    }
+  ]
+}
