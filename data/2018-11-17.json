@@ -1,0 +1,155 @@
+{
+  "watchNum": "30160",
+  "blogs": [
+    {
+      "id": "1190000017046308",
+      "title": "你真的知道Python的字符串是什么吗？",
+      "url": "/a/1190000017046308",
+      "desc": "There are few guarantees in life: death, taxes, and programmers needing to deal with strings.",
+      "author": {
+        "nick": "chinesehuazhou",
+        "homepage": "/u/chinesehuazhou"
+      }
+    },
+    {
+      "id": "1190000017046251",
+      "title": "解决 Intellij IDEA 文件图标一直闪烁",
+      "url": "/a/1190000017046251",
+      "desc": "异常信息： Intellij IDEA 文件图标持续闪烁；状态栏一直显示更新索引...... 异常原因： 尚不明确。 解决方法： 清除 IDEA 的缓存。 菜单操作路径如下： {代码...} 点击后 IDEA 会自动重启，重启后会重建文件的索...",
+      "author": {
+        "nick": "bour",
+        "homepage": "/u/bour"
+      }
+    },
+    {
+      "id": "1190000017044009",
+      "title": "从程序员的角度深入理解MySQL",
+      "url": "/a/1190000017044009",
+      "desc": "不必多说，数据当然需要存储；存储了还不够，显然需要提供程序对存储的操作进行封装，对外提供增删改查的API，即实例。",
+      "author": {
+        "nick": "bali",
+        "homepage": "/u/bali_5a0a92fba16aa"
+      }
+    },
+    {
+      "id": "1190000017043336",
+      "title": "[LeetCode] 733. Flood Fill",
+      "url": "/a/1190000017043336",
+      "desc": "An image is represented by a 2-D array of integers, each integer representing the pixel value of the image (from 0 to 65535).",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000017042576",
+      "title": "浅析微信支付：商户平台开通现金红包、指定用户发放、红包记录查询",
+      "url": "/a/1190000017042576",
+      "desc": "本文是【浅析微信支付】系列文章的第十三篇，主要讲解在如何开通商户平台的红包功能和为用户发放红包，以及查询发送红包记录。",
+      "author": {
+        "nick": "YClimb",
+        "homepage": "/u/yclimb"
+      }
+    },
+    {
+      "id": "1190000017042167",
+      "title": "浏览器缓存是什么？它的机制又是什么？",
+      "url": "/a/1190000017042167",
+      "desc": "对于浏览器缓存，相信很多开发者对它真的是又爱又恨。一方面极大地提升了用户体验，而另一方面有时会因为读取了缓存而展示了“错误”的东西，而在开发过程中千方百计地想把缓存禁掉。那么浏览器缓存究竟是个什么样...",
+      "author": {
+        "nick": "olle",
+        "homepage": "/u/olle"
+      }
+    },
+    {
+      "id": "1190000017042036",
+      "title": "[LeetCode] 378. Kth Smallest Element in a Sorted Matrix",
+      "url": "/a/1190000017042036",
+      "desc": "Given a n x n matrix where each of the rows and columns are sorted in ascending order, find the kth smallest element in the matrix.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000017042024",
+      "title": "Java程序员的出路在哪里？",
+      "url": "/a/1190000017042024",
+      "desc": "当初听说java程序员工资高，就培训了下，转行到java编程方面了。一年多了，工资没有涨过，感觉技术上的收获也不多，现在都不想去上班了，怀疑自己的当初的选择。",
+      "author": {
+        "nick": "007大树将军",
+        "homepage": "/u/javajiagoushi007"
+      }
+    },
+    {
+      "id": "1190000017041947",
+      "title": "【跃迁之路】【643天】程序员高效学习方法论探索系列（实验阶段400-2018.11.16）",
+      "url": "/a/1190000017041947",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000017041796",
+      "title": "网络协议 4 - 交换机与 VLAN",
+      "url": "/a/1190000017041796",
+      "desc": "    上一次，我们通过宿舍联网打魔兽的需求，认识了如何通过物理层和链路层组建一个宿舍局域网。今天，让我们切换到稍微复杂点的场景，办公室。",
+      "author": {
+        "nick": "北国风光",
+        "homepage": "/u/beiguofengguang"
+      }
+    },
+    {
+      "id": "1190000017041028",
+      "title": "利用springboot创建多模块项目",
+      "url": "/a/1190000017041028",
+      "desc": "最近要对一个不大不小的项目进行重构，用spring觉得太过于繁琐，用cloud又有觉得过于庞大，维护的人手不够；权衡之下，最终选了springboot作为架子，但是因为项目涉及的业务模块较多，各个模块之间的业务交流不是...",
+      "author": {
+        "nick": "jaybril",
+        "homepage": "/u/jaybril"
+      }
+    },
+    {
+      "id": "1190000017040893",
+      "title": "一文让你彻底理解 Java NIO 核心组件",
+      "url": "/a/1190000017040893",
+      "desc": "同步、异步、阻塞、非阻塞首先，这几个概念非常容易搞混淆，但NIO中又有涉及，所以总结一下[1]。 同步：API调用返回时调用者就知道操作的结果如何了（实际读取/写入了多少字节）。 异步：相对于同步，API调用返回...",
+      "author": {
+        "nick": "茶轴的青春",
+        "homepage": "/u/chazhoudeqingchun"
+      }
+    },
+    {
+      "id": "1190000017040635",
+      "title": "[LeetCode] 695. Max Area of Island",
+      "url": "/a/1190000017040635",
+      "desc": "Given a non-empty 2D array grid of 0's and 1's, an island is a group of 1's (representing land) connected 4-directionally (horizontal or vertical.) You may assume all four edges of the grid are sur...",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000017040446",
+      "title": "[LeetCode] 384. Shuffle an Array",
+      "url": "/a/1190000017040446",
+      "desc": "// Init an array with set 1, 2, and 3.int[] nums = {1,2,3};Solution solution = new Solution(nums);",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000017039595",
+      "title": "专访阿里王贤：我所理解的网站架构",
+      "url": "/a/1190000017039595",
+      "desc": "王贤（花名贤哥），淘宝技术部技术专家，在分布式系统架构设计、高并发系统设计、系统稳定性保障等领域积累了较为丰富的实践经验，对新技术有浓厚的兴趣。",
+      "author": {
+        "nick": "007大树将军",
+        "homepage": "/u/javajiagoushi007"
+      }
+    }
+  ]
+}
