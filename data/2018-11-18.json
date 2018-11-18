@@ -1,0 +1,155 @@
+{
+  "watchNum": "30162",
+  "blogs": [
+    {
+      "id": "1190000017051879",
+      "title": "Cookie学习",
+      "url": "/a/1190000017051879",
+      "desc": "    Cookie是存储于访问者的计算机中的变量。每当同一台计算机通过浏览器请求某个页面时，就会发送这个cookie。",
+      "author": {
+        "nick": "Huangy远",
+        "homepage": "/u/huangyuanlu"
+      }
+    },
+    {
+      "id": "1190000017051833",
+      "title": "Tomcat学习笔记",
+      "url": "/a/1190000017051833",
+      "desc": "1、url访问路径：比如[链接]:8080/deploy/test则默认访问webapp/deploy/test目录",
+      "author": {
+        "nick": "Huangy远",
+        "homepage": "/u/huangyuanlu"
+      }
+    },
+    {
+      "id": "1190000017051537",
+      "title": "[LeetCode] 529. Minesweeper",
+      "url": "/a/1190000017051537",
+      "desc": "Let's play the minesweeper game (Wikipedia, online game)!",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000017051442",
+      "title": "[LeetCode] 526. Beautiful Arrangement",
+      "url": "/a/1190000017051442",
+      "desc": "Suppose you have N integers from 1 to N. We define a beautiful arrangement as an array that is constructed by these N numbers successfully if one of the following is true for the ith position (1 &l...",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000017051148",
+      "title": "【跃迁之路】【644天】程序员高效学习方法论探索系列（实验阶段401-2018.11.17）",
+      "url": "/a/1190000017051148",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000017050930",
+      "title": "《Java8实战》-第十二章笔记（新的日期和时间API）",
+      "url": "/a/1190000017050930",
+      "desc": "Java的API提供了很多有用的组件，能帮助你构建复杂的应用。不过，Java API也不总是完美的。我们相信大多数有经验的程序员都会赞同Java 8之前的库对日期和时间的支持就非常不理想。然而，你也不用太担心：Java 8中...",
+      "author": {
+        "nick": "雷侠",
+        "homepage": "/u/nglsl666"
+      }
+    },
+    {
+      "id": "1190000017050659",
+      "title": "gson-plugin如何在JitPack发布（四）",
+      "url": "/a/1190000017050659",
+      "desc": "1.普通的java库可以通过源码的方式直接引入并使用，gson-plugin是一个插件，无法通过源码的方式使用，只能编译并发布以后，才能被正常使用。2.github是一个代码仓库，我们可以将源代码托管在这个平台上。3.JitPac...",
+      "author": {
+        "nick": "月笼冰泉",
+        "homepage": "/u/yuelongbingquan"
+      }
+    },
+    {
+      "id": "1190000017050319",
+      "title": "gson-plugin深入源码分析（三）",
+      "url": "/a/1190000017050319",
+      "desc": "1.对外暴露setListener()接口，用户可以监听到Json解析异常。2.checkJsonToken()方法，用于判断输入字段的数据类型是否与预期的数据类型一致，如果数据类型不一致，则跳过解析，同时通知listener解析失败。该方法...",
+      "author": {
+        "nick": "月笼冰泉",
+        "homepage": "/u/yuelongbingquan"
+      }
+    },
+    {
+      "id": "1190000017049483",
+      "title": "gson-plugin基础源码分析（二）",
+      "url": "/a/1190000017049483",
+      "desc": "一、项目地址 项目地址：github-gson-plugin 二、Gson解析核心类 1.ArrayTypeAdapter.JAVA 用于解析数组类型的数据 {代码...} 2.CollectionTypeAdapterFactory.JAVA 用于解析集合类型的数据 {代码...} 3.MapTypeA...",
+      "author": {
+        "nick": "月笼冰泉",
+        "homepage": "/u/yuelongbingquan"
+      }
+    },
+    {
+      "id": "1190000017048982",
+      "title": "gson-plugin告别Json数据类型不一致（一）",
+      "url": "/a/1190000017048982",
+      "desc": "看完这4篇文章，对Gson解析会有更加深刻的认识，对Android的编译流程会有更加深刻的认识，写Android Plugin插件不在话下，修改Java字节码小意思，发布一个开源项目so easy！",
+      "author": {
+        "nick": "月笼冰泉",
+        "homepage": "/u/yuelongbingquan"
+      }
+    },
+    {
+      "id": "1190000017048008",
+      "title": "[LeetCode] 457. Circular Array Loop",
+      "url": "/a/1190000017048008",
+      "desc": "You are given an array of positive and negative integers. If a number n at an index is positive, then move forward n steps. Conversely, if it's negative (-n), move backward n steps. Assume the firs...",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000017047983",
+      "title": "[LeetCode] 119. Pascal's Triangle II",
+      "url": "/a/1190000017047983",
+      "desc": "In Pascal's triangle, each number is the sum of the two numbers directly above it.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000017047919",
+      "title": "[LeetCode] 408. Valid Word Abbreviation",
+      "url": "/a/1190000017047919",
+      "desc": "Given a non-empty string s and an abbreviation abbr, return whether the string matches with the given abbreviation.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000017046434",
+      "title": "linux系统安装jdk",
+      "url": "/a/1190000017046434",
+      "desc": "1.oracle官网下载jdk 网址：[链接] 选择则Linux系统1.8版本64位如图： 2.把jdk压缩包解压到安装的目录 例如我的： {代码...} 解压： {代码...} 3.配置环境变量 编辑配置文件： {代码...} 向文件里追加配置： {代...",
+      "author": {
+        "nick": "liukai90",
+        "homepage": "/u/liukai90"
+      }
+    },
+    {
+      "id": "1190000017046308",
+      "title": "你真的知道Python的字符串是什么吗？",
+      "url": "/a/1190000017046308",
+      "desc": "There are few guarantees in life: death, taxes, and programmers needing to deal with strings.",
+      "author": {
+        "nick": "chinesehuazhou",
+        "homepage": "/u/chinesehuazhou"
+      }
+    }
+  ]
+}
