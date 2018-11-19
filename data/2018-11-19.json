@@ -1,0 +1,155 @@
+{
+  "watchNum": "30164",
+  "blogs": [
+    {
+      "id": "1190000017060277",
+      "title": "通过阿里云短信服务群发短信",
+      "url": "/a/1190000017060277",
+      "desc": "周末回了趟公司, 恰巧遇到产品让我给一批用户发送推广短信, 于是改了下阿里云的demo, sleep时间为0.1ms时速度是100条/min.这是地址, 尚有很大的改进空间, 欢迎指正 !",
+      "author": {
+        "nick": "frolc",
+        "homepage": "/u/frolc"
+      }
+    },
+    {
+      "id": "1190000017059002",
+      "title": "Github上 Star 数相加超过 7w+ 的三个面试相关的仓库推荐",
+      "url": "/a/1190000017059002",
+      "desc": "关注我公众号的大部分人应该知道我开源的 JavaGuide ，今天再来给大家安利另外两个做的很好的开源文档。从 Star 数最少的我的那个来，哈哈！文末分享了我精选的几个面试相关的资源，都是我看过的,而且好评比较多...",
+      "author": {
+        "nick": "Snailclimb",
+        "homepage": "/u/snailclimb"
+      }
+    },
+    {
+      "id": "1190000017058010",
+      "title": "服务网关 Zuul 与 Redis 结合实现 Token 权限校验",
+      "url": "/a/1190000017058010",
+      "desc": "权限校验或者身份验证就不得不提 Token，目前 Token 的验证方式有很多种，有生成 Token 后将 Token 存储在 Redis 或数据库的，也有很多用 JWT（JSON Web Token）的。",
+      "author": {
+        "nick": "solo",
+        "homepage": "/u/solocoder"
+      }
+    },
+    {
+      "id": "1190000017057950",
+      "title": "Redis详解 - SpringBoot整合Redis，RedisTemplate和注解两种方式的使用",
+      "url": "/a/1190000017057950",
+      "desc": "本文主要讲 Redis 的使用，如何与 SpringBoot 项目整合，如何使用注解方式和 RedisTemplate 方式实现缓存。最后会给一个用 Redis 实现分布式锁，用在秒杀系统中的案例。",
+      "author": {
+        "nick": "solo",
+        "homepage": "/u/solocoder"
+      }
+    },
+    {
+      "id": "1190000017057885",
+      "title": "评论模块优化 - 数据表优化、添加缓存及用 Feign 与用户服务通信",
+      "url": "/a/1190000017057885",
+      "desc": "之前评论一共分了两张表，一个评论主表，一个回复表。这两张表的字段区别不大，在主表上加个 pid 字段就可以不用回复表合成一张表了。",
+      "author": {
+        "nick": "solo",
+        "homepage": "/u/solocoder"
+      }
+    },
+    {
+      "id": "1190000017057186",
+      "title": "【跃迁之路】【645天】程序员高效学习方法论探索系列（实验阶段402-2018.11.18）",
+      "url": "/a/1190000017057186",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000017057058",
+      "title": "Dubbo 源码分析 - 集群容错之 Directory",
+      "url": "/a/1190000017057058",
+      "desc": "前面文章分析了服务的导出与引用过程，从本篇文章开始，我将开始分析 Dubbo 集群容错方面的源码。这部分源码包含四个部分，分别是服务目录 Directory、服务路由 Router、集群 Cluster 和负载均衡 LoadBalance。这...",
+      "author": {
+        "nick": "coolblog",
+        "homepage": "/u/coolblog"
+      }
+    },
+    {
+      "id": "1190000017056719",
+      "title": "夯实Java：从面向对象说起",
+      "url": "/a/1190000017056719",
+      "desc": "作者：伯特出处：github.com/ruicbAndroid/LoulanPlan声明：本文出自伯特的《LoulanPlan》，转载务必注明作者及出处。",
+      "author": {
+        "nick": "ruicbAndroid",
+        "homepage": "/u/ruicbandroid"
+      }
+    },
+    {
+      "id": "1190000017056525",
+      "title": "[LeetCode] 291. Word Pattern II",
+      "url": "/a/1190000017056525",
+      "desc": "Given a pattern and a string str, find if str follows the same pattern.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000017056368",
+      "title": "[LeetCode] 518. Coin Change 2",
+      "url": "/a/1190000017056368",
+      "desc": "You are given coins of different denominations and a total amount of money. Write a function to compute the number of combinations that make up that amount. You may assume that you have infinite nu...",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000017056226",
+      "title": "[LeetCode] 254. Factor Combinations",
+      "url": "/a/1190000017056226",
+      "desc": "Numbers can be regarded as product of its factors. For example,",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000017055665",
+      "title": "对象克隆问题",
+      "url": "/a/1190000017055665",
+      "desc": "问题描述 编写观察者的单元测试，执行以下测试通过。断言不确定度，非强检器具，参量以及附加参量都修改成功。 {代码...} 测试通过了，但是并不是我想要的。 因为我在执行该测试时，还没有写修改附加参量的方法。...",
+      "author": {
+        "nick": "张喜硕",
+        "homepage": "/u/zhangxishuo"
+      }
+    },
+    {
+      "id": "1190000017055260",
+      "title": "Web Api 基于Zookeeper的服务注册与发现",
+      "url": "/a/1190000017055260",
+      "desc": "差异 基于Nginx的服务提供和消费 　　 基于zookeeper的服务注册和发现 　　 zk的负载均衡是可以调控，nginx只是能调权重，其他需要可控的都需要自己写插件；但是nginx的吞吐量比zk大很多，可以根据业务选择用哪种...",
+      "author": {
+        "nick": "olle",
+        "homepage": "/u/olle"
+      }
+    },
+    {
+      "id": "1190000017054780",
+      "title": "Gson字段解析失败兼容（gson-plugin）",
+      "url": "/a/1190000017054780",
+      "desc": "一行代码解决Android某个字段gson解析失败，导致网络请求整体失败的问题。原文项目github地址 1.工程根目录加入repositories {代码...} 2.工程根目录build.gradle加入ClassPath {代码...} 3.工程app目录build.gra...",
+      "author": {
+        "nick": "月笼冰泉",
+        "homepage": "/u/yuelongbingquan"
+      }
+    },
+    {
+      "id": "1190000017054699",
+      "title": "941-有效的山脉数组",
+      "url": "/a/1190000017054699",
+      "desc": "给定一个整数数组 A，如果它是有效的山脉数组就返回 true，否则返回 false`。 让我们回顾一下，如果 A 满足下述条件，那么它是一个山脉数组： A.length >= 3 在 0 < i < A.length - 1 条件下，存在 i 使...",
+      "author": {
+        "nick": "Null",
+        "homepage": "/u/null_ryan"
+      }
+    }
+  ]
+}
