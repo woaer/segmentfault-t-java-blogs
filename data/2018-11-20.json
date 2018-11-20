@@ -1,0 +1,155 @@
+{
+  "watchNum": "30171",
+  "blogs": [
+    {
+      "id": "1190000017073284",
+      "title": "想入职阿里的Java开发者必看，阿里巴巴面试官实战经验分享！",
+      "url": "/a/1190000017073284",
+      "desc": "最近社区Java技术进阶群的小伙伴总是会问，如何面试阿里Java技术岗，需要什么条件，做哪些准备；小编就这些问题找到了阿里技术团队中在一线真正带Java开发团队并直接参与技术面试的专家，分享了自身在筛选简历时...",
+      "author": {
+        "nick": "阿里云云栖社区",
+        "homepage": "/u/yunqishequ_5aa899aad5395"
+      }
+    },
+    {
+      "id": "1190000017072469",
+      "title": "Java开发自学学不好的原因！初学者必看",
+      "url": "/a/1190000017072469",
+      "desc": "Java在没有任何基础的情况下自学要多久呢？是不是很难？许多IT爱好者想通过自学掌握这门语言，这显然是不太现实的，Java的奥妙之深，之复杂是很难衡量的，而无论是网络上的Java教学视频,还是书本里的知识都有一个...",
+      "author": {
+        "nick": "Q1622479435",
+        "homepage": "/u/q1622479435"
+      }
+    },
+    {
+      "id": "1190000017072055",
+      "title": "如何使用SpringCloud进行灰度发布",
+      "url": "/a/1190000017072055",
+      "desc": "灰度发布是指在黑与白之间，能够平滑过渡的一种发布方式。在其上可以进行A/B testing，即让一部分用户继续用产品特性A，一部分用户开始用产品特性B，如果用户对B没有什么反对意见，那么逐步扩大范围，把所有用户...",
+      "author": {
+        "nick": "煮酒科技",
+        "homepage": "/u/zhuzhsh"
+      }
+    },
+    {
+      "id": "1190000017071080",
+      "title": "微信小程序答题，怎么设计页面渲染，答完一题，跳到下一题",
+      "url": "/a/1190000017071080",
+      "desc": "想要的效果 1.第一页只显示第一道题的内容,如图红框2.答题后，点击下一题，内容显示第二道题的内容 代码 answer.wxml {代码...} answer.js {代码...}",
+      "author": {
+        "nick": "渣渣辉",
+        "homepage": "/u/linxi_59223381a31e3"
+      }
+    },
+    {
+      "id": "1190000017070311",
+      "title": "多线程 Thread.yield 方法到底有什么用？",
+      "url": "/a/1190000017070311",
+      "desc": "yield 即 \"谦让\"，也是 Thread 类的方法。它让掉当前线程 CPU 的时间片，使正在运行中的线程重新变成就绪状态，并重新竞争 CPU 的调度权。它可能会获取到，也有可能被其他线程获取到。",
+      "author": {
+        "nick": "Java技术栈",
+        "homepage": "/u/javastack"
+      }
+    },
+    {
+      "id": "1190000017069897",
+      "title": "快速入门spring-amqp",
+      "url": "/a/1190000017069897",
+      "desc": "Spring AMQP项目将核心Spring概念应用于基于AMQP的消息传递解决方案的开发。它提供了一个“模板”作为发送和接收消息的高级抽象。它还为具有“侦听器容器”的消息驱动的POJO提供支持。这些库有助于管理AMQP资源，同时...",
+      "author": {
+        "nick": "MySelf",
+        "homepage": "/u/myself_5ab9f390c6129"
+      }
+    },
+    {
+      "id": "1190000017069239",
+      "title": "分享一些 Kafka 消费数据的小经验",
+      "url": "/a/1190000017069239",
+      "desc": "就我的使用经验来说，大部分情况都是处于数据下游的消费者角色。也用 Kafka 消费过日均过亿的消息（不得不佩服 Kakfa 的设计），本文将借助我使用 Kakfa 消费数据的经验来聊聊如何高效的消费数据。",
+      "author": {
+        "nick": "crossoverJie",
+        "homepage": "/u/crossoverjie"
+      }
+    },
+    {
+      "id": "1190000017069327",
+      "title": "[LeetCode] 68. Text Justification",
+      "url": "/a/1190000017069327",
+      "desc": "Given an array of words and a width maxWidth, format the text such that each line has exactly maxWidth characters and is fully (left and right) justified.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000017069293",
+      "title": "[LeetCode] 336. Palindrome Pairs",
+      "url": "/a/1190000017069293",
+      "desc": "Given a list of unique words, find all pairs of distinct indices (i, j) in the given list, so that the concatenation of the two words, i.e. words[i] + words[j] is a palindrome.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000017069246",
+      "title": "[LeetCode] 239. Sliding Window Maximum",
+      "url": "/a/1190000017069246",
+      "desc": "Given an array nums, there is a sliding window of size k which is moving from the very left of the array to the very right. You can only see the k numbers in the window. Each time the sliding windo...",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000017068899",
+      "title": "java队列",
+      "url": "/a/1190000017068899",
+      "desc": "这次使用顺序队列实现。（使用数组），why？为什么不直接使用顺序表作为底层容器，因为入队操作执行顺序表尾插入，时间复杂度为O(1)",
+      "author": {
+        "nick": "小小____",
+        "homepage": "/u/xiaoxiao___________"
+      }
+    },
+    {
+      "id": "1190000017068604",
+      "title": "java 多线程",
+      "url": "/a/1190000017068604",
+      "desc": "每个线程会有自己的线程栈，即，变量不能共享，只能传值拷贝每个线程new出的对象全都保存在堆中，全部共享",
+      "author": {
+        "nick": "小小____",
+        "homepage": "/u/xiaoxiao___________"
+      }
+    },
+    {
+      "id": "1190000017068071",
+      "title": "为什么这么多人在用Redis",
+      "url": "/a/1190000017068071",
+      "desc": "最近阅读了《Redis开发与运维》，非常不错，这里对书中的知识整理一下，方便自己回顾Redis的整个体系，来对相关知识点查漏补缺。",
+      "author": {
+        "nick": "越过山丘",
+        "homepage": "/u/yueguoshanqiu_5bc6f8d3f027b"
+      }
+    },
+    {
+      "id": "1190000017067957",
+      "title": "【跃迁之路】【646天】程序员高效学习方法论探索系列（实验阶段403-2018.11.19）",
+      "url": "/a/1190000017067957",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000017067661",
+      "title": "给女朋友讲解什么是Optional【JDK 8特性】",
+      "url": "/a/1190000017067661",
+      "desc": "前两天带女朋友去图书馆了，随手就给她来了一本《与孩子一起学编程》的书，于是今天就给女朋友讲解一下什么是Optional类。",
+      "author": {
+        "nick": "Java3y",
+        "homepage": "/u/java_3y"
+      }
+    }
+  ]
+}
