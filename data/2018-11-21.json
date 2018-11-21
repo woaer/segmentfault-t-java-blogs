@@ -1,0 +1,155 @@
+{
+  "watchNum": "30176",
+  "blogs": [
+    {
+      "id": "1190000017084580",
+      "title": "构建入门Restful Web服务",
+      "url": "/a/1190000017084580",
+      "desc": "该服务将处理GET请求/greeting，可选地使用name查询字符串中的参数。该GET请求应该返回200 OK在表示问候的身体与JSON响应。它应该看起来像这样：",
+      "author": {
+        "nick": "MySelf",
+        "homepage": "/u/myself_5ab9f390c6129"
+      }
+    },
+    {
+      "id": "1190000017083955",
+      "title": "var 是 Java 开发的好朋友啊！",
+      "url": "/a/1190000017083955",
+      "desc": "在这个例子中给 ArrayList 定义持有的类型就没必要了，因为 List<String> 已经定义了我们需要的类型 String ，在 Java 7 中增加了类型推断，这时例子可以直接写成",
+      "author": {
+        "nick": "极光推送",
+        "homepage": "/u/jiguangtuisong"
+      }
+    },
+    {
+      "id": "1190000017082946",
+      "title": "Dubbo 源码分析 - 集群容错之 Router",
+      "url": "/a/1190000017082946",
+      "desc": "上一篇文章分析了集群容错的第一部分 -- 服务目录 Directory。服务目录在刷新 Invoker 列表的过程中，会通过 Router 进行服务路由。上一篇文章关于服务路由相关逻辑没有细致分析，一笔带过了，本篇文章将对此进行...",
+      "author": {
+        "nick": "coolblog",
+        "homepage": "/u/coolblog"
+      }
+    },
+    {
+      "id": "1190000017081280",
+      "title": "分布式和事务你真的很熟吗？",
+      "url": "/a/1190000017081280",
+      "desc": "1、本文会涉及集群中节点的failover和recover问题.2、本文会涉及事务及不透明事务的问题.3、本文会提到微博和tweeter，并引出一个大数据问题.由于分布式这个话题太大，事务这个话题也太大，我们从一个集群的一个...",
+      "author": {
+        "nick": "bali",
+        "homepage": "/u/bali_5a0a92fba16aa"
+      }
+    },
+    {
+      "id": "1190000017081221",
+      "title": "揭秘一线互联网2019年终奖发放",
+      "url": "/a/1190000017081221",
+      "desc": "一份来自中智调研的报告，93%的企业计划发放2018年终奖，其中半数企业选择在2月份发放。在不发放年终奖的企业中，53%的企业因为企业利润大幅度下降而做此选择，另有20%的企业以其他激励形式替代年终奖。",
+      "author": {
+        "nick": "越过山丘",
+        "homepage": "/u/yueguoshanqiu_5bc6f8d3f027b"
+      }
+    },
+    {
+      "id": "1190000017081121",
+      "title": "java-study-bigdata-flink-网络资料-03-flink-集群搭建",
+      "url": "/a/1190000017081121",
+      "desc": "准备环境：机器：centos7-1（manager）, cenetos7-2(已经配置ssh免密登陆,关闭防火墙)jdk：jdk1.8flink:flink-1.6.1-bin-hadoop27-scala_2.11.tgz",
+      "author": {
+        "nick": "dhxx",
+        "homepage": "/u/dhxx"
+      }
+    },
+    {
+      "id": "1190000017081071",
+      "title": "【跃迁之路】【647天】程序员高效学习方法论探索系列（实验阶段404-2018.11.20）",
+      "url": "/a/1190000017081071",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000017080980",
+      "title": "java-study-bigdata-flink-网络资料-02-flink-wordcount",
+      "url": "/a/1190000017080980",
+      "desc": "flink word count 1、滑动窗口-wordcount ## 1.1 原理&code ## 原理： 代码：[链接] ## 1.2 测试 ## 本地测试 linux 上执行：nc -l 10101 运行main方法 提交到集群测试 1、伪分布式集群搭建下载：[链接] 解压...",
+      "author": {
+        "nick": "dhxx",
+        "homepage": "/u/dhxx"
+      }
+    },
+    {
+      "id": "1190000017080639",
+      "title": "27道Redis精选面试题，你会做几题？",
+      "url": "/a/1190000017080639",
+      "desc": "最近面试了几家公司，都问到了Redis相关问题，当时准备面试时忽略了这方面内容，面试结果就可想而知了。面试回来后，收集了身边朋友面试时遇到的关于redis的问题，进行了总结，记录一下以便之后面试有所参考。",
+      "author": {
+        "nick": "越过山丘",
+        "homepage": "/u/yueguoshanqiu_5bc6f8d3f027b"
+      }
+    },
+    {
+      "id": "1190000017080620",
+      "title": "《淘宝技术这十年》读书笔记: 分布式时代和中间件",
+      "url": "/a/1190000017080620",
+      "desc": "这篇文章主要讲述分布式时代和中间件相关知识，包括服务化、HSF、Notify和TDDL。同时里面有我们经常遇见的编码错误等相关问题，希望文章对你有所帮助!",
+      "author": {
+        "nick": "007大树将军",
+        "homepage": "/u/javajiagoushi007"
+      }
+    },
+    {
+      "id": "1190000017079464",
+      "title": "spring实现依赖查找",
+      "url": "/a/1190000017079464",
+      "desc": "公司新开发的服务需要调用其他公司的接口，但是给APP提供的接口是同一个，需要后端去自己判断使用哪个service。可以想到，最简单的办法就是if else根据字段去选个方法执行，但是，这样项目的拓展性不够高。想到了...",
+      "author": {
+        "nick": "wotrd",
+        "homepage": "/u/wotrd"
+      }
+    },
+    {
+      "id": "1190000017078882",
+      "title": "自用Java爬虫工具JAVA-CURL已开源",
+      "url": "/a/1190000017078882",
+      "desc": "CUrl类是以命令行工具CUrl为参考，使用标准Java的HttpURLConnection实现的Http工具类。",
+      "author": {
+        "nick": "rockswang",
+        "homepage": "/u/rockswang"
+      }
+    },
+    {
+      "id": "1190000017078496",
+      "title": "[LeetCode] 785. Is Graph Bipartite?",
+      "url": "/a/1190000017078496",
+      "desc": "Given an undirected graph, return true if and only if it is bipartite.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000017078197",
+      "title": "一个两年Java工程师的面试总结",
+      "url": "/a/1190000017078197",
+      "desc": "16年毕业到现在也近两年了，最近面试了阿里集团（菜鸟网络，蚂蚁金服）、网易、滴滴、点我达，最终收到点我达和网易offer，蚂蚁金服二面挂掉，菜鸟网络一个月了还在流程中…最终有幸去了网易。",
+      "author": {
+        "nick": "越过山丘",
+        "homepage": "/u/yueguoshanqiu_5bc6f8d3f027b"
+      }
+    },
+    {
+      "id": "1190000017077514",
+      "title": "做一个开源的小程序登录模块组件（token）",
+      "url": "/a/1190000017077514",
+      "desc": "对于单点登陆浅显一点的说就是两种，一种web端的基于Cookie、另一种是跨端的基于Token，一般想要做的都优先做Token吧，个人建议，因为后期扩展也方便哦。",
+      "author": {
+        "nick": "MySelf",
+        "homepage": "/u/myself_5ab9f390c6129"
+      }
+    }
+  ]
+}
