@@ -1,0 +1,155 @@
+{
+  "watchNum": "30185",
+  "blogs": [
+    {
+      "id": "1190000017099885",
+      "title": "“过时”的SpringMVC我们到底在用什么？深入分析DispatchServlet源码",
+      "url": "/a/1190000017099885",
+      "desc": "之前已经分析过了Spring的IOC(《零基础带你看Spring源码——IOC控制反转》)与AOP(《从源码入手，一文带你读懂Spring AOP面向切面编程》)的源码，本次就来分析下SpringMVC。本文先简述下目前SpringMVC的使用情况，然...",
+      "author": {
+        "nick": "公众号__Zack说码",
+        "homepage": "/u/zack_587d6bc057a6a"
+      }
+    },
+    {
+      "id": "1190000017098722",
+      "title": "未来的JAVA程序员是怎样的？",
+      "url": "/a/1190000017098722",
+      "desc": "最近有几个小伙伴一直在Java讨论群里抱怨，说现在学Java的人太多了搞得他们一直没找到工作，一个人说该不会是市场已经饱和了吧？都在讨论Java饱和的问题，不少人怨声载道，Java市场真的如他们所说的已经饱和了？...",
+      "author": {
+        "nick": "Q1622479435",
+        "homepage": "/u/q1622479435"
+      }
+    },
+    {
+      "id": "1190000017097759",
+      "title": "Java核心（三）并发中的线程同步与锁",
+      "url": "/a/1190000017097759",
+      "desc": "乐观锁、悲观锁、公平锁、自旋锁、偏向锁、轻量级锁、重量级锁、锁膨胀...难理解？不存的！来，话不多说，带你飙车。",
+      "author": {
+        "nick": "王磊",
+        "homepage": "/u/vipstone"
+      }
+    },
+    {
+      "id": "1190000017097394",
+      "title": "厉害了，Spring Cloud for Alibaba 来了！",
+      "url": "/a/1190000017097394",
+      "desc": "最近，Spring Cloud 发布了 Spring Cloud Alibaba 首个预览版本：Spring Cloud for Alibaba 0.2.0.",
+      "author": {
+        "nick": "Java技术栈",
+        "homepage": "/u/javastack"
+      }
+    },
+    {
+      "id": "1190000017095804",
+      "title": "Java™ 教程（类的更多方面）",
+      "url": "/a/1190000017095804",
+      "desc": "类的更多方面 本节介绍依赖于使用对象引用的类的更多方面以及你在前面的对象部分中了解到的点运算符。 从方法返回值 方法返回到调用它的代码。 完成方法中的所有语句。 到达return语句。 或抛出异常（稍后介绍）...",
+      "author": {
+        "nick": "博弈",
+        "homepage": "/u/leon_qi"
+      }
+    },
+    {
+      "id": "1190000017095711",
+      "title": "leetcode310. Minimum Height Trees",
+      "url": "/a/1190000017095711",
+      "desc": "在无向图的生成树中，我们可以指定任何一个节点为这棵树的根节点。现在要求在这样一棵生成树中，找到生成树的高度最低的所有根节点。",
+      "author": {
+        "nick": "raledong",
+        "homepage": "/u/raledong"
+      }
+    },
+    {
+      "id": "1190000017095442",
+      "title": "Java™ 教程（对象）",
+      "url": "/a/1190000017095442",
+      "desc": "典型的Java程序会创建许多对象，如你所知，通过调用方法进行交互，通过这些对象交互，程序可以执行各种任务，例如实现GUI，运行动画或通过网络发送和接收信息，一旦对象完成了创建它的工作，它的资源就会被回收以...",
+      "author": {
+        "nick": "博弈",
+        "homepage": "/u/leon_qi"
+      }
+    },
+    {
+      "id": "1190000017095151",
+      "title": "项目中如何使用Maven进行版本管理",
+      "url": "/a/1190000017095151",
+      "desc": "Maven 是一个项目管理工具，每个项目deploy到repository中以后，都有一个坐标，坐标中就包含一个版本，那个版本将是我们进行版本控制管理的一个重点。",
+      "author": {
+        "nick": "煮酒科技",
+        "homepage": "/u/zhuzhsh"
+      }
+    },
+    {
+      "id": "1190000017094737",
+      "title": "开发十年，只剩下这套Java开发体系了 ",
+      "url": "/a/1190000017094737",
+      "desc": "**蓦然回首自己做开发已经十年了，这十年中我获得了很多，技术能力、培训、出国、大公司的经历，还有很多很好的朋友。但再仔细一想，这十年中我至少浪费了五年时间，这五年可以足够让自己成长为一个优秀的程序员...",
+      "author": {
+        "nick": "007大树将军",
+        "homepage": "/u/javajiagoushi007"
+      }
+    },
+    {
+      "id": "1190000017094715",
+      "title": "Java™ 教程（类）",
+      "url": "/a/1190000017094715",
+      "desc": "在题为面向对象的编程概念课程中对面向对象概念的介绍以自行车课为例，以赛车，山地自行车和双人自行车为子类，下面是可能实现Bicycle类的示例代码，为你提供类声明的概述，本课程的后续部分将逐步备份和解释类声...",
+      "author": {
+        "nick": "博弈",
+        "homepage": "/u/leon_qi"
+      }
+    },
+    {
+      "id": "1190000017094369",
+      "title": "浅谈 Java 10 ，你可能不知道的五件事",
+      "url": "/a/1190000017094369",
+      "desc": "Java 9出现之后仅仅过去6个月，现在Java 10已经在敲门了。与它的版本号一样，Java10提供了10个新特性，本文提供了我认为最重要的5个特性（您可以在Open JDK10项目页面上查看它们）。局部变量类型推断是有争议的热...",
+      "author": {
+        "nick": "007大树将军",
+        "homepage": "/u/javajiagoushi007"
+      }
+    },
+    {
+      "id": "1190000017093575",
+      "title": "【跃迁之路】【648天】程序员高效学习方法论探索系列（实验阶段405-2018.11.21）",
+      "url": "/a/1190000017093575",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000017093216",
+      "title": "Notification通知栏",
+      "url": "/a/1190000017093216",
+      "desc": "目录介绍 1.Notification简单概述 2.Notification通知用途 3.Notification的基本操作 3.1 Notification创建必要的属性 3.2 Notification简单创建步骤 3.3 关于setSmallIcon()与setLargeIcon()区别 3.4 Notificati...",
+      "author": {
+        "nick": "潇湘剑雨",
+        "homepage": "/u/xiangjianyu"
+      }
+    },
+    {
+      "id": "1190000017092990",
+      "title": "安卓中handler原理与生产者消费者模型比较",
+      "url": "/a/1190000017092990",
+      "desc": "github地址:生产者与消费者代码中展示,生产者与消费者是分别是两个线程,生产或者消耗的资源是num,而Resource3类是个生产线(queue),通过java的BlockingQueue对生产与消费进行阻塞,最终通过main方法创建线程进行生...",
+      "author": {
+        "nick": "20171112",
+        "homepage": "/u/20171112"
+      }
+    },
+    {
+      "id": "1190000017092178",
+      "title": "[LeetCode] 432. All O`one Data Structure",
+      "url": "/a/1190000017092178",
+      "desc": "Implement a data structure supporting the following operations:",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    }
+  ]
+}
