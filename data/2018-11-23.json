@@ -1,0 +1,155 @@
+{
+  "watchNum": "30259",
+  "blogs": [
+    {
+      "id": "1190000017115722",
+      "title": "墙裂推荐：搜云库技术团队，整理一年的技术干货",
+      "url": "/a/1190000017115722",
+      "desc": "今天整理了一下近大半年以来的一些文章，和我的预期一样，很多文章我都忘记自己曾经写过了，这个记录的过程让我也有了新的理解。希望大家，收藏，点赞，加转发。",
+      "author": {
+        "nick": "搜云库技术团队",
+        "homepage": "/u/souyunku"
+      }
+    },
+    {
+      "id": "1190000017115062",
+      "title": "作为Java code copyer，你真的了解Integer吗",
+      "url": "/a/1190000017115062",
+      "desc": "Integer 和 int的区别 int是Java的一种基本类型，Integer则是对应的包装类。 Integer的默认值是null，int的默认值是0 Integer变量必须实例化后才能使用，而int变量不需要 Integer是引用类型、int则是直接存储数据...",
+      "author": {
+        "nick": "码魇",
+        "homepage": "/u/ma_5b4fe416664f8"
+      }
+    },
+    {
+      "id": "1190000017114994",
+      "title": "kafka集群搭建",
+      "url": "/a/1190000017114994",
+      "desc": "ip地址 安装服务10.0.0.52 zookeeper-3.4.10、kafka2.10、kafka-manager10.0.0.53 zookeeper-3.4.10、kafka2.1010.0.0.54 zookeeper-3.4.10、kafka2.10",
+      "author": {
+        "nick": "禁止进入i",
+        "homepage": "/u/python_student"
+      }
+    },
+    {
+      "id": "1190000017114363",
+      "title": "Rust中的范型编程-Exonum是如何从Iron转移到Actix-web",
+      "url": "/a/1190000017114363",
+      "desc": "本文同步与Rust中文社区时间：2018-11-23，作者：krircc， 简介：天青色 欢迎向Rust中文社区投稿,投稿地址,好文将在以下地方直接展示 Rust中文社区首页 Rust中文社区Rust文章栏目 知乎专栏Rust语言 Rust生态系统...",
+      "author": {
+        "nick": "kriry",
+        "homepage": "/u/kriry"
+      }
+    },
+    {
+      "id": "1190000017114240",
+      "title": "[LeetCode] 721. Accounts Merge",
+      "url": "/a/1190000017114240",
+      "desc": "Given a list accounts, each element accounts[i] is a list of strings, where the first element accountsi is a name, and the rest of the elements are emails representing emails of the account.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000017112405",
+      "title": "reactive programming  的概念",
+      "url": "/a/1190000017112405",
+      "desc": "What is Reactive Programming?为了了解Reactive——从编程范式至其背后的动机，有必要了解现在的开发者和公司在十年前不曾面对的挑战。",
+      "author": {
+        "nick": "seeing",
+        "homepage": "/u/seeing_5bdbefbfea520"
+      }
+    },
+    {
+      "id": "1190000017112386",
+      "title": "Android 应用防止被二次打包指南",
+      "url": "/a/1190000017112386",
+      "desc": "“Android APP二次打包”则是盗版正规Android APP，破解后植入恶意代码重新打包。不管从性能、用户体验、外观它都跟正规APP一模一样但是背后它确悄悄运行着可怕的程序，它会在不知不觉中浪费手机电量、流量，恶意扣...",
+      "author": {
+        "nick": "爱编码的coder",
+        "homepage": "/u/chengxuyuanxiaohui"
+      }
+    },
+    {
+      "id": "1190000017111997",
+      "title": "leetcode334. Increasing Triplet Subsequence",
+      "url": "/a/1190000017111997",
+      "desc": "假设有一个无序的数组，如果数组中从左到右存在三个由小到大的数字，则返回true。否则返回false。",
+      "author": {
+        "nick": "raledong",
+        "homepage": "/u/raledong"
+      }
+    },
+    {
+      "id": "1190000017111135",
+      "title": "《Java编程思想》笔记13.字符串",
+      "url": "/a/1190000017111135",
+      "desc": "String底层是由char[]实现的，是不可变的。看起来会改变String的方法，实际上都是创建了一个新的String对象，任何指向它的引用都不可能改变它本身的值。",
+      "author": {
+        "nick": "SpiderSama",
+        "homepage": "/u/spidersama"
+      }
+    },
+    {
+      "id": "1190000017110948",
+      "title": "要搞懂 Elasticsearch Match Query，看这篇就够了",
+      "url": "/a/1190000017110948",
+      "desc": "昨天是感恩节，上幼儿园的女儿在老师的叮嘱下，晚上为我和老婆洗了脚(形式上的^_^)，还给我们每人端了一杯水。看着孩子一天天的长大，懂事，感觉很开心，话说咱们程序员这么辛苦是为了什么？不就是为了老婆，孩子...",
+      "author": {
+        "nick": "ReyCG",
+        "homepage": "/u/reycg"
+      }
+    },
+    {
+      "id": "1190000017110241",
+      "title": "[LeetCode] 382. Linked List Random Node",
+      "url": "/a/1190000017110241",
+      "desc": "Given a singly linked list, return a random node's value from the linked list. Each node must have the same probability of being chosen.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000017109902",
+      "title": "Java™ 教程（局部类）",
+      "url": "/a/1190000017109902",
+      "desc": "局部类是在块中定义的类，它是一对大括号之间的一组零个或多个语句，你通常会在方法体中找到定义的局部类。",
+      "author": {
+        "nick": "博弈",
+        "homepage": "/u/leon_qi"
+      }
+    },
+    {
+      "id": "1190000017109897",
+      "title": "Java™ 教程（嵌套类）",
+      "url": "/a/1190000017109897",
+      "desc": "术语：嵌套类分为两类：静态和非静态，声明为static的嵌套类称为静态嵌套类，非静态嵌套类称为内部类。",
+      "author": {
+        "nick": "博弈",
+        "homepage": "/u/leon_qi"
+      }
+    },
+    {
+      "id": "1190000017109679",
+      "title": "解读 Java 并发队列 BlockingQueue",
+      "url": "/a/1190000017109679",
+      "desc": "本文直接参考 Doug Lea 写的 Java doc 和注释，这也是我们在学习 java 并发包时最好的材料了。希望大家能有所思、有所悟，学习 Doug Lea 的代码风格，并将其优雅、严谨的作风应用到我们写的每一行代码中。",
+      "author": {
+        "nick": "Alpaca",
+        "homepage": "/u/alpaca_5a094f8e22ff6"
+      }
+    },
+    {
+      "id": "1190000017109565",
+      "title": "基于AQS构建CountDownLatch、CyclicBarrier和Semaphore",
+      "url": "/a/1190000017109565",
+      "desc": "本文先用 CountDownLatch 将共享模式说清楚，然后顺着把其他 AQS 相关的类 CyclicBarrier、Semaphore 的源码一起过一下。",
+      "author": {
+        "nick": "Alpaca",
+        "homepage": "/u/alpaca_5a094f8e22ff6"
+      }
+    }
+  ]
+}
