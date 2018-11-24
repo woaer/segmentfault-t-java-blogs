@@ -1,0 +1,155 @@
+{
+  "watchNum": "30450",
+  "blogs": [
+    {
+      "id": "1190000017127361",
+      "title": "Netty ByteBuf",
+      "url": "/a/1190000017127361",
+      "desc": "ByteBuf ByteBuf需要提供JDK ByteBuffer的功能(包含且不限于)，主要有以下几类基本功能： 7种Java基础类型、byte[]、ByteBuffer(ByteBuf)的等的读写 缓冲区自身的copy和slice 设置网络字节序 构造缓冲区实例 操作...",
+      "author": {
+        "nick": "旧光影里的少年",
+        "homepage": "/u/jiuguangyinglideshaonian"
+      }
+    },
+    {
+      "id": "1190000017126847",
+      "title": "[LeetCode] 199. Binary Tree Right Side View",
+      "url": "/a/1190000017126847",
+      "desc": "Given a binary tree, imagine yourself standing on the right side of it, return the values of the nodes you can see ordered from top to bottom.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000017126051",
+      "title": "应用控制器模式",
+      "url": "/a/1190000017126051",
+      "desc": "应用控制器模式 来源：[链接] 问题需求 您想要一个集中化和模块化的操作与视图管理 您想复用操作与视图管理的代码 您想提升请求处理的扩展性，如在应用中逐步增加用例功能 您想提高代码的模块性和维护性，使它更...",
+      "author": {
+        "nick": "麦冬",
+        "homepage": "/u/poseidon_ocean"
+      }
+    },
+    {
+      "id": "1190000017125349",
+      "title": "[LeetCode] 65. Valid Number",
+      "url": "/a/1190000017125349",
+      "desc": "Validate if a given string can be interpreted as a decimal number.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000017125308",
+      "title": "[LeetCode] 671. Second Minimum Node In a Binary Tree",
+      "url": "/a/1190000017125308",
+      "desc": "Given a non-empty special binary tree consisting of nodes with the non-negative value, where each node in this tree has exactly two or zero sub-node. If the node has two sub-nodes, then this node's...",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000017124923",
+      "title": "猫头鹰的深夜翻译：JDK Vs. JRE Vs. JVM之间的区别",
+      "url": "/a/1190000017124923",
+      "desc": "JDK通常用来开发Java应用和插件。基本上可以认为是一个软件开发环境。JDK包含Java Runtime Environment(JRE)，JRE包含加载器/解释器，编译器(javac)，文档生成器（Javadoc），打包功能（jar）和其它在开发中所需...",
+      "author": {
+        "nick": "raledong",
+        "homepage": "/u/raledong"
+      }
+    },
+    {
+      "id": "1190000017124418",
+      "title": "Java 异常处理相关",
+      "url": "/a/1190000017124418",
+      "desc": "java.lang.Object java.lang.Throwable java.lang.Error",
+      "author": {
+        "nick": "FancyKing",
+        "homepage": "/u/fancyking"
+      }
+    },
+    {
+      "id": "1190000017124320",
+      "title": "第十五章 输入输出系统",
+      "url": "/a/1190000017124320",
+      "desc": "本章主要参考和摘自疯狂java讲义上面的(java编程思想的后面看过后有新的内容再补充进去吧)。　　输入输出是所有程序都必需的部分————使用输入机制允许程序读取外部数据(包括磁盘、光盘等存储设备上的数据和用户输...",
+      "author": {
+        "nick": "橡皮擦",
+        "homepage": "/u/xiangpica_5b9793e17526e"
+      }
+    },
+    {
+      "id": "1190000017123753",
+      "title": "Elasticsearch Java High Level REST Client（Update By Query API）",
+      "url": "/a/1190000017123753",
+      "desc": "Update By Query API Update By Query请求 UpdateByQueryRequest可用于更新索引中的文档。 它需要在其上执行更新的现有索引（或一组索引）。 最简单的UpdateByQueryRequest形式如下所示： {代码...} 在一组索引上...",
+      "author": {
+        "nick": "博弈",
+        "homepage": "/u/leon_qi"
+      }
+    },
+    {
+      "id": "1190000017123560",
+      "title": "Elasticsearch Java High Level REST Client（Delete API）",
+      "url": "/a/1190000017123560",
+      "desc": "Delete API Delete请求 DeleteRequest没有参数。 {代码...} posts — 索引。 doc — 类型。 1 — 文档id。 可选参数 可以选择提供以下参数： {代码...} 路由值。 {代码...} parent值。 {代码...} 等待主碎片可用的作...",
+      "author": {
+        "nick": "博弈",
+        "homepage": "/u/leon_qi"
+      }
+    },
+    {
+      "id": "1190000017123318",
+      "title": "在SpringBoot中优雅的使用Spring Security OAuth 2",
+      "url": "/a/1190000017123318",
+      "desc": "今天为大家带来一个优雅的使用Spring Security OAuth2的方案，通常我们在使用时需要去定义AuthorizationServer和ResourceServer之类的配置，而且整体写起来非常Very Hard(硬邦邦)，不是硬编码就是放Redis或者JDBC...",
+      "author": {
+        "nick": "月泉",
+        "homepage": "/u/yuequan_5a51c2abc7c85"
+      }
+    },
+    {
+      "id": "1190000017123293",
+      "title": "Elasticsearch Java High Level REST Client（Exists API）",
+      "url": "/a/1190000017123293",
+      "desc": "它就像Get API一样使用GetRequest，支持所有可选参数，由于exists()只返回true或false，我们建议关闭获取_source和任何存储的字段，以便请求稍微轻一点：",
+      "author": {
+        "nick": "博弈",
+        "homepage": "/u/leon_qi"
+      }
+    },
+    {
+      "id": "1190000017123199",
+      "title": "Elasticsearch Java High Level REST Client（Get API）",
+      "url": "/a/1190000017123199",
+      "desc": "Get API Get请求 GetRequest需要以下参数： {代码...} posts — 索引。 doc — 类型。 1 — 文档id。 可选参数 可以选择提供以下参数： {代码...} 禁用源检索，默认情况下启用 {代码...} 为特定字段配置源包含 {代码...",
+      "author": {
+        "nick": "博弈",
+        "homepage": "/u/leon_qi"
+      }
+    },
+    {
+      "id": "1190000017123114",
+      "title": "java类内部代码执行顺序",
+      "url": "/a/1190000017123114",
+      "desc": "该问题涉及：静态初始化代码块、构造代码块、构造方法当涉及到继承时，按照如下顺序执行：1、执行父类的静态代码块",
+      "author": {
+        "nick": "benjamin",
+        "homepage": "/u/benjamin_5a70840854300"
+      }
+    },
+    {
+      "id": "1190000017122311",
+      "title": "SpringBoot多数据源从库第一次执行SQL很慢的原因",
+      "url": "/a/1190000017122311",
+      "desc": "今天开发时偶尔发现从库的第一次SQL执行的速度很慢，所以就进行了一系列排查，后来发现是因为多数据源的情况下，从库都是采用懒加载的，所以就会出现第一次执行SQL很慢的现象，可以从以下两点进行证明：",
+      "author": {
+        "nick": "超神",
+        "homepage": "/u/super2god"
+      }
+    }
+  ]
+}
