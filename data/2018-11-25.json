@@ -1,0 +1,155 @@
+{
+  "watchNum": "30529",
+  "blogs": [
+    {
+      "id": "1190000017133756",
+      "title": "[LeetCode] 852. Peak Index in a Mountain Array",
+      "url": "/a/1190000017133756",
+      "desc": "Let's call an array A a mountain if the following properties hold:",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000017133583",
+      "title": "面试 Java 高级后端开发，要准备哪些知识点？",
+      "url": "/a/1190000017133583",
+      "desc": "其实公司肯花时间让你去面试，前提条件一定是通过你的简历，一定发现了你和公司的匹配点，也就是说，一定是有录用意向的。",
+      "author": {
+        "nick": "Q1622479435",
+        "homepage": "/u/q1622479435"
+      }
+    },
+    {
+      "id": "1190000017133362",
+      "title": "什么时候线程不安全？怎样做到线程安全？怎么扩展线程安全的类？",
+      "url": "/a/1190000017133362",
+      "desc": "操作并非原子。多个线程执行某段代码，如果这段代码产生的结果受不同线程之间的执行时序影响，而产生非预期的结果，即发生了竞态条件，就会出现线程不安全; 常见场景： count++。它本身包含三个操作，读取、修改...",
+      "author": {
+        "nick": "爬蜥",
+        "homepage": "/u/pa_5aeb229669d18"
+      }
+    },
+    {
+      "id": "1190000017133346",
+      "title": "JHipster开发环境安装",
+      "url": "/a/1190000017133346",
+      "desc": "本文演示如何在CentOS7上安装Jhipster以及其依赖组件。这里采用官方推荐的Yarn安装方法，操作系统版本为CentOS 7.4。",
+      "author": {
+        "nick": "羽客",
+        "homepage": "/u/yorkwu"
+      }
+    },
+    {
+      "id": "1190000017132507",
+      "title": "[LeetCode] 842. Split Array into Fibonacci Sequence",
+      "url": "/a/1190000017132507",
+      "desc": "Given a string S of digits, such as S = \"123456579\", we can split it into a Fibonacci-like sequence [123, 456, 579].",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000017131555",
+      "title": "当spring boot 遇到 vue-admin, 搭建完美后台",
+      "url": "/a/1190000017131555",
+      "desc": "vue-admin 是一个基于 vue + element-ui 打造的响应式的后台管理, 后端有 php + java 版本",
+      "author": {
+        "nick": "兰茗翔",
+        "homepage": "/u/lmxdawn"
+      }
+    },
+    {
+      "id": "1190000017131552",
+      "title": "spring boot 结合Redis 实现工具类",
+      "url": "/a/1190000017131552",
+      "desc": "自己整理了 spring boot 结合 Redis 的工具类 引入依赖 {代码...} 加入配置 {代码...} 实现代码 这里用到了 静态类工具类中 如何使用 @Autowired {代码...} 相关地址 GitHub 地址: [链接]",
+      "author": {
+        "nick": "兰茗翔",
+        "homepage": "/u/lmxdawn"
+      }
+    },
+    {
+      "id": "1190000017131530",
+      "title": "spring boot 利用注解实现权限验证",
+      "url": "/a/1190000017131530",
+      "desc": "使用 AuthRuleAnnotation 注解, value 值就是在数据库里面定义的 权限规则名称",
+      "author": {
+        "nick": "兰茗翔",
+        "homepage": "/u/lmxdawn"
+      }
+    },
+    {
+      "id": "1190000017131470",
+      "title": "【跃迁之路】【651天】程序员高效学习方法论探索系列（实验阶段408-2018.11.24）",
+      "url": "/a/1190000017131470",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000017131449",
+      "title": "21个令程序员泪流满面的瞬间，我笑了！",
+      "url": "/a/1190000017131449",
+      "desc": "程序员是一个很神奇的职业，他们都很爱自嘲，的确，他们身上有很多戳中大家笑点的地方，不信你看看： 1. 公司的实习生找Bug 2. 在调试时，将断点设置在错误的位置 3. 当我有一个很棒的调试想法时 4. 偶然间看到自...",
+      "author": {
+        "nick": "越过山丘",
+        "homepage": "/u/yueguoshanqiu_5bc6f8d3f027b"
+      }
+    },
+    {
+      "id": "1190000017131124",
+      "title": "关于UTF-8所占用的字节以及UTF-8与GB2312之间的关系",
+      "url": "/a/1190000017131124",
+      "desc": "使用UTF-8编码方式的文件，一个汉字所占用的是三个字节(byte)，而其他字母控制字符之类还是按照ASCII的编码方式，即占一个字节。为了在解码的时候区分，经对三千个常用汉字的测试发现，在汉字所占用的三个字节当中：",
+      "author": {
+        "nick": "橡皮擦",
+        "homepage": "/u/xiangpica_5b9793e17526e"
+      }
+    },
+    {
+      "id": "1190000017131109",
+      "title": "你真的知道Python的字符串怎么用吗？",
+      "url": "/a/1190000017131109",
+      "desc": "正如《你真的知道Python的字符串是什么吗？》所写，Python 中字符串是由 Uniocde 编码的字符组成的不可变序列，它具备与其它序列共有的一些操作，例如判断元素是否存在、拼接序列、切片操作、求长度、求最值、求...",
+      "author": {
+        "nick": "豌豆花下猫",
+        "homepage": "/u/chinesehuazhou"
+      }
+    },
+    {
+      "id": "1190000017130686",
+      "title": "JDBC 4.2 Specifications 中文翻译 -- 第十一章 连接池",
+      "url": "/a/1190000017130686",
+      "desc": "在基本的 DataSource 实现中，客户端的 Connection 对象与物理数据库连接有着1:1的关系。当 Connection 被关闭以后，物理连接也会被关闭。因此，连接的频繁打开、初始化以及关闭，会在一个客户端会话中上演多次，...",
+      "author": {
+        "nick": "beanlam",
+        "homepage": "/u/beanlam"
+      }
+    },
+    {
+      "id": "1190000017130294",
+      "title": "[LeetCode] 404. Sum of Left Leaves",
+      "url": "/a/1190000017130294",
+      "desc": "Find the sum of all left leaves in a given binary tree.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000017130224",
+      "title": "消息队列常见的 5 个应用场景",
+      "url": "/a/1190000017130224",
+      "desc": "消息队列中间件是分布式系统中重要的组件，主要解决应用耦合，异步消息，流量削锋等问题。实现高性能、高可用、可伸缩和最终一致性架构。使用较多的消息队列有ActiveMQ、RabbitMQ、ZeroMQ、Kafka、MetaMQ、Rocket...",
+      "author": {
+        "nick": "越过山丘",
+        "homepage": "/u/yueguoshanqiu_5bc6f8d3f027b"
+      }
+    }
+  ]
+}
