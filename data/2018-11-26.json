@@ -1,0 +1,155 @@
+{
+  "watchNum": "30612",
+  "blogs": [
+    {
+      "id": "1190000017143436",
+      "title": "leetcode396. Rotate Function",
+      "url": "/a/1190000017143436",
+      "desc": "Bk代表对数组A在位置k上进行顺时针的旋转后生成的数组。F(k) = 0 * Bk[0] + 1 * Bk[1] + ... + (n-1) * Bk[n-1]，要求返回获得的最大的F(k)的值。",
+      "author": {
+        "nick": "raledong",
+        "homepage": "/u/raledong"
+      }
+    },
+    {
+      "id": "1190000017143193",
+      "title": "[LeetCode] 862. Shortest Subarray with Sum at Least K",
+      "url": "/a/1190000017143193",
+      "desc": "Return the length of the shortest, non-empty, contiguous subarray of A with sum at least K.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000017142956",
+      "title": "thymeleaf-extras-db 0.0.1发布，select标签加载数据的新姿势",
+      "url": "/a/1190000017142956",
+      "desc": "在写thymeleaf页面的时候，我为了偷懒，不想为每个select下拉列表框都写一个接口，于是这个懒人jar诞生了。该jar的核心功能是直接通过thymeleaf页面的自定义标签的属性，直接运行sql并初始化select数据。",
+      "author": {
+        "nick": "simonsundev",
+        "homepage": "/u/simonsun"
+      }
+    },
+    {
+      "id": "1190000017141190",
+      "title": "web3j的maven插件",
+      "url": "/a/1190000017141190",
+      "desc": "插件的基本配置将从src/main/resources获取solidity文件，并将java类生成到src/main/java文件夹中。",
+      "author": {
+        "nick": "tualala",
+        "homepage": "/u/tualala"
+      }
+    },
+    {
+      "id": "1190000017141110",
+      "title": "java库web3j的Gradle插件（Solidity开发以太坊智能合约）",
+      "url": "/a/1190000017141110",
+      "desc": "web3j Gradle插件是从Solidity智能合约生成web3j Java封装的构建工具。它通过添加可以独立运行的特定任务，顺利地与项目的构建生命周期集成。",
+      "author": {
+        "nick": "tualala",
+        "homepage": "/u/tualala"
+      }
+    },
+    {
+      "id": "1190000017140813",
+      "title": "如何在Spring Boot中使用web3j启动以太坊开发",
+      "url": "/a/1190000017140813",
+      "desc": "通过Spring的依赖注入将web3j集成到Spring Boot应用程序中。此处提供了示例应用程序：",
+      "author": {
+        "nick": "tualala",
+        "homepage": "/u/tualala"
+      }
+    },
+    {
+      "id": "1190000017140231",
+      "title": "为什么面试完，总是让你回去等通知？",
+      "url": "/a/1190000017140231",
+      "desc": "能点进来看的朋友，相信你们都应该有过同样的经历，那就是为什么面试之后，面试官总让你回去等通知，而这一等就是遥遥无期……",
+      "author": {
+        "nick": "Java技术栈",
+        "homepage": "/u/javastack"
+      }
+    },
+    {
+      "id": "1190000017139865",
+      "title": "[LeetCode] 209. Minimum Size Subarray Sum (Easy version LC 862)",
+      "url": "/a/1190000017139865",
+      "desc": "Given an array of n positive integers and a positive integer s, find the minimal length of a contiguous subarray of which the sum ≥ s. If there isn't one, return 0 instead.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000017139837",
+      "title": "Servlet 常见的注解",
+      "url": "/a/1190000017139837",
+      "desc": "属性详解: 该注解具有下表给出的一些常用属性(以下所有属性均为可选属性, 但是 vlaue 或者 urlPatterns 通常是必需的, 且二者不能共存, 如果同时指定, 通常是忽略 value 的取值)",
+      "author": {
+        "nick": "sc_ik",
+        "homepage": "/u/sc_ik"
+      }
+    },
+    {
+      "id": "1190000017139433",
+      "title": "[LeetCode] 708. Insert into a Cyclic Sorted List",
+      "url": "/a/1190000017139433",
+      "desc": "Given a node from a cyclic linked list which is sorted in ascending order, write a function to insert a value into the list such that it remains a cyclic sorted list. The given node can be a refere...",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000017138904",
+      "title": "Dubbo 源码分析 - 集群容错之 Cluster",
+      "url": "/a/1190000017138904",
+      "desc": "为了避免单点故障，现在的应用至少会部署在两台服务器上。对于一些负载比较高的服务，会部署更多台服务器。这样，同一环境下的服务提供者数量会大于1。对于服务消费者来说，同一环境下出现了多个服务提供者。这时...",
+      "author": {
+        "nick": "coolblog",
+        "homepage": "/u/coolblog"
+      }
+    },
+    {
+      "id": "1190000017138824",
+      "title": "[LeetCode] 491. Increasing Subsequences",
+      "url": "/a/1190000017138824",
+      "desc": "Given an integer array, your task is to find all the different possible increasing subsequences of the given array, and the length of an increasing subsequence should be at least 2 .",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000017138665",
+      "title": "[LeetCode] 548. Split Array with Equal Sum",
+      "url": "/a/1190000017138665",
+      "desc": "Given an array with n integers, you need to find if there are triplets (i, j, k) which satisfies following conditions:",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000017138588",
+      "title": "[LeetCode] 694. Number of Distinct Islands",
+      "url": "/a/1190000017138588",
+      "desc": "Given a non-empty 2D array grid of 0's and 1's, an island is a group of 1's (representing land) connected 4-directionally (horizontal or vertical.) You may assume all four edges of the grid are sur...",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000017138492",
+      "title": "[LeetCode] 430. Flatten a Multilevel Doubly Linked List",
+      "url": "/a/1190000017138492",
+      "desc": "You are given a doubly linked list which in addition to the next and previous pointers, it could have a child pointer, which may or may not point to a separate doubly linked list. These child lists...",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    }
+  ]
+}
