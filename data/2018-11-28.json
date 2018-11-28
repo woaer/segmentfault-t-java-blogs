@@ -1,0 +1,155 @@
+{
+  "watchNum": "30933",
+  "blogs": [
+    {
+      "id": "1190000017170690",
+      "title": "从零单排学Redis【铂金一】",
+      "url": "/a/1190000017170690",
+      "desc": "前言 只有光头才能变强 好的，今天我们要上铂金段位了，如果还没经历过青铜和白银和黄金阶段的，可以先去蹭蹭经验再回来： 从零单排学Redis【青铜】 从零单排学Redis【白银】 从零单排学Redis【黄金】 这篇文章主...",
+      "author": {
+        "nick": "Java3y",
+        "homepage": "/u/java_3y"
+      }
+    },
+    {
+      "id": "1190000017170656",
+      "title": "Java™ 教程（枚举类型）",
+      "url": "/a/1190000017170656",
+      "desc": "枚举类型是一种特殊的数据类型，它使变量成为一组预定义的常量，变量必须等于为其预定义的值之一，常见示例包括罗盘方向（NORTH、SOUTH、EAST和WEST的值）和星期。",
+      "author": {
+        "nick": "博弈",
+        "homepage": "/u/leon_qi"
+      }
+    },
+    {
+      "id": "1190000017170351",
+      "title": "网络协议 8 - TCP（上）",
+      "url": "/a/1190000017170351",
+      "desc": "网络协议 1 - 概述 网络协议 2 - IP 是怎么来，又是怎么没的？ 网络协议 3 - 从物理层到 MAC 层 网络协议 4 - 交换机与 VLAN：办公室太复杂，我要回学校 网络协议 5 - ICMP 与 ping：投石问路的侦察兵 网络协议 6...",
+      "author": {
+        "nick": "北国风光",
+        "homepage": "/u/beiguofengguang"
+      }
+    },
+    {
+      "id": "1190000017169919",
+      "title": "Java核心（四）你不知道的数据集合",
+      "url": "/a/1190000017169919",
+      "desc": "导读：Map竟然不属于Java集合框架的子集？队列也和List一样属于集合的三大子集之一？更有队列的正确使用姿势，一起来看吧！",
+      "author": {
+        "nick": "王磊",
+        "homepage": "/u/vipstone"
+      }
+    },
+    {
+      "id": "1190000017166808",
+      "title": "在VSCode中编写Kotlin/Java",
+      "url": "/a/1190000017166808",
+      "desc": "不希望每次运行一下代码就要去启动Android Studio这个庞然大物，正好vscode可以做一个轻量级的IDE，所以配置了vscode用来编写Kotlin程序",
+      "author": {
+        "nick": "泠音",
+        "homepage": "/u/yin_5bc870d095522"
+      }
+    },
+    {
+      "id": "1190000017166427",
+      "title": "如何将一个PDF文件里的图片批量导出",
+      "url": "/a/1190000017166427",
+      "desc": "假设我有下面这个PDF文件，里面有很多图片，我想把这些图片批量导出，而不是在Adobe Acrobat Reader里一张张手动拷贝：",
+      "author": {
+        "nick": "JerryWangSAP",
+        "homepage": "/u/jerrywangsap"
+      }
+    },
+    {
+      "id": "1190000017166003",
+      "title": "G1 垃圾收集器介绍",
+      "url": "/a/1190000017166003",
+      "desc": "之前根据 Sun 的内存管理白皮书介绍了在 HotSpot JVM 分代算法中的几个垃圾收集器，本文将介绍 G1 垃圾收集器。",
+      "author": {
+        "nick": "Alpaca",
+        "homepage": "/u/alpaca_5a094f8e22ff6"
+      }
+    },
+    {
+      "id": "1190000017165502",
+      "title": "Spring 核心 Ioc容器与Bean",
+      "url": "/a/1190000017165502",
+      "desc": "注意我的 Spring 版本是 5.1.2.RELEASE, 并且主要使用注解配置. 如果你需要使用 xml 配置, 我想这篇文章应该不适合你.",
+      "author": {
+        "nick": "sc_ik",
+        "homepage": "/u/sc_ik"
+      }
+    },
+    {
+      "id": "1190000017165102",
+      "title": "这有一份百度T7阿里P8的高级Java架构师教程，请签收",
+      "url": "/a/1190000017165102",
+      "desc": "可以说，Java是现阶段中国互联网公司中，覆盖度最广的研发语言，掌握了Java技术体系，不管在成熟的大公司，快速发展的公司，还是创业阶段的公司，都能有立足之地。",
+      "author": {
+        "nick": "王二蛋",
+        "homepage": "/u/javazhilu"
+      }
+    },
+    {
+      "id": "1190000017164364",
+      "title": " 【备战春招/秋招系列】美团Java面经总结终结篇 （附详解答案）",
+      "url": "/a/1190000017164364",
+      "desc": "该文已加入开源项目：JavaGuide（一份涵盖大部分Java程序员所需要掌握的核心知识的文档类项目，Star 数接近 14 k）。地址:[链接]",
+      "author": {
+        "nick": "Snailclimb",
+        "homepage": "/u/snailclimb"
+      }
+    },
+    {
+      "id": "1190000017163705",
+      "title": "【跃迁之路】【653天】程序员高效学习方法论探索系列（实验阶段410-2018.11.27）",
+      "url": "/a/1190000017163705",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000017163669",
+      "title": "你真的了解 Unicode 和 UTF-8 吗？",
+      "url": "/a/1190000017163669",
+      "desc": "一直以来总是对 unicode, UTF-8 等编码知识懵懵懂懂的，尤其是在做项目过程中只要涉及到几个编码之间的转换，都得到网上搜索一番，根据别人的经验照葫芦画瓢，才能解决问题，但是私底下却完全不懂在做什么。",
+      "author": {
+        "nick": "ReyCG",
+        "homepage": "/u/reycg"
+      }
+    },
+    {
+      "id": "1190000017163570",
+      "title": "单例模式",
+      "url": "/a/1190000017163570",
+      "desc": "单例模式的应用场景： 注册表对象 日志对象 为什么要使用单例： 防止资源使用过度 程序运行结果出现不一致情况 为什么不使用全局变量，非要用单例模式呢： 全局静态变量，在一开始程序就会进行创建，如果这个变量...",
+      "author": {
+        "nick": "Gatlin",
+        "homepage": "/u/gatlin"
+      }
+    },
+    {
+      "id": "1190000017163338",
+      "title": "[LeetCode] 490. The Maze (BFS/DFS)",
+      "url": "/a/1190000017163338",
+      "desc": "There is a ball in a maze with empty spaces and walls. The ball can go through empty spaces by rolling up, down, left or right, but it won't stop rolling until hitting a wall. When the ball stops, ...",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000017163330",
+      "title": "一次诡异的关于filter的问题",
+      "url": "/a/1190000017163330",
+      "desc": "接收前台post请求封装的\"versionDescription\":\"eeeeee\",时，莫名传到后台就变成\"versionDeion\":\"eeeeee\",了。",
+      "author": {
+        "nick": "cashew",
+        "homepage": "/u/madrid"
+      }
+    }
+  ]
+}
