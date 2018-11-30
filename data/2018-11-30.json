@@ -1,0 +1,155 @@
+{
+  "watchNum": "31306",
+  "blogs": [
+    {
+      "id": "1190000017205408",
+      "title": "Hystrix都停更了，我为什么还要学？",
+      "url": "/a/1190000017205408",
+      "desc": "最近小主看到很多公众号都在发布Hystrix停更的文章，spring cloud体系的使用者和拥护者一片哀嚎，实际上，spring作为Java最大的家族，根本不需要担心其中一两个零件的废弃，Hystrix的停更，只会催生更多或者更好...",
+      "author": {
+        "nick": "jaybril",
+        "homepage": "/u/jaybril"
+      }
+    },
+    {
+      "id": "1190000017204664",
+      "title": "Dubbo 源码分析 - 集群容错之 LoadBalance",
+      "url": "/a/1190000017204664",
+      "desc": "LoadBalance 中文意思为负载均衡，它的职责是将网络请求，或者其他形式的负载“均摊”到不同的机器上。避免集群中部分服务器压力过大，而另一些服务器比较空闲的情况。通过负载均衡，可以让每台服务器获取到适合自...",
+      "author": {
+        "nick": "coolblog",
+        "homepage": "/u/coolblog"
+      }
+    },
+    {
+      "id": "1190000017201674",
+      "title": "《设计模式》2.创建型模式",
+      "url": "/a/1190000017201674",
+      "desc": "简单工厂（Simple Factory）：专门定义一个类来负责创建其他类的实例，被创建的实例通常都具有共同的父类。它又称为静态工厂方法模式。",
+      "author": {
+        "nick": "SpiderSama",
+        "homepage": "/u/spidersama"
+      }
+    },
+    {
+      "id": "1190000017201101",
+      "title": "Hystrix 停止开发。。。Spring Cloud 何去何从？",
+      "url": "/a/1190000017201101",
+      "desc": "栈长得到消息，Hystrix 停止开发了。。。 大家如果有对 Hystrix 不清楚的，请看下这篇文章：分布式服务防雪崩熔断器，Hystrix理论+实战。 来看下 Hystrix 停止开发官宣： [链接] 文中大概的意思是： Hystrix 不再...",
+      "author": {
+        "nick": "Java技术栈",
+        "homepage": "/u/javastack"
+      }
+    },
+    {
+      "id": "1190000017199391",
+      "title": "【结构】查找二叉树",
+      "url": "/a/1190000017199391",
+      "desc": "载一棵小树苗，精心培育，总有一天会长成参天大树                比如查找二叉、AVL、B+ - *、红黑……",
+      "author": {
+        "nick": "暗夜君王",
+        "homepage": "/u/liuzijian"
+      }
+    },
+    {
+      "id": "1190000017199119",
+      "title": "java效率工具 Lombok",
+      "url": "/a/1190000017199119",
+      "desc": "Java项目中，充斥着太多不友好的代码：POJO的getter/setter/toStringm异常处理,I/O流的关闭操作等等，这些样板代码既没有技术含量，又影响着代码的美观，Lombok应运而生。",
+      "author": {
+        "nick": "java从心",
+        "homepage": "/u/javacongxin"
+      }
+    },
+    {
+      "id": "1190000017198394",
+      "title": "每天10道Java面试题，跟我走，offer有！ ",
+      "url": "/a/1190000017198394",
+      "desc": "1.简述JDK、JRE、JVM？ {代码...} 2.JDK、JRE、JVM三者的有什么联系和区别？ {代码...} 3、简述Java程序编译和运行的过程？ {代码...} 4、请说出八种基础数据类型及字节大小？ {代码...} 5.说说&和&&...",
+      "author": {
+        "nick": "如愿",
+        "homepage": "/u/javakaifa"
+      }
+    },
+    {
+      "id": "1190000017198059",
+      "title": "用Redis轻松实现秒杀系统",
+      "url": "/a/1190000017198059",
+      "desc": "用上这三招，不论秒杀时负载多大，都能轻松应对。更好的是，Redis能够满足上述三点。因此，用Redis就能轻松实现秒杀系统。 用我这个方案，无论是电商平台特价秒杀，12306火车票秒杀，都不是事:)",
+      "author": {
+        "nick": "bali",
+        "homepage": "/u/bali_5a0a92fba16aa"
+      }
+    },
+    {
+      "id": "1190000017197635",
+      "title": "Spring容器扩展机制",
+      "url": "/a/1190000017197635",
+      "desc": "IoC 容器负责管理容器中所有 bean 的生命周期, 而在 bean 生命周期的不同阶段, Spring 提供了不同的扩展点来改变 bean 的命运. 在容器的启动阶段, BeanFactoryPostProcessor 允许我们在容器实例化相应对象之前, ...",
+      "author": {
+        "nick": "sc_ik",
+        "homepage": "/u/sc_ik"
+      }
+    },
+    {
+      "id": "1190000017197240",
+      "title": "【跃迁之路】【655天】程序员高效学习方法论探索系列（实验阶段412-2018.11.29）",
+      "url": "/a/1190000017197240",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000017197023",
+      "title": "Java多线程学习——线程通信",
+      "url": "/a/1190000017197023",
+      "desc": "待总结... 1、通过共享对象通信 2、忙等待 3、wait(),notify()和notifyAll() 4、丢失的信号 5、假唤醒 6、多线程等待相同信号 7、不要对常量字符串或全局对象调用wait() 原文链接：[链接]",
+      "author": {
+        "nick": "console",
+        "homepage": "/u/elosnoc"
+      }
+    },
+    {
+      "id": "1190000017196539",
+      "title": "Spring Boot 2.0 整合 Thymeleaf 模块引擎",
+      "url": "/a/1190000017196539",
+      "desc": "从 org.thymeleaf.templatemode.TemplateMode 中可见 Thymeleaf 从 3.0.0 版本开始使用 HTML 替代 HTML5、LEGACYHTML5、XHTML、VALIDXHTML。如果还在使用 3.0.0 以前的版本，想要使用非严格的 HTML，需要做以下配...",
+      "author": {
+        "nick": "y0ngb1n",
+        "homepage": "/u/y0ngb1n"
+      }
+    },
+    {
+      "id": "1190000017147672",
+      "title": "JavaWEB开发15——Listener&Listener",
+      "url": "/a/1190000017147672",
+      "desc": "2、Javaweb开发中常见监听器2.1、监听域对象的创建与销毁监听ServletContext创建与销毁 ServletContextListener监听HttpSession创建与销毁 HttpSessionListener监听HttpServletRequest创建与销毁 ServletRequestL...",
+      "author": {
+        "nick": "扎瓦",
+        "homepage": "/u/ideas"
+      }
+    },
+    {
+      "id": "1190000017196058",
+      "title": "《设计模式》1.绪论",
+      "url": "/a/1190000017196058",
+      "desc": "设计模式是软件开发人员在软件开发过程中面临的一般问题的解决方案。设计模式是一套被反复使用的、多数人知晓的、经过分类编目的、代码设计经验的总结。使用设计模式是为了重用代码、让代码更容易被他人理解、保...",
+      "author": {
+        "nick": "SpiderSama",
+        "homepage": "/u/spidersama"
+      }
+    },
+    {
+      "id": "1190000017193732",
+      "title": "深入Redis持久化",
+      "url": "/a/1190000017193732",
+      "desc": "我们知道，在web服务器中，高可用是指服务器可以正常访问的时间，衡量的标准是在多长时间内可以提供正常服务（99.9%、99.99%、99.999% 等等）。但是在Redis语境中，高可用的含义似乎要宽泛一些，除了保证提供正常...",
+      "author": {
+        "nick": "进取的心",
+        "homepage": "/u/jinqudexin"
+      }
+    }
+  ]
+}
