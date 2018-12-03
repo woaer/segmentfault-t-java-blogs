@@ -1,0 +1,155 @@
+{
+  "watchNum": "31630",
+  "blogs": [
+    {
+      "id": "1190000017233245",
+      "title": "HashMap实现思路（小白科普）",
+      "url": "/a/1190000017233245",
+      "desc": "HashMap是java和Android中常用的一个容器，采用了数组+链表的结构来存储数据（PS：jdk1.8新增红黑树，当链表长度大于8以后，链表会进化成红黑树）。下面具体分析HashMap的实现思路。",
+      "author": {
+        "nick": "我是程序猿",
+        "homepage": "/u/woshichengxuyuan"
+      }
+    },
+    {
+      "id": "1190000017232863",
+      "title": "深入浅出Rust Future - Part 1",
+      "url": "/a/1190000017232863",
+      "desc": "本文译自Rust futures: an uneducated, short and hopefully not boring tutorial - Part 1，时间：2018-12-02，译者:motecshine, 简介：motecshine 欢迎向Rust中文社区投稿,投稿地址,好文将在以下地方直接展示 R...",
+      "author": {
+        "nick": "krircc",
+        "homepage": "/u/krircc"
+      }
+    },
+    {
+      "id": "1190000017230847",
+      "title": "Java核心（五）深入理解BIO、NIO、AIO",
+      "url": "/a/1190000017230847",
+      "desc": "导读：本文你将获取到：同/异步 + 阻/非阻塞的性能区别；BIO、NIO、AIO 的区别；理解和实现 NIO 操作 Socket 时的多路复用；同时掌握 IO 最底层最核心的操作技巧。",
+      "author": {
+        "nick": "王磊",
+        "homepage": "/u/vipstone"
+      }
+    },
+    {
+      "id": "1190000017230650",
+      "title": "Java多线程学习——公平锁",
+      "url": "/a/1190000017230650",
+      "desc": "饥饿和公平：[链接]嵌套管程锁死：[链接] 待总结，建议两部分结合看",
+      "author": {
+        "nick": "console",
+        "homepage": "/u/elosnoc"
+      }
+    },
+    {
+      "id": "1190000017229110",
+      "title": "[LeetCode] 815. Bus Routes",
+      "url": "/a/1190000017229110",
+      "desc": "We have a list of bus routes. Each routes[i] is a bus route that the i-th bus repeats forever. For example if routes[0] = [1, 5, 7], this means that the first bus (0-th indexed) travels in the sequ...",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000017228529",
+      "title": "可能是讲分布式系统最到位的一篇文章",
+      "url": "/a/1190000017228529",
+      "desc": "如果现在让你阐述一下什么是“分布式系统”，你脑子里第一下跳出来的是什么？我想，此时可以用苏东坡先生的一句诗，来形象地描述大家对分布式系统的认识： 横看成岭侧成峰，远近高低各不同。  我觉得每个人脑子里一...",
+      "author": {
+        "nick": "王二蛋",
+        "homepage": "/u/javazhilu"
+      }
+    },
+    {
+      "id": "1190000017228605",
+      "title": "[LeetCode] 929. Unique Email Addresses",
+      "url": "/a/1190000017228605",
+      "desc": "Every email consists of a local name and a domain name, separated by the @ sign.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000017228588",
+      "title": "[LeetCode] 312. Burst Balloons",
+      "url": "/a/1190000017228588",
+      "desc": "Given n balloons, indexed from 0 to n-1. Each balloon is painted with a number on it represented by array nums. You are asked to burst all the balloons. If the you burst balloon i you will get nums...",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000017228559",
+      "title": "[LeetCode] 299. Bulls and Cows",
+      "url": "/a/1190000017228559",
+      "desc": "You are playing the following Bulls and Cows game with your friend: You write down a number and ask your friend to guess what the number is. Each time your friend makes a guess, you provide a hint ...",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000017228338",
+      "title": "Spring Boot实现TUS协议支持文件断点上传",
+      "url": "/a/1190000017228338",
+      "desc": "HEAD请求用来查询某个文件上传进度使用下面例子中一个文件总共100个Byte，已经传输了70个Byte，所有交互内容都在HTTP请求头中。",
+      "author": {
+        "nick": "freewolf",
+        "homepage": "/u/freewolf"
+      }
+    },
+    {
+      "id": "1190000017228164",
+      "title": "【跃迁之路】【658天】程序员高效学习方法论探索系列（实验阶段415-2018.12.02）",
+      "url": "/a/1190000017228164",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000017227625",
+      "title": "【译】十二因子应用（四）",
+      "url": "/a/1190000017227625",
+      "desc": "后端服务是一种在应用在网络上正常运行时消费的任意一种服务。包括数据库（如MySQL或CouchDB），消息/队列系统（如RabbitMQ或Beantalkd），发邮件的SMTP服务（如Postfix），缓存系统（如Memcached）。",
+      "author": {
+        "nick": "祝坤荣",
+        "homepage": "/u/zhukunrong"
+      }
+    },
+    {
+      "id": "1190000017227375",
+      "title": "物联网高并发编程之网络编程中的I/O模型",
+      "url": "/a/1190000017227375",
+      "desc": "思维导图 互联网服务端处理网络请求的原理 首先看看一个典型互联网服务端处理网络请求的典型过程： 由上图可以看到，主要处理步骤包括： 获取请求数据，客户端与服务器建立连接发出请求，服务器接受请求（1-3）；...",
+      "author": {
+        "nick": "石志远",
+        "homepage": "/u/shizhiyuan"
+      }
+    },
+    {
+      "id": "1190000017227194",
+      "title": "物联网高并发编程之C10K问题原理和解决方案",
+      "url": "/a/1190000017227194",
+      "desc": "互联网还不够普及，用户也不多。一台服务器同时在线100个用户估计在当时已经算是大型应用了。所以并不存在什么C10K的难题。互联网的爆发期应该是在www网站，浏览器，雅虎出现后。最早的互联网称之为Web1.0，互联...",
+      "author": {
+        "nick": "石志远",
+        "homepage": "/u/shizhiyuan"
+      }
+    },
+    {
+      "id": "1190000017227137",
+      "title": "物联网高并发编程之单台服务器最大并发TCP连接数",
+      "url": "/a/1190000017227137",
+      "desc": "曾几何时我们还在寻求网络编程中C10K问题的解决方案，但是现在从硬件和操作系统支持来看单台服务器支持上万并发连接已经没有多少挑战性了。",
+      "author": {
+        "nick": "石志远",
+        "homepage": "/u/shizhiyuan"
+      }
+    }
+  ]
+}
