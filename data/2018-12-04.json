@@ -1,0 +1,155 @@
+{
+  "watchNum": "31790",
+  "blogs": [
+    {
+      "id": "1190000017248181",
+      "title": "YCProgress自定义百分比进度条",
+      "url": "/a/1190000017248181",
+      "desc": "目录介绍 1.本库优势亮点 2.使用介绍 2.1 圆环百分比进度条 2.2 直线百分比进度条 2.3 仿杀毒类型百分比进度条 3.注意要点 4.效果展示 5.其他介绍 1.本库优势亮点 圆环百分比进度条 简便且小巧，支持设置多种属性...",
+      "author": {
+        "nick": "潇湘剑雨",
+        "homepage": "/u/xiangjianyu"
+      }
+    },
+    {
+      "id": "1190000017245469",
+      "title": "12月干货分享！！！！",
+      "url": "/a/1190000017245469",
+      "desc": "12月干货分享！！！！",
+      "author": {
+        "nick": "MySelf",
+        "homepage": "/u/myself_5ab9f390c6129"
+      }
+    },
+    {
+      "id": "1190000017243764",
+      "title": "微服务架构：如何用十步解耦你的系统？",
+      "url": "/a/1190000017243764",
+      "desc": "耦合性，是对模块间关联程度的度量。耦合的强弱取决于模块间接口的复杂性、调用模块的方式以及通过界面传送数据的多少。模块间的耦合度是指模块之间的依赖关系，包括控制关系、调用关系、数据传递关系。模块间联...",
+      "author": {
+        "nick": "煮酒科技",
+        "homepage": "/u/zhuzhsh"
+      }
+    },
+    {
+      "id": "1190000017242145",
+      "title": "leetcode373. Find K Pairs with Smallest Sums",
+      "url": "/a/1190000017242145",
+      "desc": "这题采用最大堆作为辅助的数据结构能够完美的解决我们的问题。观察数组我们可以看到，从nums1中任意取一个数字，其和nums2中的数字组成的最小数对一定是<nums1[k], nums2[0]>，同理，我们可以知道，<num...",
+      "author": {
+        "nick": "raledong",
+        "homepage": "/u/raledong"
+      }
+    },
+    {
+      "id": "1190000017241995",
+      "title": "给学弟学妹的招聘分享",
+      "url": "/a/1190000017241995",
+      "desc": "这个总结其实来得挺晚的，但是又非常必要。我很有幸参加了今年的春秋招，并且前往深圳和北京这两个城市体验一线城市的精彩和心酸，无论是去深圳的一家小公司，还是转战北京小米。最终签约成都华为。我都有好多话...",
+      "author": {
+        "nick": "木木甫",
+        "homepage": "/u/mumufu"
+      }
+    },
+    {
+      "id": "1190000017241712",
+      "title": "深入浅出Rust Future - Part 2",
+      "url": "/a/1190000017241712",
+      "desc": "译自Rust futures: an uneducated, short and hopefully not boring tutorial - Part 2时间：2018-12-03，译者:motecshine, 简介：motecshine 欢迎向Rust中文社区投稿,投稿地址 ,好文将在以下地方直接展示 Rust中...",
+      "author": {
+        "nick": "krircc",
+        "homepage": "/u/krircc"
+      }
+    },
+    {
+      "id": "1190000017241634",
+      "title": "mybatis 常见使用问题",
+      "url": "/a/1190000017241634",
+      "desc": "最近做了一个积分的项目，用mybatis来实现mysql数据的读写操作，一种是通过xml，一种是通过注解方式，下面总结一下项目常混淆的一些东西",
+      "author": {
+        "nick": "沉淀",
+        "homepage": "/u/zhuifengzhengderen"
+      }
+    },
+    {
+      "id": "1190000017241556",
+      "title": "新手也能实现，基于SpirngBoot2.0+ 的 SpringBoot+Mybatis 多数据源配置",
+      "url": "/a/1190000017241556",
+      "desc": "在上一篇文章《优雅整合 SpringBoot+Mybatis ,可能是你见过最详细的一篇》中，带着大家整合了 SpringBoot 和 Mybatis ,我们在当时使用的时单数据源的情况，这种情况下 Spring Boot的配置非常简单，只需要在 appli...",
+      "author": {
+        "nick": "Snailclimb",
+        "homepage": "/u/snailclimb"
+      }
+    },
+    {
+      "id": "1190000017240514",
+      "title": "spring data redis 项目使用问题汇总",
+      "url": "/a/1190000017240514",
+      "desc": "使用spring data redis已经很长一段时间了，在项目使用过程中还是犯了一些常见的错误，现在总结一下，避免自己以后再犯相同的错误。",
+      "author": {
+        "nick": "沉淀",
+        "homepage": "/u/zhuifengzhengderen"
+      }
+    },
+    {
+      "id": "1190000017240326",
+      "title": "Java多线程学习——读写锁",
+      "url": "/a/1190000017240326",
+      "desc": "Java中的读/写锁：[链接]",
+      "author": {
+        "nick": "console",
+        "homepage": "/u/elosnoc"
+      }
+    },
+    {
+      "id": "1190000017239504",
+      "title": "java研发面经分享：滴滴、美团、网易、58赶集等",
+      "url": "/a/1190000017239504",
+      "desc": "今年秋招我的面试大致结束了，差不多把提供北京java岗位的互联网公司大都投一遍，也获得了几个面试机会，以后可能不常上牛客网了，在这儿把面经都和大伙儿分享一下吧。先感谢下牛客网和众多牛友们，刷了大概有1千...",
+      "author": {
+        "nick": "以Java架构赢天下",
+        "homepage": "/u/zhouzhuolin"
+      }
+    },
+    {
+      "id": "1190000017239393",
+      "title": "Spring AOP 源码解析",
+      "url": "/a/1190000017239393",
+      "desc": "在 Spring 的容器中，我们面向的对象是一个个的 bean 实例，bean 是什么？我们可以简单理解为是 BeanDefinition 的实例，Spring 会根据 BeanDefinition 中的信息为我们生产合适的 bean 实例出来。",
+      "author": {
+        "nick": "Rose",
+        "homepage": "/u/rose_5b83bf4ac4b07"
+      }
+    },
+    {
+      "id": "1190000017239376",
+      "title": "【跃迁之路】【659天】程序员高效学习方法论探索系列（实验阶段416-2018.12.03）",
+      "url": "/a/1190000017239376",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000017147777",
+      "title": "JavaWEB开发18——基础加强",
+      "url": "/a/1190000017147777",
+      "desc": "1）BootStrap：引导类加载器：加载都是最基础的文件2）ExtClassLoader：扩展类加载器：加载都是基础的文件3）AppClassLoader：应用类加载器：三方jar包和自己编写java文件",
+      "author": {
+        "nick": "扎瓦",
+        "homepage": "/u/ideas"
+      }
+    },
+    {
+      "id": "1190000017238993",
+      "title": "[LeetCode] 739. Daily Temperatures",
+      "url": "/a/1190000017238993",
+      "desc": "Given a list of daily temperatures T, return a list such that, for each day in the input, tells you how many days you would have to wait until a warmer temperature. If there is no future day for wh...",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    }
+  ]
+}
