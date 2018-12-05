@@ -1,0 +1,155 @@
+{
+  "watchNum": "31997",
+  "blogs": [
+    {
+      "id": "1190000017264782",
+      "title": "分布式系统--感性认识JWT",
+      "url": "/a/1190000017264782",
+      "desc": "好久没写博客了，因为最近公司要求我学spring cloud ，早点将以前软件迁移到新的架构上。所以我那个拼命的学呐，总是图快，很多关键的笔记没有做好记录，现在又遗忘了很多关键的技术点，极其罪恶！",
+      "author": {
+        "nick": "tengshe789",
+        "homepage": "/u/tengshe789"
+      }
+    },
+    {
+      "id": "1190000017261775",
+      "title": "【最全】Java 进阶面试总结",
+      "url": "/a/1190000017261775",
+      "desc": "这里有一份面试题相关总结，涉及高并发、分布式、高可用相关知识点，在此分享给大家，希望大家能拿到一份理想的 Offer！",
+      "author": {
+        "nick": "bingo",
+        "homepage": "/u/yanglbme"
+      }
+    },
+    {
+      "id": "1190000017259864",
+      "title": "HashMap 和 Hashtable 的 6 个区别，最后一个没几个人知道！",
+      "url": "/a/1190000017259864",
+      "desc": "HashMap 和 Hashtable 是 Java 开发程序员必须要掌握的，也是在各种 Java 面试场合中必须会问到的。",
+      "author": {
+        "nick": "Java技术栈",
+        "homepage": "/u/javastack"
+      }
+    },
+    {
+      "id": "1190000017259217",
+      "title": "[LeetCode] 727. Minimum Window Subsequence",
+      "url": "/a/1190000017259217",
+      "desc": "Given strings S and T, find the minimum (contiguous) substring W of S, so that T is a subsequence of W.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000017258981",
+      "title": "深入浅出Rust Future Part-3",
+      "url": "/a/1190000017258981",
+      "desc": "译自Rust futures: an uneducated, short and hopefully not boring tutorial - Part 3 - The reactor本文时间：2018-12-03，译者:motecshine, 简介：motecshine 欢迎向Rust中文社区投稿,投稿地址 ,好文将在以下...",
+      "author": {
+        "nick": "krircc",
+        "homepage": "/u/krircc"
+      }
+    },
+    {
+      "id": "1190000017258849",
+      "title": "[LeetCode] 911. Online Election",
+      "url": "/a/1190000017258849",
+      "desc": "In an election, the i-th vote was cast for persons[i] at time times[i].",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000017258749",
+      "title": "[LeetCode] 839. Similar String Groups",
+      "url": "/a/1190000017258749",
+      "desc": "Two strings X and Y are similar if we can swap two letters (in different positions) of X, so that it equals Y.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000017255405",
+      "title": "(七)Volatile的作用及原理",
+      "url": "/a/1190000017255405",
+      "desc": "文章简介 分析volatile的作用以及底层实现原理，这也是大公司喜欢问的问题 内容导航 volatile的作用 什么是可见性 volatile源码分析 volatile的作用 在多线程中，volatile和synchronized都起到非常重要的作用，sy...",
+      "author": {
+        "nick": "架构师修炼宝典",
+        "homepage": "/u/fukua_5be8034f8191f"
+      }
+    },
+    {
+      "id": "1190000017255226",
+      "title": "(六) synchronized的源码分析",
+      "url": "/a/1190000017255226",
+      "desc": "前面我有文章介绍了synchronized的基本原理，这篇文章我会从jvm源码分析synchronized的实现逻辑，希望让大家有一个更加深度的认识",
+      "author": {
+        "nick": "架构师修炼宝典",
+        "homepage": "/u/fukua_5be8034f8191f"
+      }
+    },
+    {
+      "id": "1190000017255181",
+      "title": "【跃迁之路】【660天】程序员高效学习方法论探索系列（实验阶段417-2018.12.04）",
+      "url": "/a/1190000017255181",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000017255044",
+      "title": "(五)Synchronized原理分析",
+      "url": "/a/1190000017255044",
+      "desc": "synchronized想必大家都不陌生，用来解决线程安全问题的利器。同时也是Java高级程序员面试比较常见的面试题。这篇文正会带大家彻底了解synchronized的实现。",
+      "author": {
+        "nick": "架构师修炼宝典",
+        "homepage": "/u/fukua_5be8034f8191f"
+      }
+    },
+    {
+      "id": "1190000017255019",
+      "title": "(四)Thread.join的作用和原理",
+      "url": "/a/1190000017255019",
+      "desc": "很多人对Thread.join的作用以及实现了解得很少，毕竟这个api我们很少使用。这篇文章仍然会结合使用及原理进行深度分析",
+      "author": {
+        "nick": "架构师修炼宝典",
+        "homepage": "/u/fukua_5be8034f8191f"
+      }
+    },
+    {
+      "id": "1190000017255007",
+      "title": "(三)从jvm层面了解线程的启动和停止",
+      "url": "/a/1190000017255007",
+      "desc": "这一篇主要围绕线程状态控制相关的操作分析线程的原理，比如线程的中断、线程的通信等，内容比较多，可能会分两篇文章",
+      "author": {
+        "nick": "架构师修炼宝典",
+        "homepage": "/u/fukua_5be8034f8191f"
+      }
+    },
+    {
+      "id": "1190000017254956",
+      "title": "(二)线程的应用及挑战",
+      "url": "/a/1190000017254956",
+      "desc": "上一篇文章我们了解了进程和线程的发展历史、线程的生命周期、线程的优势和使用场景，这一篇，我们从Java层面更进一步了解线程的使用",
+      "author": {
+        "nick": "架构师修炼宝典",
+        "homepage": "/u/fukua_5be8034f8191f"
+      }
+    },
+    {
+      "id": "1190000017254457",
+      "title": "Spring事务整理",
+      "url": "/a/1190000017254457",
+      "desc": "工作了几年了，今天抽时间整理一下spring的事务，说起spring的事务是面试的时候面试官经常提及的问题，接下来结合网上资料再总结下spring的事务",
+      "author": {
+        "nick": "西装暴徒",
+        "homepage": "/u/xizhuangbaotu"
+      }
+    }
+  ]
+}
