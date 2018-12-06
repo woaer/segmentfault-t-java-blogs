@@ -1,0 +1,155 @@
+{
+  "watchNum": "32172",
+  "blogs": [
+    {
+      "id": "1190000017279634",
+      "title": "自动化瓦力多渠道打包python脚本",
+      "url": "/a/1190000017279634",
+      "desc": "自动化瓦力多渠道打包python脚本 目录介绍 1.本库优势亮点 2.使用介绍 3.注意要点 4.效果展示 5.其他介绍 0.首先看看我录制的案例演示 如下所示，这段python代码很简单，工具十分强大，一键多渠道打包工具。 1.本...",
+      "author": {
+        "nick": "潇湘剑雨",
+        "homepage": "/u/xiangjianyu"
+      }
+    },
+    {
+      "id": "1190000017278335",
+      "title": "面试前必须知道的MySQL命令【expalin】",
+      "url": "/a/1190000017278335",
+      "desc": "刷面试题的时候，不知道你们有没有见过MySQL这两个命令：explain和profile(反正我就见过了)..",
+      "author": {
+        "nick": "Java3y",
+        "homepage": "/u/java_3y"
+      }
+    },
+    {
+      "id": "1190000017275771",
+      "title": "代理模式",
+      "url": "/a/1190000017275771",
+      "desc": "代理模式(委托模式)就是使用代理对象来访问目标对象, 这样可以在目标对象执行前后, 来做一些逻辑处理.",
+      "author": {
+        "nick": "sc_ik",
+        "homepage": "/u/sc_ik"
+      }
+    },
+    {
+      "id": "1190000017275526",
+      "title": "Java 中初始化 List 集合的 6 种方式!",
+      "url": "/a/1190000017275526",
+      "desc": "List 是 Java 开发中经常会使用的集合，你们知道有哪些方式可以初始化一个 List 吗？这其中不缺乏一些坑，今天栈长我给大家一一普及一下。",
+      "author": {
+        "nick": "Java技术栈",
+        "homepage": "/u/javastack"
+      }
+    },
+    {
+      "id": "1190000017273967",
+      "title": "胖哥说反射 上卷",
+      "url": "/a/1190000017273967",
+      "desc": "换句话说，Class本身表示一个类的本身，通过Class可以完整获取一个类中的完整结构，包含此类中的方法定义，属性定义等。",
+      "author": {
+        "nick": "pangsir8983",
+        "homepage": "/u/pangsir8983"
+      }
+    },
+    {
+      "id": "1190000017273920",
+      "title": "那些让程序员崩溃又想笑的程序命名...",
+      "url": "/a/1190000017273920",
+      "desc": "到一家创业公司上班的第一天，老员工刘XX给我看了公司他负责的项目，奇怪的是，命名是“LiuQXProject”，刘XX看着惊愕的我说：“怎么了？有什么错吗？”",
+      "author": {
+        "nick": "jaybril",
+        "homepage": "/u/jaybril"
+      }
+    },
+    {
+      "id": "1190000017273629",
+      "title": "SpringBoot 整合 阿里云OSS 存储服务，快来免费搭建一个自己的图床",
+      "url": "/a/1190000017273629",
+      "desc": "Github 地址：[链接](SpringBoot和其他常用技术的整合,可能是你遇到的讲解最详细的学习案例,力争新手也能看懂并且能够在看完之后独立实践。基于最新的 SpringBoot2.0+，是你学习SpringBoot 的最佳指南。) ，欢迎...",
+      "author": {
+        "nick": "Snailclimb",
+        "homepage": "/u/snailclimb"
+      }
+    },
+    {
+      "id": "1190000017273327",
+      "title": "Java Nested Classes(内部类~第一篇英文技术文档翻译)",
+      "url": "/a/1190000017273327",
+      "desc": "鄙人最近尝试着翻译了自己的第一篇英文技术文档。Java Nested Classes Reference From Oracle Documentation",
+      "author": {
+        "nick": "翎野君",
+        "homepage": "/u/lingyejun"
+      }
+    },
+    {
+      "id": "1190000017272697",
+      "title": "“分库分表\" ？选型和流程要慎重，否则会失控",
+      "url": "/a/1190000017272697",
+      "desc": "恭喜你，贵公司终于成长到一定规模，需要考虑高可用，甚至分库分表了。但你是否知道分库分表需要哪些要素？拆分过程是复杂的，提前计划，不要等真正开工，各种意外的工作接踵而至，以至失控。",
+      "author": {
+        "nick": "小姐姐味道",
+        "homepage": "/u/xjjwd"
+      }
+    },
+    {
+      "id": "1190000017272578",
+      "title": "(八)ThreadLocal的使用及原理分析",
+      "url": "/a/1190000017272578",
+      "desc": "ThreadLocal，简单翻译过来就是本地线程，但是直接这么翻译很难理解ThreadLocal的作用，如果换一种说法，可以称为线程本地存储。简单来说，就是ThreadLocal为共享变量在每个线程中都创建一个副本，每个线程可以访...",
+      "author": {
+        "nick": "架构师修炼宝典",
+        "homepage": "/u/fukua_5be8034f8191f"
+      }
+    },
+    {
+      "id": "1190000017272380",
+      "title": "JVM之垃圾回收",
+      "url": "/a/1190000017272380",
+      "desc": "市面上有关JVM垃圾回收的文章很多，有些是针对垃圾收集器，有些是介绍垃圾回收算法，也有些各方面都有涉及。本文希望能做一个比较全面的总结，最关键的是形成自己的语言，有自己的理解和沉淀。",
+      "author": {
+        "nick": "架构进阶之路",
+        "homepage": "/u/geqiangqiang"
+      }
+    },
+    {
+      "id": "1190000017272325",
+      "title": "【跃迁之路】【661天】程序员高效学习方法论探索系列（实验阶段418-2018.12.05）",
+      "url": "/a/1190000017272325",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000017271507",
+      "title": "System.arraycopy方法解释",
+      "url": "/a/1190000017271507",
+      "desc": "结果输出如下：src源数组为：hellowdest目标数组为：12345789复制完成之后的dest目标数组为：123hell9",
+      "author": {
+        "nick": "西装暴徒",
+        "homepage": "/u/xizhuangbaotu"
+      }
+    },
+    {
+      "id": "1190000017270200",
+      "title": "[LeetCode] 159. Longest Substring with At Most Two Distinct",
+      "url": "/a/1190000017270200",
+      "desc": "Given a string s , find the length of the longest substring t that contains at most 2 distinct characters.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000017269621",
+      "title": "一位10年Java程序员总结进阶中的你懂多线程和jvm优化吗？",
+      "url": "/a/1190000017269621",
+      "desc": "感谢朋友们的认可和指正。本文是有感而发，因为看过了太多坑人的博客和书籍，感慨自己走过的弯路，不希望其他初学者被网上互相抄袭的博客和东拼西凑的书籍浪费时间，想以一个相对宏观的视野来描述一个概念，力求...",
+      "author": {
+        "nick": "王二蛋",
+        "homepage": "/u/javazhilu"
+      }
+    }
+  ]
+}
