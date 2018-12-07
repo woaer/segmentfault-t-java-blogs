@@ -1,0 +1,155 @@
+{
+  "watchNum": "32341",
+  "blogs": [
+    {
+      "id": "1190000017295237",
+      "title": "【宇润日常疯测-001】使用 ; 作为代码缩进符号",
+      "url": "/a/1190000017295237",
+      "desc": "这段代码是不是很奇葩，使用;作为代码缩进符号但是它是合法的语句，可以正常运行。并且在Java、PHP等语言中，都可以正常使用。",
+      "author": {
+        "nick": "宇润",
+        "homepage": "/u/yurun"
+      }
+    },
+    {
+      "id": "1190000017293678",
+      "title": "springMvc源码解读--AbstractUrlHandlerMapping",
+      "url": "/a/1190000017293678",
+      "desc": "AbstractUrlHandlerMapping系列都是继承于AbstractUrlHandlerMapping，它是通过URL来进行匹配的，是将URL与对应的handler保存在一个map中，在getHandlerInternal方法中使用URL从map中获取handler，AbstractUrlHan...",
+      "author": {
+        "nick": "雨露",
+        "homepage": "/u/yulu_5b175873aeaf9"
+      }
+    },
+    {
+      "id": "1190000017291290",
+      "title": "深入浅出Rust-Future-Part-4",
+      "url": "/a/1190000017291290",
+      "desc": "译自Rust futures: an uneducated, short and hopefully not boring tutorial - Part 4 - A \"real\" future from scratch本文时间：2018-12-03，译者:motecshine, 简介：motecshine 欢迎向Rust中文社区投稿,投稿地...",
+      "author": {
+        "nick": "krircc",
+        "homepage": "/u/krircc"
+      }
+    },
+    {
+      "id": "1190000017288347",
+      "title": "NODE + JWT + Mongo（简单实现权限管理）",
+      "url": "/a/1190000017288347",
+      "desc": "JSON Web Token (JWT) is an open standard (RFC 7519) that defines a compact and self-contained way for securely transmitting information between parties as a JSON object. This information can be ver...",
+      "author": {
+        "nick": "广州芦苇科技后台",
+        "homepage": "/u/luweiserver"
+      }
+    },
+    {
+      "id": "1190000017288108",
+      "title": "我是如何在2年内逆袭成为BAT年薪40W的资深开发工程师的？",
+      "url": "/a/1190000017288108",
+      "desc": "我16年毕业于普通的二本学校，非计算机专业出身，只因为对软件开发感兴趣，所以找工作的时候就一直投IT行业的职位。刚踏入这个行业时，以为突击一下东拼西凑的面试材料，就能有个很好的收获。结果却是，别说大公...",
+      "author": {
+        "nick": "以Java架构赢天下",
+        "homepage": "/u/zhouzhuolin"
+      }
+    },
+    {
+      "id": "1190000017287236",
+      "title": "【跃迁之路】【662天】程序员高效学习方法论探索系列（实验阶段419-2018.12.06）",
+      "url": "/a/1190000017287236",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000017287192",
+      "title": "redis分布式锁解决集群服务器定时任务重复执行问题",
+      "url": "/a/1190000017287192",
+      "desc": "将带有定时任务的项目部署在单台测试环境上，完全没问题。生产上是两台集群服务器，项目部署上去发现定时任务的模块同时在两台机器上各执行了一遍，这将会导致其他意外的发生。",
+      "author": {
+        "nick": "蓝之鱼",
+        "homepage": "/u/lanzhiyu"
+      }
+    },
+    {
+      "id": "1190000017287163",
+      "title": "springMvc源码解读--HandlerMapping",
+      "url": "/a/1190000017287163",
+      "desc": "HandlerMapping:它的作用是根据request找到相应的处理器handler和interceptors,HandlerMapping接口里面只有一个方法HandlerExecutionChain getHandler(HttpServletRequest request) throws Exception;只要使用req...",
+      "author": {
+        "nick": "雨露",
+        "homepage": "/u/yulu_5b175873aeaf9"
+      }
+    },
+    {
+      "id": "1190000017285684",
+      "title": "Java程序员进阶成为架构师，该掌握哪一些架构思维？",
+      "url": "/a/1190000017285684",
+      "desc": "很多人做java开发2，3年后，都会感觉自己遇到瓶颈。什么都会又什么都不会，如何改变困境，为什么很多人写了7,8年还是一个码农，工作中太多被动是因为不懂底层原理。公司的工作节奏又比较快，难有机会学习架构原理...",
+      "author": {
+        "nick": "以Java架构赢天下",
+        "homepage": "/u/zhouzhuolin"
+      }
+    },
+    {
+      "id": "1190000017283394",
+      "title": "java设计模式精讲 Debug 方式+内存分析分享",
+      "url": "/a/1190000017283394",
+      "desc": "第1章 课程导学（提供问答区答疑解惑）本章节主要讲解大家能收获什么，课程具体包含哪些内容，通过哪些方式来学习设计模式，以及怎么讲，怎么安排，通过本章的学习，让大家为整个课程高效的学习打下基础。",
+      "author": {
+        "nick": "王二蛋",
+        "homepage": "/u/javazhilu"
+      }
+    },
+    {
+      "id": "1190000017283179",
+      "title": "Java 嵌入 SPL 轻松实现数据分组（组合推广型）",
+      "url": "/a/1190000017283179",
+      "desc": "要在 Java 代码中实现类似 SQL 中的 GroupBy 分组聚合运算，是比较繁琐的，通常先要声明数据结构（Java 实体类），然后用 Java 集合进行循环遍历，最后根据分组条件添加到某个子集合中。Java 8 有了 Lambda（stre...",
+      "author": {
+        "nick": "raqsoft",
+        "homepage": "/u/raqsoft"
+      }
+    },
+    {
+      "id": "1190000017282806",
+      "title": "[LeetCode] 41. First Missing Positive",
+      "url": "/a/1190000017282806",
+      "desc": "Given an unsorted integer array, find the smallest missing positive integer.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000017282478",
+      "title": "leetcode330. Patching Array",
+      "url": "/a/1190000017282478",
+      "desc": "假设有一个有序的正整数数组nums和一个整数n，最少添加几个元素到这个数组中，使得从1-n的所有整数都可以由这个数组中的值的或是几个值的和构成。",
+      "author": {
+        "nick": "raledong",
+        "homepage": "/u/raledong"
+      }
+    },
+    {
+      "id": "1190000017280357",
+      "title": "Java中final、finally和finalize的区别",
+      "url": "/a/1190000017280357",
+      "desc": "定义变量，包括静态的和非静态的。定义方法的参数。定义方法。定义类。我们依次来回顾一下每种情况下final的作用。1.1 定义变量，包括静态的和非静态的。定义方法的参数第一种情况：如果final修饰的是一个基本类...",
+      "author": {
+        "nick": "CDNfast",
+        "homepage": "/u/cdnfast"
+      }
+    },
+    {
+      "id": "1190000017280147",
+      "title": "从实践学习设计模式——优化多if代码结构",
+      "url": "/a/1190000017280147",
+      "desc": "这种代码结构是不是很糟糕，如果未来又有一个新状态加入，则又要加入一个新的else if语句，如此往复，则会产生一个非常糟糕的代码结构体。",
+      "author": {
+        "nick": "艾尔雪枫",
+        "homepage": "/u/aierxuefeng"
+      }
+    }
+  ]
+}
