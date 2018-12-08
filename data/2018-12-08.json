@@ -1,0 +1,155 @@
+{
+  "watchNum": "32493",
+  "blogs": [
+    {
+      "id": "1190000017305460",
+      "title": "Redis缓存穿透问题及解决方案",
+      "url": "/a/1190000017305460",
+      "desc": "上周在工作中遇到了一个问题场景，即查询商品的配件信息时（商品：配件为1：N的关系），如若商品并未配置配件信息，则查数据库为空，且不会加入缓存，这就会导致，下次在查询同样商品的配件时，由于缓存未命中，...",
+      "author": {
+        "nick": "翎野君",
+        "homepage": "/u/lingyejun"
+      }
+    },
+    {
+      "id": "1190000017304198",
+      "title": "本地测试没问题，机器人测试错误的简单规避办法",
+      "url": "/a/1190000017304198",
+      "desc": "本地环境可以跑通，但只要一上机器人环境，便会出现错误。一般这种情况都是由于本地与travis的JDK版本不一致造成的。然而，机器人又有日志大粘限制，这就决定了，我们不可能将日志等级开启到debug来调试错误。",
+      "author": {
+        "nick": "myskies",
+        "homepage": "/u/myskies"
+      }
+    },
+    {
+      "id": "1190000017303117",
+      "title": "猫头鹰的深夜翻译：Java WeakHashMap",
+      "url": "/a/1190000017303117",
+      "desc": "本文简介 WeakHashMap类概览 WeakHashMap类构造器总结 WeakHashMap类构造方法 WeakHasjMap类使用举例 1. WeakHashMap类概览 WeakHashMap是一个实现了Map接口，并且键为weak型的哈希表。WeakHashMap中的条目不再被...",
+      "author": {
+        "nick": "raledong",
+        "homepage": "/u/raledong"
+      }
+    },
+    {
+      "id": "1190000017301386",
+      "title": "【跃迁之路】【663天】程序员高效学习方法论探索系列（实验阶段420-2018.12.07）",
+      "url": "/a/1190000017301386",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000017301202",
+      "title": "Java异常处理的最佳实践",
+      "url": "/a/1190000017301202",
+      "desc": "本文是关于 Exception 处理的一篇不错的文章，从 Java Exception 的概念介绍起，依次讲解了 Exception 的类型(Checked/Unchecked)，Exception 处理的最佳实现：",
+      "author": {
+        "nick": "grisse",
+        "homepage": "/u/grisse"
+      }
+    },
+    {
+      "id": "1190000017301113",
+      "title": "堆排序Java实现（递归方式&非递归方式）",
+      "url": "/a/1190000017301113",
+      "desc": "很早就学习了堆排序但当时没有用代码实现，现在再去想实现已经忘光光啦┑(￣Д ￣)┍，于是就去网上搜了一番，发现没有一篇我能认真看完的文章，没办法就是没耐心，就是笨呗。。。好了，言归正传=￣ω￣=",
+      "author": {
+        "nick": "console",
+        "homepage": "/u/elosnoc"
+      }
+    },
+    {
+      "id": "1190000017300116",
+      "title": "BAT面试官告诉你如何才能脱颖而出",
+      "url": "/a/1190000017300116",
+      "desc": "每个程序员、或者说每个工作者都应该有自己的职业规划，如果你不是富二代，不是官二代，也没有职业规划，希望你可以思考一下自己的将来。",
+      "author": {
+        "nick": "进取的心",
+        "homepage": "/u/jinqudexin"
+      }
+    },
+    {
+      "id": "1190000017299230",
+      "title": "SpringMvc 源码解读——AbstractHandlerMethodMapping系列",
+      "url": "/a/1190000017299230",
+      "desc": "RequestMappingHandlerMapping继承于RequestMappingInfoHandlerMapping继承于AbstractHandlerMethodMapping，其中AbstractHandlerMethodMapping系列是将method作为handler来使用的，比如@RequestMapping所注释的...",
+      "author": {
+        "nick": "雨露",
+        "homepage": "/u/yulu_5b175873aeaf9"
+      }
+    },
+    {
+      "id": "1190000017298712",
+      "title": " 浅析java内存模型--JMM",
+      "url": "/a/1190000017298712",
+      "desc": "线程之间通过共享程序公共的状态，通过读-写内存中公共状态的方式来进行隐式的通信。同步指的是程序在控制多个线程之间执行程序的相对顺序的机制，在共享内存模型中，同步是显式的，程序员必须显式指定某个方法/...",
+      "author": {
+        "nick": "bali",
+        "homepage": "/u/bali_5a0a92fba16aa"
+      }
+    },
+    {
+      "id": "1190000017298648",
+      "title": "分布式事务：基于可靠消息服务",
+      "url": "/a/1190000017298648",
+      "desc": "微服务倡导将复杂的单体应用拆分为若干个功能简单、松耦合的服务，而于此同时就会引入多个服务之间的分布式事务的问题。",
+      "author": {
+        "nick": "silk",
+        "homepage": "/u/silk"
+      }
+    },
+    {
+      "id": "1190000017298577",
+      "title": "实现多数据源事务",
+      "url": "/a/1190000017298577",
+      "desc": "这次重构项目中，为了支持后续庞大的数据量接入，更迭了数据库，但是为了要兼容老版本，也不能直接拿掉老的数据库。所以就有了兼容多数据源的需求，尤其是要保证事务。",
+      "author": {
+        "nick": "silk",
+        "homepage": "/u/silk"
+      }
+    },
+    {
+      "id": "1190000017297030",
+      "title": "SpringMvc源码解读--AbstractUrlHandlerMapping系列",
+      "url": "/a/1190000017297030",
+      "desc": "SimpleUrlHandlerMapping定义了一个map变量，将所有的URL和handler的对应关系放在里面，最后注册在父类里面，SimpleUrlHandlerMapping创建时通过重写initApplicationContext调用registerHandlers方法完成handler...",
+      "author": {
+        "nick": "雨露",
+        "homepage": "/u/yulu_5b175873aeaf9"
+      }
+    },
+    {
+      "id": "1190000017295237",
+      "title": "【宇润日常疯测-001】使用 ; 作为代码缩进符号",
+      "url": "/a/1190000017295237",
+      "desc": "这段代码是不是很奇葩，使用;作为代码缩进符号但是它是合法的语句，可以正常运行。并且在Java、PHP等语言中，都可以正常使用。",
+      "author": {
+        "nick": "宇润",
+        "homepage": "/u/yurun"
+      }
+    },
+    {
+      "id": "1190000017293678",
+      "title": "springMvc源码解读--AbstractUrlHandlerMapping",
+      "url": "/a/1190000017293678",
+      "desc": "AbstractUrlHandlerMapping系列都是继承于AbstractUrlHandlerMapping，它是通过URL来进行匹配的，是将URL与对应的handler保存在一个map中，在getHandlerInternal方法中使用URL从map中获取handler，AbstractUrlHan...",
+      "author": {
+        "nick": "雨露",
+        "homepage": "/u/yulu_5b175873aeaf9"
+      }
+    },
+    {
+      "id": "1190000017291290",
+      "title": "深入浅出Rust-Future-Part-4",
+      "url": "/a/1190000017291290",
+      "desc": "译自Rust futures: an uneducated, short and hopefully not boring tutorial - Part 4 - A \"real\" future from scratch本文时间：2018-12-03，译者:motecshine, 简介：motecshine 欢迎向Rust中文社区投稿,投稿地...",
+      "author": {
+        "nick": "krircc",
+        "homepage": "/u/krircc"
+      }
+    }
+  ]
+}
