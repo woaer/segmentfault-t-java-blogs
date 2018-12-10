@@ -1,0 +1,155 @@
+{
+  "watchNum": "32623",
+  "blogs": [
+    {
+      "id": "1190000017319797",
+      "title": "为什么要学习Python？这10个理由足够了！",
+      "url": "/a/1190000017319797",
+      "desc": "在2016年，Python取代Java成为高校中最受欢迎的语言，从那时起它受欢迎的程度就没有减退过。",
+      "author": {
+        "nick": "阿里云云栖社区",
+        "homepage": "/u/yunqishequ_5aa899aad5395"
+      }
+    },
+    {
+      "id": "1190000017317826",
+      "title": "Hashtable 为什么不叫 HashTable？",
+      "url": "/a/1190000017317826",
+      "desc": "前几天在写《HashMap 和 Hashtable 的 6 个区别》这篇文章的时候，差点把 Hashtable 写成了 HashTable，后来看源码证实了是：Hashtable，小写的 \"t\"able，不符合驼峰命名规则。",
+      "author": {
+        "nick": "Java技术栈",
+        "homepage": "/u/javastack"
+      }
+    },
+    {
+      "id": "1190000017317246",
+      "title": "分布式系统关注点——想通关「限流」？只要这一篇",
+      "url": "/a/1190000017317246",
+      "desc": "可能你在网上看过不少「限流」相关的文章，但是z哥的这篇可能是最全面，最深入浅出的一篇了（容我飘几秒～）。开个玩笑，希望你能收获一些增量价值就好～。",
+      "author": {
+        "nick": "Zachary",
+        "homepage": "/u/zachary_5b7b78d91f94d"
+      }
+    },
+    {
+      "id": "1190000017316088",
+      "title": "[LeetCode] 934. Shortest Bridge",
+      "url": "/a/1190000017316088",
+      "desc": "In a given 2D binary array A, there are two islands. (An island is a 4-directionally connected group of 1s not connected to any other 1s.)",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000017316030",
+      "title": "这次，彻底弄懂接口及抽象类",
+      "url": "/a/1190000017316030",
+      "desc": "作者：伯特出处：github.com/ruicbAndroid/LoulanPlan声明：本文出自伯特的《楼兰计划》，转载务必注明作者及出处。",
+      "author": {
+        "nick": "ruicbAndroid",
+        "homepage": "/u/ruicbandroid"
+      }
+    },
+    {
+      "id": "1190000017315783",
+      "title": "[LeetCode] 953. Verifying an Alien Dictionary",
+      "url": "/a/1190000017315783",
+      "desc": "In an alien language, surprisingly they also use english lowercase letters, but possibly in a different order. The order of the alphabet is some permutation of lowercase letters.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000017315041",
+      "title": "Dubbo服务暴露过程",
+      "url": "/a/1190000017315041",
+      "desc": "dubbo暴露服务有两种情况，一种是设置了延迟暴露（比如delay=”5000”），另外一种是没有设置延迟暴露或者延迟设置为-1（delay=”-1”）：",
+      "author": {
+        "nick": "Huangy远",
+        "homepage": "/u/huangyuanlu"
+      }
+    },
+    {
+      "id": "1190000017315022",
+      "title": "【跃迁之路】【665天】程序员高效学习方法论探索系列（实验阶段422-2018.12.09）",
+      "url": "/a/1190000017315022",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000017314889",
+      "title": "深入Spring Boot：ClassLoader的继承关系和影响",
+      "url": "/a/1190000017314889",
+      "desc": "可以运行下面提供的demo，分别在不同的场景下运行，可以知道不同场景下的Spring boot应用的ClassLoader继承关系。",
+      "author": {
+        "nick": "横云断岭",
+        "homepage": "/u/hengyunduanling"
+      }
+    },
+    {
+      "id": "1190000017314802",
+      "title": "创建一种深思熟虑的文化",
+      "url": "/a/1190000017314802",
+      "desc": "在商业和咨询界文化最近变成了一个很火的话题。当你提到这个话题时每个人都会变得很兴奋并想听到如何将他们的文化变得更好的最新想法。",
+      "author": {
+        "nick": "祝坤荣",
+        "homepage": "/u/zhukunrong"
+      }
+    },
+    {
+      "id": "1190000017314788",
+      "title": "并发框架",
+      "url": "/a/1190000017314788",
+      "desc": "JUC中提供了几个比较常用的并发工具类，比如CountDownLatch、CyclicBarrier、Semaphore。 其实在以前我们 课堂的演示代码中，或多或少都有用到过这样一些api，接下来我们会带大家去深入研究一些常用的api。 Count...",
+      "author": {
+        "nick": "码魇",
+        "homepage": "/u/ma_5b4fe416664f8"
+      }
+    },
+    {
+      "id": "1190000017314625",
+      "title": "Java中断异常 InterruptedException 的正确处理方式",
+      "url": "/a/1190000017314625",
+      "desc": "你看到这篇文件可能是因为你已经调用了一个抛出 InterruptedException 异常的方法，并且需要以某种方式处理它。",
+      "author": {
+        "nick": "Yujiaao",
+        "homepage": "/u/yujiaao"
+      }
+    },
+    {
+      "id": "1190000017314326",
+      "title": "初识 JNI",
+      "url": "/a/1190000017314326",
+      "desc": "JNI 是用于和本地 C 代码进行交互操作的API。实际上可以通过许多语言编写，如C++、C#，本质上 Java 调用的是 dll/so 库 。此处说是和本地 C 代码互操作是因为 JNI API的支持。JNI API针对的是 C 语言，而不是Java。",
+      "author": {
+        "nick": "魏晋秋",
+        "homepage": "/u/piumnl"
+      }
+    },
+    {
+      "id": "1190000017313130",
+      "title": "953-验证外星语词典",
+      "url": "/a/1190000017313130",
+      "desc": "某种外星语也使用英文小写字母，但可能顺序 order 不同。字母表的顺序（order）是一些小写字母的排列。 给定一组用外星语书写的单词 words，以及其字母表的顺序 order，只有当给定的单词在这种外星语中按字典序排...",
+      "author": {
+        "nick": "Null",
+        "homepage": "/u/null_ryan"
+      }
+    },
+    {
+      "id": "1190000017312794",
+      "title": "深入浅出Rust-Future-Part-5.md",
+      "url": "/a/1190000017312794",
+      "desc": "原文:Rust futures: an uneducated, short and hopefully not boring tutorial - Part 5 - Streams本文时间：2018-12-09，译者:motecshine, 简介：motecshine 欢迎向Rust中文社区投稿,投稿地址 ,好文将在以下地方...",
+      "author": {
+        "nick": "krircc",
+        "homepage": "/u/krircc"
+      }
+    }
+  ]
+}
