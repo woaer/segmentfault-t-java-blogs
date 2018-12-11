@@ -1,0 +1,155 @@
+{
+  "watchNum": "32755",
+  "blogs": [
+    {
+      "id": "1190000017333304",
+      "title": "Android面试整理(附答案)",
+      "url": "/a/1190000017333304",
+      "desc": "面试，无非都是问上面这些问题（挺多的 - -!），聘请中高级的安卓开发会往深的去问，并且会问一延伸二。以下我先提出几点重点，是面试官基本必问的问题，请一定要去了解！",
+      "author": {
+        "nick": "爱编码的coder",
+        "homepage": "/u/chengxuyuanxiaohui"
+      }
+    },
+    {
+      "id": "1190000017333182",
+      "title": "分析Java多态和动态绑定（后期绑定）",
+      "url": "/a/1190000017333182",
+      "desc": "网上很多的文章并不能让我真正的理解多态，准备深入分析一下Java多态o(￣ヘ￣o＃)。",
+      "author": {
+        "nick": "console",
+        "homepage": "/u/elosnoc"
+      }
+    },
+    {
+      "id": "1190000017332269",
+      "title": "FIBOS让区块链支付应用一秒到账",
+      "url": "/a/1190000017332269",
+      "desc": "11月30日晚，登链社区在深圳市南山区宝深路科陆大厦组织了一场主题为“高TPS和去中心化存储带来的第三代区块链技术革新机遇”的线下活动。特邀嘉宾为星际区块信息有限（深圳）公司CEO，大数据和AI背景，ROS和SLAM爱...",
+      "author": {
+        "nick": "fibos",
+        "homepage": "/u/fibos"
+      }
+    },
+    {
+      "id": "1190000017330936",
+      "title": "Java面试题：Hibernate的二级缓存与Hibernate多表查询",
+      "url": "/a/1190000017330936",
+      "desc": "（2）再说有了hibernate的Session就是一级缓存，即有了一级缓存，为什么还要有二级缓存；",
+      "author": {
+        "nick": "尚学堂明辉",
+        "homepage": "/u/shangxuetangminghui"
+      }
+    },
+    {
+      "id": "1190000017327827",
+      "title": "Java虚拟机的内存区域以及各区域主要用途",
+      "url": "/a/1190000017327827",
+      "desc": "jvm在运行Java程序时，会有把内存分成如下几个区域： 区域 线程私有/共享 主要用途 程序计数器 私有 可以看作是当前线程执行的字节码行号指示器，字节码解释器会通过改变程序计数器的值来记录下一条需要执行的字...",
+      "author": {
+        "nick": "瓦力",
+        "homepage": "/u/wallee"
+      }
+    },
+    {
+      "id": "1190000017327469",
+      "title": "深入Spring Boot：Spring Context的继承关系和影响",
+      "url": "/a/1190000017327469",
+      "desc": "AnnotationConfigEmbeddedWebApplicationContext是spring boot里自己实现的一个context，主要功能是启动embedded servlet container，比如tomcat/jetty。",
+      "author": {
+        "nick": "横云断岭",
+        "homepage": "/u/hengyunduanling"
+      }
+    },
+    {
+      "id": "1190000017327304",
+      "title": "小心递归中内存泄漏",
+      "url": "/a/1190000017327304",
+      "desc": "前段时间由于业务需要，需要从数据库中查询出来所有满足条件的数据，然后导入到文件中。于是随便写了个程序，查询出所有满足条件然后再写入文件。但是实际上线后却发现，程序刚开始运行马上看到部分数据写入到文...",
+      "author": {
+        "nick": "andyxu9526",
+        "homepage": "/u/andyuxu9526"
+      }
+    },
+    {
+      "id": "1190000017326620",
+      "title": "面试题 —淘宝网现场面试题49题（JVM+算法+Redis+Mysql+Spring）",
+      "url": "/a/1190000017326620",
+      "desc": "淘宝一面:面试介绍1）自我介绍？2）项目介绍？3）遇到的最大困难是什么？怎么解决的？4）你觉得你能怎么优化这个项目？面试题目1）讲一下JVM2）讲一下JVM的分代回收以及具体算法3）将一下JVM的垃圾收集器，G1和CM...",
+      "author": {
+        "nick": "以Java架构赢天下",
+        "homepage": "/u/zhouzhuolin"
+      }
+    },
+    {
+      "id": "1190000017325935",
+      "title": "【跃迁之路】【666天】程序员高效学习方法论探索系列（实验阶段423-2018.12.10）",
+      "url": "/a/1190000017325935",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000017325698",
+      "title": "通俗易懂，JDK 并发容器总结",
+      "url": "/a/1190000017325698",
+      "desc": "该文已加入开源项目：JavaGuide（一份涵盖大部分Java程序员所需要掌握的核心知识的文档类项目，Star 数接近 14 k）。地址:[链接]",
+      "author": {
+        "nick": "Snailclimb",
+        "homepage": "/u/snailclimb"
+      }
+    },
+    {
+      "id": "1190000017325575",
+      "title": "视图助手",
+      "url": "/a/1190000017325575",
+      "desc": "视图助手 来源：[链接] 问题需求 您想要将视图从处理逻辑中分离出来 您想使用基于模版的视图，如JSP 您想避免在视图中使用程序逻辑 您想把视图中的处理逻辑分离，以便于软件开发者（后台工程师）和网页设计师（前...",
+      "author": {
+        "nick": "麦冬",
+        "homepage": "/u/poseidon_ocean"
+      }
+    },
+    {
+      "id": "1190000017325373",
+      "title": "使用Laya引擎开发微信小游戏（上）",
+      "url": "/a/1190000017325373",
+      "desc": "本文由云+社区发表 使用一个简单的游戏开发示例，由浅入深，介绍了如何用Laya引擎开发微信小游戏。 作者：马晓东，腾讯前端高级工程师。 微信小游戏的推出也快一年时间了，在IEG的游戏运营活动中，也出现了越来越...",
+      "author": {
+        "nick": "腾讯云加社区",
+        "homepage": "/u/qcloudcommunity"
+      }
+    },
+    {
+      "id": "1190000017324313",
+      "title": "fast-spring-boot快速开发项目",
+      "url": "/a/1190000017324313",
+      "desc": "集成Spring Boot 2.1,Mybatis,Mybatis Plus,Druid,FastJson,Redis,Rabbit MQ,Kafka等，可使用代码生成器快速开发项目，使用maven assembly打包发布",
+      "author": {
+        "nick": "geekidea",
+        "homepage": "/u/geekidea"
+      }
+    },
+    {
+      "id": "1190000017324038",
+      "title": "springboot ElasticSearch 简单的全文检索高亮",
+      "url": "/a/1190000017324038",
+      "desc": "前阵子和张三丰聊天提到了es。这次正好有机会学习并使用 首先引入依赖 {代码...} 配置文件 {代码...} 然后 创建接口并继承ElasticsearchRepository idea 类继承 ElasticsearchRepository {代码...} 下一步在需要...",
+      "author": {
+        "nick": "hao_",
+        "homepage": "/u/hao_"
+      }
+    },
+    {
+      "id": "1190000017324003",
+      "title": "JDK环境变量-win10",
+      "url": "/a/1190000017324003",
+      "desc": "前言 本次分享JDK环境变量配置，默认同学们机器都已安装JDK。 我的JDK安装目录: C:\\Program Files\\Java\\jdk1.8.0_191 动手开整 点击 此电脑————>属性 点击 高级系统设置————>环境变量 配置 系统变量 \"JAVA_...",
+      "author": {
+        "nick": "t_什么都没有",
+        "homepage": "/u/smdmy"
+      }
+    }
+  ]
+}
