@@ -1,0 +1,155 @@
+{
+  "watchNum": "33084",
+  "blogs": [
+    {
+      "id": "1190000017362997",
+      "title": "MyBatis 源码解析（一）：初始化和动态代理",
+      "url": "/a/1190000017362997",
+      "desc": "MyBatis 是 Java 开发中非常流行的 ORM 框架，其封装了 JDBC 并且解决了 Java 对象与输入参数和结果集的映射，同时又能够让用户方便地手写 SQL 语句。MyBatis 的行为类似于以下几行代码：",
+      "author": {
+        "nick": "然则",
+        "homepage": "/u/ming_55e57cb682df4"
+      }
+    },
+    {
+      "id": "1190000017362670",
+      "title": "hashMap源码分析以及原理",
+      "url": "/a/1190000017362670",
+      "desc": "前言 hashMap在平时工作和面试中，常常使用到和问到，本文将从一下几个方面进行记录： 　 什么是哈希表 HashMap实现原理 为何HashMap的数组长度一定是2的次幂？ 1. 什么是哈希表 在讨论哈希表之前，我们先大概了...",
+      "author": {
+        "nick": "crawler",
+        "homepage": "/u/crawler_5abbc6514b6d0"
+      }
+    },
+    {
+      "id": "1190000017361135",
+      "title": "Flutter组件学习（三）—— 输入框TextFiled",
+      "url": "/a/1190000017361135",
+      "desc": "Google 前两天发布了 Flutter 1.0 正式版本，正式版发布之后，LZ身边越来越多的人都开始入坑了，不得不说 Flutter 框架的魅力还是很吸引人的哈，所以我们更要抓紧学习了；之前我写了两篇文章来介绍 Flutter中的Te...",
+      "author": {
+        "nick": "24K纯帅",
+        "homepage": "/u/24kshign"
+      }
+    },
+    {
+      "id": "1190000017358248",
+      "title": "[LeetCode] 48. Rotate Image",
+      "url": "/a/1190000017358248",
+      "desc": "You are given an n x n 2D matrix representing an image.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000017355154",
+      "title": "我是如何将博客转成PDF的",
+      "url": "/a/1190000017355154",
+      "desc": "之前有读者问过我：“3y你的博客有没有电子版的呀？我想要份电子版的”。我说：“没有啊，我没有弄过电子版的，我这边有个文章导航页面，你可以去文章导航去找来看呀”..然后就没有然后了。",
+      "author": {
+        "nick": "Java3y",
+        "homepage": "/u/java_3y"
+      }
+    },
+    {
+      "id": "1190000017354487",
+      "title": "【跃迁之路】【668天】程序员高效学习方法论探索系列（实验阶段425-2018.12.12）",
+      "url": "/a/1190000017354487",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000017354158",
+      "title": "[LeetCode] 763. Partition Labels",
+      "url": "/a/1190000017354158",
+      "desc": "A string S of lowercase letters is given. We want to partition this string into as many parts as possible so that each letter appears in at most one part, and return a list of integers representing...",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000017353059",
+      "title": "如何一步步在生产环境上部署django和vue",
+      "url": "/a/1190000017353059",
+      "desc": "本文由云+社区发表本文主要讲述了如何一步步在生产环境上部署django和vue，操作系统默认为centos",
+      "author": {
+        "nick": "腾讯云加社区",
+        "homepage": "/u/qcloudcommunity"
+      }
+    },
+    {
+      "id": "1190000017352104",
+      "title": "从内部自用到对外服务，配置管理的演进和设计优化实践",
+      "url": "/a/1190000017352104",
+      "desc": "微服务给配置管理所带来的变化配置管理演进过程中的设计思考配置管理开源后的新探索配置中心控制台设计实践“为什么相对于传统的软件开发模式，微服务要强调配置中心，是出于什么样的诉求需要我们专门设计一个配置...",
+      "author": {
+        "nick": "暖忆",
+        "homepage": "/u/nuanyi"
+      }
+    },
+    {
+      "id": "1190000017351736",
+      "title": "ReentrantLock之AQS原理与源码详解",
+      "url": "/a/1190000017351736",
+      "desc": "AbstractQueuedSynchronizer，抽象队列同步器；给大家画一个图先，看一下ReentrantLock和AQS之间的关系。",
+      "author": {
+        "nick": "yin",
+        "homepage": "/u/yin_655159"
+      }
+    },
+    {
+      "id": "1190000017351719",
+      "title": "[LeetCode] 93. Restore IP Addresses",
+      "url": "/a/1190000017351719",
+      "desc": "Given a string containing only digits, restore it by returning all possible valid IP address combinations.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000017351446",
+      "title": "学Java可以做什么？这九大领域任你选！",
+      "url": "/a/1190000017351446",
+      "desc": "Java是时下非常流行的语言，这意味着有很多很多不同的工作可供选择。Java软件工程师入行1-3年，年薪已达到10-15万，而且在IT行业工作经验越多，薪资待遇越高。",
+      "author": {
+        "nick": "以Java架构赢天下",
+        "homepage": "/u/zhouzhuolin"
+      }
+    },
+    {
+      "id": "1190000017349242",
+      "title": "merge into 用法深思",
+      "url": "/a/1190000017349242",
+      "desc": "基于上述描述准备用merge into 语句，用数据库层面的事物来保证数据的一致性。那么现在就来赘述一下merge into的一些用法",
+      "author": {
+        "nick": "Krupp",
+        "homepage": "/u/krupp"
+      }
+    },
+    {
+      "id": "1190000017347541",
+      "title": "Java GC",
+      "url": "/a/1190000017347541",
+      "desc": "Java Virtual Machine，Java虚拟机。是java编译后的.class文件（字节码文件）与硬件系统之间的接口，也就是说用来运行.class文件。JVM实现了Java最重要的特性：平台无关性。",
+      "author": {
+        "nick": "liuqinh2s",
+        "homepage": "/u/liuqinh2s"
+      }
+    },
+    {
+      "id": "1190000017346880",
+      "title": "为NEO-GUI 添加插件系统",
+      "url": "/a/1190000017346880",
+      "desc": "作为一个NEO区块链技术爱好者，经常要摆弄NEOGUI，而NEOGUI在众多开发者手中有了众多的分支实现，我也有自己的分支改版。这是一件很麻烦的事情。",
+      "author": {
+        "nick": "NEOxizai",
+        "homepage": "/u/neoxizai"
+      }
+    }
+  ]
+}
