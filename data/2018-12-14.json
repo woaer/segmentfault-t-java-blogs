@@ -1,0 +1,155 @@
+{
+  "watchNum": "33241",
+  "blogs": [
+    {
+      "id": "1190000017376468",
+      "title": "Rust错误处理",
+      "url": "/a/1190000017376468",
+      "desc": "Rust错误处理 本文同步于Rust中文社区专栏文章：Rust错误处理 ,本文时间：2018-12-14, 译者：krircc，简介：天青色，原文出处 欢迎向Rust中文社区投稿,投稿地址 ,好文将在以下地方直接展示 Rust中文社区首页 Rust...",
+      "author": {
+        "nick": "krircc",
+        "homepage": "/u/krircc"
+      }
+    },
+    {
+      "id": "1190000017376401",
+      "title": "Java枚举类学习到进阶",
+      "url": "/a/1190000017376401",
+      "desc": "枚举类型是Java 5中新增特性的一部分，它是一种特殊的数据类型，之所以特殊是因为它既是一种类(class)类型却又比类类型多了些特殊的约束，但是这些约束的存在也造就了枚举类型的简洁性、安全性以及便捷性。△有的...",
+      "author": {
+        "nick": "代码牛",
+        "homepage": "/u/vidanao"
+      }
+    },
+    {
+      "id": "1190000017375885",
+      "title": "InChat一版，仅仅两个接口实现自己的IM系统（可兼容）",
+      "url": "/a/1190000017375885",
+      "desc": "版本目标：完成基本的消息通讯（仅支持文本消息），离线消息存储，历史消息查询，一对一聊天、自我聊天、群聊等。",
+      "author": {
+        "nick": "MySelf",
+        "homepage": "/u/myself_5ab9f390c6129"
+      }
+    },
+    {
+      "id": "1190000017375435",
+      "title": "解决spring cloud Feign远程调用服务，添加headers解决拦截器拦截问题",
+      "url": "/a/1190000017375435",
+      "desc": "使用spring cloud 做saas服务器时，经常会通过Feign调用远程服务。有时候我们的远程服务可能做了某些权限验证。需要验证header或者token什么的。如果某没有token，可能会被阻止调用。那如何添加token呢。如果每个...",
+      "author": {
+        "nick": "exception",
+        "homepage": "/u/fendouxiaowoniu"
+      }
+    },
+    {
+      "id": "1190000017374917",
+      "title": "377. Combination Sum IV",
+      "url": "/a/1190000017374917",
+      "desc": "有一个不包含重复值的正整数数组nums，问从数组中选择几个数，其和为target，这样的数的组合有几种？",
+      "author": {
+        "nick": "raledong",
+        "homepage": "/u/raledong"
+      }
+    },
+    {
+      "id": "1190000017374846",
+      "title": "Java获取ejabberd在线用户账号Jid",
+      "url": "/a/1190000017374846",
+      "desc": "公司需求为导出在线用户信息，其中第一步便是取到在线用户，本文选择去ejabberd网页取爬取在线用户页面，获得返回报文后进行截取获得用户账号。后续方便进行取缓存数据获取必要的数据为导出excel做准备。",
+      "author": {
+        "nick": "wxin",
+        "homepage": "/u/wxin_58f179f71991f"
+      }
+    },
+    {
+      "id": "1190000017374100",
+      "title": "jenkins自动化项目部署实战",
+      "url": "/a/1190000017374100",
+      "desc": "jenkins自动化项目部署实战 简介 以下文章只是从入门来说明jenkins的部署过程，仅供新手入门，高手勿喷。 安装 命令如下： 拉镜像，无需解释 {代码...} 创建挂载路径 {代码...} 8080： 访问网页；50000： 配置主...",
+      "author": {
+        "nick": "广州芦苇科技后台",
+        "homepage": "/u/luweiserver"
+      }
+    },
+    {
+      "id": "1190000017372916",
+      "title": "Spring Boot 返回 JSON 数据，一分钟搞定！",
+      "url": "/a/1190000017372916",
+      "desc": "在 WEB 项目中返回 JSON 数据是常见的交互形式，在 Spring Boot 中这一切都变得十分简单。So easy!!!",
+      "author": {
+        "nick": "Java技术栈",
+        "homepage": "/u/javastack"
+      }
+    },
+    {
+      "id": "1190000017372895",
+      "title": "【剑指offer】33.二叉树镜像",
+      "url": "/a/1190000017372895",
+      "desc": "可以看到首先对根节点的左右进行翻转。再递归的对左子树，以及右子树进行翻转。之前讲过，链表的题目分为四个步骤：连过来、指针走、断后路、调状态。二涉及到树的题目，基本都是递归。一旦涉及到递归，就要搞清...",
+      "author": {
+        "nick": "Acceml",
+        "homepage": "/u/acceml"
+      }
+    },
+    {
+      "id": "1190000017372575",
+      "title": "各个大厂裁员情况，已经慌的一B",
+      "url": "/a/1190000017372575",
+      "desc": "不知道明年的情况会如何，网上看到过一句话：2019 年也许是这 10 年最差的一年，但可能是接下来 10 年中最好的一年。",
+      "author": {
+        "nick": "苏南",
+        "homepage": "/u/susouth"
+      }
+    },
+    {
+      "id": "1190000017372301",
+      "title": "[LeetCode] 487. Max Consecutive Ones II",
+      "url": "/a/1190000017372301",
+      "desc": "Given a binary array, find the maximum number of consecutive 1s in this array if you can flip at most one 0.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000017372067",
+      "title": "深入分析AQS实现原理",
+      "url": "/a/1190000017372067",
+      "desc": "简单解释一下J.U.C，是JDK中提供的并发工具包,java.util.concurrent。里面提供了很多并发编程中很常用的实用工具类，比如atomic原子操作、比如lock同步锁、fork/join等。",
+      "author": {
+        "nick": "架构师修炼宝典",
+        "homepage": "/u/fukua_5be8034f8191f"
+      }
+    },
+    {
+      "id": "1190000017371600",
+      "title": "Android逆向之路---脱壳360加固",
+      "url": "/a/1190000017371600",
+      "desc": "众所周知，现在软件在防止逆向采取了混淆，加壳等措施。比如360加固，腾讯加固，梆梆加固等等。这两天在逆向一款app的时候找到了一个不错的xposed插件推荐给大家，",
+      "author": {
+        "nick": "MartinHan",
+        "homepage": "/u/martinhan"
+      }
+    },
+    {
+      "id": "1190000017371289",
+      "title": "利用TabLayout+ViewPager+Fragment实现首页侧滑",
+      "url": "/a/1190000017371289",
+      "desc": "创建ViewPager适配器 public class PageAdapter extends FragmentPagerAdapter { {代码...} }",
+      "author": {
+        "nick": "玲の",
+        "homepage": "/u/fanrui_5c052adaeef32"
+      }
+    },
+    {
+      "id": "1190000017371277",
+      "title": "利用TabLayout+ViewPager+Fragment实现首页侧滑",
+      "url": "/a/1190000017371277",
+      "desc": "创建ViewPager适配器 public class PageAdapter extends FragmentPagerAdapter { {代码...} }",
+      "author": {
+        "nick": "玲の",
+        "homepage": "/u/fanrui_5c052adaeef32"
+      }
+    }
+  ]
+}
