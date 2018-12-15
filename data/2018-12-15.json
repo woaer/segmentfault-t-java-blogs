@@ -1,0 +1,155 @@
+{
+  "watchNum": "33379",
+  "blogs": [
+    {
+      "id": "1190000017384199",
+      "title": "stash —— 一个极度实用的Git操作",
+      "url": "/a/1190000017384199",
+      "desc": "今天要介绍的 Git 操作就是 stash，毫不夸张地说，每个用 Git 的开发人员都一定要会懂怎么使用。",
+      "author": {
+        "nick": "不只Java",
+        "homepage": "/u/buzhijava"
+      }
+    },
+    {
+      "id": "1190000017383854",
+      "title": "MyBatis-Plus初步",
+      "url": "/a/1190000017383854",
+      "desc": "本章主要是对MyBatis-Plus的初步介绍，包括一些背景知识、环境搭建、初步使用等知识和例子。对于背景知识，主要包含对MyBatis-Plus的特性介绍、为什么使用MyBatis-Plus、MyBatis与MyBatis-Plus的区别；对于环境搭...",
+      "author": {
+        "nick": "youcong",
+        "homepage": "/u/youcongtech"
+      }
+    },
+    {
+      "id": "1190000017383838",
+      "title": "【跃迁之路】【670天】程序员高效学习方法论探索系列（实验阶段427-2018.12.14）",
+      "url": "/a/1190000017383838",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000017383620",
+      "title": "Java程序员怎样才能在两年内，技术水平达到月薪2w的水平呢！",
+      "url": "/a/1190000017383620",
+      "desc": "有人回答说月薪两万，这只能是大企业或者互联网企业的工程师才能拿到。也许是的，小公司或者非互联网企业拿两万的不太可能是码农了，应该是已经转管理后才有可能。还有区域问题，这个不在我的考虑范围内，因为除...",
+      "author": {
+        "nick": "以Java架构赢天下",
+        "homepage": "/u/zhouzhuolin"
+      }
+    },
+    {
+      "id": "1190000017383290",
+      "title": "聊聊分布式事务",
+      "url": "/a/1190000017383290",
+      "desc": "这次使用分布式事务框架过程中了学习了一些分布式事务知识，所以本文我们就来聊聊分布式事务那些事。首先我们先回顾下什么是事务。",
+      "author": {
+        "nick": "andyxu9526",
+        "homepage": "/u/andyuxu9526"
+      }
+    },
+    {
+      "id": "1190000017383054",
+      "title": "springboot+jpa 整合与基本应用",
+      "url": "/a/1190000017383054",
+      "desc": "什么是jpaJPA （The Java Persistence API）是用于访问，持久化和管理 Java 对象/类与关系型数据库之间的数据交互的 Java 规范。JPA 被定义为EJB （Enterprise JavaBeans） 3.0规范的一部分，作为 EJB 2 CMP 实体...",
+      "author": {
+        "nick": "广州芦苇科技后台",
+        "homepage": "/u/luweiserver"
+      }
+    },
+    {
+      "id": "1190000017382475",
+      "title": "怎样在Windows上安装Java开发所需的MySQL(写给学习Java的大学生们)",
+      "url": "/a/1190000017382475",
+      "desc": "最近学习上要求要用到数据库，然后就去看了下MySQL，发现它已经更新到8.0了，但是让我写这篇文章的关键是...",
+      "author": {
+        "nick": "MitsuhaYuki",
+        "homepage": "/u/mitsuhayuki"
+      }
+    },
+    {
+      "id": "1190000017381803",
+      "title": "关于String内的indexOf方法的一些疑问",
+      "url": "/a/1190000017381803",
+      "desc": "今天浏览了一下java里的String类，发现一个静态方法有点意思，就是我们常用的indexOf(String str)的底层实现，先看下代码调用链。",
+      "author": {
+        "nick": "木子三金",
+        "homepage": "/u/muzisanjin"
+      }
+    },
+    {
+      "id": "1190000017381593",
+      "title": "如何构建高性能MySQL索引",
+      "url": "/a/1190000017381593",
+      "desc": "本文的重点在于如何构建一个高性能的MySQL索引，从中你可以学到如何分析一个索引是不是好索引，以及如何构建一个好的索引。",
+      "author": {
+        "nick": "进取的心",
+        "homepage": "/u/jinqudexin"
+      }
+    },
+    {
+      "id": "1190000017380757",
+      "title": "[LeetCode] 702. Search in a Sorted Array of Unknown Size",
+      "url": "/a/1190000017380757",
+      "desc": "Given an integer array sorted in ascending order, write a function to search target in nums. If target exists, then return its index, otherwise return -1. However, the array size is unknown to you....",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000017380569",
+      "title": "[LeetCode] 280. Wiggle Sort",
+      "url": "/a/1190000017380569",
+      "desc": "Given an unsorted array nums, reorder it in-place such that nums[0] <= nums[1] >= nums[2] <= nums[3]....",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000017380544",
+      "title": "Java BeanUtils对象复制工具类及方法",
+      "url": "/a/1190000017380544",
+      "desc": "1. BeanUtils.copyProperties(Object source, Object target)",
+      "author": {
+        "nick": "admin79",
+        "homepage": "/u/admin79"
+      }
+    },
+    {
+      "id": "1190000017380308",
+      "title": "如何在微服务架构中对资源（前端页面+后端接口）进行权限控制",
+      "url": "/a/1190000017380308",
+      "desc": "在微服务架构中，请求的拦截在gateway中完成，而权限的查询是在uaa中完成，在gateway和uaa集成部署的情况下实现较为简单，如果两者分离实现起来就会比较麻烦，一种方案是在gateway的资源filter中内部调用uaa的权...",
+      "author": {
+        "nick": "卜帅",
+        "homepage": "/u/boshuai"
+      }
+    },
+    {
+      "id": "1190000017380254",
+      "title": "[LeetCode] 245. Shortest Word Distance III",
+      "url": "/a/1190000017380254",
+      "desc": "Given a list of words and two words word1 and word2, return the shortest distance between these two words in the list.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000017380152",
+      "title": "[LeetCode] 244. Shortest Word Distance II",
+      "url": "/a/1190000017380152",
+      "desc": "Design a class which receives a list of words in the constructor, and implements a method that takes two words word1 and word2 and return the shortest distance between these two words in the list. ...",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    }
+  ]
+}
