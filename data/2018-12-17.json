@@ -1,0 +1,155 @@
+{
+  "watchNum": "33506",
+  "blogs": [
+    {
+      "id": "1190000017399969",
+      "title": "新手也能看懂，消息队列其实很简单",
+      "url": "/a/1190000017399969",
+      "desc": "该文已加入开源项目：JavaGuide（一份涵盖大部分Java程序员所需要掌握的核心知识的文档类项目，Star 数接近 16k）。地址:[链接]",
+      "author": {
+        "nick": "Snailclimb",
+        "homepage": "/u/snailclimb"
+      }
+    },
+    {
+      "id": "1190000017398707",
+      "title": "https证书互信解决方案—创建私有CA并申请证书",
+      "url": "/a/1190000017398707",
+      "desc": "https相较于http而言有很大的安全性，当我们一个服务开启https并与之通信时，往往需要证书的认证，如果是浏览器访问服务，只要在浏览器内设置信任证书即可，而如果是程序内访问服务（如java程序），则需要导入该...",
+      "author": {
+        "nick": "艾尔雪枫",
+        "homepage": "/u/aierxuefeng"
+      }
+    },
+    {
+      "id": "1190000017398678",
+      "title": "I/O Multiplexing -- Linux I/O 多路复用",
+      "url": "/a/1190000017398678",
+      "desc": "此模式下，程序代码能够完全，无限制地访问底层硬件，能够执行任意的 CPU 指令和访问任意的内存地址。内核模式通常留给最底层的，受信任的系统函数来使用。程序在内核模式下崩溃是灾难性的，这甚至可以使整台 PC ...",
+      "author": {
+        "nick": "风歌",
+        "homepage": "/u/_windy"
+      }
+    },
+    {
+      "id": "1190000017398409",
+      "title": "如何提升JavaScript的任务效率？学会后教给你同事",
+      "url": "/a/1190000017398409",
+      "desc": "JavaScript 语言采用的是单线程模型，也就是说，所有任务只能在一个线程上完成，一次只能做一件事。前面的任务没做完，后面的任务只能等着。随着电脑计算能力的增强，尤其是多核 CPU 的出现，单线程带来很大的不...",
+      "author": {
+        "nick": "腾讯云加社区",
+        "homepage": "/u/qcloudcommunity"
+      }
+    },
+    {
+      "id": "1190000017397803",
+      "title": "Java并发编程——线程基础查漏补缺",
+      "url": "/a/1190000017397803",
+      "desc": "使用Java的同学对Thread应该不陌生了，线程的创建和启动等这里就不讲了，这篇主要讲几个容易被忽视的方法，以及线程状态的迁移，最后会讲如何优雅的关闭线程。",
+      "author": {
+        "nick": "ModraedLau",
+        "homepage": "/u/modraedlau"
+      }
+    },
+    {
+      "id": "1190000017397584",
+      "title": "[LeetCode] 480. Sliding Window Median",
+      "url": "/a/1190000017397584",
+      "desc": "Median is the middle value in an ordered integer list. If the size of the list is even, there is no middle value. So the median is the mean of the two middle value.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000017396577",
+      "title": "8支团队正在努力构建下一代Ethereum",
+      "url": "/a/1190000017396577",
+      "desc": "谈到开发人员为 Ethereum 区块链进行两个独立的升级（一个称为 Ethereum 2.0，另一个称为 Ethereum 1x）所作出的补充努力，劳尔·乔丹坚持认为，在较短的时间内将升级包括在 Ethereum 1x 中，将对正在进行的 Ether...",
+      "author": {
+        "nick": "tualala",
+        "homepage": "/u/tualala"
+      }
+    },
+    {
+      "id": "1190000017395864",
+      "title": "Spring Cloud Alibaba Sentinel 整合 Feign 的设计实现",
+      "url": "/a/1190000017395864",
+      "desc": "前段时间 Hystrix 宣布不再维护之后（Hystrix 停止开发。。。Spring Cloud 何去何从？），Feign 作为一个跟 Hystrix 强依赖的组件，必然会有所担心后续的使用。",
+      "author": {
+        "nick": "Java技术栈",
+        "homepage": "/u/javastack"
+      }
+    },
+    {
+      "id": "1190000017395850",
+      "title": "周末去面试，进去 5 分钟就出来了…",
+      "url": "/a/1190000017395850",
+      "desc": "那时候的栈长还真菜，每天写着 if/ for 及一些简单的业务逻辑代码，虽工作有些日子了，但技术水平还停留在刚毕业的起步阶段。。。",
+      "author": {
+        "nick": "Java技术栈",
+        "homepage": "/u/javastack"
+      }
+    },
+    {
+      "id": "1190000017394824",
+      "title": "一次生产 CPU 100% 排查优化实践",
+      "url": "/a/1190000017394824",
+      "desc": "拿到问题后首先去服务器上看了看，发现运行的只有我们的 Java 应用。于是先用 ps 命令拿到了应用的 PID。",
+      "author": {
+        "nick": "crossoverJie",
+        "homepage": "/u/crossoverjie"
+      }
+    },
+    {
+      "id": "1190000017395653",
+      "title": "[LeetCode] 71. Simplify Path",
+      "url": "/a/1190000017395653",
+      "desc": "Given an absolute path for a file (Unix-style), simplify it.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000017395098",
+      "title": "swing初学，随笔",
+      "url": "/a/1190000017395098",
+      "desc": "ps:学校太坑底，导致不得不在学习swing。 使用swing的时候一定要流程 窗口——>布局容器——>其他控件/容器",
+      "author": {
+        "nick": "一轮红日",
+        "homepage": "/u/yilunhongri"
+      }
+    },
+    {
+      "id": "1190000017394982",
+      "title": "【算】链表反转",
+      "url": "/a/1190000017394982",
+      "desc": "最近研究算法，遇到的一道很有意思的问题——怎么把一个链表反转？很容易想到一个方法：遍历链表，数组作栈存储路径，元素逐个出栈得到的就是反转后的链表！查找资料发现，有更好的方式实现。",
+      "author": {
+        "nick": "暗夜君王",
+        "homepage": "/u/liuzijian"
+      }
+    },
+    {
+      "id": "1190000017394192",
+      "title": "设计模式7大原则",
+      "url": "/a/1190000017394192",
+      "desc": "对于面向对象软件系统的设计而言，在支持可维护性的同时，提高系统的可复用性是一个至关重要的问题，如何同时提高一个软件系统的可维护性和可复用性是面向对象设计需要解决的核心问题之一。在面向对象设计中，可...",
+      "author": {
+        "nick": "coderV",
+        "homepage": "/u/coldstone_5b8a6c96b5013"
+      }
+    },
+    {
+      "id": "1190000017393683",
+      "title": "头条后台研发面经（共三面）+架构师进阶路线分享",
+      "url": "/a/1190000017393683",
+      "desc": "后端研发工程师 找牛客大佬要到了白金码，跳过死亡笔试，直接视频面，面试从3点开始，断断续续到晚上8点结束。 每个面试官给我的感觉都是怎么这么高冷啊。 一面：1 写一个题，找一个无序数组的中位数 2 写了个快...",
+      "author": {
+        "nick": "以Java架构赢天下",
+        "homepage": "/u/zhouzhuolin"
+      }
+    }
+  ]
+}
