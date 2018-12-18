@@ -1,0 +1,155 @@
+{
+  "watchNum": "33653",
+  "blogs": [
+    {
+      "id": "1190000017413727",
+      "title": "Java并发编程——线程安全性深层原因",
+      "url": "/a/1190000017413727",
+      "desc": "随着CPU的发展，而因为CPU的速度和内存速度不匹配的问题（CPU寄存器的访问速度非常快，而内存访问速度相对偏慢），所有在CPU和内存之间出现了多级高速缓存。下图是现代CPU和内存的一般架构图：我们可以看到高速缓...",
+      "author": {
+        "nick": "ModraedLau",
+        "homepage": "/u/modraedlau"
+      }
+    },
+    {
+      "id": "1190000017413393",
+      "title": "追踪解析Spring ioc启动源码(2)",
+      "url": "/a/1190000017413393",
+      "desc": "该行代码会将 iocConfig bean 注册到 reader 中AnnotationConfigApplicationContext 的 register 方法：",
+      "author": {
+        "nick": "三流",
+        "homepage": "/u/sanliu"
+      }
+    },
+    {
+      "id": "1190000017412010",
+      "title": "安装java编程环境",
+      "url": "/a/1190000017412010",
+      "desc": "首先明确自己使用的操作系统 在各个系统中的操作其实大同小异，都是以下三个步骤。下载、安装、配置环境变量（以及验证是否配置成功） 下面这个是针对Windows的 Windows版 下载JDK（java development kit） 首先...",
+      "author": {
+        "nick": "liuqinh2s",
+        "homepage": "/u/liuqinh2s"
+      }
+    },
+    {
+      "id": "1190000017411330",
+      "title": "断开TCP连接",
+      "url": "/a/1190000017411330",
+      "desc": "我们知道TCP通过三次握手建立可靠连接，通过四次挥手断开连接，TCP连接是比较昂贵的资源。为什么TCP需要通过三次握手才能建立可靠的连接？两次不行么？断开连接为什么需要四次？TCP连接昂贵在哪里？",
+      "author": {
+        "nick": "临风",
+        "homepage": "/u/linfeng_5ac9bd0a4d6a7"
+      }
+    },
+    {
+      "id": "1190000017410662",
+      "title": "Spring Boot+SQL/JPA实战悲观锁和乐观锁",
+      "url": "/a/1190000017410662",
+      "desc": "最近在公司的业务上遇到了并发的问题，并且还是很常见的并发问题，算是低级的失误了。由于公司业务相对比较复杂且不适合公开，在此用一个很常见的业务来还原一下场景，同时介绍悲观锁和乐观锁是如何解决这类并发...",
+      "author": {
+        "nick": "zzzzbw",
+        "homepage": "/u/zzzzbw"
+      }
+    },
+    {
+      "id": "1190000017408942",
+      "title": "Spring源码一（容器的基本实现2）",
+      "url": "/a/1190000017408942",
+      "desc": "如果你使用过SpringBoot， 你一定会知道porfile配置所带来的方便， 通过配置开发环境还是生产环境， 我们可以十分方便的切换开发环境，部署环境，更换不同的数据库。 可能为了让Java开发者转向SpringBoot开发， S...",
+      "author": {
+        "nick": "Andy",
+        "homepage": "/u/segmentfaultandywong"
+      }
+    },
+    {
+      "id": "1190000017408847",
+      "title": "从wait的源码看撤销偏向锁的过程(revoke and rebias)",
+      "url": "/a/1190000017408847",
+      "desc": "wait源码实现如下 {代码...} 在biasedLocking.cpp中可以看到方法的实现。整体结构划分如下 {代码...} 没有获取偏向锁 这里表示还没有被偏向，并且不是执行rebias {代码...} 已经被其它线程获取了偏向 {代码...} ...",
+      "author": {
+        "nick": "爬蜥",
+        "homepage": "/u/pa_5aeb229669d18"
+      }
+    },
+    {
+      "id": "1190000017408836",
+      "title": "偏向锁状态转移原理",
+      "url": "/a/1190000017408836",
+      "desc": "当多个处理器同时处理的时候，通常需要处理互斥的问题。 一般的解决方式都会包含acquire和release这个两种操作，操作保证，一个线程在acquire执行之后，在它执行release之前，其它线程不能完成acquire操作。这个...",
+      "author": {
+        "nick": "爬蜥",
+        "homepage": "/u/pa_5aeb229669d18"
+      }
+    },
+    {
+      "id": "1190000017408743",
+      "title": "safe-point(safepoint 安全点) 和 safe-region(安全区域)",
+      "url": "/a/1190000017408743",
+      "desc": "编写代码的时候是可以知道对象不可用的，但对于程序来说，需要一定的方式来知晓，可用方法比如：编译分析，引用计数，和对象是否可达",
+      "author": {
+        "nick": "爬蜥",
+        "homepage": "/u/pa_5aeb229669d18"
+      }
+    },
+    {
+      "id": "1190000017408720",
+      "title": "LockSupport中的park与unpark原理",
+      "url": "/a/1190000017408720",
+      "desc": "LockSupport是用来创建locks的基本线程阻塞基元，比如AQS中实现线程挂起的方法，就是park,对应唤醒就是unpark。JDK中有使用的如下",
+      "author": {
+        "nick": "爬蜥",
+        "homepage": "/u/pa_5aeb229669d18"
+      }
+    },
+    {
+      "id": "1190000017408662",
+      "title": "CAS(compareAndSwap)原理",
+      "url": "/a/1190000017408662",
+      "desc": "unsafe中对应拥有三个方法 compareAndSwapObject ,compareAndSwapInt和compareAndSwapLong ，他们都被标记为native",
+      "author": {
+        "nick": "爬蜥",
+        "homepage": "/u/pa_5aeb229669d18"
+      }
+    },
+    {
+      "id": "1190000017408079",
+      "title": "职业生涯——30岁，每个程序员都会遇到的“中年危机”",
+      "url": "/a/1190000017408079",
+      "desc": "1.定义文中提到的“中年”并不是指我们人生的中年，而是作为程序员职业生涯的“中年”。之前好像并没有听谁这样形容过，所以没能找个专业的词汇进行描述，就暂且先这么叫吧。",
+      "author": {
+        "nick": "以Java架构赢天下",
+        "homepage": "/u/zhouzhuolin"
+      }
+    },
+    {
+      "id": "1190000017407096",
+      "title": "Netty 客户端",
+      "url": "/a/1190000017407096",
+      "desc": "首先创建客户端处理 IO 读写的 NioEventLoopGroup 线程组, 然后继续创建客户端辅助启动类 Bootstrap, 随后需要对其进行配置.",
+      "author": {
+        "nick": "sc_ik",
+        "homepage": "/u/sc_ik"
+      }
+    },
+    {
+      "id": "1190000017406191",
+      "title": "【跃迁之路】【672天】程序员高效学习方法论探索系列（实验阶段429-2018.12.17）",
+      "url": "/a/1190000017406191",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000017402970",
+      "title": "maven 多仓库和镜像设置",
+      "url": "/a/1190000017402970",
+      "desc": "当maven在本地找不到包的时候，就尝试从中央仓库(https://repo1.maven.org/maven2/)获取，有的时候我们访问外网太慢了，我们就从镜像仓库(别的仓库或者自己的私有仓库)获取。",
+      "author": {
+        "nick": "天纵",
+        "homepage": "/u/tianzong"
+      }
+    }
+  ]
+}
