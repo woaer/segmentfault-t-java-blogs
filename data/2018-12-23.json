@@ -1,0 +1,155 @@
+{
+  "watchNum": "34293",
+  "blogs": [
+    {
+      "id": "1190000017485096",
+      "title": "LinkedList源码（基础代码）",
+      "url": "/a/1190000017485096",
+      "desc": "LinkedList是由一个一个节点连接起来的链表 {代码...} 增 {代码...} {代码...} 删 {代码...} 改 {代码...} 查 {代码...} 其他 {代码...}",
+      "author": {
+        "nick": "zhuchenshu",
+        "homepage": "/u/zhuchenshu"
+      }
+    },
+    {
+      "id": "1190000017484940",
+      "title": "962-最大宽度坡",
+      "url": "/a/1190000017484940",
+      "desc": "给定一个整数数组 A，坡是元组 (i, j)，其中 i < j 且 A[i] <= A[j]。这样的坡的宽度为 j - i。 找出 A 中的坡的最大宽度，如果不存在，返回 0 。 示例1： {代码...} 示例2： {代码...} 提示： 2 <= A.l...",
+      "author": {
+        "nick": "Null",
+        "homepage": "/u/null_ryan"
+      }
+    },
+    {
+      "id": "1190000017484850",
+      "title": "961-重复 N 次的元素",
+      "url": "/a/1190000017484850",
+      "desc": "在大小为 2N 的数组 A 中有 N+1 个不同的元素，其中有一个元素重复了 N 次。 返回重复了 N 次的那个元素。 示例1： {代码...} 示例2： {代码...} 示例3： {代码...} 提示： 4 <= A.length <= 10000 0 <=...",
+      "author": {
+        "nick": "Null",
+        "homepage": "/u/null_ryan"
+      }
+    },
+    {
+      "id": "1190000017484714",
+      "title": "Java学习如何入门？这是入门Java3个月后，我才知道的经验和教训。",
+      "url": "/a/1190000017484714",
+      "desc": "我也算是一个已经入门 Java 的人，这里分享一下我的经验和相关资料。俗话说 \"万事开头难\"，希望能帮助你度过最初的迷茫时期。 重点: 在后面我会放上我以前积累的所有资料的下载链接",
+      "author": {
+        "nick": "心如止水_Zen",
+        "homepage": "/u/xinruzhishui_zen"
+      }
+    },
+    {
+      "id": "1190000017484120",
+      "title": "Java中关于包装类型容易入坑的一个点",
+      "url": "/a/1190000017484120",
+      "desc": "在一次对树形结构的数据遍历中，出现了树形变乱的问题，在此遍历的ID采用Long类型，在数值比较中达到某个界定值后，树形结构变形。",
+      "author": {
+        "nick": "小哥",
+        "homepage": "/u/xiaoge_5b5a97df9e470"
+      }
+    },
+    {
+      "id": "1190000017483524",
+      "title": "Java线程入门第一篇",
+      "url": "/a/1190000017483524",
+      "desc": "2、 运行(RUNNABLE)：Java线程中将就绪（ready）和运行中（running）两种状态笼统的称为“运行”。（什么是就绪） 线程对象创建后，其他线程(比如main线程）调用了该对象的start()方法。该状态的线程位于可运行线程...",
+      "author": {
+        "nick": "布尔bl",
+        "homepage": "/u/chenzhuantou"
+      }
+    },
+    {
+      "id": "1190000017483060",
+      "title": "【跃迁之路】【677天】程序员高效学习方法论探索系列（实验阶段434-2018.12.22）",
+      "url": "/a/1190000017483060",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000017481896",
+      "title": "Linux之《荒岛余生》（一）准备篇",
+      "url": "/a/1190000017481896",
+      "desc": "xin片之争，已经暴露了中国xin的问题，我等码农束手无策；而在操作系统方面，成果也是乏善可陈；现如今酷炫的Web监控工具，让很多研发丧失了真正处理问题的能力。",
+      "author": {
+        "nick": "小姐姐味道",
+        "homepage": "/u/xjjwd"
+      }
+    },
+    {
+      "id": "1190000017481708",
+      "title": "MyBatis集成SpringMVC",
+      "url": "/a/1190000017481708",
+      "desc": "本章主要内容包含SpringMVC简介、MyBatis整合SpringMVC(主要是在前面的MyBatis整合Spring基础上进行)、Spring应用实例等。",
+      "author": {
+        "nick": "youcongtech",
+        "homepage": "/u/youcongtech"
+      }
+    },
+    {
+      "id": "1190000017481001",
+      "title": "一起来读Spring源码吧（三）ApplicationContext初始化过程",
+      "url": "/a/1190000017481001",
+      "desc": "上篇讲到BeanFactory的初始化过程，Spring还提供了另外一种拥有更多扩展功能的容器ApplicationContext。ApplicationContext比简单BeanFactory多出的功能：1、支持不同的信息源。通过继承MessageSource接口2、访问...",
+      "author": {
+        "nick": "胥垣",
+        "homepage": "/u/yuan_5bf4bbcfd6e0a"
+      }
+    },
+    {
+      "id": "1190000017480964",
+      "title": "一起来读Spring源码吧（二）容器getBean过程详解",
+      "url": "/a/1190000017480964",
+      "desc": "上一篇分析了XmlBeanFactory的初始化过程，此时配置的bean已注册到容器中，但也仅仅只是保存了bean的信息，并没有产生bean实例。下面我们以BeanFactory.getBean(String name)为出发点探索下bean的加载过程。",
+      "author": {
+        "nick": "胥垣",
+        "homepage": "/u/yuan_5bf4bbcfd6e0a"
+      }
+    },
+    {
+      "id": "1190000017480171",
+      "title": "Java 中断异常的正确处理方式",
+      "url": "/a/1190000017480171",
+      "desc": "这个故事可能很熟悉：你正在写一个测试程序，你需要暂停某个线程一段时间，所以你调用 Thread.sleep()。然后编译器或 IDE 就会抱怨说 InterruptedException 没有抛出声明或捕获。什么是 InterruptedException，你...",
+      "author": {
+        "nick": "Yujiaao",
+        "homepage": "/u/yujiaao"
+      }
+    },
+    {
+      "id": "1190000017480142",
+      "title": "【源】ArrayDeque，Collection框架中不起眼的一个类",
+      "url": "/a/1190000017480142",
+      "desc": "最近盯上了java collection框架中一个类——ArrayDeque。很多人可能没用过甚至没听说过这个类（i'm sorry,what's fu*k this?），毕竟你坐在面试官面前的时候，关于数组链表的掌握情况，99%的可能性听到问题会是：说...",
+      "author": {
+        "nick": "暗夜君王",
+        "homepage": "/u/liuzijian"
+      }
+    },
+    {
+      "id": "1190000017478983",
+      "title": "es_分组-分页-TransportClient实现",
+      "url": "/a/1190000017478983",
+      "desc": "Elasticsearch Java API 有四种实现方式：分别是 TransportClient、RestClient、Jest、Spring Data Elasticsearch。本文使用第一种方式，也就是 TransportClient 的方式进行实现。想要了解其他三种的方式可以看一...",
+      "author": {
+        "nick": "prepared",
+        "homepage": "/u/prepared"
+      }
+    },
+    {
+      "id": "1190000017477036",
+      "title": "工具类——利用递归和过滤流复制文件到目标路径",
+      "url": "/a/1190000017477036",
+      "desc": "复制文件工具类 复制单一文件 {代码...} {代码...} {代码...}",
+      "author": {
+        "nick": "八府巡抚",
+        "homepage": "/u/joshua_wang"
+      }
+    }
+  ]
+}
