@@ -1,0 +1,155 @@
+{
+  "watchNum": "34476",
+  "blogs": [
+    {
+      "id": "1190000017505037",
+      "title": "[LeetCode] 657. Robot Return to Origin",
+      "url": "/a/1190000017505037",
+      "desc": "There is a robot starting at position (0, 0), the origin, on a 2D plane. Given a sequence of its moves, judge if this robot ends up at (0, 0) after it completes its moves.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000017504840",
+      "title": "[LeetCode] 130. Surrounded Regions",
+      "url": "/a/1190000017504840",
+      "desc": "Given a 2D board containing 'X' and 'O' (the letter O), capture all regions surrounded by 'X'.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000017504259",
+      "title": "解耦技巧——依赖注入！",
+      "url": "/a/1190000017504259",
+      "desc": "在之前的一篇博客 Java Builder 模式,你搞懂了么? 中，我们提到了在 oop 编码设计中 只要能拿到类的实例，即对象，就能命令对象做一系列事情了。在 java/android 程序中，每个功能模块都由 n 个 类所组成，而每个...",
+      "author": {
+        "nick": "张少林同学",
+        "homepage": "/u/zhangshaolintongxue_5c20a226c6646"
+      }
+    },
+    {
+      "id": "1190000017504068",
+      "title": "【Dubbo源码阅读系列】之 Dubbo SPI 机制",
+      "url": "/a/1190000017504068",
+      "desc": "最近抽空开始了 Dubbo 源码的阅读之旅，希望可以通过写文章的方式记录和分享自己对 Dubbo 的理解。如果在本文出现一些纰漏或者错误之处，也希望大家不吝指出。",
+      "author": {
+        "nick": "豆子都一样",
+        "homepage": "/u/douziduyiyang"
+      }
+    },
+    {
+      "id": "1190000017502589",
+      "title": "weex踩坑之旅第一弹 ~ 搭建具有入口文件的weex脚手架",
+      "url": "/a/1190000017502589",
+      "desc": "官方提供的weex脚手架不能指定入口文件，如果我们想要在项目中使用vuex,vue-router，没有入口文件将会变得比较复杂。那么该如何搭建具有入口文件的脚手架呢？首先，我们先把官方提供的脚手架使用一下，然后再其基...",
+      "author": {
+        "nick": "sdfgs3112",
+        "homepage": "/u/sdfgs3112"
+      }
+    },
+    {
+      "id": "1190000017501449",
+      "title": "[LeetCode] 410. Split Array Largest Sum",
+      "url": "/a/1190000017501449",
+      "desc": "Given an array which consists of non-negative integers and an integer m, you can split the array into m non-empty continuous subarrays. Write an algorithm to minimize the largest sum among these m ...",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000017500868",
+      "title": "springboot新版本(2.1.0)、springcloud新版本(Greenwich.M1)实现链路追踪的一些坑",
+      "url": "/a/1190000017500868",
+      "desc": "由于springboot新版本(2.1.0)、springcloud新版本(Greenwich.M1)实现链路追踪sleuth+zipkin的一些“新特性”，使得我在实现sleuth+zipkin的过程上踩了不少坑。",
+      "author": {
+        "nick": "VLoye",
+        "homepage": "/u/vloye"
+      }
+    },
+    {
+      "id": "1190000017500531",
+      "title": "Spring详解1.概述",
+      "url": "/a/1190000017500531",
+      "desc": "Spring是由Rod Johnson缔造的一个分层的Java SE/EE应用一站式的轻量级开源框架，以IoC（Inverse of Control，反转控制）和AOP（Aspect Oriented Programming，面向切面编程）为内核，提供了展现层Spring MVC、持...",
+      "author": {
+        "nick": "SpiderLucas",
+        "homepage": "/u/spidersama"
+      }
+    },
+    {
+      "id": "1190000017500368",
+      "title": "Java线程入门第二篇",
+      "url": "/a/1190000017500368",
+      "desc": "Java线程通信方法 0、(why)每个线程都有自己的栈空间，我们要线程之间进行交流，合作共赢。 1、synchronized和volatile关键字 　　a) 看下面的synchronized关键字 　　b) 看下面的volatile关键字 2、等待/通知机...",
+      "author": {
+        "nick": "布尔bl",
+        "homepage": "/u/chenzhuantou"
+      }
+    },
+    {
+      "id": "1190000017499908",
+      "title": "【跃迁之路】【679天】程序员高效学习方法论探索系列（实验阶段436-2018.12.24）",
+      "url": "/a/1190000017499908",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000017499805",
+      "title": "缓存使用",
+      "url": "/a/1190000017499805",
+      "desc": "2，使用304状态码，http的304返回码使用etag，具体一点就是做个标记，可以理解为版本号。通过一定的算法，例如md5摘要进行校验。客户端第二次进行请求的时候，携带etag标记，服务端正常处理，在返回的时候校验eta...",
+      "author": {
+        "nick": "wotrd",
+        "homepage": "/u/wotrd"
+      }
+    },
+    {
+      "id": "1190000017499762",
+      "title": "1041 考试座位号 （15 分） java",
+      "url": "/a/1190000017499762",
+      "desc": "每个 PAT 考生在参加考试时都会被分配两个座位号，一个是试机座位，一个是考试座位。正常情况下，考生在入场时先得到试机座位号码，入座进入试机状态后，系统会显示该考生的考试座位号码，考试时考生需要换到考试...",
+      "author": {
+        "nick": "PangHuanTeng",
+        "homepage": "/u/panghuanteng"
+      }
+    },
+    {
+      "id": "1190000017499613",
+      "title": "1046 划拳 （15 分）java",
+      "url": "/a/1190000017499613",
+      "desc": "划拳是古老中国酒文化的一个有趣的组成部分。酒桌上两人划拳的方法为：每人口中喊出一个数字，同时用手比划出一个数字。如果谁比划出的数字正好等于两人喊出的数字之和，谁就赢了，输家罚一杯酒。两人同赢或两人...",
+      "author": {
+        "nick": "PangHuanTeng",
+        "homepage": "/u/panghuanteng"
+      }
+    },
+    {
+      "id": "1190000017498814",
+      "title": "05.java多线程问题",
+      "url": "/a/1190000017498814",
+      "desc": "5.0.0.1 线程池具有什么优点和缺点？为什么说开启大量的线程,会降低程序的性能，那么该如何做才能降低性能？",
+      "author": {
+        "nick": "潇湘剑雨",
+        "homepage": "/u/xiangjianyu"
+      }
+    },
+    {
+      "id": "1190000017498764",
+      "title": "04.JavaIO流问题",
+      "url": "/a/1190000017498764",
+      "desc": "4.0.0.2 什么是比特(Bit),什么是字节(Byte),什么是字符(Char),它们长度是多少,各有什么区别？",
+      "author": {
+        "nick": "潇湘剑雨",
+        "homepage": "/u/xiangjianyu"
+      }
+    }
+  ]
+}
