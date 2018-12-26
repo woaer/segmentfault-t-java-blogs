@@ -1,0 +1,155 @@
+{
+  "watchNum": "34642",
+  "blogs": [
+    {
+      "id": "1190000017519409",
+      "title": "[LeetCode] 115. Distinct Subsequences",
+      "url": "/a/1190000017519409",
+      "desc": "Given a string S and a string T, count the number of distinct subsequences of S which equals T.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000017519007",
+      "title": "android 新闻应用、Xposed模块、酷炫的加载动画、下载模块、九宫格控件等源码",
+      "url": "/a/1190000017519007",
+      "desc": "Android精选源码 灵活的ShadowView，可替代CardView使用 基于Tesseract-OCR实现自动扫描识别手机号 Android播放界面仿QQ音乐开源音乐播放器 新闻应用项目采用了 RxAndroid + Retrofit + Databinding 的 MVVM 架构...",
+      "author": {
+        "nick": "ld11620967",
+        "homepage": "/u/ld11620967"
+      }
+    },
+    {
+      "id": "1190000017517197",
+      "title": "Java SPI机制分析",
+      "url": "/a/1190000017517197",
+      "desc": "SPI全称为(Service Provider Interface) ，是JDK内置的一种服务提供发现机制；主要被框架的开发人员使用，比如java.sql.Driver接口，数据库厂商实现此接口即可，当然要想让系统知道具体实现类的存在，还需要使用...",
+      "author": {
+        "nick": "Coding狗",
+        "homepage": "/u/codingo"
+      }
+    },
+    {
+      "id": "1190000017516810",
+      "title": "网络协议 16 - DNS 协议：网络世界的地址簿",
+      "url": "/a/1190000017516810",
+      "desc": "    为什么在地址栏输入域名，就能直接访问到对应服务器？全局负载均衡和内部负载均衡又是什么？这些都和 DNS 解析息息相关，让我们一起来解密 DNS 解析。",
+      "author": {
+        "nick": "北国风光",
+        "homepage": "/u/beiguofengguang"
+      }
+    },
+    {
+      "id": "1190000017516702",
+      "title": "从零讲解搭建一个NIO消息服务端",
+      "url": "/a/1190000017516702",
+      "desc": "假设你已经了解并实现过了一些OIO消息服务端，并对异步消息服务端更有兴趣，那么本文或许能带你更好的入门，并了解JDK部分源码的关系流程，正如题目所说，笔者将竟可能还原，以初学者能理解的角度，讲诉并构建一...",
+      "author": {
+        "nick": "Java猫说",
+        "homepage": "/u/myself_5ab9f390c6129"
+      }
+    },
+    {
+      "id": "1190000017514605",
+      "title": "[LeetCode] 402. Remove K Digits",
+      "url": "/a/1190000017514605",
+      "desc": "Given a non-negative integer num represented as a string, remove k digits from the number so that the new number is the smallest possible.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000017514560",
+      "title": "[LeetCode] 258. Add Digits",
+      "url": "/a/1190000017514560",
+      "desc": "Given a non-negative integer num, repeatedly add all its digits until the result has only one digit.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000017514550",
+      "title": "[LeetCode] 722. Remove Comments",
+      "url": "/a/1190000017514550",
+      "desc": "Given a C++ program, remove comments from it. The program source is an array where source[i] is the i-th line of the source code. This represents the result of splitting the original source code st...",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000017514538",
+      "title": "[LeetCode] 385. Mini Parser",
+      "url": "/a/1190000017514538",
+      "desc": "Given a nested list of integers represented as a string, implement a parser to deserialize it.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000017513082",
+      "title": "NIO 之 WatchService",
+      "url": "/a/1190000017513082",
+      "desc": "Java 1.6版本以前是不存在目录监控的API的。如果要实现这种功能必须要自己遍历目录，记录各个文件的情况，然后定时全部遍历一次，从 JDK7 之后出现了 WatchService 类，实现了对目录下文件的监控。",
+      "author": {
+        "nick": "魏晋秋",
+        "homepage": "/u/piumnl"
+      }
+    },
+    {
+      "id": "1190000017512681",
+      "title": "最佳安全实践：在 Java 和 Android 中使用 AES 进行对称加密",
+      "url": "/a/1190000017512681",
+      "desc": "我将在本文中为大家介绍高级加密标准（AES），常见块模式，为什么需要填充和初始化向量以及如何保护数据不被篡改。最后，我将为大家展示如何使用 Java 轻松实现此功能，从而避免大多数安全问题。",
+      "author": {
+        "nick": "泪已无痕",
+        "homepage": "/u/tom21joy"
+      }
+    },
+    {
+      "id": "1190000017512409",
+      "title": "控制语句执行流程",
+      "url": "/a/1190000017512409",
+      "desc": "1.1 用if选择执行语句 1.1.1　if基础 1.1.2　if语句的嵌套 1.2 用for循环执行语句 1.2.1　for基础 1.2.2　for语句与break语句、continue语句 1.2.3　for语句与range()函数 1.2.4　for语句与内置迭代函数 1.3 用wh...",
+      "author": {
+        "nick": "Hello_Python",
+        "homepage": "/u/china_5ab38cbf5ed5d"
+      }
+    },
+    {
+      "id": "1190000017511491",
+      "title": "java课后题复习",
+      "url": "/a/1190000017511491",
+      "desc": "（1）面向对象 （2）跨平台性 （3）可移植性 （4）安全性 （5）并发性 （6）分布式 （7）简单易用",
+      "author": {
+        "nick": "Rocken",
+        "homepage": "/u/cunxu"
+      }
+    },
+    {
+      "id": "1190000017511369",
+      "title": "【跃迁之路】【680天】程序员高效学习方法论探索系列（实验阶段437-2018.12.25）",
+      "url": "/a/1190000017511369",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000017511114",
+      "title": "Spring Boot 返回 XML 数据，一分钟搞定！",
+      "url": "/a/1190000017511114",
+      "desc": "Spring Boot 返回 XML 数据，前提必须已经搭建了 Spring Boot 项目，所以这一块代码就不贴了，可以点击查看之前分享的 Spring Boot 返回 JSON 数据，一分钟搞定！。",
+      "author": {
+        "nick": "Java技术栈",
+        "homepage": "/u/javastack"
+      }
+    }
+  ]
+}
