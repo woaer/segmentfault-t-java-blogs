@@ -1,0 +1,155 @@
+{
+  "watchNum": "35074",
+  "blogs": [
+    {
+      "id": "1190000017549112",
+      "title": "[LeetCode] 364. Nested List Weight Sum II",
+      "url": "/a/1190000017549112",
+      "desc": "Given a nested list of integers, return the sum of all integers in the list weighted by their depth.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000017548728",
+      "title": "阿里专家杜万：Java响应式编程，一文全面解读",
+      "url": "/a/1190000017548728",
+      "desc": "本篇文章来自于2018年12月22日举办的《阿里云栖开发者沙龙—Java技术专场》，杜万专家是该专场第四位演讲的嘉宾，本篇文章是根据杜万专家在《阿里云栖开发者沙龙—Java技术专场》的演讲视频以及PPT整理而成。",
+      "author": {
+        "nick": "阿里云云栖社区",
+        "homepage": "/u/yunqishequ_5aa899aad5395"
+      }
+    },
+    {
+      "id": "1190000017548161",
+      "title": "关于git常用命令",
+      "url": "/a/1190000017548161",
+      "desc": "git pull --rebase origin master //强制把远程库的代码跟新到当前分支上面",
+      "author": {
+        "nick": "playboy5566",
+        "homepage": "/u/playboy5566"
+      }
+    },
+    {
+      "id": "1190000017547824",
+      "title": "【分布式服务架构原理、设计与实战】读书笔记 （一）分布式微服务架构设计原理",
+      "url": "/a/1190000017547824",
+      "desc": "JEE 将企业级软件架构分为三个层级： Web 层：负责与用户交互或者对外提供接口。 业务逻辑层：为实现业务逻辑而设计的流程处理和计算处理模块。 数据存取层：将业务逻辑层处理的结果持久化以待后续查询，并维护领...",
+      "author": {
+        "nick": "总有刁民想害朕",
+        "homepage": "/u/day_wang"
+      }
+    },
+    {
+      "id": "1190000017547638",
+      "title": "Spring、Spring Boot和TestNG测试指南 - 集成测试中用Docker创建数据库",
+      "url": "/a/1190000017547638",
+      "desc": "在测试关系型数据库一篇里我们使用的是H2数据库，这是为了让你免去你去安装/配置一个数据库的工作，能够尽快的了解到集成测试的过程。",
+      "author": {
+        "nick": "chanjarster",
+        "homepage": "/u/chanjarster"
+      }
+    },
+    {
+      "id": "1190000017546626",
+      "title": "大厂OPPO面试— Android 开发技术面总结",
+      "url": "/a/1190000017546626",
+      "desc": "最近互联网寒冬，工作真的不好找吗？前两天还在看一个帖子：裁员浪潮+寒冬大逃杀，互联网人该何去何从？，感觉作为移动端技术人员，就目前而言，转行需要学习新的技术，还需要重新开始，不如进阶技术，学好Androi...",
+      "author": {
+        "nick": "爱编码的coder",
+        "homepage": "/u/chengxuyuanxiaohui"
+      }
+    },
+    {
+      "id": "1190000017545214",
+      "title": "基于 Redis3.2.4 集群搭建说明",
+      "url": "/a/1190000017545214",
+      "desc": "用两台虚拟机（ip: 10.60.44.76、ip: 10.60.44.105）共 6 个节点，一台虚拟机 3 个节点，模拟出 3 master、3 salve 环境",
+      "author": {
+        "nick": "lihuayang",
+        "homepage": "/u/lihuayang"
+      }
+    },
+    {
+      "id": "1190000017543189",
+      "title": "线上CPU100%？看看这篇是怎么排查的!",
+      "url": "/a/1190000017543189",
+      "desc": "作为后端开发工程师,当收到线上服务器CPU负载过高告警时,你会这么做?重启服务,忽略告警?不过在我看来一个合格的工程师是一定要定位到具体问题所在的,从而 fix 它。下面记录一下线上服务器 CPU 负载过高排查过程,...",
+      "author": {
+        "nick": "张少林同学",
+        "homepage": "/u/zhangshaolintongxue_5c20a226c6646"
+      }
+    },
+    {
+      "id": "1190000017543114",
+      "title": "Java编程之设计模式之工厂方法模式全解",
+      "url": "/a/1190000017543114",
+      "desc": "1 日志记录器的设计Sunny软件公司欲开发一个系统运行日志记录器(Logger)，该记录器可以通过多种途径保存系统的运行日志，如通过文件记录或数据库记录，用户可以通过修改配置文件灵活地更换日志记录方式。在设计各...",
+      "author": {
+        "nick": "烟雨满楼",
+        "homepage": "/u/yanyumanlou"
+      }
+    },
+    {
+      "id": "1190000017542396",
+      "title": "使用Maven Helper解决Maven插件冲突",
+      "url": "/a/1190000017542396",
+      "desc": "Maven是个很好用的依赖管理工具，但是再好的东西也不是完美的。Maven的依赖机制会导致Jar包的冲突。举个例子，现在你的项目中，使用了两个Jar包，分别是A和B。现在A需要依赖另一个Jar包C，B也需要依赖C。但是A依...",
+      "author": {
+        "nick": "桔子214032",
+        "homepage": "/u/jiezi214032"
+      }
+    },
+    {
+      "id": "1190000017542212",
+      "title": "java中InputStream和OutputStream的使用场景",
+      "url": "/a/1190000017542212",
+      "desc": "java的I/O中有两种基本的流类型分别是输入流InputStream输出流OutputStream",
+      "author": {
+        "nick": "Linus脱袜子",
+        "homepage": "/u/qiuqi_turing"
+      }
+    },
+    {
+      "id": "1190000017541124",
+      "title": "如何实现一个简单的雨滴动画？手把手告诉你",
+      "url": "/a/1190000017541124",
+      "desc": "写了几个Flutter的demo，但是对Flutter的自定义view和动画都不太了解，看到一个类似效果在android的实现，就尝试用Flutter做一下。同时也是学习Flutter的自定义view和动画相关的知识。",
+      "author": {
+        "nick": "腾讯云加社区",
+        "homepage": "/u/qcloudcommunity"
+      }
+    },
+    {
+      "id": "1190000017537391",
+      "title": "c语言的#include和java的import的区别以及库调用",
+      "url": "/a/1190000017537391",
+      "desc": "#include是个宏命令，在文件编译阶段，会先将#include展开，也就是说被#include引用的文件会在源文件中展开。举例：有两个.c源文件，一个是my.c还有一个是main.c假如my.c文件内容是：",
+      "author": {
+        "nick": "Linus脱袜子",
+        "homepage": "/u/qiuqi_turing"
+      }
+    },
+    {
+      "id": "1190000017537236",
+      "title": "Spring Boot 的 10 个核心模块",
+      "url": "/a/1190000017537236",
+      "desc": "学习 Spring Boot 必须得了解它的核心模块，和 Spring 框架一样，Spring Boot 也是一个庞大的项目，也是由许多核心子模块组成的。",
+      "author": {
+        "nick": "Java技术栈",
+        "homepage": "/u/javastack"
+      }
+    },
+    {
+      "id": "1190000017535326",
+      "title": "阿里专家梁笑：2018双十一下单成功率99.9%！供应链服务平台如何迎接大促",
+      "url": "/a/1190000017535326",
+      "desc": "本篇文章来自于2018年12月22日举办的《阿里云栖开发者沙龙—Java技术专场》，梁笑专家是该专场第一位演讲的嘉宾，本篇文章是根据梁笑专家在《阿里云栖开发者沙龙—Java技术专场》的演讲视频以及PPT整理而成。",
+      "author": {
+        "nick": "阿里云云栖社区",
+        "homepage": "/u/yunqishequ_5aa899aad5395"
+      }
+    }
+  ]
+}
