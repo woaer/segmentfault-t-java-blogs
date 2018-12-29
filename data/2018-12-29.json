@@ -1,0 +1,155 @@
+{
+  "watchNum": "35212",
+  "blogs": [
+    {
+      "id": "1190000017560669",
+      "title": "微信小程序开发 免备案 免域名 免SSL 免HTTPS 方案（知晓云）",
+      "url": "/a/1190000017560669",
+      "desc": "我的域名在阿里云，并且备了案。服务器在百度云，用了一段时间，阿里云说我的域名没有指向阿里云服务器，属于空壳网站，注销了我的备案信息。",
+      "author": {
+        "nick": "风起修远兮",
+        "homepage": "/u/duweixi"
+      }
+    },
+    {
+      "id": "1190000017560464",
+      "title": "基于Netty实现ModbusTCP协议的测试工具",
+      "url": "/a/1190000017560464",
+      "desc": "Netty搭建服务端 我们首选采用Netty框架搭建一个服务端程序。这里在IDE中shiyMaven创建了一个新的工程。首先写一个Server类，先开看看服务端的核心代码：",
+      "author": {
+        "nick": "码农的修练之道",
+        "homepage": "/u/manongdexiuyangzhidao"
+      }
+    },
+    {
+      "id": "1190000017557146",
+      "title": "[LeetCode] 741. Cherry Pickup",
+      "url": "/a/1190000017557146",
+      "desc": "In a N x N grid representing a field of cherries, each cell is one of three possible integers.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000017556723",
+      "title": "编写java多线程爬虫程序",
+      "url": "/a/1190000017556723",
+      "desc": "所谓爬虫程序，就是模拟浏览器发送http请求给web网站。这里我们实现一个这样的爬虫程序：列出segmentfault网站中指定用户所有文章及其阅读人数的程序基本思路是这样的：1我们进入某用户的文章列表页2获得文章列表...",
+      "author": {
+        "nick": "Linus脱袜子",
+        "homepage": "/u/qiuqi_turing"
+      }
+    },
+    {
+      "id": "1190000017556013",
+      "title": "SpringBoot系列教程之RedisTemplate 基本配置说明文档",
+      "url": "/a/1190000017556013",
+      "desc": "在Spring的应用中，redis可以算是基础操作了。那么想要玩转redis，我们需要知道哪些知识点呢？",
+      "author": {
+        "nick": "小灰灰Blog",
+        "homepage": "/u/xiaohuihuiblog"
+      }
+    },
+    {
+      "id": "1190000017555977",
+      "title": "SpringBoot系列教程之RedisTemplate Jedis配置说明文档",
+      "url": "/a/1190000017555977",
+      "desc": "SpringBoot2之后，默认采用Lettuce作为redis的连接客户端，当然我们还是可以强制捡回来，使用我们熟悉的Jedis的，本篇简单介绍下使用Jedis的相关配置",
+      "author": {
+        "nick": "小灰灰Blog",
+        "homepage": "/u/xiaohuihuiblog"
+      }
+    },
+    {
+      "id": "1190000017555796",
+      "title": "SpringBoot系列教程之RedisTemplate String数据结构使用教程",
+      "url": "/a/1190000017555796",
+      "desc": "Redis目前常用的存储结构有五种，String字符串，List列表，Set集合，Hash散列，ZSet有序集合；本篇则主要集中在String这个数据结构的读写操作之上",
+      "author": {
+        "nick": "小灰灰Blog",
+        "homepage": "/u/xiaohuihuiblog"
+      }
+    },
+    {
+      "id": "1190000017555785",
+      "title": "SpringBoot系列教程之RedisTemplate List数据结构使用教程",
+      "url": "/a/1190000017555785",
+      "desc": "前面一篇博文介绍redis五种数据结构中String的使用姿势，这一篇则将介绍另外一个用的比较多的List，对于列表而言，用的最多的场景可以说是当做队列或者堆栈来使用了",
+      "author": {
+        "nick": "小灰灰Blog",
+        "homepage": "/u/xiaohuihuiblog"
+      }
+    },
+    {
+      "id": "1190000017554526",
+      "title": "Java核心技术36篇①——不简单的基本数据类型",
+      "url": "/a/1190000017554526",
+      "desc": "数据类型的出现是为了把数据分成所需内存大小不同的数据，合理、有效利用内存。数据类型在计算机语言里面，是对内存位置的一个抽象表达方式。",
+      "author": {
+        "nick": "九品夫人",
+        "homepage": "/u/poppy3721"
+      }
+    },
+    {
+      "id": "1190000017553148",
+      "title": "5种exception（异常）",
+      "url": "/a/1190000017553148",
+      "desc": "2、首先空指针的对象是对象（没毛病），不是基本数据类型，因为基本数据类型没有比赋值，编译器不会编译通过",
+      "author": {
+        "nick": "布尔bl",
+        "homepage": "/u/chenzhuantou"
+      }
+    },
+    {
+      "id": "1190000017551570",
+      "title": "Spring Bean注入/单例理解/循环依赖",
+      "url": "/a/1190000017551570",
+      "desc": "理解循环依赖问题，首先明白spring有四种注入方式。第一种，SET注入a类中持有b类的引用，并且a类有b的set方法。在bean中添加<property>标签即可注入。实质上是将b实例化，然后调用set方法注入。",
+      "author": {
+        "nick": "CDNfast",
+        "homepage": "/u/cdnfast"
+      }
+    },
+    {
+      "id": "1190000017551070",
+      "title": "[LeetCode] 417. Pacific Atlantic Water Flow",
+      "url": "/a/1190000017551070",
+      "desc": "Given an m x n matrix of non-negative integers representing the height of each unit cell in a continent, the \"Pacific ocean\" touches the left and top edges of the matrix and the \"Atlantic ocean\" to...",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000017549609",
+      "title": "策略模式原来这么简单！",
+      "url": "/a/1190000017549609",
+      "desc": "前言 只有光头才能变强 回顾前面： 给女朋友讲解什么是代理模式 包装模式就是这么简单啦 单例模式你会几种写法？ 工厂模式理解了没有？ 无论是面试还是个人的提升，设计模式是必学的。今天来讲解策略模式~ 一、策...",
+      "author": {
+        "nick": "Java3y",
+        "homepage": "/u/java_3y"
+      }
+    },
+    {
+      "id": "1190000017549112",
+      "title": "[LeetCode] 364. Nested List Weight Sum II",
+      "url": "/a/1190000017549112",
+      "desc": "Given a nested list of integers, return the sum of all integers in the list weighted by their depth.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000017548728",
+      "title": "阿里专家杜万：Java响应式编程，一文全面解读",
+      "url": "/a/1190000017548728",
+      "desc": "本篇文章来自于2018年12月22日举办的《阿里云栖开发者沙龙—Java技术专场》，杜万专家是该专场第四位演讲的嘉宾，本篇文章是根据杜万专家在《阿里云栖开发者沙龙—Java技术专场》的演讲视频以及PPT整理而成。",
+      "author": {
+        "nick": "阿里云云栖社区",
+        "homepage": "/u/yunqishequ_5aa899aad5395"
+      }
+    }
+  ]
+}
