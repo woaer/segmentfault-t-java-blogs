@@ -1,0 +1,155 @@
+{
+  "watchNum": "35333",
+  "blogs": [
+    {
+      "id": "1190000017569235",
+      "title": "965-单值二叉树",
+      "url": "/a/1190000017569235",
+      "desc": "如果二叉树每个节点都具有相同的值，那么该二叉树就是单值二叉树。 只有给定的树是单值二叉树时，才返回 true；否则返回 false。 示例1： {代码...} 示例2： {代码...} 提示： 给定树的节点数范围是 [1, 100]。 ...",
+      "author": {
+        "nick": "Null",
+        "homepage": "/u/null_ryan"
+      }
+    },
+    {
+      "id": "1190000017569209",
+      "title": "[LeetCode] 249. Group Shifted Strings",
+      "url": "/a/1190000017569209",
+      "desc": "Given a string, we can \"shift\" each of its letter to its successive letter, for example: \"abc\" -> \"bcd\". We can keep \"shifting\" which forms the sequence:",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000017568892",
+      "title": "三分钟学会《门面模式》",
+      "url": "/a/1190000017568892",
+      "desc": "前言 只有光头才能变强 回顾前面所写过的设计模式： 给女朋友讲解什么是代理模式 包装模式就是这么简单啦 单例模式你会几种写法？ 工厂模式理解了没有？ 策略模式原来就这么简单！ 无论是面试还是个人的提升，设...",
+      "author": {
+        "nick": "Java3y",
+        "homepage": "/u/java_3y"
+      }
+    },
+    {
+      "id": "1190000017568753",
+      "title": "String 源码浅析(一)",
+      "url": "/a/1190000017568753",
+      "desc": "相信作为 JAVAER，平时编码时使用最多的必然是 String 字符串，而相信应该存在不少人对于 String 的 api 很熟悉了，但没有看过其源码实现，其实我个人觉得对于 api 的使用，最开始的阶段是看其官方文档，而随着开...",
+      "author": {
+        "nick": "张少林同学",
+        "homepage": "/u/zhangshaolintongxue_5c20a226c6646"
+      }
+    },
+    {
+      "id": "1190000017568475",
+      "title": "[LeetCode] 332. Reconstruct Itinerary",
+      "url": "/a/1190000017568475",
+      "desc": "Given a list of airline tickets represented by pairs of departure and arrival airports [from, to], reconstruct the itinerary in order. All of the tickets belong to a man who departs from JFK. Thus,...",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000017567323",
+      "title": "免费开发实战资源，包含前后端以及app小程序",
+      "url": "/a/1190000017567323",
+      "desc": "收集了一些开发视频教程，现在免费分享给需要的人 关注公众号 回复指令领取 React开发简书（简书） Python开发借书（flask） Vue开发去哪儿（去哪儿） SpringBoot深入学习（SpringBoot） Mpvue开发小程序（小程序）",
+      "author": {
+        "nick": "Mike晓",
+        "homepage": "/u/mikexiao"
+      }
+    },
+    {
+      "id": "1190000017566601",
+      "title": "Java核心技术36篇②——老生常谈 String、StringBuilder、StringBuffer",
+      "url": "/a/1190000017566601",
+      "desc": "字符串就是一连串的字符序列，Java提供了String、StringBuilder、StringBuffer三个类来封装字符串",
+      "author": {
+        "nick": "九品夫人",
+        "homepage": "/u/poppy3721"
+      }
+    },
+    {
+      "id": "1190000017565315",
+      "title": "【从零开始学架构】学习笔记（一）",
+      "url": "/a/1190000017565315",
+      "desc": "1.1 什么是架构 1.1.1 架构简述 【优秀架构具备的特点】： 优秀的 TPS 承载力 优秀的性能 故障影响降到最小 投入产出最优方案 1.1.2 架构师职责 明确需求 系统能力分解 技术选型 制定架构说明书及主导执行落地 1....",
+      "author": {
+        "nick": "总有刁民想害朕",
+        "homepage": "/u/day_wang"
+      }
+    },
+    {
+      "id": "1190000017564707",
+      "title": "服务端开发学习路径图，心疼小哥哥们",
+      "url": "/a/1190000017564707",
+      "desc": "在github上看到一种图的表现形式很不错（[链接] ），迫不及待的自己做了一张:服务端开发学习路径图，表现力还是很强的。我们从选择一门开发语言说起，经历了摸索阶段、集群阶段和进阶阶段，希望你最后都能以架构...",
+      "author": {
+        "nick": "小姐姐味道",
+        "homepage": "/u/xjjwd"
+      }
+    },
+    {
+      "id": "1190000017564264",
+      "title": "Spring Cloud Alibaba发布第二个版本，Spring 发来贺电",
+      "url": "/a/1190000017564264",
+      "desc": "今年10月底，Spring Cloud联合创始人Spencer Gibb在Spring官网的博客页面宣布：阿里巴巴开源 Spring Cloud Alibaba，并发布了首个预览版本。随后，Spring Cloud 官方Twitter也发布了此消息。- 传送门",
+      "author": {
+        "nick": "阿里云云栖社区",
+        "homepage": "/u/yunqishequ_5aa899aad5395"
+      }
+    },
+    {
+      "id": "1190000017562276",
+      "title": "springboot：shiro注入dubbo服务空指针问题",
+      "url": "/a/1190000017562276",
+      "desc": "最近搭建springboot+dubbo+shiro微服务时，自定义的shiro的realm组件中：",
+      "author": {
+        "nick": "十三",
+        "homepage": "/u/shisan_5b3c8ddbf1d02"
+      }
+    },
+    {
+      "id": "1190000017561320",
+      "title": "下载、安装、配置 java jdk1.8",
+      "url": "/a/1190000017561320",
+      "desc": "近期配置react native的开发环境，所以就从配置环境开始。rn的环境配置有那么几项，其中重要的一个就是java jdk(Java Development Kit 的缩写)，那么以下就是下载、安装还有配置的流程",
+      "author": {
+        "nick": "清爽夏风",
+        "homepage": "/u/qingshuangxiafeng"
+      }
+    },
+    {
+      "id": "1190000017560669",
+      "title": "微信小程序开发 免备案 免域名 免SSL 免HTTPS 方案（知晓云）",
+      "url": "/a/1190000017560669",
+      "desc": "我的域名在阿里云，并且备了案。服务器在百度云，用了一段时间，阿里云说我的域名没有指向阿里云服务器，属于空壳网站，注销了我的备案信息。",
+      "author": {
+        "nick": "风起修远兮",
+        "homepage": "/u/duweixi"
+      }
+    },
+    {
+      "id": "1190000017560464",
+      "title": "基于Netty实现ModbusTCP协议的测试工具",
+      "url": "/a/1190000017560464",
+      "desc": "Netty搭建服务端 我们首选采用Netty框架搭建一个服务端程序。这里在IDE中使用Maven创建了一个新的工程。首先写一个Server类，先开看看服务端的核心代码：",
+      "author": {
+        "nick": "码农的修练之道",
+        "homepage": "/u/manongdexiuyangzhidao"
+      }
+    },
+    {
+      "id": "1190000017557146",
+      "title": "[LeetCode] 741. Cherry Pickup",
+      "url": "/a/1190000017557146",
+      "desc": "In a N x N grid representing a field of cherries, each cell is one of three possible integers.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    }
+  ]
+}
