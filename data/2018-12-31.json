@@ -1,0 +1,155 @@
+{
+  "watchNum": "35387",
+  "blogs": [
+    {
+      "id": "1190000017573728",
+      "title": " [Java菜鸟系列] 协议与回调",
+      "url": "/a/1190000017573728",
+      "desc": "书接上文，在上一节我们了解了协议的区别和作用。这里来回顾一下。为什么有了抽象类还需要协议呢?为什么不直接实现某方法，而是非要先签署协议呢?Java8中在协议中新增的静态方法和默认方法，它们分别有什么用处呢？",
+      "author": {
+        "nick": "心如止水_Zen",
+        "homepage": "/u/xinruzhishui_zen"
+      }
+    },
+    {
+      "id": "1190000017573683",
+      "title": "[Java菜鸟系列] 内部类与lambda表达式",
+      "url": "/a/1190000017573683",
+      "desc": "老湿：在上一节我们说到，我们需要让计算机知道，事件发生的时候该调用什么方法所以，我们需要建立一个类，签署一个协议，之后我们把这个对象传递给相应的函数....菜鸟：好了，你不要讲了！啰里啰嗦的，还有一天...",
+      "author": {
+        "nick": "心如止水_Zen",
+        "homepage": "/u/xinruzhishui_zen"
+      }
+    },
+    {
+      "id": "1190000017573644",
+      "title": "网络协议 17 - HTTPDNS：私人定制的 DNS 服务",
+      "url": "/a/1190000017573644",
+      "desc": "【前五篇】系列文章传送门： 网络协议 12 - HTTP 协议：常用而不简单 网络协议 13 - HTTPS 协议：加密路上无尽头 网络协议 14 - 流媒体协议：要说爱你不容易 网络协议 15 - DNS 协议：网络世界的地址簿 网络协议 ...",
+      "author": {
+        "nick": "北国风光",
+        "homepage": "/u/beiguofengguang"
+      }
+    },
+    {
+      "id": "1190000017573592",
+      "title": "一个BAT老程序员的忠告！",
+      "url": "/a/1190000017573592",
+      "desc": "一、在中国，你千万不要因为学习技术就可以换来稳定的生活和高的薪水待遇，你更不要认为那些从事市场、运营的人，没有前途。不清楚你是不是知道，咱们中国有相当大的一部分软件公司，他们的软件开发团队都小的可...",
+      "author": {
+        "nick": "程序员江湖",
+        "homepage": "/u/h2pl"
+      }
+    },
+    {
+      "id": "1190000017573549",
+      "title": "[LeetCode] 617. Merge Two Binary Trees",
+      "url": "/a/1190000017573549",
+      "desc": "Given two binary trees and imagine that when you put one of them to cover the other, some nodes of the two trees are overlapped while the others are not.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000017573545",
+      "title": "刷完500道BAT面试题，我能去面试大厂了吗？",
+      "url": "/a/1190000017573545",
+      "desc": "面试之前先刷几篇面经，或者做几道热门面试题，想必是大家很熟悉的一种复习方式了，就像我们当年经常做五年高考三年模拟一样。但是可不要把面试题和面经当成你的主要复习方式，它只是锦上添花，绝非雪中送炭！",
+      "author": {
+        "nick": "程序员江湖",
+        "homepage": "/u/h2pl"
+      }
+    },
+    {
+      "id": "1190000017573484",
+      "title": "[LeetCode] 905. Sort Array By Parity",
+      "url": "/a/1190000017573484",
+      "desc": "Given an array A of non-negative integers, return an array consisting of all the even elements of A, followed by all the odd elements of A.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000017573452",
+      "title": "校招前几个月，如何高效地进行复习？",
+      "url": "/a/1190000017573452",
+      "desc": "校招前几个月，如何高效地进行复习？距离明年春招还有三个多月的时间，很多想找实习和想参加补招的同学应该也都在忙着复习。今年的春招已结束，我在开始准备秋招了，也就是从4月份到7月份这段时间，我完成了一次...",
+      "author": {
+        "nick": "程序员江湖",
+        "homepage": "/u/h2pl"
+      }
+    },
+    {
+      "id": "1190000017573192",
+      "title": "Java Lock示例 - ReentrantLock",
+      "url": "/a/1190000017573192",
+      "desc": "大多数情况下，用 synchronized 关键字就足够了，但它也有一些缺点, 所以在 Java Concurrency 包中引入了 Lock API 。从Java 1.5版开始在 java.util.concurrent.locks 包中提供了处理并发的 Concurrency API 的 L...",
+      "author": {
+        "nick": "Yujiaao",
+        "homepage": "/u/yujiaao"
+      }
+    },
+    {
+      "id": "1190000017573003",
+      "title": "[LeetCode] 709. To Lower Case",
+      "url": "/a/1190000017573003",
+      "desc": "Implement function ToLowerCase() that has a string parameter str, and returns the same string in lowercase.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000017570591",
+      "title": "[LeetCode] 61. Rotate List",
+      "url": "/a/1190000017570591",
+      "desc": "Given a linked list, rotate the list to the right by k places, where k is non-negative.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000017570297",
+      "title": "[LeetCode] 97. Interleaving String",
+      "url": "/a/1190000017570297",
+      "desc": "Given s1, s2, s3, find whether s3 is formed by the interleaving of s1 and s2.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000017569235",
+      "title": "965-单值二叉树",
+      "url": "/a/1190000017569235",
+      "desc": "如果二叉树每个节点都具有相同的值，那么该二叉树就是单值二叉树。 只有给定的树是单值二叉树时，才返回 true；否则返回 false。 示例1： {代码...} 示例2： {代码...} 提示： 给定树的节点数范围是 [1, 100]。 ...",
+      "author": {
+        "nick": "Null",
+        "homepage": "/u/null_ryan"
+      }
+    },
+    {
+      "id": "1190000017569209",
+      "title": "[LeetCode] 249. Group Shifted Strings",
+      "url": "/a/1190000017569209",
+      "desc": "Given a string, we can \"shift\" each of its letter to its successive letter, for example: \"abc\" -> \"bcd\". We can keep \"shifting\" which forms the sequence:",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000017568892",
+      "title": "三分钟学会《门面模式》",
+      "url": "/a/1190000017568892",
+      "desc": "前言 只有光头才能变强 回顾前面所写过的设计模式： 给女朋友讲解什么是代理模式 包装模式就是这么简单啦 单例模式你会几种写法？ 工厂模式理解了没有？ 策略模式原来就这么简单！ 无论是面试还是个人的提升，设...",
+      "author": {
+        "nick": "Java3y",
+        "homepage": "/u/java_3y"
+      }
+    }
+  ]
+}
