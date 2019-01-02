@@ -1,0 +1,155 @@
+{
+  "watchNum": "35557",
+  "blogs": [
+    {
+      "id": "1190000017712500",
+      "title": "CMS日志",
+      "url": "/a/1190000017712500",
+      "desc": "1. GC参数配置 {代码...} 输出GC日志。 {代码...} 可以认为 -verbose:gc 是 -XX:+PrintGC 的别名。 {代码...} 输出GC日志的存储路径。 {代码...} 输出GC的详细日志。 {代码...} 输出GC的时间戳（以日期的形式）。...",
+      "author": {
+        "nick": "广训",
+        "homepage": "/u/guangxunz"
+      }
+    },
+    {
+      "id": "1190000017711843",
+      "title": "2019年，给六个建议",
+      "url": "/a/1190000017711843",
+      "desc": "或许你学习了很多各种高大上的框架与知识点，对其都了解一二，那么你的视野是很广的，但是这并不能很稳妥的为你的未来带来更好的提升，正如18年末的程序员寒季，大批程序员被辞，我想我们应该更深入的去了解一两...",
+      "author": {
+        "nick": "Java猫说",
+        "homepage": "/u/myself_5ab9f390c6129"
+      }
+    },
+    {
+      "id": "1190000017709800",
+      "title": "2018再见|2019你好",
+      "url": "/a/1190000017709800",
+      "desc": "前言 只有光头才能变强 Hello，首先祝大家元旦快乐！(文末有个人送书福利) 2018年自己成长了很多，这篇文章来回顾一下2018我做了什么事，展望2019年~ 背景：2019应届生，方向：Java 上半年(一月份到五月份) 在201...",
+      "author": {
+        "nick": "Java3y",
+        "homepage": "/u/java_3y"
+      }
+    },
+    {
+      "id": "1190000017709264",
+      "title": "分布式系统关注点——99%的人都能看懂的「补偿」以及最佳实践",
+      "url": "/a/1190000017709264",
+      "desc": "前面几篇中z哥跟你聊了聊做「高可用」的意义，以及如何做「负载均衡」和「高可用三剑客」（熔断、限流、降级，文末会附上前文连接：））。这次，我们来聊一聊在保证对外高可用的同时，憋出的“内伤”该如何通过「补...",
+      "author": {
+        "nick": "Zachary",
+        "homepage": "/u/zachary_5b7b78d91f94d"
+      }
+    },
+    {
+      "id": "1190000017709112",
+      "title": "网络协议 18 - CDN：家门口的小卖铺",
+      "url": "/a/1190000017709112",
+      "desc": "【前五篇】系列文章传送门： 网络协议 13 - HTTPS 协议：加密路上无尽头 网络协议 14 - 流媒体协议：要说爱你不容易 网络协议 15 - P2P 协议：小种子大学问 网络协议 16 - DNS 协议：网络世界的地址簿 网络协议 1...",
+      "author": {
+        "nick": "北国风光",
+        "homepage": "/u/beiguofengguang"
+      }
+    },
+    {
+      "id": "1190000017709003",
+      "title": "pdf png 转换超清",
+      "url": "/a/1190000017709003",
+      "desc": "需求 将pdf拆分成多个图片 且清晰 依赖 {代码...} 具体代码 {代码...}",
+      "author": {
+        "nick": "wt1187982580",
+        "homepage": "/u/wt1187982580"
+      }
+    },
+    {
+      "id": "1190000017679844",
+      "title": "为自己搭建一个分布式 IM(即时通讯) 系统",
+      "url": "/a/1190000017679844",
+      "desc": "新的一年第一篇技术文章希望开个好头，所以元旦三天我也没怎么闲着，希望给大家带来一篇比较感兴趣的干货内容。",
+      "author": {
+        "nick": "crossoverJie",
+        "homepage": "/u/crossoverjie"
+      }
+    },
+    {
+      "id": "1190000017579445",
+      "title": "使用jMeter构造逻辑上有依赖关系的一系列并发请求",
+      "url": "/a/1190000017579445",
+      "desc": "相信前端开发工程师对CSRF（Cross-site request forgery）跨站请求伪造这个概念都非常熟悉，有的时候也简写成XSRF，是一种对网站的恶意利用。",
+      "author": {
+        "nick": "JerryWangSAP",
+        "homepage": "/u/jerrywangsap"
+      }
+    },
+    {
+      "id": "1190000017578822",
+      "title": "追踪解析Spring ioc启动源码(3)",
+      "url": "/a/1190000017578822",
+      "desc": "写在前面：该 part 是 Spring ioc 的核心，显得非常冗杂，Spring 内不知名的组件非常的多，有很多笔者也难以描述清楚，甚至也没见过。在介绍的时候会做适当的忽略。",
+      "author": {
+        "nick": "三流",
+        "homepage": "/u/sanliu"
+      }
+    },
+    {
+      "id": "1190000017576826",
+      "title": "java之旅总览",
+      "url": "/a/1190000017576826",
+      "desc": "java并发之旅 Java并发编程之旅总览 IO java nio中的select和channel是怎么使用的？ 一文告诉你java NIO底层用到的那些connect、bind、listen、accept、close从java的NIO版hello world看java源码，我们能看到什么...",
+      "author": {
+        "nick": "爬蜥",
+        "homepage": "/u/pa_5aeb229669d18"
+      }
+    },
+    {
+      "id": "1190000017576127",
+      "title": "Netty Handler 执行顺序",
+      "url": "/a/1190000017576127",
+      "desc": "构建简单的服务端/客户端程序，当服务端收到消息后，经过 Handler 的处理再将新的消息发送给客户端，通过处理的过程和消息的内容来验证执行的顺序。",
+      "author": {
+        "nick": "Simeone_xu",
+        "homepage": "/u/simeone_xu"
+      }
+    },
+    {
+      "id": "1190000017575332",
+      "title": "java的静态代码块和构造代码块",
+      "url": "/a/1190000017575332",
+      "desc": "java中的类，不仅有函数，还有代码块。而所谓的静态变量(类变量)，和成员变量都是代码块的一部分。并且有两种代码块。静态代码块：",
+      "author": {
+        "nick": "Linus脱袜子",
+        "homepage": "/u/qiuqi_turing"
+      }
+    },
+    {
+      "id": "1190000017574535",
+      "title": "Maven+Tomcat7实现项目热部署",
+      "url": "/a/1190000017574535",
+      "desc": "启动服务器点击这个链接进入后台管理功能这里输入刚才设置的密码就可以进去了在这里选择自己的war包就可以直接部署。",
+      "author": {
+        "nick": "张航",
+        "homepage": "/u/zhanghang_5b0a8c97cccd7"
+      }
+    },
+    {
+      "id": "1190000017574324",
+      "title": "[LeetCode] 605. Can Place Flowers",
+      "url": "/a/1190000017574324",
+      "desc": "Suppose you have a long flowerbed in which some of the plots are planted and some are not. However, flowers cannot be planted in adjacent plots - they would compete for water and both would die.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000017574281",
+      "title": "[LeetCode] 867. Transpose Matrix",
+      "url": "/a/1190000017574281",
+      "desc": "The transpose of a matrix is the matrix flipped over it's main diagonal, switching the row and column indices of the matrix.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    }
+  ]
+}
