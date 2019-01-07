@@ -1,0 +1,155 @@
+{
+  "watchNum": "36210",
+  "blogs": [
+    {
+      "id": "1190000017791206",
+      "title": "02.Android之IPC机制问题",
+      "url": "/a/1190000017791206",
+      "desc": "2.0.0.1 什么是Binder？为什么要使用Binder？Binder中是如何进行线程管理的？总结binder讲的是什么？",
+      "author": {
+        "nick": "潇湘剑雨",
+        "homepage": "/u/xiangjianyu"
+      }
+    },
+    {
+      "id": "1190000017791140",
+      "title": "01.Android之基础组件问题",
+      "url": "/a/1190000017791140",
+      "desc": "1.0.0.2 后台的Activity被系统回收怎么办？说一下onSaveInstanceState()和onRestoreInstanceState()方法特点？",
+      "author": {
+        "nick": "潇湘剑雨",
+        "homepage": "/u/xiangjianyu"
+      }
+    },
+    {
+      "id": "1190000017790737",
+      "title": "MyBatis 源码阅读之数据库连接",
+      "url": "/a/1190000017790737",
+      "desc": "MyBatis 的配置文件所有配置会被 org.apache.ibatis.builder.xml.XMLConfigBuilder 类读取，我们可以通过此类来了解各个配置是如何运作的。而 MyBatis 的映射文件配置会被 org.apache.ibatis.builder.xml.XMLMapp...",
+      "author": {
+        "nick": "魏晋秋",
+        "homepage": "/u/piumnl"
+      }
+    },
+    {
+      "id": "1190000017788262",
+      "title": "SpringBoot基础入门篇",
+      "url": "/a/1190000017788262",
+      "desc": "Spring Boot可以基于Spring轻松创建可以“运行”的、独立的、生产级的应用程序。 对Spring平台和第三方类库我们有自己看法和意见（约定大于配置）。可以使用Spring Boot创建可以使用java -jar或传统 war 包部署启动...",
+      "author": {
+        "nick": "老男孩",
+        "homepage": "/u/laonanhai_5b474e6f3957a"
+      }
+    },
+    {
+      "id": "1190000017788000",
+      "title": "网络协议 19 - RPC 协议：远在天边近在眼前",
+      "url": "/a/1190000017788000",
+      "desc": "【前五篇】系列文章传送门： 网络协议 14 - 流媒体协议：要说爱你不容易 网络协议 15 - P2P 协议：小种子大学问 网络协议 16 - DNS 协议：网络世界的地址簿 网络协议 17 - HTTPDNS：私人定制的 DNS 服务 网络协议...",
+      "author": {
+        "nick": "北国风光",
+        "homepage": "/u/beiguofengguang"
+      }
+    },
+    {
+      "id": "1190000017787938",
+      "title": "x == (x = y) 不等于 (x = y) == x ？",
+      "url": "/a/1190000017787938",
+      "desc": "学习数学时我们学会了操作符优先原则，按照这个原则，这里的两次输出应该都是 true 才对，可为什么两次的输出结果不同呢？",
+      "author": {
+        "nick": "极光推送",
+        "homepage": "/u/jiguangtuisong"
+      }
+    },
+    {
+      "id": "1190000017784379",
+      "title": "【跃迁之路】【687天】程序员高效学习方法论探索系列（实验阶段444-2019.1.6）",
+      "url": "/a/1190000017784379",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000017784084",
+      "title": "教你用认知和人性来做最棒的程序员",
+      "url": "/a/1190000017784084",
+      "desc": "不久前，在团队内部和大家做了一次分享，内容就是这次要讲的“用认知和人性来提升自己的技术水平”，大家反响不错，所以这次整理一下也分享给大家。最初我是想用“借优秀的产品经理思维来做最棒程序员”的这个标题，...",
+      "author": {
+        "nick": "jackjoe_刘轶",
+        "homepage": "/u/jackjoe"
+      }
+    },
+    {
+      "id": "1190000017783731",
+      "title": "Java-基础-反射",
+      "url": "/a/1190000017783731",
+      "desc": "通过编译之后的字节码文件获取类中对象，可以得到类中的所有属性，方法，并且可以动态的操作该类。反射的关键源于 Class 类发挥的作用，该类在 java.lang.Class包下。",
+      "author": {
+        "nick": "CarlosHaoxj",
+        "homepage": "/u/carloshaoxj"
+      }
+    },
+    {
+      "id": "1190000017783452",
+      "title": "JVM（一）史上最佳入门指南",
+      "url": "/a/1190000017783452",
+      "desc": "提到Java虚拟机（JVM），可能大部分人的第一印象是“难”，但当让我们真正走入“JVM世界”的时候，会发现其实问题并不像我们想象中的那么复杂。唯一真正令我们恐惧的，其实是恐惧本身。而作为整个JVM系列的首篇，本文...",
+      "author": {
+        "nick": "王磊的博客",
+        "homepage": "/u/vipstone"
+      }
+    },
+    {
+      "id": "1190000017783281",
+      "title": "Java 基础整理",
+      "url": "/a/1190000017783281",
+      "desc": "注：String args[] 与 String[] args 都可以执行，但推荐使用 String[] args，这样可以避免歧义和误读。",
+      "author": {
+        "nick": "kele",
+        "homepage": "/u/kele_5c185edcaca29"
+      }
+    },
+    {
+      "id": "1190000017783149",
+      "title": "方法入参校验工具",
+      "url": "/a/1190000017783149",
+      "desc": "我基于这个需求便开发了这款工具，可以节省在这方面所花费的精力，通过配置的注解，在编译期对语法树进行修改，就能为方法加入参数的校验逻辑。",
+      "author": {
+        "nick": "moyada",
+        "homepage": "/u/moyada"
+      }
+    },
+    {
+      "id": "1190000017782868",
+      "title": "Java 9 新特性",
+      "url": "/a/1190000017782868",
+      "desc": "Java 9  新特性 Java9在语言上并没有添加太多的新特性，但在使用、性能上做了很改进。 一、模块间引用 Java9添加了模块化的概念，使得之前的控制访问权限有了改变。 之前： public protect （default，package） ...",
+      "author": {
+        "nick": "ephererid",
+        "homepage": "/u/xiaoliu_ephemerid"
+      }
+    },
+    {
+      "id": "1190000017782778",
+      "title": "Ｄubbo 自定义异常，你是怎么处理的？",
+      "url": "/a/1190000017782778",
+      "desc": "如果是系统自定义异常，则返回{\"code\":xxx,\"msg\":yyy} 其中code对应为错误码，msg对应为异常信息",
+      "author": {
+        "nick": "张少林同学",
+        "homepage": "/u/zhangshaolintongxue_5c20a226c6646"
+      }
+    },
+    {
+      "id": "1190000017781196",
+      "title": "970-强整数",
+      "url": "/a/1190000017781196",
+      "desc": "给定两个非负整数 x 和 y，如果某一整数等于 x^i + y^j，其中整数 i >= 0 且 j >= 0，那么我们认为该整数是一个强整数。 返回值小于或等于 bound 的所有强整数组成的列表。 你可以按任何顺序返回答案。在你...",
+      "author": {
+        "nick": "Null",
+        "homepage": "/u/null_ryan"
+      }
+    }
+  ]
+}
