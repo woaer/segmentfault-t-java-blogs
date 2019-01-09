@@ -1,0 +1,155 @@
+{
+  "watchNum": "36520",
+  "blogs": [
+    {
+      "id": "1190000017826835",
+      "title": "Java 8 Strem基本操作",
+      "url": "/a/1190000017826835",
+      "desc": "本文提供了有关Java 8 Stream的深入概述。当我第一次读到的Stream API，我感到很困惑，因为它听起来类似Java I/O的InputStream，OutputStream。但Java 8 Stream是完全不同的东西。Streams是Monads，因此在为Java...",
+      "author": {
+        "nick": "qianmoQ",
+        "homepage": "/u/qianmoq"
+      }
+    },
+    {
+      "id": "1190000017826452",
+      "title": "Flutter通用基础库flutter_luakit_plugin",
+      "url": "/a/1190000017826452",
+      "desc": "文章开头我们先开门见山给出使用flutter_luakit_plugin作为基础库开发和普通flutter的区别。由于flutter定位是便携UI包，flutter提供的基础库功能是不足以满足复杂数据的app应用的，一般flutter开发模式如下图所...",
+      "author": {
+        "nick": "温智宁",
+        "homepage": "/u/wenzhining"
+      }
+    },
+    {
+      "id": "1190000017826292",
+      "title": "android中小图片icon的优化（svg矢量图与iconfiy的使用）",
+      "url": "/a/1190000017826292",
+      "desc": "在开发安卓中会遇到各种各样的小图片(icon),裁剪繁琐,拉伸容易失真,png图片积累到一定量的时候,使包的体积变大,svg图与iconfiy这个第三方库可以解决以上的问题,但只试用于icon,背景图片等还需要自己进行优化;",
+      "author": {
+        "nick": "20171112",
+        "homepage": "/u/20171112"
+      }
+    },
+    {
+      "id": "1190000017824152",
+      "title": "Dubbo自定义日志拦截器",
+      "url": "/a/1190000017824152",
+      "desc": "上一篇文章 Spring aop+自定义注解统一记录用户行为日志 记录了 web层中通过自定义注解配合Spring aop自动记录用户行为日志的过程。那么按照分布式架构中Dubbo服务层的调用过程是否也可以实现统一记录日志？自定...",
+      "author": {
+        "nick": "张少林同学",
+        "homepage": "/u/zhangshaolintongxue_5c20a226c6646"
+      }
+    },
+    {
+      "id": "1190000017823642",
+      "title": "网络协议 20 - RPC 协议（上）- 基于XML的SOAP协议",
+      "url": "/a/1190000017823642",
+      "desc": "【前五篇】系列文章传送门： 网络协议 15 - P2P 协议：小种子大学问 网络协议 16 - DNS 协议：网络世界的地址簿 网络协议 17 - HTTPDNS：私人定制的 DNS 服务 网络协议 18 - CDN：家门口的小卖铺 网络协议 19 - R...",
+      "author": {
+        "nick": "北国风光",
+        "homepage": "/u/beiguofengguang"
+      }
+    },
+    {
+      "id": "1190000017823251",
+      "title": "Dubbo 源码分析 - 服务调用过程",
+      "url": "/a/1190000017823251",
+      "desc": "在前面的文章中，我们分析了 Dubbo SPI、服务导出与引入、以及集群容错方面的代码。经过前文的铺垫，本篇文章我们终于可以分析服务调用过程了。Dubbo 服务调用过程比较复杂，包含众多步骤。比如发送请求、编解码...",
+      "author": {
+        "nick": "coolblog",
+        "homepage": "/u/coolblog"
+      }
+    },
+    {
+      "id": "1190000017823098",
+      "title": "java学习笔记【1】",
+      "url": "/a/1190000017823098",
+      "desc": "java书写格式 java区分大小写 语句以英文分号（;）结尾 环境搭建 安装JDK和Eclipse for java 设置环境变量 path添加C:Program FilesJavajdk1.8.0_66bin java_home=C:Program FilesJavajdk1.8.0_66（用户变量） 使...",
+      "author": {
+        "nick": "playboy5566",
+        "homepage": "/u/playboy5566"
+      }
+    },
+    {
+      "id": "1190000017822439",
+      "title": "SpringBoot究竟是如何跑起来的?",
+      "url": "/a/1190000017822439",
+      "desc": "摘要： 神奇的SpringBoot。 原文：SpringBoot 究竟是如何跑起来的? 作者：老钱 Fundebug经授权转载，版权归原作者所有。 不得不说 SpringBoot 太复杂了，我本来只想研究一下 SpringBoot 最简单的 HelloWorld 程序...",
+      "author": {
+        "nick": "Fundebug",
+        "homepage": "/u/fundebug"
+      }
+    },
+    {
+      "id": "1190000017816699",
+      "title": "Git，TortoiseGit使用教程",
+      "url": "/a/1190000017816699",
+      "desc": "1.下载Git,TortoiseGit {代码...} 2.先安装Git,之后安装TortoiseGit3.创建GitHub账号4.生成SSH key {代码...}",
+      "author": {
+        "nick": "xlMecl",
+        "homepage": "/u/xlmecl"
+      }
+    },
+    {
+      "id": "1190000017816656",
+      "title": "Git，TortoiseGit使用教程",
+      "url": "/a/1190000017816656",
+      "desc": "1.下载Git,TortoiseGit {代码...} 2.先安装Git,之后安装TortoiseGit3.创建GitHub账号4.生成SSH key {代码...}",
+      "author": {
+        "nick": "xlMecl",
+        "homepage": "/u/xlmecl"
+      }
+    },
+    {
+      "id": "1190000017816622",
+      "title": "Java™ 教程（数字）",
+      "url": "/a/1190000017816622",
+      "desc": "最后，讨论了java.lang中的Math类，它包含数学函数，以补充语言中内置的运算符，该类具有三角函数，指数函数等方法。",
+      "author": {
+        "nick": "博弈",
+        "homepage": "/u/lfheart"
+      }
+    },
+    {
+      "id": "1190000017816452",
+      "title": "Spring Boot Admin 2.1.0 全攻略",
+      "url": "/a/1190000017816452",
+      "desc": "Spring Boot Admin是一个开源社区项目，用于管理和监控SpringBoot应用程序。 应用程序作为Spring Boot Admin Client向为Spring Boot Admin Server注册（通过HTTP）或使用SpringCloud注册中心（例如Eureka，Consul...",
+      "author": {
+        "nick": "Forezp",
+        "homepage": "/u/forezp"
+      }
+    },
+    {
+      "id": "1190000017815542",
+      "title": "不“破”阿里终不还，“寒潮”之下Java程序员的凌云壮志",
+      "url": "/a/1190000017815542",
+      "desc": "伴随着深冬凌冽的寒风，中华大江南北飘起了大雪，寒冷刺骨；接踵而至的互联网“寒潮”更是令众多的程序员寒在了心头。",
+      "author": {
+        "nick": "烟雨满楼",
+        "homepage": "/u/yanyumanlou"
+      }
+    },
+    {
+      "id": "1190000017815422",
+      "title": "详解RPC远程调用和消息队列MQ的区别",
+      "url": "/a/1190000017815422",
+      "desc": "PC（Remote Procedure Call）远程过程调用，主要解决远程通信间的问题，不需要了解底层网络的通信机制。",
+      "author": {
+        "nick": "bali",
+        "homepage": "/u/bali_5a0a92fba16aa"
+      }
+    },
+    {
+      "id": "1190000017813949",
+      "title": "【跃迁之路】【689天】程序员高效学习方法论探索系列（实验阶段446-2019.1.8）",
+      "url": "/a/1190000017813949",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    }
+  ]
+}
