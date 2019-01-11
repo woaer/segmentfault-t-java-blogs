@@ -1,0 +1,155 @@
+{
+  "watchNum": "36820",
+  "blogs": [
+    {
+      "id": "1190000017854975",
+      "title": "06.Android之消息机制问题",
+      "url": "/a/1190000017854975",
+      "desc": "6.0.0.2 为什么一个线程只有一个Looper、只有一个MessageQueue，可以有多个Handler？",
+      "author": {
+        "nick": "潇湘剑雨",
+        "homepage": "/u/xiangjianyu"
+      }
+    },
+    {
+      "id": "1190000017852894",
+      "title": " Mybatis是怎么工作的（二）",
+      "url": "/a/1190000017852894",
+      "desc": "上一篇文章分析mybatis加载配置的源码时提到了org.apache.ibatis.builder.xml.XMLConfigBuilder#parseConfiguration方法，现在继续分析其中的mapperElement方法。先看源码：",
+      "author": {
+        "nick": "星河",
+        "homepage": "/u/xinghe_super"
+      }
+    },
+    {
+      "id": "1190000017854279",
+      "title": "04.Android之动画问题",
+      "url": "/a/1190000017854279",
+      "desc": "4.0.0.1 Android中有哪几种类型的动画，属性动画和补间动画有何区别？补间动画和属性动画常用的有哪些？",
+      "author": {
+        "nick": "潇湘剑雨",
+        "homepage": "/u/xiangjianyu"
+      }
+    },
+    {
+      "id": "1190000017854141",
+      "title": "是时候给大家介绍SpringBoot背后豪华的研发团队了。",
+      "url": "/a/1190000017854141",
+      "desc": "摘要： SpringBoot的来龙去脉。 原文：为什么说 Java 程序员到了必须掌握 Spring Boot 的时候？ 微信公众号：纯洁的微笑 Fundebug经授权转载，版权归原作者所有。 看了 Pivotal 公司的发展历史，这尼玛就是一场商...",
+      "author": {
+        "nick": "Fundebug",
+        "homepage": "/u/fundebug"
+      }
+    },
+    {
+      "id": "1190000017853533",
+      "title": "java日常性能优化点",
+      "url": "/a/1190000017853533",
+      "desc": "1.mysql批量批量保存速度快。如jdbcTemplate的batch 2.java8的遍历集合parallelStream并行遍历速度快",
+      "author": {
+        "nick": "hobe",
+        "homepage": "/u/whbing"
+      }
+    },
+    {
+      "id": "1190000017853158",
+      "title": "SpringBoot搭建一个SSM开发框架（二）",
+      "url": "/a/1190000017853158",
+      "desc": "分析：分模块开发，所以我们需要把：实体放到 -> bean 项目中mybatis的接口和映射文件放到 -> mapper 项目中yml项目配置如：连接池，日志等 放到 -> web 项目中",
+      "author": {
+        "nick": "老男孩",
+        "homepage": "/u/laonanhai_5b474e6f3957a"
+      }
+    },
+    {
+      "id": "1190000017851838",
+      "title": "GraphQL 的入门指南",
+      "url": "/a/1190000017851838",
+      "desc": "今天最常讨论的术语之一是 API，很多人不知道 API 到底是什么，API 是 Application Programming Interface(应用程序编程接口)。顾名思义，它是一些预先定义的函数，目的是提供应用程序与开发人员基于某软件或硬件...",
+      "author": {
+        "nick": "前端小智",
+        "homepage": "/u/minnanitkong"
+      }
+    },
+    {
+      "id": "1190000017851692",
+      "title": "前后端分离——token超时刷新策略",
+      "url": "/a/1190000017851692",
+      "desc": "昨天发了一篇记录 前后端分离应用——用户信息传递　中介绍了token认证机制，跟几位群友讨论了下，有些同学有这么一个疑惑：token失效了，应该怎么做？强制定向到登录页？",
+      "author": {
+        "nick": "张少林同学",
+        "homepage": "/u/zhangshaolintongxue_5c20a226c6646"
+      }
+    },
+    {
+      "id": "1190000017850217",
+      "title": "要么懂业务或牛逼，要么辞职走人",
+      "url": "/a/1190000017850217",
+      "desc": "之所以写这篇文章其实辩论性很强，这里不是针对所有地区、所有的互联网类型科技型公司，仅仅是我目前所处在大环境与场合是这样的。公司地处东南方，算是大型国企的全资公司，不是私企性质，虽然不是私企但是其实...",
+      "author": {
+        "nick": "Java猫说",
+        "homepage": "/u/myself_5ab9f390c6129"
+      }
+    },
+    {
+      "id": "1190000017850148",
+      "title": "HTTPS如何确保Web安全",
+      "url": "/a/1190000017850148",
+      "desc": "HTTPS（全称：HyperText Transfer Protocol over Secure Socket Layer），是为了保证客户端与服务器之间数据传输的安全。 近两年，Google、Baidu、Facebook 等这样的互联网巨头，不谋而合地开始大力推行 HTTPS， ...",
+      "author": {
+        "nick": "Feleti",
+        "homepage": "/u/feleti"
+      }
+    },
+    {
+      "id": "1190000017849973",
+      "title": "java 日志脱敏框架 sensitive-新版本0.0.2-深度拷贝，属性为对象和集合的支持",
+      "url": "/a/1190000017849973",
+      "desc": "项目介绍 日志脱敏是常见的安全需求。普通的基于工具类方法的方式，对代码的入侵性太强。编写起来又特别麻烦。 本项目提供基于注解的方式，并且内置了常见的脱敏方式，便于开发。 用户也可以基于自己的实际需要，...",
+      "author": {
+        "nick": "叶止水",
+        "homepage": "/u/houbinbin"
+      }
+    },
+    {
+      "id": "1190000017849504",
+      "title": "Java 平台微服务架构的项目组成形式",
+      "url": "/a/1190000017849504",
+      "desc": "在微服务化架构中, 软件项目被拆分成多个自治的服务, 服务之间通过网络协议进行调用, 通常使用透明的 RPC 远程调用.",
+      "author": {
+        "nick": "sc_ik",
+        "homepage": "/u/sc_ik"
+      }
+    },
+    {
+      "id": "1190000017849399",
+      "title": "Java™ 教程（泛型通配符使用指南）",
+      "url": "/a/1190000017849399",
+      "desc": "学习使用泛型编程时更困惑的一个方面是确定何时使用上界通配符以及何时使用下界通配符，此页面提供了设计代码时要遵循的一些准则。",
+      "author": {
+        "nick": "博弈",
+        "homepage": "/u/lfheart"
+      }
+    },
+    {
+      "id": "1190000017849249",
+      "title": "Java™ 教程（泛型通配符捕获和Helper方法）",
+      "url": "/a/1190000017849249",
+      "desc": "在某些情况下，编译器会推断出通配符的类型，例如，列表可以定义为List<?>，但是在评估表达式时，编译器会从代码中推断出特定类型，此场景称为通配符捕获。",
+      "author": {
+        "nick": "博弈",
+        "homepage": "/u/lfheart"
+      }
+    },
+    {
+      "id": "1190000017848999",
+      "title": "Java™ 教程（泛型通配符）",
+      "url": "/a/1190000017848999",
+      "desc": "在泛型代码中，称为通配符的问号（？）表示未知类型，通配符可用于各种情况：作为参数、字段或局部变量的类型，有时作为返回类型（尽管更好的编程实践是更加具体），通配符从不用作泛型方法调用、泛型类实例创建...",
+      "author": {
+        "nick": "博弈",
+        "homepage": "/u/lfheart"
+      }
+    }
+  ]
+}
