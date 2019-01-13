@@ -1,0 +1,155 @@
+{
+  "watchNum": "37015",
+  "blogs": [
+    {
+      "id": "1190000017871470",
+      "title": "974-和可被K整除的子数组",
+      "url": "/a/1190000017871470",
+      "desc": "给定一个整数数组 A，返回其中元素之和可被 K 整除的（连续、非空）子数组的数目。 示例： {代码...} 提示： 1 <= A.length <= 30000 -10000 <= A[i] <= 10000 2 <= K <= 10000",
+      "author": {
+        "nick": "Null",
+        "homepage": "/u/null_ryan"
+      }
+    },
+    {
+      "id": "1190000017871433",
+      "title": "976-三角形的最大周长",
+      "url": "/a/1190000017871433",
+      "desc": "给定由一些正数（代表长度）组成的数组 A，返回由其中三个长度组成的、面积不为零的三角形的最大周长。 如果不能形成任何面积不为零的三角形，返回 0。 示例1： {代码...} 示例2： {代码...} 示例3： {代码...} ...",
+      "author": {
+        "nick": "Null",
+        "homepage": "/u/null_ryan"
+      }
+    },
+    {
+      "id": "1190000017871411",
+      "title": "RxJava中的Observable，多Subscribers",
+      "url": "/a/1190000017871411",
+      "desc": "多个订阅者的默认行为并不总是可取的。在本文中，我们将介绍如何更改此行为并以适当的方式处理多个订阅者。",
+      "author": {
+        "nick": "qianmoQ",
+        "homepage": "/u/qianmoq"
+      }
+    },
+    {
+      "id": "1190000017871346",
+      "title": "973-最接近原点的 K 个点",
+      "url": "/a/1190000017871346",
+      "desc": "我们有一个由平面上的点组成的列表 points。需要从中找出 K 个距离原点 (0, 0) 最近的点。 （这里，平面上两点之间的距离是欧几里德距离。） 你可以按任何顺序返回答案。除了点坐标的顺序之外，答案确保是唯一的...",
+      "author": {
+        "nick": "Null",
+        "homepage": "/u/null_ryan"
+      }
+    },
+    {
+      "id": "1190000017871341",
+      "title": "AbstractQueuedSynchronizer超详细原理解析",
+      "url": "/a/1190000017871341",
+      "desc": "今天我们来研究学习一下AbstractQueuedSynchronizer类的相关原理，java.util.concurrent包中很多类都依赖于这个类所提供队列式同步器，比如说常用的ReentranLock，Semaphore和CountDownLatch等。 为了方便理解，...",
+      "author": {
+        "nick": "remcarpediem",
+        "homepage": "/u/remcarpediem"
+      }
+    },
+    {
+      "id": "1190000017871148",
+      "title": "如何使用jMeter对某个OData服务进行高并发性能测试",
+      "url": "/a/1190000017871148",
+      "desc": "For project reason I have to measure the performance of OData service being accessed parallelly. And I plan to use the open source tool JMeter to generate a huge number of request in parallel and m...",
+      "author": {
+        "nick": "JerryWangSAP",
+        "homepage": "/u/jerrywangsap"
+      }
+    },
+    {
+      "id": "1190000017870919",
+      "title": "[Java菜鸟系列] 「林彪」教你\"通配符泛型\"",
+      "url": "/a/1190000017870919",
+      "desc": "菜鸟：Java方法参数中的泛型通配符要怎么理解？老湿：<? extends T> 表示类型的上界，表示该类型的可能是T 或是 T的子类；<? super T> 表示类型的下界，表示该参数化类型是T或T的超类，直至Object；...",
+      "author": {
+        "nick": "心如止水_Zen",
+        "homepage": "/u/xinruzhishui_zen"
+      }
+    },
+    {
+      "id": "1190000017869390",
+      "title": "如何用5W rmb支持34W并发",
+      "url": "/a/1190000017869390",
+      "desc": "在《这垃圾APP，差点毁了70万高考生》一文中，我们的报考app是用5W rmb 向供应商采购。在报名当天涌入海量考生，并发数飙升至34W，导致系统宕机，拒绝服务，导致考生无法报名，舆情哗然。",
+      "author": {
+        "nick": "方老司",
+        "homepage": "/u/vvsuperman"
+      }
+    },
+    {
+      "id": "1190000017869016",
+      "title": "跳槽季如何快速全面复习面试题",
+      "url": "/a/1190000017869016",
+      "desc": "去年的这个时候楼主通过两个月的复习拿到了阿里巴巴的 offer，有一些运气，也有一些心得，借着跳槽季来临特此分享出来。简单梳理一下我的复习思路，同时也希望和大家一起交流讨论，一起学习，如果不对之处欢迎指...",
+      "author": {
+        "nick": "码匠笔记",
+        "homepage": "/u/majiangbiji"
+      }
+    },
+    {
+      "id": "1190000017868850",
+      "title": "Java程序员：不识Jvm真面目，只缘身在增删查改中",
+      "url": "/a/1190000017868850",
+      "desc": "JVM是java的核心和基础，在java编译器和os平台之间的虚拟处理器。它是一种基于下层的操作系统和硬件平台并利用软件方法来实现的抽象的计算机，可以在上面执行java的字节码程序。",
+      "author": {
+        "nick": "烟雨满楼",
+        "homepage": "/u/yanyumanlou"
+      }
+    },
+    {
+      "id": "1190000017868790",
+      "title": "Java™ 教程（对象流）",
+      "url": "/a/1190000017868790",
+      "desc": "正如数据流支持原始数据类型的I/O一样，对象流也支持对象的I/O，大多数（但不是全部）标准类支持其对象的序列化，那些是实现标记接口Serializable的。",
+      "author": {
+        "nick": "博弈",
+        "homepage": "/u/lfheart"
+      }
+    },
+    {
+      "id": "1190000017868423",
+      "title": "追踪解析Gson源码(2)",
+      "url": "/a/1190000017868423",
+      "desc": "在 Gson 包中可以不使用 Gson 门面而单独使用 JsonReader 进行 json 的反序列化：",
+      "author": {
+        "nick": "三流",
+        "homepage": "/u/sanliu"
+      }
+    },
+    {
+      "id": "1190000017868135",
+      "title": "【跃迁之路】【692天】程序员高效学习方法论探索系列（实验阶段449-2019.1.11-12）",
+      "url": "/a/1190000017868135",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000017868053",
+      "title": "编写你的第一个 Java 版 Raft 分布式 KV 存储",
+      "url": "/a/1190000017868053",
+      "desc": "本文旨在讲述如何使用 Java 语言实现基于 Raft 算法的，分布式的，KV 结构的存储项目。该项目的背景是为了深入理解 Raft 算法，从而深刻理解分布式环境下数据强一致性该如何实现；该项目的目标是：在复杂的分布式...",
+      "author": {
+        "nick": "莫那_鲁道",
+        "homepage": "/u/thinkinjava_cn"
+      }
+    },
+    {
+      "id": "1190000017867818",
+      "title": "Java™ 教程（数据流）",
+      "url": "/a/1190000017867818",
+      "desc": "数据流支持原始数据类型值（boolean、char、byte、short、int、long、float和double）以及String值的二进制I/O，所有数据流都实现DataInput接口或DataOutput接口，本节重点介绍这些接口最广泛使用的实现，DataInp...",
+      "author": {
+        "nick": "博弈",
+        "homepage": "/u/lfheart"
+      }
+    }
+  ]
+}
