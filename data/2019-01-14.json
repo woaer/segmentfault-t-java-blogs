@@ -1,0 +1,155 @@
+{
+  "watchNum": "37095",
+  "blogs": [
+    {
+      "id": "1190000017882763",
+      "title": "缓存雪崩、缓存穿透、缓存更新了解多少？",
+      "url": "/a/1190000017882763",
+      "desc": "前言 只有光头才能变强。 文本已收录至我的GitHub仓库，欢迎Star：[链接] 回顾前面： 从零单排学Redis【青铜】 从零单排学Redis【白银】 从零单排学Redis【黄金】 从零单排学Redis【铂金一】 从零单排学Redis【铂...",
+      "author": {
+        "nick": "Java3y",
+        "homepage": "/u/java_3y"
+      }
+    },
+    {
+      "id": "1190000017882576",
+      "title": "[LeetCode] 84. Largest Rectangle in Histogram",
+      "url": "/a/1190000017882576",
+      "desc": "Given n non-negative integers representing the histogram's bar height where the width of each bar is 1, find the area of largest rectangle in the histogram.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000017881675",
+      "title": "[LeetCode] 287. Find the Duplicate Number",
+      "url": "/a/1190000017881675",
+      "desc": "Given an array nums containing n + 1 integers where each integer is between 1 and n (inclusive), prove that at least one duplicate number must exist. Assume that there is only one duplicate number,...",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000017881240",
+      "title": "Java™ 教程（Thread对象）",
+      "url": "/a/1190000017881240",
+      "desc": "Thread对象 每个线程都与Thread类的实例相关联，使用Thread对象创建并发应用程序有两种基本策略。 要直接控制线程的创建和管理，只需在每次应用程序需要启动异步任务时实例化Thread。 要从应用程序的其余部分抽象...",
+      "author": {
+        "nick": "博弈",
+        "homepage": "/u/lfheart"
+      }
+    },
+    {
+      "id": "1190000017880150",
+      "title": "[LeetCode] 165. Compare Version Numbers",
+      "url": "/a/1190000017880150",
+      "desc": "Compare two version numbers version1 and version2.If version1 > version2 return 1; if version1 < version2 return -1;otherwise return 0.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000017879052",
+      "title": "网络协议 21 - RPC 协议（中）- 基于 JSON 的 RESTful 接口协议",
+      "url": "/a/1190000017879052",
+      "desc": "    上一节我们了解了基于 XML 的 SOAP 协议，SOAP 的 S 是啥意思来着？是 Simple，但是好像一点儿都不简单啊！",
+      "author": {
+        "nick": "北国风光",
+        "homepage": "/u/beiguofengguang"
+      }
+    },
+    {
+      "id": "1190000017878834",
+      "title": "JVM（二）Java虚拟机组成详解",
+      "url": "/a/1190000017878834",
+      "desc": "Java虚拟机（Java Virtual Machine）下文简称jvm，上一篇我们对jvm有了大体的认识，进入本文之后我们将具体而详细的介绍jvm的方方面面，而本文主要讲的是jvm的组成，了解了它，就揭开了jvm的神秘面纱。",
+      "author": {
+        "nick": "王磊的博客",
+        "homepage": "/u/vipstone"
+      }
+    },
+    {
+      "id": "1190000017878787",
+      "title": "最长公共子序列LCS",
+      "url": "/a/1190000017878787",
+      "desc": "动态规划问题，局部最小单元：两值是否相等，相等则从对角线上个位置处的数值+1，继续状态延续； 不相等则从上下两个过去的位置找值保持延续，在上下两个过去位置中保持着之前的最长子序列。",
+      "author": {
+        "nick": "龙仔",
+        "homepage": "/u/longzi_5a7ff651cff1e"
+      }
+    },
+    {
+      "id": "1190000017877798",
+      "title": "如何将JAR包发布到Maven中央仓库？",
+      "url": "/a/1190000017877798",
+      "desc": "将jar包发布到Maven中央仓库(Maven Central Repository)，这样所有的Java开发者都可以使用Maven直接导入依赖，例如fundebug-java：",
+      "author": {
+        "nick": "Fundebug",
+        "homepage": "/u/fundebug"
+      }
+    },
+    {
+      "id": "1190000017877086",
+      "title": "为自己搭建一个分布式 IM 系统二【从查找算法聊起】",
+      "url": "/a/1190000017877086",
+      "desc": "言归正传，上周更新了 cim 第一版；没想到反响热烈，最高时上了 GitHub Trending Java 版块的首位，一天收到了 300+ 的 star。",
+      "author": {
+        "nick": "crossoverJie",
+        "homepage": "/u/crossoverjie"
+      }
+    },
+    {
+      "id": "1190000017877354",
+      "title": "[LeetCode] 545. Boundary of Binary Tree",
+      "url": "/a/1190000017877354",
+      "desc": "Given a binary tree, return the values of its boundary in anti-clockwise direction starting from root. Boundary includes left boundary, leaves, and right boundary in order without duplicate nodes.",
+      "author": {
+        "nick": "linspiration",
+        "homepage": "/u/linspiration"
+      }
+    },
+    {
+      "id": "1190000017874211",
+      "title": " 《从0到1学习Flink》—— Flink 中几种 Time 详解",
+      "url": "/a/1190000017874211",
+      "desc": "Flink 在流程序中支持不同的 Time 概念，就比如有 Processing Time、Event Time 和 Ingestion Time。",
+      "author": {
+        "nick": "zhisheng",
+        "homepage": "/u/zhisheng"
+      }
+    },
+    {
+      "id": "1190000017876346",
+      "title": "一种自动化的信息管理构建系统",
+      "url": "/a/1190000017876346",
+      "desc": "此文首发于知乎 Talk is cheap, show me the code. 手里有码，心中不慌。源码敬上 ihongs/HongsCORE 按照一篇技术文章的惯例，先得定义名词、作出解释： 信息管理系统：信息管理系统_百度百科，往大了说，除了图...",
+      "author": {
+        "nick": "黄弘",
+        "homepage": "/u/hongs"
+      }
+    },
+    {
+      "id": "1190000017875902",
+      "title": "GraphQL：一种更高效、强大和灵活的数据提供方式",
+      "url": "/a/1190000017875902",
+      "desc": "在前几天的《StateOfJS: 2018年JavaScript生态圈趋势报告》一文中，我们看到了2018年在数据层GraphQL的发展势头猛烈，并且大部分用户用过都说好，但如上图数据显示，目前国内的使用人数还很少，大部分人连听都没...",
+      "author": {
+        "nick": "周小肆",
+        "homepage": "/u/feleti"
+      }
+    },
+    {
+      "id": "1190000017875485",
+      "title": "Java™ 教程（进程和线程）",
+      "url": "/a/1190000017875485",
+      "desc": "计算机用户想当然地认为他们的系统一次可以做不止一件事，他们设想他们可以继续在文字处理器中工作，而其他应用程序则下载文件、管理打印队列和流音频，即使是单个应用程序通常也希望一次完成多个任务。例如，流...",
+      "author": {
+        "nick": "博弈",
+        "homepage": "/u/lfheart"
+      }
+    }
+  ]
+}
