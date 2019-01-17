@@ -1,0 +1,155 @@
+{
+  "watchNum": "37555",
+  "blogs": [
+    {
+      "id": "1190000017874175",
+      "title": " 《从0到1学习Flink》—— Flink 写入数据到 Kafka",
+      "url": "/a/1190000017874175",
+      "desc": "之前文章 《从0到1学习Flink》—— Flink 写入数据到 ElasticSearch 写了如何将 Kafka 中的数据存储到 ElasticSearch 中，里面其实就已经用到了 Flink 自带的 Kafka source connector（FlinkKafkaConsumer）。存入...",
+      "author": {
+        "nick": "zhisheng",
+        "homepage": "/u/zhisheng"
+      }
+    },
+    {
+      "id": "1190000017919720",
+      "title": "Java™ 教程（守护阻塞）",
+      "url": "/a/1190000017919720",
+      "desc": "线程通常必须协调他们的操作，最常见的协调用法是守护阻塞，这样的阻塞首先轮询一个条件，该条件必须为真，然后阻塞才能继续，要正确执行此操作，需要执行许多步骤。",
+      "author": {
+        "nick": "博弈",
+        "homepage": "/u/lfheart"
+      }
+    },
+    {
+      "id": "1190000017919263",
+      "title": "力扣(LeetCode)796",
+      "url": "/a/1190000017919263",
+      "desc": "A 的旋转操作就是将 A 最左边的字符移动到最右边。 例如, 若 A = 'abcde'，在移动一次之后结果就是'bcdea' 。如果在若干次旋转操作之后，A 能变成B，那么返回True。",
+      "author": {
+        "nick": "Linus脱袜子",
+        "homepage": "/u/qiuqi_turing"
+      }
+    },
+    {
+      "id": "1190000017919175",
+      "title": "【跃迁之路】【696天】程序员高效学习方法论探索系列（实验阶段453-2019.1.16）",
+      "url": "/a/1190000017919175",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000017918151",
+      "title": "“崩溃了？不可能，我全 Catch 住了” | Java 异常处理",
+      "url": "/a/1190000017918151",
+      "desc": "在任何一个稳定的程序中，都会有大量的代码在处理错误，有一些业务错误，我们可以通过主动检查判断来规避，可对于一些不能主动判断的错误，例如 RuntimeException，我们就需要使用 try-catch-finally 语句了。",
+      "author": {
+        "nick": "plokmju88",
+        "homepage": "/u/plokmju"
+      }
+    },
+    {
+      "id": "1190000017917477",
+      "title": "BlockingQueue与Condition原理解析",
+      "url": "/a/1190000017917477",
+      "desc": "我在前段时间写了一篇关于AQS源码解析的文章AbstractQueuedSynchronizer超详细原理解析，在文章里边我说JUC包中的大部分多线程相关的类都和AQS相关，今天我们就学习一下依赖于AQS来实现的阻塞队列BlockingQueue的...",
+      "author": {
+        "nick": "remcarpediem",
+        "homepage": "/u/remcarpediem"
+      }
+    },
+    {
+      "id": "1190000017917206",
+      "title": "SpringMVC入门笔记",
+      "url": "/a/1190000017917206",
+      "desc": "SpringMVC 细节方面的东西很多，所以在这里做一篇简单的 SpringMVC 的笔记记录，方便以后查看。",
+      "author": {
+        "nick": "超人",
+        "homepage": "/u/superman01"
+      }
+    },
+    {
+      "id": "1190000017916181",
+      "title": "dubbo之Zookeeper注册中心",
+      "url": "/a/1190000017916181",
+      "desc": "目前dubbo支持多种注册中心：Zookeeper、Redis、Simple、Multicast、Etcd3。",
+      "author": {
+        "nick": "方袁",
+        "homepage": "/u/fangyuan_5c3465a516d0b"
+      }
+    },
+    {
+      "id": "1190000017915735",
+      "title": "Java™ 教程（并发活性）",
+      "url": "/a/1190000017915735",
+      "desc": "并发应用程序及时执行的能力被称为其活性，本节描述了最常见的活性问题，死锁，并继续简要描述其他两个活性问题，饥饿和活锁。",
+      "author": {
+        "nick": "博弈",
+        "homepage": "/u/lfheart"
+      }
+    },
+    {
+      "id": "1190000017915092",
+      "title": "dubbo源码解析",
+      "url": "/a/1190000017915092",
+      "desc": "dubbo：是一款高性能的Java RPC框架（引用dubbo社区的介绍）。在许多公司都会使用dubbo作为服务治理框架，但是都是基于使用的层面上，我也是，对于底层实现一无所知，所以萌生了想了解dubbo源码的念头。",
+      "author": {
+        "nick": "方袁",
+        "homepage": "/u/fangyuan_5c3465a516d0b"
+      }
+    },
+    {
+      "id": "1190000017911964",
+      "title": "springBoot 与neo4j的简单整合",
+      "url": "/a/1190000017911964",
+      "desc": "Neo4j是基于java语言实现的世界领先的图形数据库， 是一个高性能的图形存储，具有成熟和强大的数据库所需的所有功能，如友好的查询语言（Cypher）和ACID事务。对于许多应用程序，与关系数据库相比，Neo4j提供了数...",
+      "author": {
+        "nick": "kary",
+        "homepage": "/u/kary_"
+      }
+    },
+    {
+      "id": "1190000017911537",
+      "title": "Java 初学者做的第一个微信小程序总结--关于Java基础",
+      "url": "/a/1190000017911537",
+      "desc": "学习 Java 三年，目前已经工作了2年，因为自学，基础差，所以打算年末总结一下常见的基础知识和面试点； 也可以通过独立做一个项目整合自己工作期间学习的知识，加深印象。",
+      "author": {
+        "nick": "咸鱼也歌",
+        "homepage": "/u/xianyuyege"
+      }
+    },
+    {
+      "id": "1190000017911083",
+      "title": "哪有什么互联网寒冬？只是你穿的少而已！",
+      "url": "/a/1190000017911083",
+      "desc": "最近一段时间，大家都在说一些大公司纷纷裁员， 优化公司内部的组织架构。面对如此的寒冬变化，很多人在迷茫，在焦虑，在担忧自己以后的人生道路，那么，我们作为开发者怎么样才能正确面对？具体应该怎么去做呢?...",
+      "author": {
+        "nick": "爱编码的coder",
+        "homepage": "/u/chengxuyuanxiaohui"
+      }
+    },
+    {
+      "id": "1190000017909550",
+      "title": "StringBuffer 和 StringBuilder 的 3 个区别",
+      "url": "/a/1190000017909550",
+      "desc": "StringBuffer 和 StringBuilder 它们都是可变的字符串，不过它们之间的区别是 Java 初中级面试出现几率十分高的一道题。这么简单的一道题，栈长在最近的面试过程中，却经常遇到很多求职者说反，搞不清使用场景的...",
+      "author": {
+        "nick": "Java技术栈",
+        "homepage": "/u/javastack"
+      }
+    },
+    {
+      "id": "1190000017909301",
+      "title": "java日志框架",
+      "url": "/a/1190000017909301",
+      "desc": "java领域存在多种日志框架，目前常用的日志框架包括Log4j 1，Log4j 2，Commons Logging，Slf4j，Logback，Jul。",
+      "author": {
+        "nick": "小白龙",
+        "homepage": "/u/xiaobailong_5b6017cbf24e2"
+      }
+    }
+  ]
+}
