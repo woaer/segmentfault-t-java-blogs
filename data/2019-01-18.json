@@ -1,0 +1,155 @@
+{
+  "watchNum": "37724",
+  "blogs": [
+    {
+      "id": "1190000017938713",
+      "title": "vue项目路由在history模式下布置在Tomcat下解决刷新404问题",
+      "url": "/a/1190000017938713",
+      "desc": "1、首先打包之前需要修改config文件夹下的index.js 2、其次记得要添加404路由页面 3、在tomcat的webapps下的前端文件夹下新建WEB-INF文件夹，并在该文件夹下建立web.xml文件，具体内容如下 <?xml version=\"1.0...",
+      "author": {
+        "nick": "Kingsley",
+        "homepage": "/u/kingsley_598a63fe7e8da"
+      }
+    },
+    {
+      "id": "1190000017938274",
+      "title": "Java™ 教程（原子变量）",
+      "url": "/a/1190000017938274",
+      "desc": "java.util.concurrent.atomic包定义了支持单个变量的原子操作的类，所有类都有get和set方法，类似于对volatile变量的读写操作，也就是说，set与在同一个变量上任何后续的get具有先发生关系，compareAndSet原子方...",
+      "author": {
+        "nick": "博弈",
+        "homepage": "/u/lfheart"
+      }
+    },
+    {
+      "id": "1190000017938232",
+      "title": "oauth 实现手机号码登录",
+      "url": "/a/1190000017938232",
+      "desc": "public class PhoneLoginAuthenticationFilter extends AbstractAuthenticationProcessingFilter {",
+      "author": {
+        "nick": "exception",
+        "homepage": "/u/fendouxiaowoniu"
+      }
+    },
+    {
+      "id": "1190000017937812",
+      "title": "Java™ 教程（执行器）",
+      "url": "/a/1190000017937812",
+      "desc": "在前面的所有示例中，由新的线程（由其Runnable对象定义）和线程本身（由Thread对象定义）完成的任务之间存在紧密的联系，这适用于小型应用程序，但在大型应用程序中，将线程管理和创建与应用程序的其余部分分开...",
+      "author": {
+        "nick": "博弈",
+        "homepage": "/u/lfheart"
+      }
+    },
+    {
+      "id": "1190000017937059",
+      "title": "java 日志脱敏框架 sensitive-v0.0.4 系统内置常见注解，支持自定义注解",
+      "url": "/a/1190000017937059",
+      "desc": "项目介绍 日志脱敏是常见的安全需求。普通的基于工具类方法的方式，对代码的入侵性太强。编写起来又特别麻烦。 本项目提供基于注解的方式，并且内置了常见的脱敏方式，便于开发。 特性 基于注解的日志脱敏。 可以...",
+      "author": {
+        "nick": "叶止水",
+        "homepage": "/u/houbinbin"
+      }
+    },
+    {
+      "id": "1190000017936218",
+      "title": "“别更新了，学不动了” 之：全栈开发者 2019 应该学些什么？",
+      "url": "/a/1190000017936218",
+      "desc": "对于什么是全栈开发者并没有一个明确的定义。但是，有一件事是肯定的：2019 年对全栈开发者的需求量很大。在本文中，我将向你概述一些趋势，你可以尝试根据这些趋势来确定你可能要投入的时间。",
+      "author": {
+        "nick": "葡萄城控件",
+        "homepage": "/u/grapecity"
+      }
+    },
+    {
+      "id": "1190000017936197",
+      "title": "谈谈代码——如何避免写出糟糕if...else语句",
+      "url": "/a/1190000017936197",
+      "desc": "在写代码的日常中,if...else语句是极为常见的.正因其常见性,很多同学在写代码的时候并不会去思考其在目前代码中的用法是否妥当.而随着项目的日渐发展,糟糕的if...else语句将会充斥在各处,让项目的可维护性急剧下...",
+      "author": {
+        "nick": "泊浮目",
+        "homepage": "/u/camile"
+      }
+    },
+    {
+      "id": "1190000017935887",
+      "title": "分布式系统关注点——「无状态」详解",
+      "url": "/a/1190000017935887",
+      "desc": "如果这是第二次看到我的文章，欢迎下方扫码订阅我的个人公众号（跨界架构师）哟~ 👉本文长度为2728字，建议阅读8分钟。坚持原创，每一篇都是用心之作～",
+      "author": {
+        "nick": "Zachary",
+        "homepage": "/u/zachary_5b7b78d91f94d"
+      }
+    },
+    {
+      "id": "1190000017874148",
+      "title": "《从0到1学习Flink》—— Flink 写入数据到 ElasticSearch",
+      "url": "/a/1190000017874148",
+      "desc": "前言 前面 FLink 的文章中我们已经介绍了说 Flink 已经有很多自带的 Connector。 1、[《从0到1学习Flink》—— Data Source 介绍]([链接] 2、《从0到1学习Flink》—— Data Sink 介绍 其中包括了 Source 和 Sink 的，...",
+      "author": {
+        "nick": "zhisheng",
+        "homepage": "/u/zhisheng"
+      }
+    },
+    {
+      "id": "1190000017935272",
+      "title": "Java关于IO的一个小工具",
+      "url": "/a/1190000017935272",
+      "desc": "考虑这样一种场景，你要为系统编写一个下载文件并缓存到本地的功能，你会用到InputSteam和OutputStream类，你可能会这么写：",
+      "author": {
+        "nick": "西门那多",
+        "homepage": "/u/atsimonzhou"
+      }
+    },
+    {
+      "id": "1190000017935037",
+      "title": "Unchecked Conversion 导致的 Java 方法返回类型变更",
+      "url": "/a/1190000017935037",
+      "desc": "在 v2 遇到有同学反馈了个问题, 第一眼的感觉应该是泛型擦除(Type Erasure)和类型推断(Type Inference)导致的. 但当我尝试去彻底解释这个问题的时候, 才发现关键原因是: 如果在调用方法时有 unchecked conversion...",
+      "author": {
+        "nick": "王琰杰",
+        "homepage": "/u/wangjie_57d8d7d0af44b"
+      }
+    },
+    {
+      "id": "1190000017934042",
+      "title": "力扣(LeetCode)103",
+      "url": "/a/1190000017934042",
+      "desc": "题目地址：[链接]题目描述：给定一个二叉树，返回其节点值的锯齿形层次遍历。（即先从左往右，再从右往左进行下一层遍历，以此类推，层与层之间交替进行）。",
+      "author": {
+        "nick": "Linus脱袜子",
+        "homepage": "/u/qiuqi_turing"
+      }
+    },
+    {
+      "id": "1190000017933697",
+      "title": "关于stringRedisTemplate.setIfAbsent()并设置过期时间遇到的问题",
+      "url": "/a/1190000017933697",
+      "desc": "spring-date-redis版本：1.6.2场景：在使用setIfAbsent(key,value)时，想对key设置一个过期时间，同时需要用到setIfAbsent的返回值来指定之后的流程，所以使用了以下代码：",
+      "author": {
+        "nick": "瓦力",
+        "homepage": "/u/wallee"
+      }
+    },
+    {
+      "id": "1190000017933648",
+      "title": "Java™ 教程（高级并发对象）",
+      "url": "/a/1190000017933648",
+      "desc": "到目前为止，本课程重点关注从一开始就是Java平台一部分的低级别API，这些API适用于非常基础的任务，但更高级的任务需要更高级别的构建块，对于充分利用当今多处理器和多核系统的大规模并发应用程序尤其如此。",
+      "author": {
+        "nick": "博弈",
+        "homepage": "/u/lfheart"
+      }
+    },
+    {
+      "id": "1190000017933630",
+      "title": "Java™ 教程（Lock对象）",
+      "url": "/a/1190000017933630",
+      "desc": "同步代码依赖于简单的可重入锁，这种锁易于使用，但有许多限制，java.util.concurrent.locks包支持更复杂的锁定语法，我们不会详细检查这个包，而是将重点放在其最基本的接口Lock上。",
+      "author": {
+        "nick": "博弈",
+        "homepage": "/u/lfheart"
+      }
+    }
+  ]
+}
