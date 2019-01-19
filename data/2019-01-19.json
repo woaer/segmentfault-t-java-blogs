@@ -1,0 +1,155 @@
+{
+  "watchNum": "37828",
+  "blogs": [
+    {
+      "id": "1190000017949672",
+      "title": "Java™ 教程（集合介绍）",
+      "url": "/a/1190000017949672",
+      "desc": "本节介绍Java集合框架，在这里，你将了解集合是什么以及它们如何使你的工作更轻松、程序更好，你将了解构成Java集合框架的核心元素 — 接口、实现、聚合操作和算法。",
+      "author": {
+        "nick": "博弈",
+        "homepage": "/u/lfheart"
+      }
+    },
+    {
+      "id": "1190000017949664",
+      "title": "Mybatis Generator的使用",
+      "url": "/a/1190000017949664",
+      "desc": "在写代码过程中，常常要写一些简单的CURD操作，为了能够把时间用在业务逻辑上，看了Mybatis Generator生成工具，根据官网的文档，改成适合自己使用的生成器。",
+      "author": {
+        "nick": "流体石头",
+        "homepage": "/u/flowstone"
+      }
+    },
+    {
+      "id": "1190000017949628",
+      "title": "Spring Data JPA REST Query Specifications",
+      "url": "/a/1190000017949628",
+      "desc": "在本系列的第一篇文章中，我们将探索一种用于REST API的简单查询语言。我们将充分利用Spring作为REST API，并将JPA 2标准用于持久性方面。",
+      "author": {
+        "nick": "qianmoQ",
+        "homepage": "/u/qianmoq"
+      }
+    },
+    {
+      "id": "1190000017948995",
+      "title": "关于ClassLoader的学习笔记，详解版",
+      "url": "/a/1190000017948995",
+      "desc": "ClassLoader 详解 ClassLoader 做什么的？ 延迟加载 各司其职 ClassLoader 传递性 双亲委派 Class.forName 自定义加载器 Class.forName vs ClassLoader.loadClass 钻石依赖 分工与合作 Thread.contextClassLoader...",
+      "author": {
+        "nick": "df007df",
+        "homepage": "/u/df007df"
+      }
+    },
+    {
+      "id": "1190000017948332",
+      "title": "除了画佩奇我们还要玩点更高级的 ",
+      "url": "/a/1190000017948332",
+      "desc": "这是一个发生在大山里的故事，但故事的情节所有人都不会陌生。快过年了，在农村爷爷给城里的孙子打电话，孙子说想要“佩奇”，为了满足孩子的心愿，爷爷开始满村子找佩奇…",
+      "author": {
+        "nick": "AhabWang",
+        "homepage": "/u/ahabwang"
+      }
+    },
+    {
+      "id": "1190000017946999",
+      "title": "Spring Boot支持Crontab任务改造",
+      "url": "/a/1190000017946999",
+      "desc": "在以往的 Tomcat 项目中，一直习惯用 Ant 打包，使用 build.xml 配置，通过 ant -buildfile 的方式在机器上执行定时任务。虽然 Spring 本身支持定时任务，但都是服务一直运行时支持。其实在项目中，大多数定时任...",
+      "author": {
+        "nick": "广训",
+        "homepage": "/u/guangxunz"
+      }
+    },
+    {
+      "id": "1190000017946581",
+      "title": "jvm类加载机制",
+      "url": "/a/1190000017946581",
+      "desc": "Java 虚拟机将字节流转化为 Java 类的过程。这个过程可分为加载、链接以及初始化 三大步骤。 加载是指查找字节流，并且据此创建类的过程。加载需要借助类加载器，在 Java 虚拟机中，类加载 器使用了双亲委派模型...",
+      "author": {
+        "nick": "一号线",
+        "homepage": "/u/yihaoxian"
+      }
+    },
+    {
+      "id": "1190000017946530",
+      "title": "Java 并发基础之内存模型",
+      "url": "/a/1190000017946530",
+      "desc": "几秒后，我们就可以得到 x == 0 && y == 0 这个结果，仔细看看代码就会知道，如果不发生重排序的话，这个结果是不可能出现的。",
+      "author": {
+        "nick": "Rose",
+        "homepage": "/u/rose_5b83bf4ac4b07"
+      }
+    },
+    {
+      "id": "1190000017944826",
+      "title": "Spring Boot [后台脚手架] SanJi Boot v2.0 -去繁就简 重新出发",
+      "url": "/a/1190000017944826",
+      "desc": "SanJi Boot v2.0 去繁就简 重新出发 基于Spring Boot 集成一些常用的功能，你只需要基于它做些简单的修改即可。 演示环境： 网址: SanJi-Boot v2.0 用户名/密码: admin/admin 功能列表： [x] 权限认证 [x] 权限管...",
+      "author": {
+        "nick": "yangrd",
+        "homepage": "/u/yangrd"
+      }
+    },
+    {
+      "id": "1190000017944626",
+      "title": "【跃迁之路】【698天】程序员高效学习方法论探索系列（实验阶段455-2019.1.18）",
+      "url": "/a/1190000017944626",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000017944321",
+      "title": "阿里高级技术专家：研发效能的追求永无止境",
+      "url": "/a/1190000017944321",
+      "desc": "大约在5年前，也就是2013年我刚加入阿里的时候，那个时候 DevOps 的风刚吹起来没多久，有家公司宣称能够一天发布几十上百次，这意味着相比传统软件公司几周一次的发布来说，他们响应商业需求的能力可以甩后者几条...",
+      "author": {
+        "nick": "阿里云云栖社区",
+        "homepage": "/u/yunqishequ_5aa899aad5395"
+      }
+    },
+    {
+      "id": "1190000017943658",
+      "title": "CAS 算法 —— Compare and Swap",
+      "url": "/a/1190000017943658",
+      "desc": "本文翻译和原创各占一半，所以还是厚颜无耻归类到原创好了...[链接]java 5 其中一个令人振奋的改进是新增了支持原子操作的类型，例如 AtomicInteger, AtomicLong 等。在多线程环境中进行简单的自增自减操作时，这...",
+      "author": {
+        "nick": "风歌",
+        "homepage": "/u/_windy"
+      }
+    },
+    {
+      "id": "1190000017942244",
+      "title": "JAVA | Spring + quartz 实现定时任务",
+      "url": "/a/1190000017942244",
+      "desc": "很久不见，因为忙着泡妞，断更了一个月，实在是罪过。废话不多说，最近在工作中遇到了使用 quartz 实现定时任务的需求。写出来分享给大家，权当笔记。",
+      "author": {
+        "nick": "一个优秀的废人",
+        "homepage": "/u/nasus"
+      }
+    },
+    {
+      "id": "1190000017941479",
+      "title": "Git 学习笔记整理",
+      "url": "/a/1190000017941479",
+      "desc": "直接记录快照，而非差异比较git会对当时的全部文件制作一个快照并保存这个快照的索引。git对待数据更像是一个 快照流",
+      "author": {
+        "nick": "夙梦流尘",
+        "homepage": "/u/mazhenjie"
+      }
+    },
+    {
+      "id": "1190000017941406",
+      "title": "Java™ 教程（Date-Time）",
+      "url": "/a/1190000017941406",
+      "desc": "Java SE 8发行版中引入的Date-Time包java.time提供了全面的日期和时间模型，是在JSR 310：Date and Time API下开发的，尽管java.time基于国际标准化组织（ISO）日历系统，但也支持常用的全球日历。",
+      "author": {
+        "nick": "博弈",
+        "homepage": "/u/lfheart"
+      }
+    }
+  ]
+}
