@@ -1,0 +1,155 @@
+{
+  "watchNum": "38105",
+  "blogs": [
+    {
+      "id": "1190000017978470",
+      "title": "java入门第二季--封装--使用包管理java中的类",
+      "url": "/a/1190000017978470",
+      "desc": "使用包管理java中的类 新建包和类 在一个类中，引入另一个包正面的类 /javaDemo2/src/com/imooc/second/Telphone.java {代码...} /javaDemo2/src/com/imooc/InitailTelphone.java {代码...}",
+      "author": {
+        "nick": "渣渣辉",
+        "homepage": "/u/linxi_59223381a31e3"
+      }
+    },
+    {
+      "id": "1190000017978274",
+      "title": "Spring如何为静态变量注入值",
+      "url": "/a/1190000017978274",
+      "desc": "Spring无法直接给静态变量注入值，因为静态变量不属于对象，只属于类，也就是说在类被加载字节码的时候变量已经初始化了，也就是给该变量分配内存了，导致spring忽略静态变量。所以如下这种写法就是错误的，这样...",
+      "author": {
+        "nick": "农码一生",
+        "homepage": "/u/nongmayisheng"
+      }
+    },
+    {
+      "id": "1190000017978082",
+      "title": "HashMap 浅析 —— LeetCode Two Sum 刷题总结",
+      "url": "/a/1190000017978082",
+      "desc": "做了几年 CRUD 工程师，深感自己的计算机基础薄弱，在看了几篇大牛的分享文章之后，发现很多人都是通过刷 LeetCode 来提高自己的算法水平。的确，通过分析解决实际的问题，比自己潜心研究书本效率还是要高一些。",
+      "author": {
+        "nick": "沉静",
+        "homepage": "/u/chenjingtech"
+      }
+    },
+    {
+      "id": "1190000017977953",
+      "title": "window环境下搭建简单ELK日志收集",
+      "url": "/a/1190000017977953",
+      "desc": "前言本文主要介绍如何在window环境下部署elk日志收集，网络上大部分是linux的，刚好这边服务需要用到window 环境，配置方式有点不同，大体是一样的。",
+      "author": {
+        "nick": "sf4y",
+        "homepage": "/u/sf4y"
+      }
+    },
+    {
+      "id": "1190000017977803",
+      "title": "Jsoup爬虫获取自己网站在百度搜索中的实时排名",
+      "url": "/a/1190000017977803",
+      "desc": "一直有一个需求，希望看到自己网站在百度的实时的排名用过一些工具，要么反应迟钝，要么结果不准确或不实时于是打算用jsoup写一个小爬虫来实时百度看网站排名",
+      "author": {
+        "nick": "zzzmh",
+        "homepage": "/u/zzzmhcn"
+      }
+    },
+    {
+      "id": "1190000017977679",
+      "title": "我是Java，这是我的2018年总结",
+      "url": "/a/1190000017977679",
+      "desc": "摘要： Java年终盘点。 原文：我是Java，这是我的2018年总结 作者：刘欣 微信公众号：码农翻身 Fundebug经授权转载，版权归原作者所有。 我是你们热爱的Java，2018年过去了，我给你们总结一下这一年发生在我身上...",
+      "author": {
+        "nick": "Fundebug",
+        "homepage": "/u/fundebug"
+      }
+    },
+    {
+      "id": "1190000017977145",
+      "title": "java入门第二季--封装--什么是java中的封装",
+      "url": "/a/1190000017977145",
+      "desc": "封装 代码get,set /javaDemo2/src/com/imooc/Telphone.java {代码...} /javaDemo2/src/com/imooc/InitailTelphone.java {代码...}",
+      "author": {
+        "nick": "渣渣辉",
+        "homepage": "/u/linxi_59223381a31e3"
+      }
+    },
+    {
+      "id": "1190000017976920",
+      "title": "Spring 指南（了解Git）",
+      "url": "/a/1190000017976920",
+      "desc": "Git是由Linux创建者Linus Torvalds发明的，用于支持庞大的、不同的Linux开发人员群体，但Git的受欢迎程度与[链接]关系更紧密，Git已存在多年，但直到GitHub受欢迎程度激增之后，才在Linux社区之外获得广泛认可。G...",
+      "author": {
+        "nick": "博弈",
+        "homepage": "/u/lfheart"
+      }
+    },
+    {
+      "id": "1190000017976694",
+      "title": "Java LinkedList指南",
+      "url": "/a/1190000017976694",
+      "desc": "LinkedList是一个双向链表, 实现了List和Deque接口。它实现所有可选的list操作，并且存储对象可以为null。",
+      "author": {
+        "nick": "tinyking",
+        "homepage": "/u/tinyking"
+      }
+    },
+    {
+      "id": "1190000017975226",
+      "title": "java入门第二季--第1章 类和对象--java中的构造方法",
+      "url": "/a/1190000017975226",
+      "desc": "构造方法写法 构造方法特征 无参的构造方法 /javaDemo2/src/com/imooc/Telphone.java {代码...} /javaDemo2/src/com/imooc/InitailTelphone.java {代码...} 有参的构造方法 /javaDemo2/src/com/imooc/Telphone.ja...",
+      "author": {
+        "nick": "渣渣辉",
+        "homepage": "/u/linxi_59223381a31e3"
+      }
+    },
+    {
+      "id": "1190000017974608",
+      "title": "IntelliJ IDEA 18 周岁，吐血推进珍藏已久的必装插件",
+      "url": "/a/1190000017974608",
+      "desc": "IntelliJ IDEA是目前最好最强最智能的Java IDE，前几天，他刚刚年满18岁。 ￼ 本文，给大家推荐几款我私藏已久的，自己经常使用的，可以提升代码效率的插件。 IDEA插件简介 常见的IDEA插件主要有如下几类： 常用工...",
+      "author": {
+        "nick": "Hollis",
+        "homepage": "/u/hollis_5b333d2ee9dbd"
+      }
+    },
+    {
+      "id": "1190000017973639",
+      "title": "dubbo源码解析（二十四）远程调用——dubbo协议",
+      "url": "/a/1190000017973639",
+      "desc": "Dubbo 缺省协议采用单一长连接和 NIO 异步通讯，适合于小数据量大并发的服务调用，以及服务消费者机器数远大于服务提供者机器数的情况。反之，Dubbo 缺省协议不适合传送大数据量的服务，比如传文件，传视频等，除...",
+      "author": {
+        "nick": "CrazyHzm",
+        "homepage": "/u/mmmmm_592a5e72c8ea7"
+      }
+    },
+    {
+      "id": "1190000017973599",
+      "title": "Proxy invocationHandler",
+      "url": "/a/1190000017973599",
+      "desc": "动态代理 即，动态代理是利用java反射技术，在运行时创建一个实现某些给定接口的新类。 栗子 先定义接口 {代码...} 实现该接口 {代码...} 编写代理类 {代码...} 最后运行 {代码...} 第一个参数 第一个参数是运行...",
+      "author": {
+        "nick": "小小____",
+        "homepage": "/u/xiaoxiao___________"
+      }
+    },
+    {
+      "id": "1190000017973556",
+      "title": "双亲委派模型",
+      "url": "/a/1190000017973556",
+      "desc": "类加载流程，先加载Bootstrap ClassLoader 启动类加载即最顶层的加载类。这部分由C++ 编写。继续再次加载Extention ClassLoader 扩展类加载器由Bootstrap ClassLoader加载，加载进入内存。继续再次加载Applicatio...",
+      "author": {
+        "nick": "小小____",
+        "homepage": "/u/xiaoxiao___________"
+      }
+    },
+    {
+      "id": "1190000017972579",
+      "title": "Spring 指南（了解REST）",
+      "url": "/a/1190000017972579",
+      "desc": "REST（Representational State Transfer）由Roy Fielding于2000年在他的博士论文中引入和定义，REST是用于设计分布式系统的架构风格，它不是标准，而是一组约束，例如无状态，具有客户端/服务器关系和统一接口，R...",
+      "author": {
+        "nick": "博弈",
+        "homepage": "/u/lfheart"
+      }
+    }
+  ]
+}
