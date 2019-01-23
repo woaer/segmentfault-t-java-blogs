@@ -1,0 +1,155 @@
+{
+  "watchNum": "38238",
+  "blogs": [
+    {
+      "id": "1190000017993922",
+      "title": "使用Gradle构建Java项目",
+      "url": "/a/1190000017993922",
+      "desc": "本指南将引导您使用Gradle构建一个简单的Java项目。 你要构建什么 您将创建一个简单的应用程序，然后使用Gradle构建它。 你需要什么 大约15分钟 最喜欢的文本编辑器或IDE JDK 6或更高版本 如何完成本指南 与大多...",
+      "author": {
+        "nick": "qianmoQ",
+        "homepage": "/u/qianmoq"
+      }
+    },
+    {
+      "id": "1190000017993850",
+      "title": "使用Maven构建Java项目",
+      "url": "/a/1190000017993850",
+      "desc": "本指南将指导您使用Maven构建一个简单的Java项目。 你要构建什么 您将创建一个提供一天中时间的应用程序，然后使用Maven构建它。 你需要什么 大约15分钟 最喜欢的文本编辑器或IDE JDK 8或更高版本 如何完成本指南...",
+      "author": {
+        "nick": "qianmoQ",
+        "homepage": "/u/qianmoq"
+      }
+    },
+    {
+      "id": "1190000017993835",
+      "title": "java入门第二季--面向对象实现人类说话,中国人说汉语，美国人说英语",
+      "url": "/a/1190000017993835",
+      "desc": "人类说话,中国人说汉语，美国人说英语 继承实现 /javaDemo6/src/com/imooc/Person.java {代码...} /javaDemo6/src/com/imooc/Chinese.java {代码...} /javaDemo6/src/com/imooc/American.java {代码...} /javaDem...",
+      "author": {
+        "nick": "渣渣辉",
+        "homepage": "/u/linxi_59223381a31e3"
+      }
+    },
+    {
+      "id": "1190000017993788",
+      "title": "使用STS构建/导入入门指南",
+      "url": "/a/1190000017993788",
+      "desc": "您将选择一个Spring指南并将其导入Spring Tool Suite。然后，您可以阅读指南，处理代码并运行项目。",
+      "author": {
+        "nick": "qianmoQ",
+        "homepage": "/u/qianmoq"
+      }
+    },
+    {
+      "id": "1190000017993753",
+      "title": "使用Spring实现上传文件",
+      "url": "/a/1190000017993753",
+      "desc": "您将创建一个接受文件上传的Spring Boot Web应用程序。您还将构建一个简单的HTML界面来上传测试文件。",
+      "author": {
+        "nick": "qianmoQ",
+        "homepage": "/u/qianmoq"
+      }
+    },
+    {
+      "id": "1190000017993708",
+      "title": "spring: loadBeanDefinitions 时序图",
+      "url": "/a/1190000017993708",
+      "desc": "plantuml code {代码...} img",
+      "author": {
+        "nick": "yich_chia",
+        "homepage": "/u/yich_chia"
+      }
+    },
+    {
+      "id": "1190000017993687",
+      "title": "使用Java编程引导JPA",
+      "url": "/a/1190000017993687",
+      "desc": "案例概述 大多数JPA驱动的应用程序大量使用“persistence.xml”文件来获取JPA实现，例如Hibernate或OpenJPA。 我们的方法提供了一种集中式机制，用于配置一个或多个持久性单元 和相关的持久性上下文。 虽然这种方法...",
+      "author": {
+        "nick": "qianmoQ",
+        "homepage": "/u/qianmoq"
+      }
+    },
+    {
+      "id": "1190000017993405",
+      "title": "Java JDK11基于嵌套的访问控制",
+      "url": "/a/1190000017993405",
+      "desc": "虽然从逻辑上讲，内部类是与外部类相同的代码实体的一部分，但它被编译为一个单独的类。因此，它需要编译器创建合成桥接方法，以提供对外部类的私有字段的访问。",
+      "author": {
+        "nick": "qianmoQ",
+        "homepage": "/u/qianmoq"
+      }
+    },
+    {
+      "id": "1190000017993385",
+      "title": "Java JDK11快速下载地址",
+      "url": "/a/1190000017993385",
+      "desc": "Linux deb 地址一 deb 地址二 rpm 地址一 rpm 地址二 tar.gz 地址一 tar.gz 地址二 MacOS dmg 地址一 dmg 地址二 tar.gz 地址一 tar.gz 地址二 Windows exe 地址一 exe 地址二 zip 地址一 zip 地址二 Solaris SPA...",
+      "author": {
+        "nick": "qianmoQ",
+        "homepage": "/u/qianmoq"
+      }
+    },
+    {
+      "id": "1190000017993368",
+      "title": "Java JDK11中的新API",
+      "url": "/a/1190000017993368",
+      "desc": "这里列出的是除了java.net.http和jdk.jfr模块之外的所有新方法。没有列出java.security模块中的新方法和类，它们特定于JEP 324和JEP 329的更改（有六个新类和八个新方法）。",
+      "author": {
+        "nick": "qianmoQ",
+        "homepage": "/u/qianmoq"
+      }
+    },
+    {
+      "id": "1190000017993331",
+      "title": "锤子科技\"临死前\"被\"接盘\" ，内部人士爆料已改签今日头条母公司 ",
+      "url": "/a/1190000017993331",
+      "desc": "就在昨天，据据锤子科技内部人士透露，部分锤子科技员工在昨天已经接到了相关的临时通知，要求改签劳动合同至今日头条的母公司——字节跳动。至于这是锤子科技真正再度复活还是借尸还魂都不重要，重要的是，作为忠...",
+      "author": {
+        "nick": "爱编码的coder",
+        "homepage": "/u/chengxuyuanxiaohui"
+      }
+    },
+    {
+      "id": "1190000017993326",
+      "title": "Java JDK11中令人兴奋的ZGC",
+      "url": "/a/1190000017993326",
+      "desc": "Java 11最近已发布，包含一些非常棒的功能。该版本包含一个全新的垃圾收集器ZGC，它由Oracle开发，承诺在数TB的堆上具有非常低的暂停时间。在本文中，我们将介绍新GC的动机，技术概述以及ZGC开启的一些非常令人兴...",
+      "author": {
+        "nick": "qianmoQ",
+        "homepage": "/u/qianmoq"
+      }
+    },
+    {
+      "id": "1190000017993313",
+      "title": "一篇文章了解新发布的Java JDK 11",
+      "url": "/a/1190000017993313",
+      "desc": "Java JDK 11删除了CORBA，Java EE和JavaFX支持，但添加了十几个主要新功能。",
+      "author": {
+        "nick": "qianmoQ",
+        "homepage": "/u/qianmoq"
+      }
+    },
+    {
+      "id": "1190000017993287",
+      "title": "SpringBoot Devtools实现项目热部署",
+      "url": "/a/1190000017993287",
+      "desc": "我们在开发SpringBoot项目的时候，有些时候修改了一些Controller或者Service等组件，那么每次修改都需要去重启服务，这样的话严重的导致我们的开发效率降低，那么SpringBoot为我们提供了该问题的解决方案，那就是...",
+      "author": {
+        "nick": "qianmoQ",
+        "homepage": "/u/qianmoq"
+      }
+    },
+    {
+      "id": "1190000017993277",
+      "title": "SpringBoot Environment读取配置文件乱码",
+      "url": "/a/1190000017993277",
+      "desc": "今天在使用SpringBoot Environment读取配置文件中的中文时,出现了乱码问题,导致数据无法正常的显示在页面中,后经过源码的查看阅读发现是IDEA的配置问题导致的,以下是我们的具体解决思路.",
+      "author": {
+        "nick": "qianmoQ",
+        "homepage": "/u/qianmoq"
+      }
+    }
+  ]
+}
