@@ -1,0 +1,155 @@
+{
+  "watchNum": "38626",
+  "blogs": [
+    {
+      "id": "1190000018028383",
+      "title": "码农上工Java实战001-线程池ExecutorService",
+      "url": "/a/1190000018028383",
+      "desc": "线程池ExecutorService 一. new Thread的弊端 执行一个异步任务你还只是如下new Thread吗？ {代码...} 那你就太out了,new Thread的弊端如下： 每次new Thread新建对象性能差. 线程缺乏统一管理,可能无限制新建线...",
+      "author": {
+        "nick": "姚根深",
+        "homepage": "/u/yaogenshen"
+      }
+    },
+    {
+      "id": "1190000018027101",
+      "title": "【跃迁之路】【705天】程序员高效学习方法论探索系列（实验阶段462-2019.1.25）",
+      "url": "/a/1190000018027101",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000018026252",
+      "title": "leetcode刷题笔记",
+      "url": "/a/1190000018026252",
+      "desc": "给定一个整数数组 nums 和一个目标值 target，请你在该数组中找出和为目标值的那 两个 整数，并返回他们的数组下标。你可以假设每种输入只会对应一个答案。但是，你不能重复利用这个数组中同样的元素。",
+      "author": {
+        "nick": "堂堂一个苹果",
+        "homepage": "/u/xiaochuanye"
+      }
+    },
+    {
+      "id": "1190000018026063",
+      "title": "Spring源码分析：BeanPostProcessor原理",
+      "url": "/a/1190000018026063",
+      "desc": "BeanPostProcessor即，Bean的后置处理器，它的作用就是在Bean的初始化方法前跟后进行拦截处理。我们都知道，要想在Bean的初始化方法前后进行工作，那必须在Bean实例创建完成之后，init方法执行之前，后置处理器就...",
+      "author": {
+        "nick": "农码一生",
+        "homepage": "/u/nongmayisheng"
+      }
+    },
+    {
+      "id": "1190000018024155",
+      "title": "<<Java并发编程实践>>有感 ConcurrentLinkedQueue解读",
+      "url": "/a/1190000018024155",
+      "desc": "CAS的优点 当一个线程执行任务失败不影响其他线程的进行 最大限度的利用CPU资源 能提高程序的伸缩性 伸缩性:不修改任何代码 升级硬件就能带来性能上的提高 升级硬件带来的性能提高明显 就是伸缩性良好",
+      "author": {
+        "nick": "北上求道",
+        "homepage": "/u/v1olencems"
+      }
+    },
+    {
+      "id": "1190000018024075",
+      "title": "多文件上传和下载：以16进制字符串的形式传输",
+      "url": "/a/1190000018024075",
+      "desc": "最近在维护一个比较老的 Web 项目，其中用到了 DWR 2.0 （一种可以在 js 里调用 Java 方法的远程通信框架）。现在要利用这个框架实现上传文件到服务端和从服务端下载文件，然而这个项目用的 DWR 2.0，默认只支持...",
+      "author": {
+        "nick": "barry1101",
+        "homepage": "/u/barrychen"
+      }
+    },
+    {
+      "id": "1190000018022691",
+      "title": "Spring5：@Autowired注解、@Resource注解和@Service注解",
+      "url": "/a/1190000018022691",
+      "desc": "传统的Spring做法是使用.xml文件来对bean进行注入或者是配置aop、事物，这么做有两个缺点：",
+      "author": {
+        "nick": "SteveZ",
+        "homepage": "/u/stevez_5b88e50828e2c"
+      }
+    },
+    {
+      "id": "1190000018021560",
+      "title": "从 0 开始搭建一个技术博客，私藏干货~",
+      "url": "/a/1190000018021560",
+      "desc": "技术博客的选型有很多种，如：博客园、CSDN、开源中国、简书、知乎等……都可以用来写文章，形成自己的技术博客。",
+      "author": {
+        "nick": "Java技术栈",
+        "homepage": "/u/javastack"
+      }
+    },
+    {
+      "id": "1190000018021064",
+      "title": "2. Add Two Numbers",
+      "url": "/a/1190000018021064",
+      "desc": "You are given two non-empty linked lists representing two non-negative integers. The digits are stored in reverse order and each of their nodes contain a single digit. Add the two numbers and retur...",
+      "author": {
+        "nick": "孟林",
+        "homepage": "/u/snailrunfast"
+      }
+    },
+    {
+      "id": "1190000018019127",
+      "title": "准备下次编程面试前你应该知道的数据结构",
+      "url": "/a/1190000018019127",
+      "desc": "国外 IT 教育学院 Educative.io 创始人 Fahim ul Haq 写过一篇过万赞的文章《The top data structures you should know for your next coding interview》,总结了程序员面试中需要掌握的 8 种数据结构知识。Fahim...",
+      "author": {
+        "nick": "程序员小吴",
+        "homepage": "/u/shuidonghanxing"
+      }
+    },
+    {
+      "id": "1190000018017703",
+      "title": "Spring Boot 实战 | 如何使用 IDEA 构建 Spring Boot 工程",
+      "url": "/a/1190000018017703",
+      "desc": "新年立了个 flag，好好运营这个公众号。具体来说，就是每周要写两篇文章在这个号发表。刚立的 flag 可不能这么快打脸。下面送上本周第一篇。本文我们将介绍嵌入 Intellij IDEA 中的 Spring Initializr 工具，它同...",
+      "author": {
+        "nick": "一个优秀的废人",
+        "homepage": "/u/nasus"
+      }
+    },
+    {
+      "id": "1190000018017382",
+      "title": "JVM（四）垃圾回收的实现算法和执行细节",
+      "url": "/a/1190000018017382",
+      "desc": "上一篇我们讲了垃圾标记的一些实现细节和经典算法，而本文将系统的讲解一下垃圾回收的经典算法，和Hotspot虚拟机执行垃圾回收的一些实现细节，比如安全点和安全区域等。",
+      "author": {
+        "nick": "王磊的博客",
+        "homepage": "/u/vipstone"
+      }
+    },
+    {
+      "id": "1190000018016406",
+      "title": "dubbo源码解析（二十七）远程调用——injvm本地调用",
+      "url": "/a/1190000018016406",
+      "desc": "dubbo是一个远程调用的框架，但是它没有理由不支持本地调用，本文就要讲解dubbo关于本地调用的实现。本地调用要比远程调用简单的多。",
+      "author": {
+        "nick": "CrazyHzm",
+        "homepage": "/u/mmmmm_592a5e72c8ea7"
+      }
+    },
+    {
+      "id": "1190000018015024",
+      "title": "【跃迁之路】【704天】程序员高效学习方法论探索系列（实验阶段461-2019.1.24）",
+      "url": "/a/1190000018015024",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000018014314",
+      "title": "在Java中怎样实现多线程？Java线程的四种状态",
+      "url": "/a/1190000018014314",
+      "desc": "方法一：继承 Thread 类，覆盖方法 run()，我们在创建的 Thread 类的子类中重写 run() ,加入线程所要执行的代码即可。",
+      "author": {
+        "nick": "尚学堂明辉",
+        "homepage": "/u/shangxuetangminghui"
+      }
+    }
+  ]
+}
