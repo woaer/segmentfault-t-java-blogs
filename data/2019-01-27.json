@@ -1,0 +1,155 @@
+{
+  "watchNum": "38707",
+  "blogs": [
+    {
+      "id": "1190000018033013",
+      "title": "HashMap 常见应用：实现 SQL JOIN",
+      "url": "/a/1190000018033013",
+      "desc": "在我的上一篇文章中，讲到了我自己初步认识 HashMap 的一个经验分享：HashMap 浅析 —— LeetCode Two Sum 刷题总结。作为一个 CRUD 工程师，平时很少接触到基础组件的涉及，那么是不是很难有机会用到 HashMap 呢？",
+      "author": {
+        "nick": "沉静",
+        "homepage": "/u/chenjingtech"
+      }
+    },
+    {
+      "id": "1190000018032759",
+      "title": "Java面试",
+      "url": "/a/1190000018032759",
+      "desc": "线程池 首先要明确为什么要使用线程池，使用线程池会带来什么好处？ • 线程是稀缺资源，不能频繁的创建。 • 应当将其放入一个池子中，可以给其他任务进行复用。 • 解耦作用，线程的创建于执行完全分开，方便维护...",
+      "author": {
+        "nick": "Starzhang",
+        "homepage": "/u/starzhang"
+      }
+    },
+    {
+      "id": "1190000018031151",
+      "title": "Java™ 教程（List接口）",
+      "url": "/a/1190000018031151",
+      "desc": "List是一个有序的Collection（有时称为序列），列表可能包含重复元素，除了从Collection继承的操作之外，List接口还包括以下操作：",
+      "author": {
+        "nick": "博弈",
+        "homepage": "/u/lfheart"
+      }
+    },
+    {
+      "id": "1190000018030133",
+      "title": "为什么Math.abs(Integr.MIN_VALUE)==Integer.MIN_VALUE",
+      "url": "/a/1190000018030133",
+      "desc": "上面代码的结果是true，这跟我们希望的结果相反，为什么绝对值函数没有得到正确结果呢，我们来看下源码",
+      "author": {
+        "nick": "jchen104",
+        "homepage": "/u/jchen104"
+      }
+    },
+    {
+      "id": "1190000018029693",
+      "title": "还在期待安卓9.0吗？Android 10.0要来了",
+      "url": "/a/1190000018029693",
+      "desc": "目前，美国 Google公司的 AndroidP （安卓9.0），已经正式全面推出有几个多月了。众多手机品牌厂商也都在积极的进行更新适配 Android 9.0 系统（修改UI界面也算是二次开发，嗯）。不知道各位Android用户是否体验...",
+      "author": {
+        "nick": "爱编码的coder",
+        "homepage": "/u/chengxuyuanxiaohui"
+      }
+    },
+    {
+      "id": "1190000018028383",
+      "title": "Java实战001-线程池ExecutorService",
+      "url": "/a/1190000018028383",
+      "desc": "线程池ExecutorService 一. new Thread的弊端 执行一个异步任务你还只是如下new Thread吗？ {代码...} 那你就太out了,new Thread的弊端如下： 每次new Thread新建对象性能差. 线程缺乏统一管理,可能无限制新建线...",
+      "author": {
+        "nick": "姚根深",
+        "homepage": "/u/yaogenshen"
+      }
+    },
+    {
+      "id": "1190000018027101",
+      "title": "【跃迁之路】【705天】程序员高效学习方法论探索系列（实验阶段462-2019.1.25）",
+      "url": "/a/1190000018027101",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000018026252",
+      "title": "leetcode刷题笔记",
+      "url": "/a/1190000018026252",
+      "desc": "给定一个整数数组 nums 和一个目标值 target，请你在该数组中找出和为目标值的那 两个 整数，并返回他们的数组下标。你可以假设每种输入只会对应一个答案。但是，你不能重复利用这个数组中同样的元素。",
+      "author": {
+        "nick": "堂堂一个苹果",
+        "homepage": "/u/xiaochuanye"
+      }
+    },
+    {
+      "id": "1190000018026063",
+      "title": "Spring源码分析：BeanPostProcessor原理",
+      "url": "/a/1190000018026063",
+      "desc": "BeanPostProcessor即，Bean的后置处理器，它的作用就是在Bean的初始化方法前跟后进行拦截处理。我们都知道，要想在Bean的初始化方法前后进行工作，那必须在Bean实例创建完成之后，init方法执行之前，后置处理器就...",
+      "author": {
+        "nick": "农码一生",
+        "homepage": "/u/nongmayisheng"
+      }
+    },
+    {
+      "id": "1190000018024155",
+      "title": "<<Java并发编程实践>>有感 ConcurrentLinkedQueue解读",
+      "url": "/a/1190000018024155",
+      "desc": "CAS的优点 当一个线程执行任务失败不影响其他线程的进行 最大限度的利用CPU资源 能提高程序的伸缩性 伸缩性:不修改任何代码 升级硬件就能带来性能上的提高 升级硬件带来的性能提高明显 就是伸缩性良好",
+      "author": {
+        "nick": "北上求道",
+        "homepage": "/u/v1olencems"
+      }
+    },
+    {
+      "id": "1190000018024075",
+      "title": "多文件上传和下载：以16进制字符串的形式传输",
+      "url": "/a/1190000018024075",
+      "desc": "最近在维护一个比较老的 Web 项目，其中用到了 DWR 2.0 （一种可以在 js 里调用 Java 方法的远程通信框架）。现在要利用这个框架实现上传文件到服务端和从服务端下载文件，然而这个项目用的 DWR 2.0，默认只支持...",
+      "author": {
+        "nick": "barry1101",
+        "homepage": "/u/barrychen"
+      }
+    },
+    {
+      "id": "1190000018022691",
+      "title": "Spring5：@Autowired注解、@Resource注解和@Service注解",
+      "url": "/a/1190000018022691",
+      "desc": "传统的Spring做法是使用.xml文件来对bean进行注入或者是配置aop、事物，这么做有两个缺点：",
+      "author": {
+        "nick": "SteveZ",
+        "homepage": "/u/stevez_5b88e50828e2c"
+      }
+    },
+    {
+      "id": "1190000018021560",
+      "title": "从 0 开始搭建一个技术博客，私藏干货~",
+      "url": "/a/1190000018021560",
+      "desc": "技术博客的选型有很多种，如：博客园、CSDN、开源中国、简书、知乎等……都可以用来写文章，形成自己的技术博客。",
+      "author": {
+        "nick": "Java技术栈",
+        "homepage": "/u/javastack"
+      }
+    },
+    {
+      "id": "1190000018021064",
+      "title": "2. Add Two Numbers",
+      "url": "/a/1190000018021064",
+      "desc": "You are given two non-empty linked lists representing two non-negative integers. The digits are stored in reverse order and each of their nodes contain a single digit. Add the two numbers and retur...",
+      "author": {
+        "nick": "孟林",
+        "homepage": "/u/snailrunfast"
+      }
+    },
+    {
+      "id": "1190000018019127",
+      "title": "准备下次编程面试前你应该知道的数据结构",
+      "url": "/a/1190000018019127",
+      "desc": "国外 IT 教育学院 Educative.io 创始人 Fahim ul Haq 写过一篇过万赞的文章《The top data structures you should know for your next coding interview》,总结了程序员面试中需要掌握的 8 种数据结构知识。Fahim...",
+      "author": {
+        "nick": "程序员小吴",
+        "homepage": "/u/shuidonghanxing"
+      }
+    }
+  ]
+}
