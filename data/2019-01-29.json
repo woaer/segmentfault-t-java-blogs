@@ -1,0 +1,155 @@
+{
+  "watchNum": "38867",
+  "blogs": [
+    {
+      "id": "1190000018054361",
+      "title": "dubbo源码解析（三十）远程调用——rest协议",
+      "url": "/a/1190000018054361",
+      "desc": "REST的英文名是RepresentationalState Transfer，它是一种开发风格，关于REST不清楚的朋友可以了解一下。在dubbo中利用的是红帽子RedHat公司的Resteasy来使dubbo支持REST风格的开发使用。在本文中主要讲解的是基...",
+      "author": {
+        "nick": "CrazyHzm",
+        "homepage": "/u/mmmmm_592a5e72c8ea7"
+      }
+    },
+    {
+      "id": "1190000018052666",
+      "title": "微服务架构到底应该如何选择？",
+      "url": "/a/1190000018052666",
+      "desc": "微服务的概念最早是在 2014 年由 Martin Fowler 和 James Lewis 共同提出，他们定义了微服务是由单一应用程序构成的小服务，拥有自己的进程与轻量化处理，服务依业务功能设计，以全自动的方式部署，与其他服务使...",
+      "author": {
+        "nick": "codewill",
+        "homepage": "/u/codewill"
+      }
+    },
+    {
+      "id": "1190000018052603",
+      "title": "java入门第三季--java中的集合框架（Map）",
+      "url": "/a/1190000018052603",
+      "desc": "/imooc_collection_map_demo/src/com/imooc/collection/MapTest.java",
+      "author": {
+        "nick": "渣渣辉",
+        "homepage": "/u/linxi_59223381a31e3"
+      }
+    },
+    {
+      "id": "1190000018052027",
+      "title": "优雅处理HTTPS中的证书问题",
+      "url": "/a/1190000018052027",
+      "desc": "Java中HTTPS会遇到的问题 访问自签名的HTTPS网站 高版本JRE访问SSLv3/SSLv2站点 一些银行接口需要加载keystore的场景 * 如果要了解SSL历史也可以看看这篇文章。 1 访问自签名的HTTPS网站 常常看到的回答是直接通...",
+      "author": {
+        "nick": "Anricx",
+        "homepage": "/u/mailerm"
+      }
+    },
+    {
+      "id": "1190000018049006",
+      "title": "Spring Cloud Alibaba基础教程：支持的几种服务消费方式",
+      "url": "/a/1190000018049006",
+      "desc": "通过《Spring Cloud Alibaba基础教程：使用Nacos实现服务注册与发现》一文的学习，我们已经学会如何使用Nacos来实现服务的注册与发现，同时也介绍如何通过LoadBalancerClient接口来获取某个服务的具体实例，并根...",
+      "author": {
+        "nick": "程序猿DD",
+        "homepage": "/u/coderdd"
+      }
+    },
+    {
+      "id": "1190000018049386",
+      "title": "SpringBoot实战 | 配置文件详解",
+      "url": "/a/1190000018049386",
+      "desc": "微信公众号：一个优秀的废人如有问题或建议，请后台留言，我会尽力解决你的问题。 前言 如题，今天解析下 SpringBoot 的配置文件。 自定义属性加载 首先构建 SpringBoot 项目，不会的看这篇旧文 使用 IDEA 构建 S...",
+      "author": {
+        "nick": "一个优秀的废人",
+        "homepage": "/u/nasus"
+      }
+    },
+    {
+      "id": "1190000018049041",
+      "title": "Feign Stub挡板和Mock",
+      "url": "/a/1190000018049041",
+      "desc": "在项目开发中，会有调用第三方接口的场景。当开发时，对方不愿意提供测试服务器给我们调用，或者有的接口会按调用次数进行计费。当联调时，第三方的测试服务器也可能会出现不稳定，如果他们的服务挂了，我们就一...",
+      "author": {
+        "nick": "Seifon",
+        "homepage": "/u/seifon"
+      }
+    },
+    {
+      "id": "1190000018048577",
+      "title": "学习kafka教程（二）",
+      "url": "/a/1190000018048577",
+      "desc": "Kafka Streams编写关键任务实时应用程序和微服务的最简单方法，是一个用于构建应用程序和微服务的客户端库，其中输入和输出数据存储在Kafka集群中。它结合了在客户端编写和部署标准Java和Scala应用程序的简单性和...",
+      "author": {
+        "nick": "zero",
+        "homepage": "/u/zero_5b9fc2c32c74c"
+      }
+    },
+    {
+      "id": "1190000018048356",
+      "title": "MVC详解：MVC是什么？MVC工作原理，MVC优缺点以及为什么要使用MVC",
+      "url": "/a/1190000018048356",
+      "desc": "MVC (Modal View Controler)本来是存在于Desktop程序中的，M是指数据模型，V是指用户界面，C则是控制器。使用MVC的目的是将M和V的实现代码分离，从而使同一个程序可以使用不同的表现形式。比如一批统计数据你可以...",
+      "author": {
+        "nick": "尚学堂明辉",
+        "homepage": "/u/shangxuetangminghui"
+      }
+    },
+    {
+      "id": "1190000018048284",
+      "title": "【跃迁之路】【707天】程序员高效学习方法论探索系列（实验阶段464-2019.1.28）",
+      "url": "/a/1190000018048284",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000018046708",
+      "title": "Java学习笔记系列-反射",
+      "url": "/a/1190000018046708",
+      "desc": "RTTI有一条前提就是某个对象的类型信息在编译时必须已知。RTTI的实质就是编译器在遍历检查代码时偷偷将类型信息记录下来并存储，以在运行时能够获得当编写完某个.java文件，并编译之后，就会产生一个Class对象，...",
+      "author": {
+        "nick": "Henry",
+        "homepage": "/u/xujing_1986"
+      }
+    },
+    {
+      "id": "1190000018045851",
+      "title": "dubbo源码解析（二十九）远程调用——redis协议",
+      "url": "/a/1190000018045851",
+      "desc": "dubbo支持的redis协议是基于Redis的，Redis 是一个高效的 KV 存储服务器，跟memcached协议实现差不多，在dubbo中也没有涉及到关于redis协议的服务暴露，只有服务引用，因为在访问服务器时，Redis客户端可以在服务...",
+      "author": {
+        "nick": "CrazyHzm",
+        "homepage": "/u/mmmmm_592a5e72c8ea7"
+      }
+    },
+    {
+      "id": "1190000018045191",
+      "title": "dubbo之SPI自适应扩展机制",
+      "url": "/a/1190000018045191",
+      "desc": "在 Dubbo 中，很多拓展都是通过 SPI 机制进行加载的，比如 Protocol、Cluster、LoadBalance 等。有时，有些拓展并不想在框架启动阶段被加载，而是希望在拓展方法被调用时，根据运行时参数进行加载。这听起来有些...",
+      "author": {
+        "nick": "方袁",
+        "homepage": "/u/fangyuan_5c3465a516d0b"
+      }
+    },
+    {
+      "id": "1190000018045046",
+      "title": "Spring Cloud Greenwich 正式发布，Hystrix 即将寿终正寝。。",
+      "url": "/a/1190000018045046",
+      "desc": "Spring Cloud Greenwich 正式版在 01/23/2019 这天正式发布了，下面我们来看下有哪些更新内容。",
+      "author": {
+        "nick": "Java技术栈",
+        "homepage": "/u/javastack"
+      }
+    },
+    {
+      "id": "1190000018044783",
+      "title": "dubbo之SPI",
+      "url": "/a/1190000018044783",
+      "desc": "SPI 全称为 Service Provider Interface，是一种服务发现机制。SPI 的本质是将接口实现类的全限定名配置在文件中，并由服务加载器读取配置文件，加载实现类。这样可以在运行时，动态为接口替换实现类。正因此特性...",
+      "author": {
+        "nick": "方袁",
+        "homepage": "/u/fangyuan_5c3465a516d0b"
+      }
+    }
+  ]
+}
