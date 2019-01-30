@@ -1,0 +1,155 @@
+{
+  "watchNum": "38993",
+  "blogs": [
+    {
+      "id": "1190000018066055",
+      "title": "spring cache 实现按照*号删除缓存",
+      "url": "/a/1190000018066055",
+      "desc": "spring cache redis的使用过程中，删除缓存只能用具体的key删除，不能使用通配符号，原因是redis不支持del key这种通配符用法，可以通过修改redis源代码实现，但这种方式修改了redis本身代码，后期升级、维护不好...",
+      "author": {
+        "nick": "Garfield",
+        "homepage": "/u/soft_xiang"
+      }
+    },
+    {
+      "id": "1190000018065487",
+      "title": "SpringBoot--应用SpringBoot完成基础项目搭建--引入SpringBoot依赖包实现简单的WEB项目",
+      "url": "/a/1190000018065487",
+      "desc": "引入WEB项目要用的SpringBoot依赖包 spring官网文档 [链接] 修改pom.xml文件，重新刷新maven，加载jar包 蓝色为要引入的jar包配置 红色为重新刷新maven，加载jar包 运行WEB项目 修改App.java文件 com.miaoshaproj...",
+      "author": {
+        "nick": "渣渣辉",
+        "homepage": "/u/linxi_59223381a31e3"
+      }
+    },
+    {
+      "id": "1190000018065007",
+      "title": "深入理解lambda表达式与@FunctionalInterface函数式接口（一）",
+      "url": "/a/1190000018065007",
+      "desc": "一、集合遍历与Lambda表达式 引入 {代码...} 二、 @FunctionalInterface函数式接口与Lambda表达式 1、概念 {代码...} 2、 函数式接口的区分 {代码...} 3、函数式接口的实例化方式 {代码...} 4、函数式接口中的默...",
+      "author": {
+        "nick": "陈杨",
+        "homepage": "/u/king_kirito"
+      }
+    },
+    {
+      "id": "1190000018064555",
+      "title": "使用Maven配置Spring",
+      "url": "/a/1190000018064555",
+      "desc": "Spring的设计是高度模块化的 - 使用Spring的一部分不应该而且不需要另一部分。例如，基本的Spring Context可以没有Persistence或MVC Spring库。",
+      "author": {
+        "nick": "qianmoQ",
+        "homepage": "/u/qianmoq"
+      }
+    },
+    {
+      "id": "1190000018063798",
+      "title": "推荐一款代码神器，代码量至少省一半！",
+      "url": "/a/1190000018063798",
+      "desc": "在我们 Java 项目里面，有很多 Java Bean 需要为每个属性生成 get/ set 方法，增删改属性都需要维护这些 get/ set 方法甚是麻烦。",
+      "author": {
+        "nick": "Java技术栈",
+        "homepage": "/u/javastack"
+      }
+    },
+    {
+      "id": "1190000018049014",
+      "title": "Spring Cloud Alibaba基础教程：使用Nacos作为配置中心",
+      "url": "/a/1190000018049014",
+      "desc": "我们已经学会了，如何利用Nacos实现服务的注册与发现。同时，也介绍了在Spring Cloud中，我们可以使用的几种不同编码风格的服务消费方式。接下来，我们再来一起学习一下Nacos的另外一个重要能力：配置管理。",
+      "author": {
+        "nick": "程序猿DD",
+        "homepage": "/u/coderdd"
+      }
+    },
+    {
+      "id": "1190000018061674",
+      "title": "Linux必会必知",
+      "url": "/a/1190000018061674",
+      "desc": "Linux是一种自由和开放源代码的类UNIX操作系统。该操作系统的内核由林纳斯·托瓦兹在1991年10月5日首次发布，在加上用户空间的应用程序之后，成为Linux操作系统。Linux也是自由软件和开放源代码软件发展中最著名的...",
+      "author": {
+        "nick": "布尔bl",
+        "homepage": "/u/chenzhuantou"
+      }
+    },
+    {
+      "id": "1190000018061393",
+      "title": "学习kafka教程（三）",
+      "url": "/a/1190000018061393",
+      "desc": "欢迎关注公众号：n平方如有问题或建议，请后台留言，我会尽力解决你的问题。 本文主要介绍【Kafka Streams的架构和使用】 目标 了解kafka streams的架构。 掌握kafka streams编程。 架构分析 总体 Kafka流通过构...",
+      "author": {
+        "nick": "zero",
+        "homepage": "/u/zero_5b9fc2c32c74c"
+      }
+    },
+    {
+      "id": "1190000018061355",
+      "title": "lombok的使用",
+      "url": "/a/1190000018061355",
+      "desc": "1.Settings-->Plugins-->Lombok Plugin (install)2.pom (springboot不用加version)",
+      "author": {
+        "nick": "fanyuexin",
+        "homepage": "/u/fanyuexin_5c3de402cf051"
+      }
+    },
+    {
+      "id": "1190000018061161",
+      "title": "【跃迁之路】【708天】程序员高效学习方法论探索系列（实验阶段465-2019.1.29）",
+      "url": "/a/1190000018061161",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000018059085",
+      "title": "线程池工具类的封装",
+      "url": "/a/1190000018059085",
+      "desc": "子系统创建类 继承ThreadPoolManager，配置参数信息ViThreadPoolManager.java",
+      "author": {
+        "nick": "代码牛",
+        "homepage": "/u/vidanao"
+      }
+    },
+    {
+      "id": "1190000018058208",
+      "title": "SpringBoot构建电商基础秒杀项目--应用SpringBoot完成基础项目搭建--使用IDEA创建MAVEN项目",
+      "url": "/a/1190000018058208",
+      "desc": "新建项目 1.新建project 2.maven项目，jdk1.8,quickstart 3.包名 4.等待maven下载依赖完成 标注项目文件夹类型 1. java 2. source ![图片上 运行 1.怎么运行 打开src/main/java/com/miaoshaproject/App.java,右键...",
+      "author": {
+        "nick": "渣渣辉",
+        "homepage": "/u/linxi_59223381a31e3"
+      }
+    },
+    {
+      "id": "1190000018057683",
+      "title": "HashedWheelTimer定时任务算法解析",
+      "url": "/a/1190000018057683",
+      "desc": "HashedWheelTimer是采用一种定时轮的方式来管理和维护大量的Timer调度算法.Linux 内核中的定时器采用的就是这个方案。一个HashedWheelTimer是环形结构，类似一个时钟，分为很多槽，一个槽代表一个时间间隔，每个...",
+      "author": {
+        "nick": "方袁",
+        "homepage": "/u/fangyuan_5c3465a516d0b"
+      }
+    },
+    {
+      "id": "1190000018057511",
+      "title": "【zzzmh个人博客】一枚Java程序的个人建站之路 (干货)",
+      "url": "/a/1190000018057511",
+      "desc": "个人建站已有半年有余，简单分享一下建站的心路历程和用到的一些技术自从学了编程以后，就一直想着要有一个自己的线上网站苦于学艺不精，对java以外的技术又知之甚少，一直拖到去年才开工。",
+      "author": {
+        "nick": "zzzmh",
+        "homepage": "/u/zzzmhcn"
+      }
+    },
+    {
+      "id": "1190000018056002",
+      "title": "Docker镜像细节",
+      "url": "/a/1190000018056002",
+      "desc": "前言 只有光头才能变强。 文本已收录至我的GitHub仓库，欢迎Star：[链接] 回顾前面： 为什么需要Docker？ Docker入门为什么可以这么简单？ 前面两篇已经讲解了为什么需要Docker这项技术，以及解释了Docker的基本...",
+      "author": {
+        "nick": "Java3y",
+        "homepage": "/u/java_3y"
+      }
+    }
+  ]
+}
