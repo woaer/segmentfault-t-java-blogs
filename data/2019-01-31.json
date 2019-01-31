@@ -1,0 +1,155 @@
+{
+  "watchNum": "39111",
+  "blogs": [
+    {
+      "id": "1190000018077512",
+      "title": "使用简单的Java代码在SAP C4C里创建销售订单",
+      "url": "/a/1190000018077512",
+      "desc": "需要创建的销售订单的明细通过硬编码指定： 比如销售订单的描述为Jerry Test 2019-1-23 16:05PM 执行之后，看到Status Code 201，说明创建成功： 到UI上能看到成功创建的销售订单： 实现代码： {代码...} 要获取...",
+      "author": {
+        "nick": "JerryWangSAP",
+        "homepage": "/u/jerrywangsap"
+      }
+    },
+    {
+      "id": "1190000018077152",
+      "title": "Spring源码分析：@Autowired注解原理分析",
+      "url": "/a/1190000018077152",
+      "desc": "关于@Autowired这个注解，我们再熟悉不过了，经常跟@Resource来做对比，这篇文章我们不讨论两者有何异同，仅分析@Autowired的原理（基于Spring5）。",
+      "author": {
+        "nick": "农码一生",
+        "homepage": "/u/nongmayisheng"
+      }
+    },
+    {
+      "id": "1190000018076690",
+      "title": " 深入理解 lambda表达式 与 函数式编程  函数式接口源码解析（二）",
+      "url": "/a/1190000018076690",
+      "desc": "{代码...} 一、函数式编程的理解 {代码...} 二、 函数式接口的测试方法 1、Function接口 {代码...} 2、BiFunction接口 {代码...} 3、BinaryOperator接口 {代码...} {代码...} 4、Predicate接口 {代码...} 5、Supp...",
+      "author": {
+        "nick": "陈杨",
+        "homepage": "/u/king_kirito"
+      }
+    },
+    {
+      "id": "1190000018075069",
+      "title": "一文带你认识Spring事务",
+      "url": "/a/1190000018075069",
+      "desc": "Spring事务管理我相信大家都用得很多，但可能仅仅局限于一个@Transactional注解或者在XML中配置事务相关的东西。不管怎么说，日常可能足够我们去用了。但作为程序员，无论是为了面试还是说更好把控自己写的代码，...",
+      "author": {
+        "nick": "Java3y",
+        "homepage": "/u/java_3y"
+      }
+    },
+    {
+      "id": "1190000018074517",
+      "title": "2018年工作总结",
+      "url": "/a/1190000018074517",
+      "desc": "导语 工作总结 技术总结 展望 零零散散",
+      "author": {
+        "nick": "我一定会回来的",
+        "homepage": "/u/siaron"
+      }
+    },
+    {
+      "id": "1190000018073845",
+      "title": "常见六大Web 安全攻防解析",
+      "url": "/a/1190000018073845",
+      "desc": "在互联网时代，数据安全与个人隐私受到了前所未有的挑战，各种新奇的攻击技术层出不穷。如何才能更好地保护我们的数据？本文主要侧重于分析几种常见的攻击的类型以及防御的方法。",
+      "author": {
+        "nick": "浪里行舟",
+        "homepage": "/u/langlixingzhou"
+      }
+    },
+    {
+      "id": "1190000018067501",
+      "title": "Spring Cloud Alibaba基础教程：Nacos配置的加载规则详解",
+      "url": "/a/1190000018067501",
+      "desc": "前情回顾： 《Spring Cloud Alibaba基础教程：使用Nacos实现服务注册与发现》 《Spring Cloud Alibaba基础教程：支持的几种服务消费方式（RestTemplate、WebClient、Feign）》 《Spring Cloud Alibaba基础教程：...",
+      "author": {
+        "nick": "程序猿DD",
+        "homepage": "/u/coderdd"
+      }
+    },
+    {
+      "id": "1190000018073078",
+      "title": "fastjson",
+      "url": "/a/1190000018073078",
+      "desc": "一、引言 spring boot默认的json解析是 jackson {代码...} 方法1： {代码...} 方法2： {代码...} 二、开发步骤 1、引入fastjson 依赖库 这里要说下很重要的话，官方文档说的1.2.10以后，会有两个方法支持HttpMess...",
+      "author": {
+        "nick": "Jamen",
+        "homepage": "/u/jamen_zhang"
+      }
+    },
+    {
+      "id": "1190000018071127",
+      "title": "【跃迁之路】【709天】程序员高效学习方法论探索系列（实验阶段466-2019.1.30）",
+      "url": "/a/1190000018071127",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000018070781",
+      "title": "利用策略模式优化过多 if else 代码",
+      "url": "/a/1190000018070781",
+      "desc": "前言 不出意外，这应该是年前最后一次分享，本次来一点实际开发中会用到的小技巧。 比如平时大家是否都会写类似这样的代码： {代码...} 条件少还好，一旦 else if 过多这里的逻辑将会比较混乱，并很容易出错。 比...",
+      "author": {
+        "nick": "crossoverJie",
+        "homepage": "/u/crossoverjie"
+      }
+    },
+    {
+      "id": "1190000018070746",
+      "title": "dubbo源码解析（三十二）远程调用——thrift协议",
+      "url": "/a/1190000018070746",
+      "desc": "dubbo集成thrift协议，是基于Thrift来实现的，Thrift是一种轻量级，与语言无关的软件堆栈，具有用于点对点RPC的相关代码生成机制。Thrift为数据传输，数据序列化和应用程序级处理提供了清晰的抽象。代码生成系统...",
+      "author": {
+        "nick": "CrazyHzm",
+        "homepage": "/u/mmmmm_592a5e72c8ea7"
+      }
+    },
+    {
+      "id": "1190000018069614",
+      "title": "java内存管理机制剖析（一）",
+      "url": "/a/1190000018069614",
+      "desc": "当java程序运行时，java虚拟机会将内存划分为若干个不同的数据区域，这些内存区域创建和销毁的时间各不相同，所承担的功能也不相同，他们各司其职，各尽所责。这些区域的划分如下图",
+      "author": {
+        "nick": "蚂蚁金服技术",
+        "homepage": "/u/mayijinfujishu"
+      }
+    },
+    {
+      "id": "1190000018068571",
+      "title": "Java核心技术笔记 异常、断言和日志",
+      "url": "/a/1190000018068571",
+      "desc": "《Java核心技术 卷Ⅰ》 第7章 异常、断言和日志 处理错误 捕获异常 使用异常机制的技巧 记录日志 处理错误 如果由于出现错误而是的某些操作没有完成，程序应该： 返回到一种安全状态，并让用户执行一些其他操作；...",
+      "author": {
+        "nick": "Yumiku",
+        "homepage": "/u/yumiku"
+      }
+    },
+    {
+      "id": "1190000018068391",
+      "title": "Java核心技术笔记 接口、lambda表达式与内部类",
+      "url": "/a/1190000018068391",
+      "desc": "《Java核心技术 卷Ⅰ》 第6章 接口、lambda表达式与内部类 接口 接口示例 lambda表达式 内部类 接口 接口技术，这种技术主要用来描述类具有什么功能，而并不给出每个功能的具体实现。一个类可以实现（implement）...",
+      "author": {
+        "nick": "Yumiku",
+        "homepage": "/u/yumiku"
+      }
+    },
+    {
+      "id": "1190000018068245",
+      "title": "SpringBoot--应用SpringBoot完成基础项目搭建--Mybatis接入SpringBoot项目",
+      "url": "/a/1190000018068245",
+      "desc": "配置监听端口 监听8888端口 miaosha/src/main/resourse/application.properties {代码...}",
+      "author": {
+        "nick": "渣渣辉",
+        "homepage": "/u/linxi_59223381a31e3"
+      }
+    }
+  ]
+}
