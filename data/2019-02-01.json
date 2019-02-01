@@ -1,0 +1,155 @@
+{
+  "watchNum": "39211",
+  "blogs": [
+    {
+      "id": "1190000018085100",
+      "title": "Spring MVC打印@RequestBody、@Response日志",
+      "url": "/a/1190000018085100",
+      "desc": "o.s.web.servlet.DispatcherServlet : POST \"/example_project/app/login\", parameters={}parameters={}无法打印出JSON消息内容。",
+      "author": {
+        "nick": "天啦撸",
+        "homepage": "/u/tianla_5acf044256865"
+      }
+    },
+    {
+      "id": "1190000018084851",
+      "title": "Mybatis批量更新三种方式",
+      "url": "/a/1190000018084851",
+      "desc": "但Mybatis映射文件中的sql语句默认是不支持以\" ; \" 结尾的，也就是不支持多条sql语句的执行。所以需要在连接mysql的url上加 &allowMultiQueries=true 这个才可以执行。方式二:",
+      "author": {
+        "nick": "僵尸吃过跳跳糖",
+        "homepage": "/u/cjn93"
+      }
+    },
+    {
+      "id": "1190000018084677",
+      "title": "Java11 & JavaFX 初体验 - Java 代码生成 Markdown 的小工具",
+      "url": "/a/1190000018084677",
+      "desc": "Java 11 自 2018.9.25 发布以来，已经好几个月了，在还没正式 GA 之前都习惯性的去 java-countdown.xyz check 发布倒计时。Java 11 有比较多的新功能，而其中最吸引我的",
+      "author": {
+        "nick": "蚂蚁金服技术",
+        "homepage": "/u/mayijinfujishu"
+      }
+    },
+    {
+      "id": "1190000018084343",
+      "title": "Java位运算小节",
+      "url": "/a/1190000018084343",
+      "desc": "位运算表达式由操作数和位运算符组成，实现对整数类型的二进制数进行位运算。位运算符可以分为逻辑运算符(包括~、＆、|和^)及移位运算符(包括>>、<<和>>>)。",
+      "author": {
+        "nick": "蚂蚁金服技术",
+        "homepage": "/u/mayijinfujishu"
+      }
+    },
+    {
+      "id": "1190000018084203",
+      "title": "ItemTouchHelper 实现可拖拽和侧滑的 RecyclerView",
+      "url": "/a/1190000018084203",
+      "desc": "笔者使用 RecyclerView 的 ItemTouchHelper 来实现这个效果，过程非常简单。",
+      "author": {
+        "nick": "L_YT",
+        "homepage": "/u/l_yt"
+      }
+    },
+    {
+      "id": "1190000018084098",
+      "title": "仿知乎分享界面",
+      "url": "/a/1190000018084098",
+      "desc": "最近在做一个资讯类的APP，上面需要一个分享功能，项目不大，如果去使用官方的SDK还需要审查之类的，感觉太麻烦。偶然看到知乎的分享界面做得不错，拿到我这个项目中正合适，在网上查了一下资料，使用BottomSheet...",
+      "author": {
+        "nick": "L_YT",
+        "homepage": "/u/l_yt"
+      }
+    },
+    {
+      "id": "1190000018083685",
+      "title": "Android 自定义 View 之 LeavesLoading",
+      "url": "/a/1190000018083685",
+      "desc": "前天的浏览 GitHub 时发现一个模仿 Gif 的 Loading 特效的项目，感觉效果很不错，也比较有创意，如下：",
+      "author": {
+        "nick": "L_YT",
+        "homepage": "/u/l_yt"
+      }
+    },
+    {
+      "id": "1190000018074787",
+      "title": "Spring Cloud Alibaba基础教程：Nacos配置的多环境管理",
+      "url": "/a/1190000018074787",
+      "desc": "前情回顾： 《Spring Cloud Alibaba基础教程：使用Nacos实现服务注册与发现》 《Spring Cloud Alibaba基础教程：支持的几种服务消费方式》 《Spring Cloud Alibaba基础教程：使用Nacos作为配置中心》 《Spring Cl...",
+      "author": {
+        "nick": "程序猿DD",
+        "homepage": "/u/coderdd"
+      }
+    },
+    {
+      "id": "1190000018082566",
+      "title": "java.lang.ClassNotFoundException",
+      "url": "/a/1190000018082566",
+      "desc": "今天在写QQ第三方登录的时候遇到了导致app崩溃的一个问题： {代码...} 解决方法： 在manifests包下的AndroidManifest.xml中添加如下代码 {代码...} 具体原由并不是很清楚，如果有人知道的话麻烦可以解释下原由，...",
+      "author": {
+        "nick": "玲の",
+        "homepage": "/u/fanrui_5c052adaeef32"
+      }
+    },
+    {
+      "id": "1190000018081508",
+      "title": "【跃迁之路】【710天】程序员高效学习方法论探索系列（实验阶段467-2019.1.31）",
+      "url": "/a/1190000018081508",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000018080992",
+      "title": "SpringBoot + MyBatisSQL输出配置",
+      "url": "/a/1190000018080992",
+      "desc": "指定MyBatis的日志实现为Slf4Japplication.yml文件 {代码...} log-impl属性种指定了Slf4j的日志实现",
+      "author": {
+        "nick": "天啦撸",
+        "homepage": "/u/tianla_5acf044256865"
+      }
+    },
+    {
+      "id": "1190000018080716",
+      "title": "log4j2+ELK",
+      "url": "/a/1190000018080716",
+      "desc": "问题初衷 最近有个项目需求，需要统计下用户app的使用情况，比如：什么时候登录的，查询了什么内容等信息。 解决方案 1.定义用户轨迹模型，每步操作都写到数据库中，然后在前端展示。 优点：可以针对业务需求自定...",
+      "author": {
+        "nick": "zhengkun",
+        "homepage": "/u/zhengkun"
+      }
+    },
+    {
+      "id": "1190000018079811",
+      "title": "dubbo源码解析（三十三）远程调用——webservice协议",
+      "url": "/a/1190000018079811",
+      "desc": "目标：介绍webservice协议的设计和实现，介绍dubbo-rpc-webservice的源码。",
+      "author": {
+        "nick": "CrazyHzm",
+        "homepage": "/u/mmmmm_592a5e72c8ea7"
+      }
+    },
+    {
+      "id": "1190000018079575",
+      "title": "Okhttp同步请求源码分析",
+      "url": "/a/1190000018079575",
+      "desc": "OKhttp是我们经常用到的框架，作为开发者们，我们不单单要学会灵活使用，还要知道他的源码是如何设计的。",
+      "author": {
+        "nick": "爱编码的coder",
+        "homepage": "/u/chengxuyuanxiaohui"
+      }
+    },
+    {
+      "id": "1190000018079446",
+      "title": "netty极简教程（一）：从helloworld到编写一个聊天室",
+      "url": "/a/1190000018079446",
+      "desc": "Nowadays we use general purpose applications or libraries to communicate with each other. For example, we often use an HTTP client library to retrieve information from a web server and to invoke a ...",
+      "author": {
+        "nick": "jsbintask",
+        "homepage": "/u/jsbintask"
+      }
+    }
+  ]
+}
