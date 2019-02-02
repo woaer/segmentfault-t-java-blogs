@@ -1,0 +1,155 @@
+{
+  "watchNum": "39281",
+  "blogs": [
+    {
+      "id": "1190000018091398",
+      "title": "设计一个分布式RPC框架",
+      "url": "/a/1190000018091398",
+      "desc": "我从事的是大数据开发相关的工作，主要负责的是大数据计算这块的内容。最近Hive集群跑任务总是会出现Thrift连接HS2相关问题，研究了解了下内部原理，突然来了兴趣，就想着自己也实现一个RPC框架，这样可以让自己...",
+      "author": {
+        "nick": "buildupchao",
+        "homepage": "/u/luwangmeilun"
+      }
+    },
+    {
+      "id": "1190000018090901",
+      "title": "《程序员的思维训练》读书笔记",
+      "url": "/a/1190000018090901",
+      "desc": "这是一本讲如何成为某一领域内高手的书。作者提炼了自己在软件开发领域内的学习、实践经验，并结合心理学、神经学等学科知识，使其成为一套系统的高手进阶方法论。",
+      "author": {
+        "nick": "xiaobinggg",
+        "homepage": "/u/xiaobinggg"
+      }
+    },
+    {
+      "id": "1190000018089547",
+      "title": "认识GMT和UTC时间-附带地理知识",
+      "url": "/a/1190000018089547",
+      "desc": "GMT 的全名是格林威治标准时间或格林威治平时 （Greenwich Mean Time），这个时间系统的概念在 1884 年确立，由英国伦敦的格林威治皇家天文台计算并维护，并在往后的几十年往欧陆其他国家扩散。在 1924 年开始，...",
+      "author": {
+        "nick": "翎野君",
+        "homepage": "/u/lingyejun"
+      }
+    },
+    {
+      "id": "1190000018089406",
+      "title": "【跃迁之路】【711天】程序员高效学习方法论探索系列（实验阶段468-2019.2.1）",
+      "url": "/a/1190000018089406",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000018089156",
+      "title": "深入理解 lambda表达式 与 Optional  Null 源码解析（Java11 三）",
+      "url": "/a/1190000018089156",
+      "desc": "{代码...} 一、Optional出现的缘由 {代码...} 二、深入理解 Value-based Classes {代码...} 三、Optional容器的构造 {代码...} 四、普通方法 {代码...} 五、高级拓展 1、ifPresent（Consumer） {代码...} 2、ifPr...",
+      "author": {
+        "nick": "陈杨",
+        "homepage": "/u/king_kirito"
+      }
+    },
+    {
+      "id": "1190000018088905",
+      "title": "dubbo源码解析（三十四）集群——开篇",
+      "url": "/a/1190000018088905",
+      "desc": "目标：介绍接下来集群分哪几部分来描述，介绍dubbo在集群中涉及到的几个功能，介绍dubbo-cluster下跟各个功能相关的接口",
+      "author": {
+        "nick": "CrazyHzm",
+        "homepage": "/u/mmmmm_592a5e72c8ea7"
+      }
+    },
+    {
+      "id": "1190000018088775",
+      "title": "解锁Spring框架姿势1",
+      "url": "/a/1190000018088775",
+      "desc": "介绍：Spring 框架是一个Java平台，它为开发Java应用程序提供全面的基础架构支持。Spring负责基础架构，因此您可以专注于应用程序的开发。Spring可以让您从“plain old Java objects”（POJO）中构建应用程序和通过...",
+      "author": {
+        "nick": "布尔bl",
+        "homepage": "/u/chenzhuantou"
+      }
+    },
+    {
+      "id": "1190000018088367",
+      "title": "基于消息中间件的分布式事务",
+      "url": "/a/1190000018088367",
+      "desc": "关于分布式事务的实现，网上有很多解说，当然这也是面试官的常备面试题。很多朋友在工作中很少接触到分布式事务，认为这个玩意交互太多，没必要。其实我也是这么想的，想要完成一个完整的分布式事务链路，通信开...",
+      "author": {
+        "nick": "思想者",
+        "homepage": "/u/sixiangzhe_5c309b3233be8"
+      }
+    },
+    {
+      "id": "1190000018087499",
+      "title": "ThreadLocal的理解",
+      "url": "/a/1190000018087499",
+      "desc": "Thread有一个ThreadLocal.ThreadLocalMap类型的threadLocals成员变量，他是一个map，底层是一个ThreadLocalMap.Entry的数组，每个ThreadLocal变量都有一个threadLocalHashCode，根据这个hashcode可计算出当前Thre...",
+      "author": {
+        "nick": "Degaulle",
+        "homepage": "/u/degaulle"
+      }
+    },
+    {
+      "id": "1190000018086603",
+      "title": "时间观差，效率偏低 | 2019年1月总结",
+      "url": "/a/1190000018086603",
+      "desc": "2019年已经过了一个月了，不知道大家这个月过得怎么样了，我19年开始也尽量采用数据化的模式来给自己建立人物模型，同时发现自身的一些问题。",
+      "author": {
+        "nick": "Java猫说",
+        "homepage": "/u/myself_5ab9f390c6129"
+      }
+    },
+    {
+      "id": "1190000018085100",
+      "title": "Spring MVC打印@RequestBody、@Response日志",
+      "url": "/a/1190000018085100",
+      "desc": "o.s.web.servlet.DispatcherServlet : POST \"/example_project/app/login\", parameters={}parameters={}无法打印出JSON消息内容。",
+      "author": {
+        "nick": "天啦撸",
+        "homepage": "/u/tianla_5acf044256865"
+      }
+    },
+    {
+      "id": "1190000018084851",
+      "title": "Mybatis批量更新三种方式",
+      "url": "/a/1190000018084851",
+      "desc": "但Mybatis映射文件中的sql语句默认是不支持以\" ; \" 结尾的，也就是不支持多条sql语句的执行。所以需要在连接mysql的url上加 &allowMultiQueries=true 这个才可以执行。方式二:",
+      "author": {
+        "nick": "僵尸吃过跳跳糖",
+        "homepage": "/u/cjn93"
+      }
+    },
+    {
+      "id": "1190000018084677",
+      "title": "Java11 & JavaFX 初体验 - Java 代码生成 Markdown 的小工具",
+      "url": "/a/1190000018084677",
+      "desc": "Java 11 自 2018.9.25 发布以来，已经好几个月了，在还没正式 GA 之前都习惯性的去 java-countdown.xyz check 发布倒计时。Java 11 有比较多的新功能，而其中最吸引我的",
+      "author": {
+        "nick": "蚂蚁金服技术",
+        "homepage": "/u/mayijinfujishu"
+      }
+    },
+    {
+      "id": "1190000018084343",
+      "title": "Java位运算小节",
+      "url": "/a/1190000018084343",
+      "desc": "位运算表达式由操作数和位运算符组成，实现对整数类型的二进制数进行位运算。位运算符可以分为逻辑运算符(包括~、＆、|和^)及移位运算符(包括>>、<<和>>>)。",
+      "author": {
+        "nick": "蚂蚁金服技术",
+        "homepage": "/u/mayijinfujishu"
+      }
+    },
+    {
+      "id": "1190000018084203",
+      "title": "ItemTouchHelper 实现可拖拽和侧滑的 RecyclerView",
+      "url": "/a/1190000018084203",
+      "desc": "笔者使用 RecyclerView 的 ItemTouchHelper 来实现这个效果，过程非常简单。",
+      "author": {
+        "nick": "Lin_YT",
+        "homepage": "/u/lin_yt"
+      }
+    }
+  ]
+}
