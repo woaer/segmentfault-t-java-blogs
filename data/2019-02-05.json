@@ -1,0 +1,155 @@
+{
+  "watchNum": "39392",
+  "blogs": [
+    {
+      "id": "1190000018101069",
+      "title": "JavaFx中Controller获取Stage并自定义窗口移动与缩放逻辑",
+      "url": "/a/1190000018101069",
+      "desc": "然后可以在public void initialize(URL url, ResourceBundle resourceBundle) 方法内获取Stage",
+      "author": {
+        "nick": "泠音",
+        "homepage": "/u/yin_5bc870d095522"
+      }
+    },
+    {
+      "id": "1190000018100997",
+      "title": "dubbo源码解析（三十六）集群——configurator",
+      "url": "/a/1190000018100997",
+      "desc": "目标：介绍dubbo中集群的配置规则，介绍dubbo-cluster下configurator包的源码。",
+      "author": {
+        "nick": "CrazyHzm",
+        "homepage": "/u/mmmmm_592a5e72c8ea7"
+      }
+    },
+    {
+      "id": "1190000018100364",
+      "title": "【跃迁之路】【714天】程序员高效学习方法论探索系列（实验阶段471-2019.2.4）",
+      "url": "/a/1190000018100364",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000018099817",
+      "title": "如何保存/恢复Java应用程序核心内存数据现场？",
+      "url": "/a/1190000018099817",
+      "desc": "不论是单体应用还是分布式应用，总是会有些许迭代或者紧急Fix bug上线的神操作。但是如果不是那么幸运，当时还存在大量核心内存中数据在进行计算等逻辑，此时终止项目，就会出现核心数据或者状态丢失的不利情况，...",
+      "author": {
+        "nick": "buildupchao",
+        "homepage": "/u/luwangmeilun"
+      }
+    },
+    {
+      "id": "1190000018099552",
+      "title": "dubbo源码解析（三十五）集群——cluster",
+      "url": "/a/1190000018099552",
+      "desc": "图有点小，见谅，不过可以眯着眼睛看稍微能看出来一点，每一个Cluster实现类都对应着一个invoker，因为这个模式启用的时间点就是在调用的时候，而我在之前的文章里面讲过，invoker贯穿来整个服务的调用。不过这里...",
+      "author": {
+        "nick": "CrazyHzm",
+        "homepage": "/u/mmmmm_592a5e72c8ea7"
+      }
+    },
+    {
+      "id": "1190000018099201",
+      "title": "988-从叶结点开始的最小字符串",
+      "url": "/a/1190000018099201",
+      "desc": "给定一颗根结点为 root 的二叉树，书中的每个结点都有一个从 0 到 25 的值，分别代表字母 'a' 到 'z'：值 0 代表 'a'，值 1 代表 'b'，依此类推。 找出按字典序最小的字符串，该字符串从这棵树的一个叶结点开始，...",
+      "author": {
+        "nick": "Null",
+        "homepage": "/u/null_ryan"
+      }
+    },
+    {
+      "id": "1190000018098687",
+      "title": "Java NIO",
+      "url": "/a/1190000018098687",
+      "desc": "1.Java NIO 简介 2.Java NIO 与IO 的主要区别 3.缓冲区(Buffer)和通道(Channel) 4.文件通道(FileChannel) 5.NIO 的非阻塞式网络通信 选择器(Selector)SocketChannel、ServerSocketChannel、DatagramChannel 面...",
+      "author": {
+        "nick": "Starzhang",
+        "homepage": "/u/starzhang"
+      }
+    },
+    {
+      "id": "1190000018098414",
+      "title": "dubbo源码解析（三十一）远程调用——rmi协议",
+      "url": "/a/1190000018098414",
+      "desc": "dubbo支持rmi协议，主要基于spring封装的org.springframework.remoting.rmi包来实现，当然最原始还是依赖 JDK 标准的java.rmi.*包，采用阻塞式短连接和 JDK 标准序列化方式。关于rmi协议的介绍可以参考dubbo官方...",
+      "author": {
+        "nick": "CrazyHzm",
+        "homepage": "/u/mmmmm_592a5e72c8ea7"
+      }
+    },
+    {
+      "id": "1190000018098206",
+      "title": "【跃迁之路】【713天】程序员高效学习方法论探索系列（实验阶段470-2019.2.3）",
+      "url": "/a/1190000018098206",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000018096394",
+      "title": "985-查询后的偶数和",
+      "url": "/a/1190000018096394",
+      "desc": "给出一个整数数组 A 和一个查询数组 queries。 对于第 i 次查询，有 val = queries[i][0], index = queries[i][1]，我们会把 val 加到 A[index] 上。然后，第 i 次查询的答案是 A 中偶数值的和。 （此处给定的 in...",
+      "author": {
+        "nick": "Null",
+        "homepage": "/u/null_ryan"
+      }
+    },
+    {
+      "id": "1190000018096380",
+      "title": "986-区间列表的交集",
+      "url": "/a/1190000018096380",
+      "desc": "给定两个由一些闭区间组成的列表，每个区间列表都是成对不相交的，并且已经排序。 返回这两个区间列表的交集。 形式上，闭区间 [a, b]（其中 a <= b）表示实数 x 的集合，而 a <= x <= b。两个闭区间的...",
+      "author": {
+        "nick": "Null",
+        "homepage": "/u/null_ryan"
+      }
+    },
+    {
+      "id": "1190000018096174",
+      "title": "Java 异步编程之：notify 和 wait 用法",
+      "url": "/a/1190000018096174",
+      "desc": "启动两个线程, 一个输出 1,3,5,7…99, 另一个输出 2,4,6,8…100 最后 STDOUT 中按序输出 1,2,3,4,5…100",
+      "author": {
+        "nick": "沉静",
+        "homepage": "/u/chenjingtech"
+      }
+    },
+    {
+      "id": "1190000018095560",
+      "title": "统一认证 - Apereo CAS 简介",
+      "url": "/a/1190000018095560",
+      "desc": "微服之道，方兴未艾；农之来学者，盖已千者！ 这句是从《陶山集·太学案问》瞎改出来的。意思就是微服务的架构理念还在不断地发展，现在整个啥都 言必出微服务，差点都到了 没学过微服务的码农不是一个好码农。搞...",
+      "author": {
+        "nick": "二牛",
+        "homepage": "/u/notechsolution"
+      }
+    },
+    {
+      "id": "1190000018094154",
+      "title": "Spring Boot  2.1.2 & Spring Cloud Greenwich 升级记录",
+      "url": "/a/1190000018094154",
+      "desc": "之前的版本是 spring boot 1.5.10 , spring cloud Edgware.SR3",
+      "author": {
+        "nick": "duodo",
+        "homepage": "/u/deanwangpro"
+      }
+    },
+    {
+      "id": "1190000018093528",
+      "title": "深入理解 lambda表达式 与 MethodReference（四）",
+      "url": "/a/1190000018093528",
+      "desc": "{代码...} 一、测试数据准备 {代码...} 二、方法引用 引入 {代码...} 三、什么是方法引用 {代码...} 四、方法引用的分类 1、 静态方法引用 {代码...} 2、 对象实例方法引用 {代码...} 3、 类实例方法引用 {代码.....",
+      "author": {
+        "nick": "陈杨",
+        "homepage": "/u/king_kirito"
+      }
+    }
+  ]
+}
