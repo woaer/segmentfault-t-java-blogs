@@ -1,0 +1,155 @@
+{
+  "watchNum": "39504",
+  "blogs": [
+    {
+      "id": "1190000018112758",
+      "title": "989-数组形式的整数加法",
+      "url": "/a/1190000018112758",
+      "desc": "对于非负整数 X 而言，X 的数组形式是每位数字按从左到右的顺序形成的数组。例如，如果 X = 1231，那么其数组形式为 [1,2,3,1]。 给定非负整数 X 的数组形式 A，返回整数 X+K 的数组形式。 示例1： {代码...} 示...",
+      "author": {
+        "nick": "Null",
+        "homepage": "/u/null_ryan"
+      }
+    },
+    {
+      "id": "1190000018111074",
+      "title": "Spring Cloud Alibaba基础教程：Nacos配置的多文件加载与共享配置",
+      "url": "/a/1190000018111074",
+      "desc": "前情回顾： 《Spring Cloud Alibaba基础教程：使用Nacos实现服务注册与发现》 《Spring Cloud Alibaba基础教程：支持的几种服务消费方式》 《Spring Cloud Alibaba基础教程：使用Nacos作为配置中心》 《Spring Cl...",
+      "author": {
+        "nick": "程序猿DD",
+        "homepage": "/u/coderdd"
+      }
+    },
+    {
+      "id": "1190000018111872",
+      "title": "【跃迁之路】【719天】程序员高效学习方法论探索系列（实验阶段476-2019.2.9）",
+      "url": "/a/1190000018111872",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000018111428",
+      "title": "@Bean 注解",
+      "url": "/a/1190000018111428",
+      "desc": "从定义来看, @Configuration 注解是用 @Component 注解的, 因此 <context:component-scan/> 或者 @ComponentScan 都能处理 @Configuration 注解的类.",
+      "author": {
+        "nick": "sc_ik",
+        "homepage": "/u/sc_ik"
+      }
+    },
+    {
+      "id": "1190000018111365",
+      "title": "java:方法覆盖与方法重载",
+      "url": "/a/1190000018111365",
+      "desc": "方法签名 方法签名是指方法的参数类型,顺序和个数.不包含方法名称. 重载 重载必须满足以下条件 方法名 相同 方法的参数类型，个数和顺序至少一项不同 方法的返回类型可以不同 方法的访问权限修饰符可以不同 覆盖 ...",
+      "author": {
+        "nick": "idealcn",
+        "homepage": "/u/idealcn"
+      }
+    },
+    {
+      "id": "1190000018110747",
+      "title": "Elastic Stack 日志分析平台搭建笔记 ",
+      "url": "/a/1190000018110747",
+      "desc": "Elastic Stack（旧称 ELK Stack)）是最受欢迎的开源日志平台 [ref ]。Elastic Stack 由 Elasticsearch、Logstash、Kibana 和 Beats 四个组件组成：",
+      "author": {
+        "nick": "nullwy",
+        "homepage": "/u/nullwy"
+      }
+    },
+    {
+      "id": "1190000018109949",
+      "title": "JavaFX 学习笔记——窗口与控件",
+      "url": "/a/1190000018109949",
+      "desc": "如今比较流行的桌面gui框架有WPF、WinForm、Qt、javafx等。其中WPF和WinForm目前还只能在运行Winsows上。Qt(widget)是一个很强大的跨平台C++框架(不只是UI)，但用C++写界面实在有点蛋疼，且编译出来的体积很大。",
+      "author": {
+        "nick": "才才才",
+        "homepage": "/u/caimy"
+      }
+    },
+    {
+      "id": "1190000018108932",
+      "title": "spring cloud gateway  （5）其他 ",
+      "url": "/a/1190000018108932",
+      "desc": "1.对于限流，可以先看看ratelimit包里的几个类，gateway里可以定义自己的key，来确定哪些请求算同一个请求，如根据IP来计算，之后执行一次lua脚本来计算次数。因为没满足公司需求，所以我是自己加个限流过滤器实...",
+      "author": {
+        "nick": "弹肖邦の夜曲",
+        "homepage": "/u/danxiaobangyequ"
+      }
+    },
+    {
+      "id": "1190000018108927",
+      "title": "spring cloud gateway 源码解析（4）跨域问题处理",
+      "url": "/a/1190000018108927",
+      "desc": "现在项目大多开始前后端分离，前端开发的时候可以用webpack的proxytable来配置线上打包的话可以直接放到后台项目的静态资源目录了，这样就不会有跨域问题，或者放到nginx里在配置好资源目录就行，这些方案网上都...",
+      "author": {
+        "nick": "弹肖邦の夜曲",
+        "homepage": "/u/danxiaobangyequ"
+      }
+    },
+    {
+      "id": "1190000018108924",
+      "title": "spring cloud gateway 源码解析（3）记录请求参数及返回的json",
+      "url": "/a/1190000018108924",
+      "desc": "（1）一开始搜索读取参数的文章，方法大多是从body里读一次DataBuffer，转成字符串，然后再把字符串转成DataBuffer重新放到body里，如：[链接]",
+      "author": {
+        "nick": "弹肖邦の夜曲",
+        "homepage": "/u/danxiaobangyequ"
+      }
+    },
+    {
+      "id": "1190000018108921",
+      "title": "spring cloud gateway 源码解析（2）动态路由",
+      "url": "/a/1190000018108921",
+      "desc": "先看看gateway是怎么获取我们配置的路由：在gateway启动时，GatewayAutoConfiguration帮我们注册了一系列beans",
+      "author": {
+        "nick": "弹肖邦の夜曲",
+        "homepage": "/u/danxiaobangyequ"
+      }
+    },
+    {
+      "id": "1190000018108918",
+      "title": "spring cloud gateway 源码解析（1）整体流程 ",
+      "url": "/a/1190000018108918",
+      "desc": "公司要做自己的网关，于是先把github的issue过了一遍，然后把gateway源码在看了一遍，这样公司的需求就搞定了。包括动态路由，多纬度限流，记录请求参数及返回参数（也可修改）。先从请求进入网关说起吧： 请求先...",
+      "author": {
+        "nick": "弹肖邦の夜曲",
+        "homepage": "/u/danxiaobangyequ"
+      }
+    },
+    {
+      "id": "1190000018108719",
+      "title": "【跃迁之路】【718天】程序员高效学习方法论探索系列（实验阶段475-2019.2.8）",
+      "url": "/a/1190000018108719",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000018107945",
+      "title": "1019 数字黑洞 （20 分）java",
+      "url": "/a/1190000018107945",
+      "desc": "给定任一个各位数字不完全相同的 4 位正整数，如果我们先把 4 个数字按非递增排序，再按非递减排序，然后用第 1 个数字减第 2 个数字，将得到一个新的数字。一直重复这样做，我们很快会停在有“数字黑洞”之称的 61...",
+      "author": {
+        "nick": "PangHuanTeng",
+        "homepage": "/u/panghuanteng"
+      }
+    },
+    {
+      "id": "1190000018107011",
+      "title": " 【跃迁之路】【717天】程序员高效学习方法论探索系列（实验阶段474-2019.2.7）",
+      "url": "/a/1190000018107011",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    }
+  ]
+}
