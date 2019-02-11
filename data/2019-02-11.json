@@ -1,0 +1,155 @@
+{
+  "watchNum": "39539",
+  "blogs": [
+    {
+      "id": "1190000018116784",
+      "title": "仿造 Gson 的自制 json 解析器",
+      "url": "/a/1190000018116784",
+      "desc": "Maven : 3.3.9 (主要用作打包工具)IDE : idea 2018.3JDK : OpenJDK 11.0.1 (OracleJDK 8 以上即可)",
+      "author": {
+        "nick": "三流",
+        "homepage": "/u/sanliu"
+      }
+    },
+    {
+      "id": "1190000018115669",
+      "title": "Java多线程-Callable和Future",
+      "url": "/a/1190000018115669",
+      "desc": "创建线程的2种方式，一种是直接继承Thread，另外一种就是实现Runnable接口。 这2种方式都有一个缺陷就是：在执行完任务之后无法获取执行结果。 如果需要获取执行结果，就必须通过共享变量或者使用线程通信的方式...",
+      "author": {
+        "nick": "一号线",
+        "homepage": "/u/yihaoxian"
+      }
+    },
+    {
+      "id": "1190000018115504",
+      "title": "手把手教你如何优雅的使用Aop记录带参数的复杂Web接口日志",
+      "url": "/a/1190000018115504",
+      "desc": "不久前，因为需求的原因，需要实现一个操作日志。几乎每一个接口被调用后，都要记录一条跟这个参数挂钩的特定的日志到数据库。举个例子，就比如禁言操作，日志中需要记录因为什么禁言，被禁言的人的id和各种信息...",
+      "author": {
+        "nick": "detectiveHLH",
+        "homepage": "/u/detectivehlh"
+      }
+    },
+    {
+      "id": "1190000018114644",
+      "title": "《Java编程思想》读书笔记-对象导论",
+      "url": "/a/1190000018114644",
+      "desc": "计算机是头脑延伸的工具，是一种不同类型的表达媒体。本文以背景性的和补充性的材料，介绍包括开发方法概述在内的面向对象程序设计(Object-oriented Programming,OOP)的基本概念。",
+      "author": {
+        "nick": "lurker_潜行者",
+        "homepage": "/u/lurker_yaojiang"
+      }
+    },
+    {
+      "id": "1190000018114051",
+      "title": "物联网高并发编程之网络编程中的线程模型",
+      "url": "/a/1190000018114051",
+      "desc": "值得说明的是，具体选择线程还是进程，更多是与平台及编程语言相关。例如 C 语言使用线程和进程都可以(例如 Nginx 使用进程，Memcached 使用线程)，Java 语言一般使用线程(例如 Netty)，为了描述方便，下面都使用...",
+      "author": {
+        "nick": "石志远",
+        "homepage": "/u/shizhiyuan"
+      }
+    },
+    {
+      "id": "1190000018113973",
+      "title": "java:强引用,软引用,弱引用和虚引用",
+      "url": "/a/1190000018113973",
+      "desc": "如果一个对象具有强引用,垃圾回收器绝不会回收它.当内存空间不足时,java虚拟机宁愿抛出OutOfMemoryError错误,使程序异常终止,也不会靠随意回收具有强引用的对象来解决内存不足问题.",
+      "author": {
+        "nick": "idealcn",
+        "homepage": "/u/idealcn"
+      }
+    },
+    {
+      "id": "1190000018113746",
+      "title": "【跃迁之路】【720天】程序员高效学习方法论探索系列（实验阶段477-2019.2.10）",
+      "url": "/a/1190000018113746",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000018113655",
+      "title": "Netty+SpringBoot+FastDFS+Html5实现聊天App",
+      "url": "/a/1190000018113655",
+      "desc": "Netty+SpringBoot+FastDFS+Html5实现聊天App github链接: [链接] 数据库 用户表 face_image为用户的头像，需要保存小图与大图，qrcode为该用户对应的二维码 朋友关系表 好友申请表 记录发送好友请求申请的数据表 ...",
+      "author": {
+        "nick": "Shimmer",
+        "homepage": "/u/shimmer_5bbffffb26ebf"
+      }
+    },
+    {
+      "id": "1190000018113650",
+      "title": "Rust中文社刊2019-01发布",
+      "url": "/a/1190000018113650",
+      "desc": "新年快乐！Rust中文社区主页已经焕然一新，追随Rust官方的Modern风格，刚过去的1月，有37位成员加入 rustlang-cn 的github组织，并开始贡献！恭喜！！特别感谢VitalyAnkh为论坛上线提供服务器",
+      "author": {
+        "nick": "krircc",
+        "homepage": "/u/krircc"
+      }
+    },
+    {
+      "id": "1190000018112758",
+      "title": "989-数组形式的整数加法",
+      "url": "/a/1190000018112758",
+      "desc": "对于非负整数 X 而言，X 的数组形式是每位数字按从左到右的顺序形成的数组。例如，如果 X = 1231，那么其数组形式为 [1,2,3,1]。 给定非负整数 X 的数组形式 A，返回整数 X+K 的数组形式。 示例1： {代码...} 示...",
+      "author": {
+        "nick": "Null",
+        "homepage": "/u/null_ryan"
+      }
+    },
+    {
+      "id": "1190000018111074",
+      "title": "Spring Cloud Alibaba基础教程：Nacos配置的多文件加载与共享配置",
+      "url": "/a/1190000018111074",
+      "desc": "前情回顾： 《Spring Cloud Alibaba基础教程：使用Nacos实现服务注册与发现》 《Spring Cloud Alibaba基础教程：支持的几种服务消费方式》 《Spring Cloud Alibaba基础教程：使用Nacos作为配置中心》 《Spring Cl...",
+      "author": {
+        "nick": "程序猿DD",
+        "homepage": "/u/coderdd"
+      }
+    },
+    {
+      "id": "1190000018111872",
+      "title": "【跃迁之路】【719天】程序员高效学习方法论探索系列（实验阶段476-2019.2.9）",
+      "url": "/a/1190000018111872",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000018111428",
+      "title": "@Bean 注解",
+      "url": "/a/1190000018111428",
+      "desc": "从定义来看, @Configuration 注解是用 @Component 注解的, 因此 <context:component-scan/> 或者 @ComponentScan 都能处理 @Configuration 注解的类.",
+      "author": {
+        "nick": "sc_ik",
+        "homepage": "/u/sc_ik"
+      }
+    },
+    {
+      "id": "1190000018111365",
+      "title": "java:方法覆盖与方法重载",
+      "url": "/a/1190000018111365",
+      "desc": "方法签名 方法签名是指方法的参数类型,顺序和个数.不包含方法名称. 重载 重载必须满足以下条件 方法名 相同 方法的参数类型，个数和顺序至少一项不同 方法的返回类型可以不同 方法的访问权限修饰符可以不同 覆盖 ...",
+      "author": {
+        "nick": "idealcn",
+        "homepage": "/u/idealcn"
+      }
+    },
+    {
+      "id": "1190000018110747",
+      "title": "Elastic Stack 日志分析平台搭建笔记 ",
+      "url": "/a/1190000018110747",
+      "desc": "Elastic Stack（旧称 ELK Stack)）是最受欢迎的开源日志平台 [ref ]。Elastic Stack 由 Elasticsearch、Logstash、Kibana 和 Beats 四个组件组成：",
+      "author": {
+        "nick": "nullwy",
+        "homepage": "/u/nullwy"
+      }
+    }
+  ]
+}
