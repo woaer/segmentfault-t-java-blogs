@@ -1,0 +1,155 @@
+{
+  "watchNum": "39628",
+  "blogs": [
+    {
+      "id": "1190000018124556",
+      "title": "Spring Cloud Sleuth 之Greenwich版本全攻略",
+      "url": "/a/1190000018124556",
+      "desc": "微服务架构是一个分布式架构，微服务系统按业务划分服务单元，一个微服务系统往往有很多个服务单元。由于服务单元数量众多，业务的复杂性较高，如果出现了错误和异常，很难去定位。主要体现在一个请求可能需要调...",
+      "author": {
+        "nick": "Forezp",
+        "homepage": "/u/forezp"
+      }
+    },
+    {
+      "id": "1190000018123862",
+      "title": "1032 挖掘机技术哪家强 （20 分）java",
+      "url": "/a/1190000018123862",
+      "desc": "为了用事实说明挖掘机技术到底哪家强，PAT 组织了一场挖掘机技能大赛。现请你根据比赛结果统计出技术最强的那个学校。",
+      "author": {
+        "nick": "PangHuanTeng",
+        "homepage": "/u/panghuanteng"
+      }
+    },
+    {
+      "id": "1190000018121914",
+      "title": "dubbo源码解析（三十九）集群——merger",
+      "url": "/a/1190000018121914",
+      "desc": "按组合并返回结果 ，比如菜单服务，接口一样，但有多种实现，用group区分，现在消费方需从每种group中调用一次返回结果，合并结果返回，这样就可以实现聚合菜单项。这个时候就要用到分组聚合。",
+      "author": {
+        "nick": "CrazyHzm",
+        "homepage": "/u/mmmmm_592a5e72c8ea7"
+      }
+    },
+    {
+      "id": "1190000018121811",
+      "title": "《Java编程思想》读书笔记-类与对象",
+      "url": "/a/1190000018121811",
+      "desc": "也许你慢慢地对程序有了这样的认识：程序只是一些列带有方法的对象的组合，这些方法以其它对象为参数，可在任何地方返回，并发送消息给其他对象。这样的认识，目前来说，是对的。",
+      "author": {
+        "nick": "lurker_潜行者",
+        "homepage": "/u/lurker_yaojiang"
+      }
+    },
+    {
+      "id": "1190000018121622",
+      "title": "《Spring实战》读书笔记——Spring简介",
+      "url": "/a/1190000018121622",
+      "desc": "Spring是为了解决企业级应用开发的复杂性而创建的，使用Spring可以让简单的JavaBean实现之前只有EJB才能完成的事情。",
+      "author": {
+        "nick": "lurker_潜行者",
+        "homepage": "/u/lurker_yaojiang"
+      }
+    },
+    {
+      "id": "1190000018121404",
+      "title": "2019年首发，有耐心且多思考",
+      "url": "/a/1190000018121404",
+      "desc": "我天天加班，所以挺厉害的；我项目经验多，自我感觉跳槽一定能涨薪；我时长了解新的技术，应该不会太落后......",
+      "author": {
+        "nick": "Java猫说",
+        "homepage": "/u/myself_5ab9f390c6129"
+      }
+    },
+    {
+      "id": "1190000018121296",
+      "title": "HashMap剖析之内部结构",
+      "url": "/a/1190000018121296",
+      "desc": "本文是基于Java 8的HashMap进行分析，主要是介绍HashMap中的成员变量和类变量的用途，以及分析HashMap的数据结构。",
+      "author": {
+        "nick": "Null",
+        "homepage": "/u/null_ryan"
+      }
+    },
+    {
+      "id": "1190000018120635",
+      "title": "【跃迁之路】【721天】程序员高效学习方法论探索系列（实验阶段478-2019.2.11）",
+      "url": "/a/1190000018120635",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000018118971",
+      "title": "HashMap 你真的了解吗？",
+      "url": "/a/1190000018118971",
+      "desc": "HashMap是基于哈希表的Map接口的非同步实现。此实现提供所有可选的映射操作，并允许使用null值和null键。此类不保证映射的顺序，特别是它不保证该顺序恒久不变。",
+      "author": {
+        "nick": "小眼睛程序员",
+        "homepage": "/u/xiaoyanjingchengxuyuan"
+      }
+    },
+    {
+      "id": "1190000018118285",
+      "title": "Android内存泄漏定位、分析、解决全方案",
+      "url": "/a/1190000018118285",
+      "desc": "内存空间使用完毕之后未回收, 会导致内存泄漏。有人会问：Java不是有垃圾自动回收机制么？不幸的是，在Java中仍存在很多容易导致内存泄漏的逻辑(logical leak)。虽然垃圾回收器会帮我们干掉大部分无用的内存空间...",
+      "author": {
+        "nick": "roundstones",
+        "homepage": "/u/roundstones"
+      }
+    },
+    {
+      "id": "1190000018117338",
+      "title": "java-LearningRxjava-ch01-Thinking Reactively",
+      "url": "/a/1190000018117338",
+      "desc": "作为程序员，我们的工作是Modeling our world with code，object-oriented programming 很好地抽象我们的世界，但是，As 2010 approached, it became clear that object-oriented programming only solved part o...",
+      "author": {
+        "nick": "dhxx",
+        "homepage": "/u/dhxx"
+      }
+    },
+    {
+      "id": "1190000018117057",
+      "title": "停发年终奖背后，是程序员“失宠”了？",
+      "url": "/a/1190000018117057",
+      "desc": "1月10日，在互联网职场上又有一件标志性事件发生，脉脉上有人爆料，称罗振宇的“得到”今年取消了APP团队年终奖，并且发布了内部信解释为何取消。",
+      "author": {
+        "nick": "爱编码的coder",
+        "homepage": "/u/chengxuyuanxiaohui"
+      }
+    },
+    {
+      "id": "1190000018116784",
+      "title": "仿造 Gson 的自制 json 解析器",
+      "url": "/a/1190000018116784",
+      "desc": "Maven : 3.3.9 (主要用作打包工具)IDE : idea 2018.3JDK : OpenJDK 11.0.1 (OracleJDK 8 以上即可)",
+      "author": {
+        "nick": "三流",
+        "homepage": "/u/sanliu"
+      }
+    },
+    {
+      "id": "1190000018115669",
+      "title": "Java多线程-Callable和Future",
+      "url": "/a/1190000018115669",
+      "desc": "创建线程的2种方式，一种是直接继承Thread，另外一种就是实现Runnable接口。 这2种方式都有一个缺陷就是：在执行完任务之后无法获取执行结果。 如果需要获取执行结果，就必须通过共享变量或者使用线程通信的方式...",
+      "author": {
+        "nick": "一号线",
+        "homepage": "/u/yihaoxian"
+      }
+    },
+    {
+      "id": "1190000018115504",
+      "title": "手把手教你如何优雅的使用Aop记录带参数的复杂Web接口日志",
+      "url": "/a/1190000018115504",
+      "desc": "不久前，因为需求的原因，需要实现一个操作日志。几乎每一个接口被调用后，都要记录一条跟这个参数挂钩的特定的日志到数据库。举个例子，就比如禁言操作，日志中需要记录因为什么禁言，被禁言的人的id和各种信息...",
+      "author": {
+        "nick": "detectiveHLH",
+        "homepage": "/u/detectivehlh"
+      }
+    }
+  ]
+}
