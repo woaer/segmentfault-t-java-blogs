@@ -1,0 +1,155 @@
+{
+  "watchNum": "39937",
+  "blogs": [
+    {
+      "id": "1190000018147445",
+      "title": "写技术博客那点事",
+      "url": "/a/1190000018147445",
+      "desc": "写文章是一个短期收益少，长期收益很大的一件事情，人们总是高估短期收益，低估长期收益。往往是很多人坚持不下来，特别是写文章的初期，刚写完文章没有人阅读会有一种挫败感，影响了后期创作。",
+      "author": {
+        "nick": "浪里行舟",
+        "homepage": "/u/langlixingzhou"
+      }
+    },
+    {
+      "id": "1190000018147183",
+      "title": "猫叔产品读记 | 全时关店潮、那些记得住的2019春节营销案例（2期）",
+      "url": "/a/1190000018147183",
+      "desc": "36氪获得的一份内部资料显示，自去年11月以来，全时便利店在北京关店约90家；截至2月13日，全时在北京的店铺还有320家左右。这意味着该轮关店比例超过20%。",
+      "author": {
+        "nick": "Java猫说",
+        "homepage": "/u/myself_5ab9f390c6129"
+      }
+    },
+    {
+      "id": "1190000018146626",
+      "title": "SpringBoot文件上传异常之temporary upload location not valid",
+      "url": "/a/1190000018146626",
+      "desc": "SpringBoot搭建的应用，一直工作得好好的，突然发现上传文件失败，提示org.springframework.web.multipart.MultipartException: Failed to parse multipart servlet request; nested exception is java.io.IOExce...",
+      "author": {
+        "nick": "小灰灰Blog",
+        "homepage": "/u/xiaohuihuiblog"
+      }
+    },
+    {
+      "id": "1190000018146011",
+      "title": "Java面试 | 001优点有啥？",
+      "url": "/a/1190000018146011",
+      "desc": "本博客 猫叔的博客，转载请申明出处 前言 本系列为猫叔综合整理的Java面试题系列，如有雷同不胜荣幸。 001、请你说说Java这门语言的优点？ PS：这是看你对Java的理解程序。 1、Java是一门面向对象的编程语言，使...",
+      "author": {
+        "nick": "Java猫说",
+        "homepage": "/u/myself_5ab9f390c6129"
+      }
+    },
+    {
+      "id": "1190000018145160",
+      "title": "番外篇2-基本规范、注释、static关键字、import关键字 ",
+      "url": "/a/1190000018145160",
+      "desc": "本文作为构建第一个Java程序的番外篇二，主要跟大家伙儿从浅层次的探讨下Java中的关键字import和static，此外为了让我们的代码可读性更强，必要的包和代码的命名规范是必须的。",
+      "author": {
+        "nick": "lurker_潜行者",
+        "homepage": "/u/lurker_yaojiang"
+      }
+    },
+    {
+      "id": "1190000018145133",
+      "title": "Java多线程编程实战：模拟大量数据同步",
+      "url": "/a/1190000018145133",
+      "desc": "最近对于 Java 多线程做了一段时间的学习，笔者一直认为，学习东西就是要应用到实际的业务需求中的。否则要么无法深入理解，要么硬生生地套用技术只是达到炫技的效果。",
+      "author": {
+        "nick": "沉静",
+        "homepage": "/u/chenjingtech"
+      }
+    },
+    {
+      "id": "1190000018145078",
+      "title": "SpringBoot下使用定时任务的方式全揭秘",
+      "url": "/a/1190000018145078",
+      "desc": "定时任务作为一种系统调度工具，在一些需要有定时作业的系统中应用广泛，如每逢某个时间点统计数据、在将来某个时刻执行某些动作...定时任务在主流开发语言均提供相应的API供开发者调用，在Java中，实现定时任务...",
+      "author": {
+        "nick": "jaybril",
+        "homepage": "/u/jaybril"
+      }
+    },
+    {
+      "id": "1190000018144856",
+      "title": "重新详尽的理解HasMap",
+      "url": "/a/1190000018144856",
+      "desc": "hashCode的存在主要是用于查找的快捷性，如Hashtable，HashMap等，hashCode是用来在散列存储结构中确定对象的存储地址的.",
+      "author": {
+        "nick": "一号线",
+        "homepage": "/u/yihaoxian"
+      }
+    },
+    {
+      "id": "1190000018144704",
+      "title": "Netty+SpringBoot+FastDFS+Html5实现聊天App详解(一)",
+      "url": "/a/1190000018144704",
+      "desc": "IO编程模型在客户端较少的情况下运行良好，但是对于客户端比较多的业务来说，单机服务端可能需要支撑成千上万的连接，IO模型可能就不太合适了。这是因为在传统的IO模型中，每个连接创建成功之后都需要一个线程来...",
+      "author": {
+        "nick": "Shimmer",
+        "homepage": "/u/shimmer_5bbffffb26ebf"
+      }
+    },
+    {
+      "id": "1190000018144175",
+      "title": "【跃迁之路】【723天】程序员高效学习方法论探索系列（实验阶段480-2019.2.13）",
+      "url": "/a/1190000018144175",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000018142426",
+      "title": "从零开始单排学设计模式「UML类图」定级赛",
+      "url": "/a/1190000018142426",
+      "desc": "本篇是设计模式系列的开篇，虽然之前也写过相应的文章，但是因为种种原因后来断掉了，而且发现之前写的内容也很渣，不够系统。",
+      "author": {
+        "nick": "孤独键客",
+        "homepage": "/u/gudujianke"
+      }
+    },
+    {
+      "id": "1190000018142411",
+      "title": "leetcode394. Decode String",
+      "url": "/a/1190000018142411",
+      "desc": "将一个字符串解码，要求按照次数展开原字符串中的中括号。如3[a]2[bc]对应的字符串就是aaabcbc，即a展开3次，bc展开2次。注意，源字符串中的括号是允许嵌套的，且展开的字符中不会包含任何数字。",
+      "author": {
+        "nick": "raledong",
+        "homepage": "/u/raledong"
+      }
+    },
+    {
+      "id": "1190000018142238",
+      "title": "Java 离线人脸识别SDK  支持arcface 2.0 最新版",
+      "url": "/a/1190000018142238",
+      "desc": "由于业务需求，最近跟人脸识别杠上了，本以为虹软提供的SDK是那种面向开发语言的，结果是一堆dll······像我这样的Java猿突然就感觉整个人都不好了；近期赶上了SDK2.0的升级，在官方论坛、Google、百度、QQ等等的...",
+      "author": {
+        "nick": "gsmd_cc",
+        "homepage": "/u/gsmd_cc"
+      }
+    },
+    {
+      "id": "1190000018141670",
+      "title": "Java 中如何使用 SQL 查询文本",
+      "url": "/a/1190000018141670",
+      "desc": "【摘要】         使用 SQL 查询语言，你只能查询位于数据库里面的数据，但是当你面对的数据是一些 Excel 表格或者 Txt 文本格式时，有什么办法能直接对着文件进行 Select 查询呢？去乾学院看个究竟：Java 中如何...",
+      "author": {
+        "nick": "raqsoft",
+        "homepage": "/u/raqsoft"
+      }
+    },
+    {
+      "id": "1190000018141511",
+      "title": "Java 离线人脸识别 基于虹软ArcFace 2.0 服务端Demo",
+      "url": "/a/1190000018141511",
+      "desc": "Jdk8、mysql5.7、libarcsoft_face.dll(so)、libarcsoft_face_engine.dll(so)、libarcsoft_face_engine_jni.dll(so)、idea",
+      "author": {
+        "nick": "gsmd_cc",
+        "homepage": "/u/gsmd_cc"
+      }
+    }
+  ]
+}
