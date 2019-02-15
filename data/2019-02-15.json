@@ -1,0 +1,155 @@
+{
+  "watchNum": "40101",
+  "blogs": [
+    {
+      "id": "1190000018161980",
+      "title": "Problem 4：替换空格（字符串）",
+      "url": "/a/1190000018161980",
+      "desc": "请实现一个函数，将一个字符串中的每个空格替换成“%20”。例如，当字符串为We Are Happy.则经过替换之后的字符串为We%20Are%20Happy。注：用%20替换的原因，空格在ASCII码中的序号为32，用十六进制表示为0x20。",
+      "author": {
+        "nick": "guoqiang",
+        "homepage": "/u/guoqiang_5b9b5f6108eaf"
+      }
+    },
+    {
+      "id": "1190000018161519",
+      "title": "rabbitmq的基本使用",
+      "url": "/a/1190000018161519",
+      "desc": "现在微服务盛行， 我们通常会进行解耦， 这时候就需要异步的消息队列来帮助各个服务之间解耦 rabbitmq的基本概念介绍 Queue queue是存放消息的队列， 实际上就是一个存放消息数据结构为队列的一个容器 exchange ...",
+      "author": {
+        "nick": "dingandu",
+        "homepage": "/u/dingandu"
+      }
+    },
+    {
+      "id": "1190000018161130",
+      "title": "Java魔法类——Unsafe应用解析",
+      "url": "/a/1190000018161130",
+      "desc": "Unsafe是位于sun.misc包下的一个类，主要提供一些用于执行低级别、不安全操作的方法，如直接访问系统内存资源、自主管理内存资源等，这些方法在提升Java运行效率、增强Java语言底层资源操作能力方面起到了很大的...",
+      "author": {
+        "nick": "美团技术团队",
+        "homepage": "/u/meituanjishutuandui"
+      }
+    },
+    {
+      "id": "1190000018159660",
+      "title": "10 个深恶痛绝的 Java 异常。。",
+      "url": "/a/1190000018159660",
+      "desc": "异常是 Java 程序中经常遇到的问题，我想每一个 Java 程序员都讨厌异常，一 个异常就是一个 BUG，就要花很多时间来定位异常问题。",
+      "author": {
+        "nick": "Java技术栈",
+        "homepage": "/u/javastack"
+      }
+    },
+    {
+      "id": "1190000018156976",
+      "title": "HashMap剖析之put()和get()方法",
+      "url": "/a/1190000018156976",
+      "desc": "本文是基于Java 8的HashMap进行分析，主要是分析HashMap中的put()和get()方法。",
+      "author": {
+        "nick": "Null",
+        "homepage": "/u/null_ryan"
+      }
+    },
+    {
+      "id": "1190000018156085",
+      "title": "【跃迁之路】【724天】程序员高效学习方法论探索系列（实验阶段481-2019.2.14）",
+      "url": "/a/1190000018156085",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000018155321",
+      "title": "用友云开发者中心助你上云系列之在线调试",
+      "url": "/a/1190000018155321",
+      "desc": "现在，大家开始越来越多的谈论到高可用架构的互联网应用。什么是高可用？高可用HA（High Availability）是分布式系统架构设计中必须考虑的因素之一，它通常是指，通过设计减少系统不能提供服务的时间。当我们谈论...",
+      "author": {
+        "nick": "用友云平台",
+        "homepage": "/u/yongyouyunpingtai"
+      }
+    },
+    {
+      "id": "1190000018155081",
+      "title": "leetcode378. Kth Smallest Element in a Sorted Matrix",
+      "url": "/a/1190000018155081",
+      "desc": "在一个从左到右，从上到下均有序的二维数组中，找到从小到第k个数字，这里需要注意，不要求一定要是唯一的值，即假设存在这样一个序列1,2,2,3，则第三个数字是2而不是3。",
+      "author": {
+        "nick": "raledong",
+        "homepage": "/u/raledong"
+      }
+    },
+    {
+      "id": "1190000018154297",
+      "title": "dubbo源码解析（四十一）集群——Mock",
+      "url": "/a/1190000018154297",
+      "desc": "目标：介绍dubbo中集群的Mock，介绍dubbo-cluster下关于服务降级和本地伪装的源码。",
+      "author": {
+        "nick": "CrazyHzm",
+        "homepage": "/u/mmmmm_592a5e72c8ea7"
+      }
+    },
+    {
+      "id": "1190000018153622",
+      "title": "centOS上docker 的简单使用",
+      "url": "/a/1190000018153622",
+      "desc": "今天我们来聊一聊docker 的简单实用，我这里用的centOS.首先安装docker, 用yum install docker -y 进行安装docker， 安装完成后用docker -v 来查看一下安装完成后，来学习一下，用systemctl start docker来启动一...",
+      "author": {
+        "nick": "dingandu",
+        "homepage": "/u/dingandu"
+      }
+    },
+    {
+      "id": "1190000018153596",
+      "title": "FRIDA 实用手册",
+      "url": "/a/1190000018153596",
+      "desc": "FRIDA 实用手册本文目的是作为工具类文章，收集整理了一些 FRIDA 的使用技巧和用例，方便同学们在开发使用过程中开袋即食。",
+      "author": {
+        "nick": "阿里云云栖社区",
+        "homepage": "/u/yunqishequ_5aa899aad5395"
+      }
+    },
+    {
+      "id": "1190000018153314",
+      "title": "08.Android之View事件问题",
+      "url": "/a/1190000018153314",
+      "desc": "8.0.0.1 简述Android的事件分发机制？dispatchTouchEvent方法的作用是什么？说下View和ViewGroup分发事件？",
+      "author": {
+        "nick": "潇湘剑雨",
+        "homepage": "/u/xiangjianyu"
+      }
+    },
+    {
+      "id": "1190000018153226",
+      "title": "07.Android之多媒体问题",
+      "url": "/a/1190000018153226",
+      "desc": "7.0.0.1 加载bitmap图片的时候需要注意什么？为何bitmap容易造成OOM？如何计算Bitmap占用内存？",
+      "author": {
+        "nick": "潇湘剑雨",
+        "homepage": "/u/xiangjianyu"
+      }
+    },
+    {
+      "id": "1190000018152894",
+      "title": "使用 QuickBI 搭建酷炫可视化分析",
+      "url": "/a/1190000018152894",
+      "desc": "随着各行各业大数据的渗透，BI 类数据分析需求与日俱增，如何让可视化更好的展现数据的价值，是 BI 类产品一直努力的方向。对此国内外的BI产品都有自己的方法，如国外大牌的 PowerBI、Tableau，还有国内的 FineBI...",
+      "author": {
+        "nick": "阿里云云栖社区",
+        "homepage": "/u/yunqishequ_5aa899aad5395"
+      }
+    },
+    {
+      "id": "1190000018152283",
+      "title": "leetcode375. Guess Number Higher or Lower II",
+      "url": "/a/1190000018152283",
+      "desc": "一个猜数字游戏，数字区间为1~n，每猜一次，会有人告诉你猜中了或者当前的数字是大于结果值还是小于结果值。猜对则本次猜测免费，猜错则本次猜测需要花费和数字等额的金钱。问如果要确保能够猜中数字，最少要花费...",
+      "author": {
+        "nick": "raledong",
+        "homepage": "/u/raledong"
+      }
+    }
+  ]
+}
