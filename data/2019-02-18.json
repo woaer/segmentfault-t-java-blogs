@@ -1,0 +1,155 @@
+{
+  "watchNum": "40412",
+  "blogs": [
+    {
+      "id": "1190000018185625",
+      "title": "Netty+SpringBoot+FastDFS+Html5实现聊天App(五)",
+      "url": "/a/1190000018185625",
+      "desc": "Netty+SpringBoot+FastDFS+Html5实现聊天App，项目介绍。 Netty+SpringBoot+FastDFS+Html5实现聊天App，项目github链接。 本章完整代码链接。 本章主要讲的是聊天App_PigChat中关于聊天功能的实现。 移除方法与处...",
+      "author": {
+        "nick": "Shimmer",
+        "homepage": "/u/shimmer_5bbffffb26ebf"
+      }
+    },
+    {
+      "id": "1190000018184310",
+      "title": "【技术性】OO语言知识",
+      "url": "/a/1190000018184310",
+      "desc": "持续更新。--------------------C++篇------------------------",
+      "author": {
+        "nick": "sharonlyu",
+        "homepage": "/u/sharonlyu"
+      }
+    },
+    {
+      "id": "1190000018176888",
+      "title": "Spring Cloud Alibaba基础教程：Nacos的数据持久化",
+      "url": "/a/1190000018176888",
+      "desc": "前情回顾： 《Spring Cloud Alibaba基础教程：使用Nacos实现服务注册与发现》 《Spring Cloud Alibaba基础教程：支持的几种服务消费方式》 《Spring Cloud Alibaba基础教程：使用Nacos作为配置中心》 《Spring Cl...",
+      "author": {
+        "nick": "程序猿DD",
+        "homepage": "/u/coderdd"
+      }
+    },
+    {
+      "id": "1190000018183873",
+      "title": "对象引论",
+      "url": "/a/1190000018183873",
+      "desc": "传统的学习方式都是罗列知识点，达到全面学习的目的。但是这样的缺陷就是不能很深刻理解这些知识。所以我们得学习的观念应该不仅仅是全面性，还有就是明天它是从那里来，解决了什么问题，并且学习处理这些问题的...",
+      "author": {
+        "nick": "勤思",
+        "homepage": "/u/qinsi"
+      }
+    },
+    {
+      "id": "1190000018183579",
+      "title": "一篇文章了解保险的全方面——IT工程师该怎么保护自己",
+      "url": "/a/1190000018183579",
+      "desc": "这是一篇面向IT工程师的保险科普文。本文的目的，是为了从IT工程师的角度，用一篇文章——尽可能少的篇幅和逻辑性的排版——来帮助大家入门保险，在不上当受骗的基础上，为自己、以及自己的小家增添一份保障。本文将...",
+      "author": {
+        "nick": "这是你的玩具车吗",
+        "homepage": "/u/tomczhang"
+      }
+    },
+    {
+      "id": "1190000018182536",
+      "title": "JNA 使用总结",
+      "url": "/a/1190000018182536",
+      "desc": "以前帮同学调试过调用百度地图SDK一个地图项目，那个项目中就用到了百度地图提供的.so文件(动态链接库，Linux下为.so，Windows下为.dll)，只是当时用的时候是直接调百度封装好的代码，也没有手动调用的机会。",
+      "author": {
+        "nick": "张喜硕",
+        "homepage": "/u/zhangxishuo"
+      }
+    },
+    {
+      "id": "1190000018182392",
+      "title": "395. Longest Substring with At Least K Repeating Characters",
+      "url": "/a/1190000018182392",
+      "desc": "这是一个经典的分治法解决的问题，关键在于我们如何将这个问题分解为更小的子问题。反过来想，这个子字符串一定不包含什么元素呢？当一个元素出现的总次数小于k，那么该元素一定不在子字符串中，只需要将其作为分...",
+      "author": {
+        "nick": "raledong",
+        "homepage": "/u/raledong"
+      }
+    },
+    {
+      "id": "1190000018182340",
+      "title": "Synchronized锁在Spring事务管理下，为啥还线程不安全？",
+      "url": "/a/1190000018182340",
+      "desc": "前言 只有光头才能变强。 文本已收录至我的GitHub仓库，欢迎Star：[链接] 大年初二，朋友问了我一个技术的问题(朋友实在是好学，佩服！) 该问题来源知乎(synchronized锁问题)： [链接] 开启10000个线程，每个线程...",
+      "author": {
+        "nick": "Java3y",
+        "homepage": "/u/java_3y"
+      }
+    },
+    {
+      "id": "1190000018182128",
+      "title": "基于Spring boot + Mybatis +Netty 实现前后端分离的聊天App，部署到阿里云线上服务器",
+      "url": "/a/1190000018182128",
+      "desc": "了解前后端分离项目 配置云服务器 java maven tomcat nginx mysql 部署后端项目 部署前端项目",
+      "author": {
+        "nick": "yohehai",
+        "homepage": "/u/yohehai"
+      }
+    },
+    {
+      "id": "1190000018180791",
+      "title": "leetcode393. UTF-8 Validation",
+      "url": "/a/1190000018180791",
+      "desc": "如果包含两个或两个以上字节，则起始字节以n个1和1个0开头，例如，如果该UTF8字符包含两个字节，则第一个字节以110开头，同理，三个字符的第一个字节以1110开头。剩余的字节必须以10开头。",
+      "author": {
+        "nick": "raledong",
+        "homepage": "/u/raledong"
+      }
+    },
+    {
+      "id": "1190000018180323",
+      "title": "SpringBoot 实战 | 用 JdbcTemplates 访问 Mysql",
+      "url": "/a/1190000018180323",
+      "desc": "如题，今天介绍 springboot 通过jdbc访问关系型mysql,通过 spring 的 JdbcTemplate 去访问。",
+      "author": {
+        "nick": "一个优秀的废人",
+        "homepage": "/u/nasus"
+      }
+    },
+    {
+      "id": "1190000018179569",
+      "title": "枚举的使用示例",
+      "url": "/a/1190000018179569",
+      "desc": "在枚举中增加一个方法用于通过数字型的状态码获取对应的消息（类似于map中通过key来找value）。",
+      "author": {
+        "nick": "RainNenya",
+        "homepage": "/u/rainnenya"
+      }
+    },
+    {
+      "id": "1190000018179391",
+      "title": "【跃迁之路】【727天】程序员高效学习方法论探索系列（实验阶段484-2019.2.17）",
+      "url": "/a/1190000018179391",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000018179149",
+      "title": "Netty+SpringBoot+FastDFS+Html5实现聊天App详解(四)",
+      "url": "/a/1190000018179149",
+      "desc": "Netty+SpringBoot+FastDFS+Html5实现聊天App，项目介绍。Netty+SpringBoot+FastDFS+Html5实现聊天App，项目github链接。本章完整代码链接。",
+      "author": {
+        "nick": "Shimmer",
+        "homepage": "/u/shimmer_5bbffffb26ebf"
+      }
+    },
+    {
+      "id": "1190000018177736",
+      "title": "leetcode398. Random Pick Index",
+      "url": "/a/1190000018177736",
+      "desc": "设计一个数据结构，使得从该数据结构中查询一个数字时，能够以等概率返回该数字所在的任何下标。额外的要求是只要占用O(1)的额外的空间复杂度。",
+      "author": {
+        "nick": "raledong",
+        "homepage": "/u/raledong"
+      }
+    }
+  ]
+}
