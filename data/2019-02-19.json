@@ -1,0 +1,155 @@
+{
+  "watchNum": "40569",
+  "blogs": [
+    {
+      "id": "1190000018200373",
+      "title": "MyBatis分页插件PageHelper",
+      "url": "/a/1190000018200373",
+      "desc": "如果你也在用 MyBatis，建议尝试该分页插件，这一定是最方便使用的分页插件。分页插件支持任何复杂的单表、多表分页。",
+      "author": {
+        "nick": "RainNenya",
+        "homepage": "/u/rainnenya"
+      }
+    },
+    {
+      "id": "1190000018198837",
+      "title": "【Leetcode】98. 验证二叉搜索树",
+      "url": "/a/1190000018198837",
+      "desc": "题目 给定一个二叉树，判断其是否是一个有效的二叉搜索树。 假设一个二叉搜索树具有如下特征： 节点的左子树只包含小于当前节点的数。 节点的右子树只包含大于当前节点的数。 所有左子树和右子树自身必须也是二叉...",
+      "author": {
+        "nick": "Acceml",
+        "homepage": "/u/acceml"
+      }
+    },
+    {
+      "id": "1190000018198573",
+      "title": "Java多线程001——一图读懂线程与进程",
+      "url": "/a/1190000018198573",
+      "desc": "本博客 猫叔的博客，转载请申明出处 前言 本系列将由浅入深，学习Java并发多线程。 一图读懂线程与进程 1、一个进程可以包含一个或多个线程。（其实你经常听到“多线程”，没有听过“多进程”嘛） 2、进程存在堆和方...",
+      "author": {
+        "nick": "Java猫说",
+        "homepage": "/u/myself_5ab9f390c6129"
+      }
+    },
+    {
+      "id": "1190000018197461",
+      "title": "Intellij IDEA 开发 Spring-boot项目 热部署，自动部署",
+      "url": "/a/1190000018197461",
+      "desc": "使用Intellij IDEA 开发 Spring-boot项目，即使项目使用了spring-boot-devtools，修改了类或者html、js等，idea还是不会自动重启，非要手动去make一下或者重启，就更没有使用热部署一样。",
+      "author": {
+        "nick": "Jamen",
+        "homepage": "/u/jamen_zhang"
+      }
+    },
+    {
+      "id": "1190000018197147",
+      "title": "SpringBoot 实战 (七) | 默认日志配置",
+      "url": "/a/1190000018197147",
+      "desc": "默认情况下，Spring Boot 用 Logback 来记录日志，并用 INFO 级别输出到控制台。如果你在平常项目中用过 Spring Boot，你应该已经注意到很多 INFO 级别的日志了。默认日志长这样：",
+      "author": {
+        "nick": "一个优秀的废人",
+        "homepage": "/u/nasus"
+      }
+    },
+    {
+      "id": "1190000018196730",
+      "title": "转发和重定向的区别？",
+      "url": "/a/1190000018196730",
+      "desc": "转发是发生在服务器的 转发是由服务器进行跳转的，细心的朋友会发现，在转发的时候，浏览器的地址栏是没有发生变化的，在我访问Servlet111的时候，即使跳转到了Servlet222的页面，浏览器的地址还是Servlet111的。...",
+      "author": {
+        "nick": "Jamen",
+        "homepage": "/u/jamen_zhang"
+      }
+    },
+    {
+      "id": "1190000018196531",
+      "title": "Nacos系列：基于Nacos的注册中心",
+      "url": "/a/1190000018196531",
+      "desc": "所谓注册中心，其实是分布式架构演进过程中的产物，在系统中充当一个协调者的角色。但是，为什么需要这样一个协调者的角色呢？我们先来看一个例子，以便理解为什么分布式架构中需要有注册中心。",
+      "author": {
+        "nick": "知行旅人",
+        "homepage": "/u/zhixinglvren"
+      }
+    },
+    {
+      "id": "1190000018196230",
+      "title": "高效随机数算法Java实现",
+      "url": "/a/1190000018196230",
+      "desc": "前言 事情起源于一位网友分享了一个有趣的面试题： 生成由六位数字组成的ID，要求随机数字，不排重，不可自增，且数字不重复。ID总数为几十万。 初次解答 我一开始想到的办法是 生成一个足够大的ID池（其实就是需...",
+      "author": {
+        "nick": "Null",
+        "homepage": "/u/null_ryan"
+      }
+    },
+    {
+      "id": "1190000018196074",
+      "title": "Fastjson的基本使用方法大全",
+      "url": "/a/1190000018196074",
+      "desc": "fastjson是目前java语言中最快的json库，比自称最快的jackson速度要快，第三方独立测试结果说明比gson快大约6倍",
+      "author": {
+        "nick": "Jamen",
+        "homepage": "/u/jamen_zhang"
+      }
+    },
+    {
+      "id": "1190000018195091",
+      "title": "【跃迁之路】【728天】程序员高效学习方法论探索系列（实验阶段485-2019.2.18）",
+      "url": "/a/1190000018195091",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000018194949",
+      "title": "weblogic 脚本创建Managed Server (受管服务器)",
+      "url": "/a/1190000018194949",
+      "desc": "weblogic安装目录下有一个创建Managed Server的脚本，脚本位于/u01/app/Oracle/Middleware/oracle_common/common/bin/config.sh下，但脚本会启动一个GUI界面程序，在Linux下需要安装图形界面程序，非常不方便。wl...",
+      "author": {
+        "nick": "wls1036",
+        "homepage": "/u/wls1036"
+      }
+    },
+    {
+      "id": "1190000018193529",
+      "title": "一次快速排序引发的jvm调优",
+      "url": "/a/1190000018193529",
+      "desc": "闲来无事，顺便写一个快排的代码。结果却引发了java.OutOfMemoryError:Java heap space。首先谈谈快速排序，这是一种在统计上很快的排序，他的核心思想是，在一个数组中随便取一个数作为基准(通常取最后一个)，然...",
+      "author": {
+        "nick": "Linus脱袜子",
+        "homepage": "/u/qiuqi_turing"
+      }
+    },
+    {
+      "id": "1190000018193491",
+      "title": "Spring Boot MyBatis配置多种数据库",
+      "url": "/a/1190000018193491",
+      "desc": "mybatis-config.xml是支持配置多种数据库的，本文将介绍在Spring Boot中使用配置类来配置。",
+      "author": {
+        "nick": "simonsundev",
+        "homepage": "/u/simonsun"
+      }
+    },
+    {
+      "id": "1190000018193059",
+      "title": "数据结构java版之大O表示法",
+      "url": "/a/1190000018193059",
+      "desc": "大O表示法使用大写字母O，可以认为其含义为\"order of\"（大约是）。我们可以使用大O法来描述线性查找使用了O(N)级时间，二分查找使用了O(log N)级时间，向一个无序数组中插入使用了O(1)，或常数级时间。下面的图总...",
+      "author": {
+        "nick": "zorro",
+        "homepage": "/u/zoulu1"
+      }
+    },
+    {
+      "id": "1190000018192805",
+      "title": "leetcode388. Longest Absolute File Path",
+      "url": "/a/1190000018192805",
+      "desc": "要求从String字符串中找到最长的文件路径。这里要注意，要求的是文件路径，文件夹路径不予考虑。文件和文件夹的区别在于文件中一定包含.。",
+      "author": {
+        "nick": "raledong",
+        "homepage": "/u/raledong"
+      }
+    }
+  ]
+}
