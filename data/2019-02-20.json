@@ -1,0 +1,155 @@
+{
+  "watchNum": "40739",
+  "blogs": [
+    {
+      "id": "1190000018213145",
+      "title": "php 克隆",
+      "url": "/a/1190000018213145",
+      "desc": "前一段时间，看了Java中的对象克隆。感觉自己对于php中的对象克隆也不是很清楚，所以就做了一个小测试。代码如下",
+      "author": {
+        "nick": "fish",
+        "homepage": "/u/fish_5906d93ea3058"
+      }
+    },
+    {
+      "id": "1190000018211825",
+      "title": "java压缩多个文件",
+      "url": "/a/1190000018211825",
+      "desc": "首先创建一个工具类，定义好接口，这里的参数1：fileList：多个文件的path+name2： zipFileName：压缩后的文件名",
+      "author": {
+        "nick": "Start_liyi",
+        "homepage": "/u/start_liyi"
+      }
+    },
+    {
+      "id": "1190000018211009",
+      "title": "你有没有想过: 为什么Java中String类实例化之后就不能改变它的内容了？",
+      "url": "/a/1190000018211009",
+      "desc": "解答：因为 String 在通过 new 的构造方式实例化的时候，在底层会用一个 private final 修饰的字符数组来存储字符串，该字符数组用了 final 来修饰所以是不可变的。",
+      "author": {
+        "nick": "AlanKeene",
+        "homepage": "/u/alankeene"
+      }
+    },
+    {
+      "id": "1190000018210513",
+      "title": "多线程并发-计算机基础",
+      "url": "/a/1190000018210513",
+      "desc": "CPU在摩尔定律的指导下以每18个月翻一番的速度在发展，然而内存和硬盘的发展速度远远不及CPU。这就造成了高性能能的内存和硬盘价格及其昂贵。然而CPU的高度运算需要高速的数据。为了解决这个问题，CPU厂商在CPU中...",
+      "author": {
+        "nick": "一号线",
+        "homepage": "/u/yihaoxian"
+      }
+    },
+    {
+      "id": "1190000018210491",
+      "title": "SpringBoot 实战 (八) | 使用 Spring Data JPA 访问 Mysql 数据库",
+      "url": "/a/1190000018210491",
+      "desc": "在介绍 Spring Data JPA 之前，首先介绍 Hibernate 。 Hibernate 使用 O/R 映射 （Object-Relation Mapping） 技术实现数据访问， O/R 映射即将领域模型类与数据库的表进行映射，通过程序操作对象而实现表数据操...",
+      "author": {
+        "nick": "一个优秀的废人",
+        "homepage": "/u/nasus"
+      }
+    },
+    {
+      "id": "1190000018209463",
+      "title": "Spring AOP(二) 修饰者模式和JDK Proxy",
+      "url": "/a/1190000018209463",
+      "desc": "在上边一篇文章中我们介绍了Spring AOP的基本概念，今天我们就来学习一下与AOP实现相关的修饰者模式和Java Proxy相关的原理，为之后源码分析打下基础。",
+      "author": {
+        "nick": "remcarpediem",
+        "homepage": "/u/remcarpediem"
+      }
+    },
+    {
+      "id": "1190000018209413",
+      "title": "java 多线程基础, 我觉得还是有必要看看的",
+      "url": "/a/1190000018209413",
+      "desc": "我们启动的一个程序可以理解为一个进程, 一个进程中包含一个主线程, 线程可以理解为一个子任务. Java 中可以通过下面代码来获取默认的主线程名.",
+      "author": {
+        "nick": "sc_ik",
+        "homepage": "/u/sc_ik"
+      }
+    },
+    {
+      "id": "1190000018209300",
+      "title": "Java之注解的定义及使用",
+      "url": "/a/1190000018209300",
+      "desc": "Java的注解在实际项目中使用得非常的多，特别是在使用了Spring之后。本文会介绍Java注解的语法，以及在Spring中使用注解的例子。",
+      "author": {
+        "nick": "炼金术师cck",
+        "homepage": "/u/_cck"
+      }
+    },
+    {
+      "id": "1190000018208901",
+      "title": "自学 JAVA 的几点建议",
+      "url": "/a/1190000018208901",
+      "desc": "许久不见，最近公众号多了很多在校的师弟师妹们。有很多同学都加了我微信问了一些诸如 [如何自学 Java ]的问题，我都一一解答了，这是大家对我的信任，我非常感谢。你们知道我现在的职业是 java web 开发，可你们...",
+      "author": {
+        "nick": "一个优秀的废人",
+        "homepage": "/u/nasus"
+      }
+    },
+    {
+      "id": "1190000018208850",
+      "title": "一个Java程序员的技术栈",
+      "url": "/a/1190000018208850",
+      "desc": "核心能力 最重要的是系统设计能力，其次是编码能力。 技术前瞻 目前看好的方法和技术有： 业务复杂度 DDD 扩展问题（scale out） 分布式、微服务、响应式系统、容器化 语言&框架 JVM语言+Vert.x, React, Elix...",
+      "author": {
+        "nick": "orangecj42",
+        "homepage": "/u/orangecj42"
+      }
+    },
+    {
+      "id": "1190000018208655",
+      "title": "SpringBoot 实战 (五) | 集成 Swagger2 构建强大的 RESTful API 文档",
+      "url": "/a/1190000018208655",
+      "desc": "快过年了，不知道你们啥时候放年假，忙不忙。反正我是挺闲的，所以有时间写 blog。今天给你们带来 SpringBoot 集成 Swagger2 的教程。",
+      "author": {
+        "nick": "一个优秀的废人",
+        "homepage": "/u/nasus"
+      }
+    },
+    {
+      "id": "1190000018208596",
+      "title": "SpringBoot 实战 (二) | 第一个 SpringBoot 工程详解",
+      "url": "/a/1190000018208596",
+      "desc": "哎呦喂，按照以往的惯例今天周六我的安排应该是待在家学学猫叫啥的。但是今年这种日子就可能一去不复返了，没法办法啊。前几天年轻，立下了一周至少更两篇文章的 flag 。废话少说，今天接着前文给你们带来了第一...",
+      "author": {
+        "nick": "一个优秀的废人",
+        "homepage": "/u/nasus"
+      }
+    },
+    {
+      "id": "1190000018208317",
+      "title": "简单基于spring的redis配置(单机和集群模式)",
+      "url": "/a/1190000018208317",
+      "desc": "需要的jar包：spring版本：4.3.6.RELEASE,jedis版本：2.9.0,spring-data-redis:1.8.0.RELEASE；如果使用jackson序列化的话还额外需要：jackson-annotations和jackson-databind包",
+      "author": {
+        "nick": "muistar",
+        "homepage": "/u/muistar"
+      }
+    },
+    {
+      "id": "1190000018208222",
+      "title": "CountDownLatch的await和countDown方法简单分析",
+      "url": "/a/1190000018208222",
+      "desc": "sync.acquireSharedInterruptibly调用tryAcquireShared方法返回<0执行doAcquireSharedInterruptibly",
+      "author": {
+        "nick": "muistar",
+        "homepage": "/u/muistar"
+      }
+    },
+    {
+      "id": "1190000018208067",
+      "title": "Netty+SpringBoot+FastDFS+Html5实现聊天App(六)",
+      "url": "/a/1190000018208067",
+      "desc": "Netty+SpringBoot+FastDFS+Html5实现聊天App，项目介绍。 Netty+SpringBoot+FastDFS+Html5实现聊天App，项目github链接。 本章完整代码链接。 本章将给聊天App_PigChat加上心跳机制。 为什么要实现心跳机制 如果...",
+      "author": {
+        "nick": "Shimmer",
+        "homepage": "/u/shimmer_5bbffffb26ebf"
+      }
+    }
+  ]
+}
