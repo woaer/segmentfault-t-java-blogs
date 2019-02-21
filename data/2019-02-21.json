@@ -1,0 +1,155 @@
+{
+  "watchNum": "40911",
+  "blogs": [
+    {
+      "id": "1190000018229766",
+      "title": "专访 | 新浪架构师：Java工程师的职业规划如何做？",
+      "url": "/a/1190000018229766",
+      "desc": "经历了2018年末的阵痛，大家都积攒着一股暗劲蠢蠢欲动。3月初即将迎来2019年互联网行业换工作的大潮，技术工程师的升级换位对于一家互联网公司来说无疑是命脉般的存在——技术强则公司强！如何做一个抢手的技术工程...",
+      "author": {
+        "nick": "北城码农Alex",
+        "homepage": "/u/beichengmanongalex"
+      }
+    },
+    {
+      "id": "1190000018228676",
+      "title": "Spring Cloud Alibaba基础教程：Nacos的集群部署",
+      "url": "/a/1190000018228676",
+      "desc": "前情回顾： 《Spring Cloud Alibaba基础教程：使用Nacos实现服务注册与发现》 《Spring Cloud Alibaba基础教程：支持的几种服务消费方式》 《Spring Cloud Alibaba基础教程：使用Nacos作为配置中心》 《Spring Cl...",
+      "author": {
+        "nick": "程序猿DD",
+        "homepage": "/u/coderdd"
+      }
+    },
+    {
+      "id": "1190000018227830",
+      "title": "JVM执行方法调用（一）- 重载与重写",
+      "url": "/a/1190000018227830",
+      "desc": "原文 回顾Java语言中的重载与重写，并且看看JVM是怎么处理它们的。 重载Overload 定义： 在同一个类中有多个方法，它们的名字相同，但是参数类型不同。 或者，父子类中，子类有一个方法与父类非私有方法名字相同...",
+      "author": {
+        "nick": "chanjarster",
+        "homepage": "/u/chanjarster"
+      }
+    },
+    {
+      "id": "1190000018226316",
+      "title": "实战：基于Spring Boot快速开发RESTful风格API接口",
+      "url": "/a/1190000018226316",
+      "desc": "这篇文章计划是在过年期间完成的，示例代码都写好了，结果亲戚来我家做客，文章没来得及写。已经很久没有更新文章了，小伙伴们，有没有想我啊。言归正传，下面开始，今天的话题。",
+      "author": {
+        "nick": "冯文议",
+        "homepage": "/u/fengwenyi"
+      }
+    },
+    {
+      "id": "1190000018225915",
+      "title": "SpringBoot 实战 (九) | 整合 Mybatis",
+      "url": "/a/1190000018225915",
+      "desc": "如题，今天介绍 SpringBoot 与 Mybatis 的整合以及 Mybatis 的使用，本文通过注解的形式实现。",
+      "author": {
+        "nick": "一个优秀的废人",
+        "homepage": "/u/nasus"
+      }
+    },
+    {
+      "id": "1190000018225274",
+      "title": "【跃迁之路】【730天】程序员高效学习方法论探索系列（实验阶段487-2019.2.20）",
+      "url": "/a/1190000018225274",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000018225028",
+      "title": "最新编程资源",
+      "url": "/a/1190000018225028",
+      "desc": "mike啥都想搞做最酷的技术分享 Web前端 Vue2.5开发去哪儿网App 从零基础入门到实战项目 回复 100 四大维度解锁 Webpack 3.0 前端工程化 回复 101 前端成长必经之路 回复 102 Web前端性能优化 回复 103 React全家...",
+      "author": {
+        "nick": "Mike晓",
+        "homepage": "/u/mikexiao"
+      }
+    },
+    {
+      "id": "1190000018224810",
+      "title": "《深入理解JVM》读书笔记",
+      "url": "/a/1190000018224810",
+      "desc": "是一块较小的内存空间，可以看做是当前线程所执行的字节码的行号指示器。每条线程都有一个独立的程序计数器，各条线程之间计数器互不影响。",
+      "author": {
+        "nick": "棣琦",
+        "homepage": "/u/sonofelice"
+      }
+    },
+    {
+      "id": "1190000018223791",
+      "title": "Stream流与Lambda表达式（六） SpliteratorDetail",
+      "url": "/a/1190000018223791",
+      "desc": "{代码...} 一、流的创建--源（集合） {代码...} 二、Spliterator 接口 {代码...} {代码...} {代码...} 三、Spliterator特性值 {代码...} 四、Spliterator方法 {代码...} 五、Consumer 与 IntConsumer、LongConsum...",
+      "author": {
+        "nick": "陈杨",
+        "homepage": "/u/king_kirito"
+      }
+    },
+    {
+      "id": "1190000018223480",
+      "title": "力扣(LeetCode)21",
+      "url": "/a/1190000018223480",
+      "desc": "题目地址：[链接]题目描述：将两个有序链表合并为一个新的有序链表并返回。新链表是通过拼接给定的两个链表的所有节点组成的。 解答：递归思想。若两者其中有一个为null就返回另一个。否则，val值小的链表作为头...",
+      "author": {
+        "nick": "Linus脱袜子",
+        "homepage": "/u/qiuqi_turing"
+      }
+    },
+    {
+      "id": "1190000018223448",
+      "title": "Stream流与Lambda表达式（五） Stream  BaseStream  AutoCloseable源码解读",
+      "url": "/a/1190000018223448",
+      "desc": "{代码...} 一、流的定义 {代码...} 二、流的创建 {代码...} {代码...} 三、对象引用流 {代码...} 四、流的计算 {代码...} 五、流管道组成 {代码...} 六、流的消费 {代码...} {代码...} 七、 Lambda表达式的正确行...",
+      "author": {
+        "nick": "陈杨",
+        "homepage": "/u/king_kirito"
+      }
+    },
+    {
+      "id": "1190000018223278",
+      "title": "Stream流与Lambda表达式（四） 自定义收集器",
+      "url": "/a/1190000018223278",
+      "desc": "一、自定义SetCustomCollector收集器 {代码...} 二、自定义StudentCustomCollector收集器 {代码...} 三、SetCustomCollectorTest测试 {代码...} 四、StudentCustomCollectorTest测试 {代码...} 五、测试结果 {代...",
+      "author": {
+        "nick": "陈杨",
+        "homepage": "/u/king_kirito"
+      }
+    },
+    {
+      "id": "1190000018223267",
+      "title": "ARouter路由解析",
+      "url": "/a/1190000018223267",
+      "desc": "目录介绍 01.原生跳转实现 02.实现组件跳转方式 2.1 传统跳转方式 2.2 为何需要路由 03.ARouter配置与优势 04.跨进程组件通信 4.1 URLScheme 4.2 AIDL 4.3 BroadcastReceiver 4.4 路由通信注意要点 05.ARouter的...",
+      "author": {
+        "nick": "潇湘剑雨",
+        "homepage": "/u/xiangjianyu"
+      }
+    },
+    {
+      "id": "1190000018222914",
+      "title": "力扣(LeetCode)46",
+      "url": "/a/1190000018222914",
+      "desc": "输入: [1,2,3]输出:[ [1,2,3], [1,3,2], [2,1,3], [2,3,1], [3,1,2], [3,2,1]]解答：利用递归，我们可以认为，求一个数组的全排列，就是把这个数组中的每个位置的元素分别放在数组头部然后求剩余元素的全排列，递...",
+      "author": {
+        "nick": "Linus脱袜子",
+        "homepage": "/u/qiuqi_turing"
+      }
+    },
+    {
+      "id": "1190000018221603",
+      "title": "java 初识对象和对象引用的关系",
+      "url": "/a/1190000018221603",
+      "desc": "在接触java之前就知道了java的对象引用，但概念一直很模糊，看了《Head First in Java》后觉得书中的例子很有趣，便分享给大家。",
+      "author": {
+        "nick": "陈杰",
+        "homepage": "/u/chenjie123"
+      }
+    }
+  ]
+}
