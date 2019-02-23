@@ -1,0 +1,155 @@
+{
+  "watchNum": "41228",
+  "blogs": [
+    {
+      "id": "1190000018258208",
+      "title": "力扣(LeetCode)78",
+      "url": "/a/1190000018258208",
+      "desc": "输入: nums = [1,2,3]输出:[ [3], [1], [2], [1,2,3], [1,3], [2,3], [1,2], []]解答：这一题用回溯法。对于长度为n的nums数组，它的解空间应该是这样的[x1,x2,x3...,xn]这里的xn=0或者1，代表第n个数放或者不放...",
+      "author": {
+        "nick": "Linus脱袜子",
+        "homepage": "/u/qiuqi_turing"
+      }
+    },
+    {
+      "id": "1190000018257797",
+      "title": "Netty源码解析1-Buffer",
+      "url": "/a/1190000018257797",
+      "desc": "原文 ：GitHub原文: [链接]更多文章关注：多线程/集合/分布式/Netty/NIO/RPC Java高级特性增强-集合 Java高级特性增强-多线程 Java高级特性增强-Synchronized Java高级特性增强-volatile Java高级特性增强-并发集...",
+      "author": {
+        "nick": "王知无",
+        "homepage": "/u/wangzhiwu"
+      }
+    },
+    {
+      "id": "1190000018257092",
+      "title": "java bean 对象属性复制框架BeanMapping-01-入门案例",
+      "url": "/a/1190000018257092",
+      "desc": "项目简介 Bean-Mapping 用于 java 对象属性赋值。 项目中经常需要将一个对象的属性，赋值到另一个对象中。 常见的工具有很多，但都多少不够简洁，要么不够强大。 特性 支持对象属性的浅拷贝 变更日志 变更日志 快...",
+      "author": {
+        "nick": "叶止水",
+        "homepage": "/u/houbinbin"
+      }
+    },
+    {
+      "id": "1190000018256078",
+      "title": "Curator: ZooKeeper的使用配方",
+      "url": "/a/1190000018256078",
+      "desc": "ZooKeeper 作为分布式的存储方式, 有很多种使用场景, 把典型的使用场景提取出来, 成为\"配方\", 方便用户参考. Curator 作为这些典型场景的具体实现框架, 进一步简化了用户的使用成本.",
+      "author": {
+        "nick": "Yujiaao",
+        "homepage": "/u/yujiaao"
+      }
+    },
+    {
+      "id": "1190000018255936",
+      "title": "SpringBoot 实战 (十一) | 整合数据缓存 Cache",
+      "url": "/a/1190000018255936",
+      "desc": "如题，今天介绍 SpringBoot 的数据缓存。做过开发的都知道程序的瓶颈在于数据库，我们也知道内存的速度是大大快于硬盘的，当需要重复获取相同数据时，一次又一次的请求数据库或者远程服务，导致大量时间耗费在数...",
+      "author": {
+        "nick": "一个优秀的废人",
+        "homepage": "/u/nasus"
+      }
+    },
+    {
+      "id": "1190000018255835",
+      "title": "牛客网剑指offer java 全部题解",
+      "url": "/a/1190000018255835",
+      "desc": "经过数月的努力，终于更完了牛客网的66道剑指offer，以下的顺序和大家在牛客网的顺序是一样的（排序也花了不少时间），希望对大家找工作/提高算法能力能起到些许帮助。",
+      "author": {
+        "nick": "程序员乔戈里",
+        "homepage": "/u/qiaogeli"
+      }
+    },
+    {
+      "id": "1190000018255796",
+      "title": "力扣(LeetCode)756",
+      "url": "/a/1190000018255796",
+      "desc": "题目地址：[链接]题目描述：给出集合 [1,2,3,…,n]，其所有元素共有 n! 种排列。 按大小顺序列出所有排列情况，并一一标记，当 n = 3 时, 所有排列如下： \"123\"\"132\"\"213\"\"231\"\"312\"\"321\"给定 n 和 k，返回第 k 个...",
+      "author": {
+        "nick": "Linus脱袜子",
+        "homepage": "/u/qiuqi_turing"
+      }
+    },
+    {
+      "id": "1190000018255620",
+      "title": "力扣(LeetCode)47",
+      "url": "/a/1190000018255620",
+      "desc": "输入: [1,1,2]输出:[ [1,1,2], [1,2,1], [2,1,1]]解答：这一题可以利用求下一个排列算法来求解，对原数组排序，然后加入一个结果，接着不断求下一个排列，直到没有下一个排列为止。而下一个排列的求解,可以参考下...",
+      "author": {
+        "nick": "Linus脱袜子",
+        "homepage": "/u/qiuqi_turing"
+      }
+    },
+    {
+      "id": "1190000018255586",
+      "title": "力扣(LeetCode)31",
+      "url": "/a/1190000018255586",
+      "desc": "题目地址：[链接] 题目描述：实现获取下一个排列的函数，算法需要将给定数字序列重新排列成字典序中下一个更大的排列。 如果不存在下一个更大的排列，则将数字重新排列成最小的排列（即升序排列）。 必须原地修改...",
+      "author": {
+        "nick": "Linus脱袜子",
+        "homepage": "/u/qiuqi_turing"
+      }
+    },
+    {
+      "id": "1190000018255432",
+      "title": "力扣(LeetCode)357",
+      "url": "/a/1190000018255432",
+      "desc": "题目地址：[链接]题目描述：给定一个非负整数 n，计算各位数字都不同的数字 x 的个数，其中 0 ≤ x < 10的n次方 。",
+      "author": {
+        "nick": "Linus脱袜子",
+        "homepage": "/u/qiuqi_turing"
+      }
+    },
+    {
+      "id": "1190000018255384",
+      "title": "ElasticSearch重要概念及简单用法",
+      "url": "/a/1190000018255384",
+      "desc": "接着上一篇ElasticSearch搭建的环境继续学习，从概念开始，本篇文章将介绍ElasticSearch中的一些重要概念及部分原理性概念，以下内容中简称为ES。",
+      "author": {
+        "nick": "夏日寒冰",
+        "homepage": "/u/xiarihanbing"
+      }
+    },
+    {
+      "id": "1190000018254870",
+      "title": "【跃迁之路】【732天】程序员高效学习方法论探索系列（实验阶段489-2019.2.22）",
+      "url": "/a/1190000018254870",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000018253077",
+      "title": "Spring MVC+Stomp+Security+H2 Jetty",
+      "url": "/a/1190000018253077",
+      "desc": "#### 这一个什么项目 ##### 使用技术 Spring MVC Spring Security Spring webflux Spring stomp Jetty 嵌入式运行 H2 嵌入式数据库 Spring Security OAuth2 Client ActiveMQ 实现功能 用户使用Stomp 协议发送，接...",
+      "author": {
+        "nick": "神易风",
+        "homepage": "/u/shenyifeng"
+      }
+    },
+    {
+      "id": "1190000018253015",
+      "title": "【Android】RxJava + Retrofit完成网络请求",
+      "url": "/a/1190000018253015",
+      "desc": "本文基于RxJava、Retrofit的使用，若是对RxJava或Retrofit还不了解的简友可以先了解RxJava、Retrofit的用法再来看这篇文章。在这片文章之前分别单独介绍过Rxjava以及Retrofit的使用：Android Retrofit 2.0 的使用...",
+      "author": {
+        "nick": "带心情去旅行",
+        "homepage": "/u/daixinqingqulvxing"
+      }
+    },
+    {
+      "id": "1190000018252957",
+      "title": "【Android】RxJava的使用（四）线程控制 —— Scheduler",
+      "url": "/a/1190000018252957",
+      "desc": "经过前几篇的介绍，对RxJava对模式有了一定的理解：由Observable发起事件，经过中间的处理后由Observer消费。（对RxJava还不了解的可以出门左拐）之前的代码中，事件的发起和消费都是在同一个线程中执行，也就是...",
+      "author": {
+        "nick": "带心情去旅行",
+        "homepage": "/u/daixinqingqulvxing"
+      }
+    }
+  ]
+}
