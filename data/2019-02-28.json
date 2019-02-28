@@ -1,0 +1,155 @@
+{
+  "watchNum": "41893",
+  "blogs": [
+    {
+      "id": "1190000018337169",
+      "title": "ArrayList 的源码分析（扩容机制-JDK-10）",
+      "url": "/a/1190000018337169",
+      "desc": "Arraylist的源码分析（扩容机制-JDK 10） 初始化值 {代码...} 构造方法 默认数组的长度为10 {代码...} 自己定义初始化的容量 {代码...} 添加元素 {代码...} 开始扩容—扩容的方法 {代码...} } {代码...} } 可允许...",
+      "author": {
+        "nick": "一个学java的菜鸟",
+        "homepage": "/u/yigexuejavadecainiao"
+      }
+    },
+    {
+      "id": "1190000018337087",
+      "title": "Android  生命周期组件 Lifecycle 使用详解",
+      "url": "/a/1190000018337087",
+      "desc": "2018 年的 Google I/O 大会上，Google 发布了 Android Jetpack，并称其为下一代的 Android 组件，旨在帮助开发者加快应用开发速度。准确来讲，Jetpack 是一系列 Android 软件组件的集合，它包括基础组件、架构组...",
+      "author": {
+        "nick": "warmcheng",
+        "homepage": "/u/warmcheng"
+      }
+    },
+    {
+      "id": "1190000018335330",
+      "title": "异常",
+      "url": "/a/1190000018335330",
+      "desc": "在php下面的异常，真的一言难尽啊。网上关于php关于异常的使用，也是寥寥无几。最近在学习java，看到书（java核心编程 卷1）写关于异常的使用建议，觉得还是不错。",
+      "author": {
+        "nick": "fish",
+        "homepage": "/u/fish_5906d93ea3058"
+      }
+    },
+    {
+      "id": "1190000018335128",
+      "title": "golang并发的一篇文章",
+      "url": "/a/1190000018335128",
+      "desc": "[链接]",
+      "author": {
+        "nick": "guanhui07",
+        "homepage": "/u/guanhui07"
+      }
+    },
+    {
+      "id": "1190000018329534",
+      "title": "你属于程序员中的哪种人？",
+      "url": "/a/1190000018329534",
+      "desc": "当初的我们，初窥编程的世界，看着屏幕出现的“hello world”惊喜万分。想着计算机真的是世界上最神奇的东西，通过一行行的代码，我们居然可以和它交流，让它帮我们做事情。可是后来，我们好像都变得不一样了。",
+      "author": {
+        "nick": "Mike晓",
+        "homepage": "/u/mikexiao"
+      }
+    },
+    {
+      "id": "1190000018328621",
+      "title": "APT案例之点击事件",
+      "url": "/a/1190000018328621",
+      "desc": "目录介绍 01.创建项目步骤 1.1 项目搭建 1.2 项目功能 02.自定义注解 03.创建Processor 04.compiler配置文件 05.编译jar 06.如何使用 07.编译生成代码 08.部分源码说明 8.1 Process类-process方法 8.2 OnceProxyI...",
+      "author": {
+        "nick": "潇湘剑雨",
+        "homepage": "/u/xiangjianyu"
+      }
+    },
+    {
+      "id": "1190000018328537",
+      "title": "【BATJ面试必会】Java 基础篇 ",
+      "url": "/a/1190000018328537",
+      "desc": "<!-- GFM-TOC --> 一、数据类型 包装类型 缓存池 二、String 概览 不可变的好处 String, StringBuffer and StringBuilder String Pool new String(\"abc\") 三、运算 参数传递 float 与 double 隐式类型转换 ...",
+      "author": {
+        "nick": "程序员乔戈里",
+        "homepage": "/u/qiaogeli"
+      }
+    },
+    {
+      "id": "1190000018328259",
+      "title": "初识Hibernate",
+      "url": "/a/1190000018328259",
+      "desc": "Hibernate （开放源代码的对象关系映射框架）: Hibernate是一个开放源代码的对象关系映射框架，它对JDBC进行了非常轻量级的对象封装，它将POJO与数据库表建立映射关系，是一个全自动的ORM框架，hibernate可以自动...",
+      "author": {
+        "nick": "RainNenya",
+        "homepage": "/u/rainnenya"
+      }
+    },
+    {
+      "id": "1190000018326427",
+      "title": "【跃迁之路】【737天】程序员高效学习方法论探索系列（实验阶段494-2019.2.27）",
+      "url": "/a/1190000018326427",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000018323652",
+      "title": "windows系统安装配置react-native运行环境",
+      "url": "/a/1190000018323652",
+      "desc": "最近公司要开发react-native项目，自己在windows系统上练习了一下，过程中发现好多问题，在这里整理出来供大家参考；",
+      "author": {
+        "nick": "还我益达",
+        "homepage": "/u/huanwoyida"
+      }
+    },
+    {
+      "id": "1190000018323304",
+      "title": "Spring Security 单点登录简单示例",
+      "url": "/a/1190000018323304",
+      "desc": "本文为[原创]文章，转载请标明出处。本文链接：[链接]本文出自微云的技术博客 Overview 最近在弄单点登录，踩了不少坑，所以记录一下，做了个简单的例子。 目标：认证服务器认证后获取 token，客户端访问资源时带...",
+      "author": {
+        "nick": "WeYunx",
+        "homepage": "/u/weiyun"
+      }
+    },
+    {
+      "id": "1190000018323216",
+      "title": "「译」Spring Boot 单元测试二三事",
+      "url": "/a/1190000018323216",
+      "desc": "我们将了解如何以可测试的方式创建 Spring bean，然后讨论 Mockito 和 AssertJ 的使用，这两个库在默认情况下都集成在 Spring Boot 里。",
+      "author": {
+        "nick": "WeYunx",
+        "homepage": "/u/weiyun"
+      }
+    },
+    {
+      "id": "1190000018323081",
+      "title": "Spring Boot 之 LogBack 配置",
+      "url": "/a/1190000018323081",
+      "desc": "LogBack 默认集成在 Spring Boot 中，是基于 Slf4j 的日志框架。默认情况下 Spring Boot 是以 INFO 级别输出到控制台。",
+      "author": {
+        "nick": "WeYunx",
+        "homepage": "/u/weiyun"
+      }
+    },
+    {
+      "id": "1190000018322716",
+      "title": "关于 synchronizeOnSession",
+      "url": "/a/1190000018322716",
+      "desc": "最近在维护一个老项目，发现了一个问题。我们新增了一个耗时较久的复杂查询的功能，页面采用了 ajax 异步请求数据，但是请求未返回之前，点击页面其他功能都只能打开空白页，必须等待之前的数据返回后才能开始加...",
+      "author": {
+        "nick": "WeYunx",
+        "homepage": "/u/weiyun"
+      }
+    },
+    {
+      "id": "1190000018320851",
+      "title": "4.java数组",
+      "url": "/a/1190000018320851",
+      "desc": "注意: 建议使用 dataType[] arrayRefVar 的声明风格声明数组变量。 dataType arrayRefVar[] 风格是来自 C/C++ 语言 ，在Java中采用是为了让 C/C++ 程序员能够快速理解java语言。",
+      "author": {
+        "nick": "shenlanzifa",
+        "homepage": "/u/shenlanzifa"
+      }
+    }
+  ]
+}
