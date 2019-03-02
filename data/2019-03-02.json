@@ -1,0 +1,155 @@
+{
+  "watchNum": "42237",
+  "blogs": [
+    {
+      "id": "1190000018363162",
+      "title": "Object类深入研究",
+      "url": "/a/1190000018363162",
+      "desc": "Object类深入研究 Object类有哪些方法 registerNatives()【底层实现、不研究】 hashCode() equals(Object obj) clone() toString() notify() notifyAll() wait(long timeout)【还有重载了两个】 finalize() Objec...",
+      "author": {
+        "nick": "玛奇朵加点糖",
+        "homepage": "/u/zhangyuangang"
+      }
+    },
+    {
+      "id": "1190000018363140",
+      "title": "Java锁机制",
+      "url": "/a/1190000018363140",
+      "desc": "synchronized 简介 synchronized是Java的一个关键字，它能够将代码块(方法)锁起来 synchronized是一种互斥锁 一次只能允许一个线程进入被锁住的代码块",
+      "author": {
+        "nick": "玛奇朵加点糖",
+        "homepage": "/u/zhangyuangang"
+      }
+    },
+    {
+      "id": "1190000018363111",
+      "title": "COW机制已经相关类",
+      "url": "/a/1190000018363111",
+      "desc": "Vector和SynchronizedList 我们知道ArrayList是用于替代Vector的，Vector是线程安全的容器。因为它几乎在每个方法声明处都加了synchronized关键字来使容器安全。",
+      "author": {
+        "nick": "玛奇朵加点糖",
+        "homepage": "/u/zhangyuangang"
+      }
+    },
+    {
+      "id": "1190000018363034",
+      "title": "AtomicInteger 原子类的作用",
+      "url": "/a/1190000018363034",
+      "desc": "多线程操作，Synchronized 性能开销太大count++并不是原子操作。因为count++需要经过读取-修改-写入三个步骤。 count++并不是原子操作。因为count++需要经过读取-修改-写入三个步骤。",
+      "author": {
+        "nick": "玛奇朵加点糖",
+        "homepage": "/u/zhangyuangang"
+      }
+    },
+    {
+      "id": "1190000018361526",
+      "title": "Spring Boot学习教程(二)：认识和使用起步依赖",
+      "url": "/a/1190000018361526",
+      "desc": "概述在传统的软件开发过程中，随着项目库数量及其依赖关系的指数增长，依赖管理开始成为一件麻烦的事情，对于任何大型复杂的软件应用而言更是如此。为了解决这个问题，软件项目管理和理解工具(Software project m...",
+      "author": {
+        "nick": "HuasLeung",
+        "homepage": "/u/huasleung_5c7939915e2a8"
+      }
+    },
+    {
+      "id": "1190000018360552",
+      "title": "Hibernate之CRUD与实例状态",
+      "url": "/a/1190000018360552",
+      "desc": "在上一篇《初识Hibernate》中简单介绍了在Hibernate如何加载对象和持久化对象，以及Hibernate中对象实例状态。本文将继续介绍Hibernate简单的增删改查方法和对对象实例状态的理解（查询方法暂不提及）。",
+      "author": {
+        "nick": "RainNenya",
+        "homepage": "/u/rainnenya"
+      }
+    },
+    {
+      "id": "1190000018360076",
+      "title": "Spring Boot学习教程(一)：开始第一个Spring Boot应用程序",
+      "url": "/a/1190000018360076",
+      "desc": "概述Spring Boot可以轻松创建独立的生产级的基于Spring的应用程序。它遵循“约定大于配置”的原则，使用最少的配置，一切都尽可能地自动化，让快速应用程序开发(Rapid Application Development)变得如此的简单与优雅。",
+      "author": {
+        "nick": "HuasLeung",
+        "homepage": "/u/huasleung_5c7939915e2a8"
+      }
+    },
+    {
+      "id": "1190000018359735",
+      "title": "机试题-三星",
+      "url": "/a/1190000018359735",
+      "desc": "3月1日，西安三星研究所公司机试。之前HR介绍，机试题主要考察分析和逻辑能力，不会用到复杂的算法，而且现场也不能使用除了输入输出流之外的其他的库或包。",
+      "author": {
+        "nick": "guoqiang",
+        "homepage": "/u/guoqiang_5b9b5f6108eaf"
+      }
+    },
+    {
+      "id": "1190000018359380",
+      "title": "LeetCode-数组-删除元素",
+      "url": "/a/1190000018359380",
+      "desc": "给定一个数组 nums 和一个值 val，你需要原地移除所有数值等于 val 的元素，返回移除后数组的新长度。",
+      "author": {
+        "nick": "断风雨",
+        "homepage": "/u/duanfengyu"
+      }
+    },
+    {
+      "id": "1190000018359288",
+      "title": "前端三面四面总结",
+      "url": "/a/1190000018359288",
+      "desc": "准备要充分 描述要演练。抓住重点，描述不要啰嗦，尽可能简洁 引导找时机。认真准备的东西要找时机说出来，比如优势方面的。 优势要发挥。谦虚是态度谦虚，但是能力一定不能谦虚。(切记！) -回答要灵活。不要把话...",
+      "author": {
+        "nick": "Ashleysweetie",
+        "homepage": "/u/ashleysweetie"
+      }
+    },
+    {
+      "id": "1190000018359236",
+      "title": " LeetCode刷题——29. Divide Two Integers（Part 2靠大家）",
+      "url": "/a/1190000018359236",
+      "desc": "上篇文章写了以我自己的思路来解决这个问题，但是运行时间过长，看了leetcode 上的高效写法是使用位运算的解法，当初我自己写这个问题是也想到了可以用位运算快一点，但是因为基础差，对位运算的掌握不牢靠，还是...",
+      "author": {
+        "nick": "carol_gao",
+        "homepage": "/u/carol_gao"
+      }
+    },
+    {
+      "id": "1190000018358505",
+      "title": "mysql设置唯一键",
+      "url": "/a/1190000018358505",
+      "desc": "【一】设置字符唯一键（非自增） {代码...} 【二】重命名为唯一键： {代码...} 【三】获取文件后缀： {代码...}",
+      "author": {
+        "nick": "学问思辨行",
+        "homepage": "/u/xuewensibianxing"
+      }
+    },
+    {
+      "id": "1190000018357425",
+      "title": "Head First JNA",
+      "url": "/a/1190000018357425",
+      "desc": "虚拟化项目，需要用到Java调用原生代码的技术，我们使用的是开源库JNA(Java Native Access)。",
+      "author": {
+        "nick": "张喜硕",
+        "homepage": "/u/zhangxishuo"
+      }
+    },
+    {
+      "id": "1190000018356927",
+      "title": "【跃迁之路】【739天】程序员高效学习方法论探索系列（实验阶段496-2019.3.1）",
+      "url": "/a/1190000018356927",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000018356761",
+      "title": "目标网站反爬虫很严要怎么解决？",
+      "url": "/a/1190000018356761",
+      "desc": "一 前言在网站的采集过程中，每天都要面对网站的各种反爬虫技术，然而我们要想拿到数据，就需要针对性的制定很多方法来突破他们的反爬。例如，在采集数据过程中目标网站能识别出你的UserAgent，那你在采集的时候...",
+      "author": {
+        "nick": "minmin",
+        "homepage": "/u/minmin_5c6a7d5db4d90"
+      }
+    }
+  ]
+}
