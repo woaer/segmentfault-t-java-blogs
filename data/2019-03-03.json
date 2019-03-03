@@ -1,0 +1,155 @@
+{
+  "watchNum": "42333",
+  "blogs": [
+    {
+      "id": "1190000018369314",
+      "title": "线程池底层原理",
+      "url": "/a/1190000018369314",
+      "desc": "JAVA通过多线程的方式实现并发，为了方便线程池的管理，JAVA采用线程池的方式对线线程的整个生命周期进行管理。1.5后引入的Executor框架的最大优点是把任务的提交和执行解耦。",
+      "author": {
+        "nick": "菟潞寺沙弥",
+        "homepage": "/u/transienthm"
+      }
+    },
+    {
+      "id": "1190000018368736",
+      "title": "微信小程序之页面打开数量限制",
+      "url": "/a/1190000018368736",
+      "desc": "无论是在小程序还是APP中，打开一个页面其实就是创建了一个新的View对象，一层层叠加的。当点击页面的回退按钮就是把当前页面关闭。",
+      "author": {
+        "nick": "猿天地",
+        "homepage": "/u/yuantiandi"
+      }
+    },
+    {
+      "id": "1190000018368729",
+      "title": "微信小程序之启动页的重要性",
+      "url": "/a/1190000018368729",
+      "desc": "启动页在APP中是个很常见的需求，为什么对于小程序来说也非常重要呢？首先我描述一下我在开发过程中遇到的一些问题以及解决的步骤，到最后为什么要加启动页，看完你就明白了。",
+      "author": {
+        "nick": "猿天地",
+        "homepage": "/u/yuantiandi"
+      }
+    },
+    {
+      "id": "1190000018367933",
+      "title": "SpringBoot 实战 (十四) | 统一处理异常",
+      "url": "/a/1190000018367933",
+      "desc": "如题，今天介绍 SpringBoot 是如何统一处理全局异常的。SpringBoot 中的全局异常处理主要起作用的两个注解是 @ControllerAdvice 和 @ExceptionHandler ，其中 @ControllerAdvice 是组件注解，添加了这个注解的类...",
+      "author": {
+        "nick": "一个优秀的废人",
+        "homepage": "/u/nasus"
+      }
+    },
+    {
+      "id": "1190000018367828",
+      "title": "Spring Data JPA 教程系列 1：使用JPA访问数据",
+      "url": "/a/1190000018367828",
+      "desc": "创建项目 打开IDEA -> Create New Project 创建目录 创建实体 {代码...} 创建 Repository 创建与实体对应的Repository {代码...} 通过继承CrudRepository继承几种增删改查方法，也可以通过方法名支定义其他查...",
+      "author": {
+        "nick": "一念",
+        "homepage": "/u/lightrrrr"
+      }
+    },
+    {
+      "id": "1190000018367503",
+      "title": "【跃迁之路】【740天】程序员高效学习方法论探索系列（实验阶段497-2019.3.2）",
+      "url": "/a/1190000018367503",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000018366709",
+      "title": "monkey-api-encrypt 1.1.2版本发布啦",
+      "url": "/a/1190000018366709",
+      "desc": "时隔10多天，monkey-api-encrypt发布了第二个版本，还是要感谢一些正在使用的朋友们，提出了一些问题。",
+      "author": {
+        "nick": "猿天地",
+        "homepage": "/u/yuantiandi"
+      }
+    },
+    {
+      "id": "1190000018366615",
+      "title": "面试：Semaphore（信号量）的成长之路",
+      "url": "/a/1190000018366615",
+      "desc": "马上就3月份了，所谓的金三银四招聘季。2019年也许是互联网最冷清的一年，很多知名的大型互联网公司都裁员过冬。当然也有一些公司还在持续招人的，比如阿里就宣称不裁员，反而要增加更多的就业机会。",
+      "author": {
+        "nick": "猿天地",
+        "homepage": "/u/yuantiandi"
+      }
+    },
+    {
+      "id": "1190000018366602",
+      "title": "API加密框架原理解密",
+      "url": "/a/1190000018366602",
+      "desc": "关于框架的使用文章请参考： 前后端API交互如何保证数据安全性？：[链接] API数据加密框架monkey-api-encrypt：[链接] monkey-api-encrypt 1.1.2版本发布啦：[链接] 今天的主题是带领大家去了解框架的实现原理以...",
+      "author": {
+        "nick": "猿天地",
+        "homepage": "/u/yuantiandi"
+      }
+    },
+    {
+      "id": "1190000018366270",
+      "title": "springMvc学习笔记（2）",
+      "url": "/a/1190000018366270",
+      "desc": "nginx简介：是异步框架的 Web服务器，也可以用作反向代理，负载平衡器 和 HTTP缓存。该软件由 Igor Sysoev 创建，并于2004年首次公开发布。同名公司成立于2011年，以提供支持。Nginx是免费的开源软件，根据类BSD...",
+      "author": {
+        "nick": "臧琛",
+        "homepage": "/u/zangchen"
+      }
+    },
+    {
+      "id": "1190000018366135",
+      "title": "重拾-Spring-IOC",
+      "url": "/a/1190000018366135",
+      "desc": "使用了 Spring 多年，但是对其底层的一些实现还是一知半解，一些概念比较模糊；故决定重新拾起，加深对 Spring 的认识。",
+      "author": {
+        "nick": "断风雨",
+        "homepage": "/u/duanfengyu"
+      }
+    },
+    {
+      "id": "1190000018365745",
+      "title": "spring boot 中 crud如何优雅的实现-附代码",
+      "url": "/a/1190000018365745",
+      "desc": "crud编写的四种方式 1 裸写crud {代码...} 2 extend AbstractCrudController {代码...} 3 spring data rest {代码...} 4 ControllerHelper 重点来了哈哈 直接上代码 {代码...}",
+      "author": {
+        "nick": "yangrd",
+        "homepage": "/u/yangrd"
+      }
+    },
+    {
+      "id": "1190000018364719",
+      "title": " SSM全局异常处理——两种实用实现方案",
+      "url": "/a/1190000018364719",
+      "desc": "在我们的项目运行过程中，无法完全避免出现一些位置的运行时异常（比如NullPointerException ），而恰恰我们并没有对该异常进行处理，那么就会将此异常抛向用户。",
+      "author": {
+        "nick": "IAmDouPan",
+        "homepage": "/u/iamdoupan"
+      }
+    },
+    {
+      "id": "1190000018363162",
+      "title": "Object类深入研究",
+      "url": "/a/1190000018363162",
+      "desc": "Object类深入研究 Object类有哪些方法 registerNatives()【底层实现、不研究】 hashCode() equals(Object obj) clone() toString() notify() notifyAll() wait(long timeout)【还有重载了两个】 finalize() Objec...",
+      "author": {
+        "nick": "玛奇朵加点糖",
+        "homepage": "/u/zhangyuangang"
+      }
+    },
+    {
+      "id": "1190000018363140",
+      "title": "Java锁机制",
+      "url": "/a/1190000018363140",
+      "desc": "synchronized 简介 synchronized是Java的一个关键字，它能够将代码块(方法)锁起来 synchronized是一种互斥锁 一次只能允许一个线程进入被锁住的代码块",
+      "author": {
+        "nick": "玛奇朵加点糖",
+        "homepage": "/u/zhangyuangang"
+      }
+    }
+  ]
+}
