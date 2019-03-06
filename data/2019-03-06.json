@@ -1,0 +1,155 @@
+{
+  "watchNum": "42701",
+  "blogs": [
+    {
+      "id": "1190000018406682",
+      "title": "各个软件的用处",
+      "url": "/a/1190000018406682",
+      "desc": "Abbyy Lingvo x3 学习办公类软件。运行于mobile平台的软件。多语言词典。提供了快速，准确的单词和短语的翻译设备。帮助人们有效沟通，消除需要携带纸卷的必要。一个单一的接入点与250多个涵盖30种语言的字典。用...",
+      "author": {
+        "nick": "蒙奇D颖",
+        "homepage": "/u/mengqidying"
+      }
+    },
+    {
+      "id": "1190000018402597",
+      "title": "使用SpringSecurity处理CSRF攻击",
+      "url": "/a/1190000018402597",
+      "desc": "CSRF（Cross-site request forgery）跨站请求伪造，也被称为One Click Attack或者Session Riding，通常缩写为CSRF或XSRF，是一种对网站的恶意利用。尽管听起来像跨站脚本（XSS），但它与XSS非常不同，XSS利用站点...",
+      "author": {
+        "nick": "BBFBBF",
+        "homepage": "/u/goodlucklq"
+      }
+    },
+    {
+      "id": "1190000018402490",
+      "title": "Spring Cloud Gateway的全局异常处理",
+      "url": "/a/1190000018402490",
+      "desc": "Spring Cloud Gateway中的全局异常处理不能直接用@ControllerAdvice来处理，通过跟踪异常信息的抛出，找到对应的源码，自定义一些处理逻辑来符合业务的需求。",
+      "author": {
+        "nick": "猿天地",
+        "homepage": "/u/yuantiandi"
+      }
+    },
+    {
+      "id": "1190000018402335",
+      "title": "spring cloud gateway 全局过滤器",
+      "url": "/a/1190000018402335",
+      "desc": "全局过滤器作用于所有的路由，不需要单独配置，我们可以用它来实现很多统一化处理的业务需求，比如权限认证，IP访问限制等等。",
+      "author": {
+        "nick": "猿天地",
+        "homepage": "/u/yuantiandi"
+      }
+    },
+    {
+      "id": "1190000018401456",
+      "title": "小伙子，你真的搞懂 transient  关键字了吗？",
+      "url": "/a/1190000018401456",
+      "desc": "我们的对象并不只是存在内存中，还需要传输网络，或者保存起来下次再加载出来用，所以需要Java序列化技术。",
+      "author": {
+        "nick": "Java技术栈",
+        "homepage": "/u/javastack"
+      }
+    },
+    {
+      "id": "1190000018400594",
+      "title": "Laravel 和 Spring Boot 两个框架比较创业篇（一：开发效率）",
+      "url": "/a/1190000018400594",
+      "desc": "这里比较不是从技术角度比较，而是从公司技术选型考虑的，特别是初创的互联网创业公司。没办法，谁让互联网公司离不开软件呢！哈哈哈。",
+      "author": {
+        "nick": "曾俊杰",
+        "homepage": "/u/zengjunjie"
+      }
+    },
+    {
+      "id": "1190000018399962",
+      "title": "Java 线程池的认识和使用",
+      "url": "/a/1190000018399962",
+      "desc": "多线程编程很难，难点在于多线程代码的执行不是按照我们直觉上的执行顺序。所以多线程编程必须要建立起一个宏观的认识。",
+      "author": {
+        "nick": "沉静",
+        "homepage": "/u/chenjingtech"
+      }
+    },
+    {
+      "id": "1190000018399795",
+      "title": "Java基础进阶之ThreadLocal详解",
+      "url": "/a/1190000018399795",
+      "desc": "ThreadLocal基本在项目开发中基本不会用到, 但是面试官是比较喜欢问这类问题的;所以还是有必要了解一下该类的功能与原理的.",
+      "author": {
+        "nick": "terryKing1992",
+        "homepage": "/u/terryking1992"
+      }
+    },
+    {
+      "id": "1190000018399246",
+      "title": "算法分析 - Algorithms, Part I, week 1 ANALYSIS OF ALGORITHMS",
+      "url": "/a/1190000018399246",
+      "desc": "在算法性能上我们常常面临的挑战是我们的程序能否求解实际中的大型输入：--为什么程序运行的慢?--为什么程序耗尽了内存?",
+      "author": {
+        "nick": "黑洞的奥义",
+        "homepage": "/u/heidongdeaoyi"
+      }
+    },
+    {
+      "id": "1190000018399027",
+      "title": "程序猿：论学习方式的重要性",
+      "url": "/a/1190000018399027",
+      "desc": "大家都知道，做我们开发这行的，最核心的竞争力就是学习能力。技术一直在变化，框架一直在更新，学还是不学。",
+      "author": {
+        "nick": "猿天地",
+        "homepage": "/u/yuantiandi"
+      }
+    },
+    {
+      "id": "1190000018397349",
+      "title": "12.java 接口",
+      "url": "/a/1190000018397349",
+      "desc": "接口，在JAVA编程语言中是一个引用类型，是抽象方法的集合，接口通常以interface来声明。一个类通过继承接口的方式，从而来继承接口的抽象方法。",
+      "author": {
+        "nick": "shenlanzifa",
+        "homepage": "/u/shenlanzifa"
+      }
+    },
+    {
+      "id": "1190000018397324",
+      "title": "【金三银四】面试题之java基础",
+      "url": "/a/1190000018397324",
+      "desc": "1、简述Java程序编译和运行的过程：答：① Java编译程序将Java源程序翻译为JVM可执行代码--字节码，创建完源文件之后，程序会先被编译成 “.class” 文件。② 在编译好的java程序得到“.class”文件后，使用命令java 运...",
+      "author": {
+        "nick": "细说架构",
+        "homepage": "/u/talkarch"
+      }
+    },
+    {
+      "id": "1190000018397285",
+      "title": "【金三银四】面试题之java基础",
+      "url": "/a/1190000018397285",
+      "desc": "1、简述Java程序编译和运行的过程：答：① Java编译程序将Java源程序翻译为JVM可执行代码--字节码，创建完源文件之后，程序会先被编译成 “.class” 文件。② 在编译好的java程序得到“.class”文件后，使用命令java 运...",
+      "author": {
+        "nick": "细说架构",
+        "homepage": "/u/talkarch"
+      }
+    },
+    {
+      "id": "1190000018397282",
+      "title": "11. java 抽象类",
+      "url": "/a/1190000018397282",
+      "desc": "在面向对象的概念中，所有的对象都是通过类来描绘的，但是反过来，并不是所有的类都是用来描绘对象的，如果一个类中没有包含足够的信息来描绘一个具体的对象，这样的类就是抽象类。",
+      "author": {
+        "nick": "shenlanzifa",
+        "homepage": "/u/shenlanzifa"
+      }
+    },
+    {
+      "id": "1190000018397257",
+      "title": "10. java 重写和重载",
+      "url": "/a/1190000018397257",
+      "desc": "继承的主要特性是子类可以根据父类已有功能的基础上进行扩展，但是也有可能对父类的属性和方法进行重写/覆写。",
+      "author": {
+        "nick": "shenlanzifa",
+        "homepage": "/u/shenlanzifa"
+      }
+    }
+  ]
+}
