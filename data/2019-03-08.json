@@ -1,0 +1,155 @@
+{
+  "watchNum": "43053",
+  "blogs": [
+    {
+      "id": "1190000018433866",
+      "title": "浅析 jdk11 中 HttpClient 的使用",
+      "url": "/a/1190000018433866",
+      "desc": "java.net.http.HttpClient 是 jdk11 中正式启用的一个 http 工具类(其实早在 jdk9 的时候就已经存在了，只是处于孵化期)，官方寓意为想要取代 HttpURLConnection 和 Apache HttpClient 等比较古老的开发工具。",
+      "author": {
+        "nick": "三流",
+        "homepage": "/u/sanliu"
+      }
+    },
+    {
+      "id": "1190000018433545",
+      "title": "Spring Boot中整合Sharding-JDBC单库分表示例",
+      "url": "/a/1190000018433545",
+      "desc": "本文是Sharding-JDBC采用Spring Boot Starter方式配置第二篇，第一篇是读写分离讲解，请参考：《Spring Boot中整合Sharding-JDBC读写分离示例》",
+      "author": {
+        "nick": "猿天地",
+        "homepage": "/u/yuantiandi"
+      }
+    },
+    {
+      "id": "1190000018433527",
+      "title": "Spring Cloud Gateway 之 AddRequestHeader GatewayFilter Factory",
+      "url": "/a/1190000018433527",
+      "desc": "Route filters allow the modification of the incoming HTTP request or outgoing HTTP response in some manner. Route filters are scoped to a particular route. Spring Cloud Gateway includes many built-...",
+      "author": {
+        "nick": "猿天地",
+        "homepage": "/u/yuantiandi"
+      }
+    },
+    {
+      "id": "1190000018433482",
+      "title": "单点登录系统SSO概述 | 单点登录讲解（1）",
+      "url": "/a/1190000018433482",
+      "desc": "单点登录顾名思义就是从一个系统进行登录操作，就可以访问其他附近的系统。单点登录避免了用户重复的登录过程，在整个核心业务中起到了一个基层的辅助作用。",
+      "author": {
+        "nick": "Shimmer",
+        "homepage": "/u/shimmer_5bbffffb26ebf"
+      }
+    },
+    {
+      "id": "1190000018433419",
+      "title": "力扣(LeetCode)113",
+      "url": "/a/1190000018433419",
+      "desc": "题目地址：[链接]题目描述：给定一个二叉树和一个目标和，找到所有从根节点到叶子节点路径总和等于给定目标和的路径。",
+      "author": {
+        "nick": "Linus脱袜子",
+        "homepage": "/u/qiuqi_turing"
+      }
+    },
+    {
+      "id": "1190000018433352",
+      "title": "天气预报微服务 | 从0开始构建SpringCloud微服务(8)",
+      "url": "/a/1190000018433352",
+      "desc": "本项目实现的是将一个简单的天气预报系统一步一步改造成一个SpringCloud微服务系统的过程，本节主要讲的是单块架构改造成微服务架构的过程，最终将原来单块架构的天气预报服务拆分为四个微服务：城市数据API微服...",
+      "author": {
+        "nick": "Shimmer",
+        "homepage": "/u/shimmer_5bbffffb26ebf"
+      }
+    },
+    {
+      "id": "1190000018431965",
+      "title": "Java初学者最佳的学习方法以及会遇到的坑（内含学习资料）！",
+      "url": "/a/1190000018431965",
+      "desc": "最近系统整理了一套java初学者最佳的学习方法以及会遇到的坑等，希望对你有所帮助。 目录： 一、学习java的前提 二、学习java的方法 三、学习java时的坑 四、学习java的路线（画重点） 一、学习java的前提 赚钱的...",
+      "author": {
+        "nick": "孤独键客",
+        "homepage": "/u/gudujianke"
+      }
+    },
+    {
+      "id": "1190000018430261",
+      "title": "Java调用离线人脸识别SDK 虹软arcface 2.0 ",
+      "url": "/a/1190000018430261",
+      "desc": "由于业务需求，最近跟人脸识别杠上了，本以为虹软提供的SDK是那种面向开发语言的，结果是一堆dll······像我这样的Java猿突然就感觉整个人都不好了；近期赶上了SDK2.0的升级，在官方论坛、Google、百度、QQ等等的...",
+      "author": {
+        "nick": "KEAIILIN",
+        "homepage": "/u/keaiilin"
+      }
+    },
+    {
+      "id": "1190000018430156",
+      "title": "Java 200+ 面试题补充② Netty 模块",
+      "url": "/a/1190000018430156",
+      "desc": "Netty 是一款基于 NIO（Nonblocking I/O，非阻塞IO）开发的网络通信框架，对比于 BIO（Blocking I/O，阻塞IO），他的并发性能得到了很大提高。难能可贵的是，在保证快速和易用性的同时，并没有丧失可维护性和性能...",
+      "author": {
+        "nick": "王磊的博客",
+        "homepage": "/u/vipstone"
+      }
+    },
+    {
+      "id": "1190000018430130",
+      "title": "分布式系统「伸缩性」大招之——「水平&垂直切分」详解",
+      "url": "/a/1190000018430130",
+      "desc": "如果第二次看到我的文章，欢迎下方扫码订阅我的个人公众号（跨界架构师）哟~本文长度为5389字，建议阅读14分钟。坚持原创，每一篇都是用心之作～",
+      "author": {
+        "nick": "Zachary",
+        "homepage": "/u/zachary_5b7b78d91f94d"
+      }
+    },
+    {
+      "id": "1190000018429625",
+      "title": "天气数据API微服务 | 从0开始构建SpringCloud微服务(7)",
+      "url": "/a/1190000018429625",
+      "desc": "本项目实现的是将一个简单的天气预报系统一步一步改造成一个SpringCloud微服务系统的过程，本节主要讲的是单块架构改造成微服务架构的过程，最终将原来单块架构的天气预报服务拆分为四个微服务：城市数据API微服...",
+      "author": {
+        "nick": "Shimmer",
+        "homepage": "/u/shimmer_5bbffffb26ebf"
+      }
+    },
+    {
+      "id": "1190000018428838",
+      "title": "假如我是面试官，我会这样虐你",
+      "url": "/a/1190000018428838",
+      "desc": "又是金三银四的时候，我希望这份面试题能够祝你一臂之力！ 自我和项目相关 1、自我介绍 2、你觉得自己的优点是？你觉得自己有啥缺点？ 3、你有哪些 offer？ 4、你为什么要离开上家公司？你上家公司在xxx，我们公...",
+      "author": {
+        "nick": "zhisheng",
+        "homepage": "/u/zhisheng"
+      }
+    },
+    {
+      "id": "1190000018427931",
+      "title": "leetcode355. Design Twitter",
+      "url": "/a/1190000018427931",
+      "desc": "设计一个迷你推特，要求能够支持以下几个方法：发布推特，关注用户，取关用户，查看最近的十条关注用户发送的推特。",
+      "author": {
+        "nick": "raledong",
+        "homepage": "/u/raledong"
+      }
+    },
+    {
+      "id": "1190000018426565",
+      "title": "validform表单验证",
+      "url": "/a/1190000018426565",
+      "desc": "validform插件主要把所有的验证条件和验证提示信息绑定到每个表单元素，这种形式非常方便，下面写法更加智能得到label内容来提示",
+      "author": {
+        "nick": "学问思辨行",
+        "homepage": "/u/xuewensibianxing"
+      }
+    },
+    {
+      "id": "1190000018426434",
+      "title": "你应该知道的缓存进化史",
+      "url": "/a/1190000018426434",
+      "desc": "本文是上周去技术沙龙听了一下爱奇艺的Java缓存之路有感写出来的。先简单介绍一下爱奇艺的java缓存道路的发展吧。",
+      "author": {
+        "nick": "公众号_咖啡拿铁",
+        "homepage": "/u/gongzhonghao_kafeinatie"
+      }
+    }
+  ]
+}
