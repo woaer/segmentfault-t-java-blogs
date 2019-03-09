@@ -1,0 +1,155 @@
+{
+  "watchNum": "43193",
+  "blogs": [
+    {
+      "id": "1190000018443585",
+      "title": "你的项目应该如何分层？",
+      "url": "/a/1190000018443585",
+      "desc": "说起应用分层，大部分人都会认为这个不是很简单嘛 就controller，service, mapper三层。看起来简单，很多人其实并没有把他们职责划分开，在很多代码中,controller做的逻辑比service还多,service往往当成透传了，...",
+      "author": {
+        "nick": "公众号_咖啡拿铁",
+        "homepage": "/u/gongzhonghao_kafeinatie"
+      }
+    },
+    {
+      "id": "1190000018443433",
+      "title": "请求转发和重定向的区别",
+      "url": "/a/1190000018443433",
+      "desc": "请求转发：request.getRequestDispatcher(跳转页面).forward(request,response);重定向：response.sendRedirect(跳转页面)；",
+      "author": {
+        "nick": "一路有你",
+        "homepage": "/u/xuxiaominxxm"
+      }
+    },
+    {
+      "id": "1190000018443426",
+      "title": "跨越逐梦路上的荆棘(程序猿生存篇)",
+      "url": "/a/1190000018443426",
+      "desc": "时光荏苒，岁月如梭。曾经的小学生，初中生现如今已是社会的中流砥柱。随着科技时代的迅猛发展，曾经的荒土，已是星罗棋布高楼耸立。其中不乏科技相关的楼宇，俗称互联网公司。也许你，现在就正处于其中。",
+      "author": {
+        "nick": "幸福村的码农",
+        "homepage": "/u/xingfucundemanong"
+      }
+    },
+    {
+      "id": "1190000018442598",
+      "title": "认识Restful API",
+      "url": "/a/1190000018442598",
+      "desc": "REST，即Representational State Transfer的缩写。直接翻译的意思是\"表现层状态转化\"。它是一种互联网应用程序的API设计理念：URL定位资源，用HTTP动词（GET,POST,DELETE,DETC）描述操作。",
+      "author": {
+        "nick": "赵栩彬",
+        "homepage": "/u/crabapple"
+      }
+    },
+    {
+      "id": "1190000018442144",
+      "title": "同域下单点登录分析 | 单点登录讲解（2）",
+      "url": "/a/1190000018442144",
+      "desc": "本项目主要讲解的是单点登录系统的原理及其实现。 相关代码github链接。 本章主要讲解的是同域下单点登录分析。 同域下SSO分析与设计 流程图虽然看着复杂，但大家不要被吓到啦^ _ ^，请大家参照着流程路，听我下...",
+      "author": {
+        "nick": "Shimmer",
+        "homepage": "/u/shimmer_5bbffffb26ebf"
+      }
+    },
+    {
+      "id": "1190000018440644",
+      "title": "Java 开启 gc 日志",
+      "url": "/a/1190000018440644",
+      "desc": "使用 Spring Boot 构建一个简单的 web 程序，可以直接使用 java -jar 来启动。",
+      "author": {
+        "nick": "Simeone_xu",
+        "homepage": "/u/simeone_xu"
+      }
+    },
+    {
+      "id": "1190000018440147",
+      "title": "Java基础之线程Thread",
+      "url": "/a/1190000018440147",
+      "desc": "在程序开发中, 一定遇到并发编程的场景, 虽然我们大部分时间并不直接使用Thread, 但是Thread是多线程的基础, 面试中也会总是被问到与线程有关的问题; 那么线程都有哪些知识呢? 最近在研究线程的源码的时候也总结...",
+      "author": {
+        "nick": "terryKing1992",
+        "homepage": "/u/terryking1992"
+      }
+    },
+    {
+      "id": "1190000018439459",
+      "title": "记录一次windows server上，反向代理服务器的配置和使用",
+      "url": "/a/1190000018439459",
+      "desc": "他们提供了客户端demo，http请求是用裸socket手动加http头，写死了http1.1，但又不带'host'这个http header",
+      "author": {
+        "nick": "nifhlheimr",
+        "homepage": "/u/nifhlheimr"
+      }
+    },
+    {
+      "id": "1190000018439282",
+      "title": "comet实现（原理）",
+      "url": "/a/1190000018439282",
+      "desc": "最近对服务器推送技术比较感兴趣，在网上也看了好些文章，由于每个人理解的不同，实现细节或者语言表达方式不同，本人被各种名词或者技术实现搞的头大，于是自己准备整理下。",
+      "author": {
+        "nick": "javascriptMen",
+        "homepage": "/u/javascriptmen"
+      }
+    },
+    {
+      "id": "1190000018438493",
+      "title": "leetcode402. Remove K Digits",
+      "url": "/a/1190000018438493",
+      "desc": "直观的来说，删除数字得到最小的数字意味着我们应当尽可能的将越小的数字保留在高位，因此当我们从左往右遍历时，一旦遇到比前一个数字更小的数字，就应当删除前一个数字而保留这个数字。当我们用尽了所有删除时...",
+      "author": {
+        "nick": "raledong",
+        "homepage": "/u/raledong"
+      }
+    },
+    {
+      "id": "1190000018438439",
+      "title": "【跃迁之路】【746天】程序员高效学习方法论探索系列（实验阶段503-2019.3.8）",
+      "url": "/a/1190000018438439",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000018438157",
+      "title": "集成源码深度剖析：Fescar x Spring Cloud",
+      "url": "/a/1190000018438157",
+      "desc": "常见的分布式事务方式有基于 2PC 的 XA (e.g. atomikos)，从业务层入手的 TCC( e.g. byteTCC)、事务消息 ( e.g. RocketMQ Half Message) 等等。XA 是需要本地数据库支持的分布式事务的协议，资源锁在数据库层面导...",
+      "author": {
+        "nick": "阿里云云栖社区",
+        "homepage": "/u/yunqishequ_5aa899aad5395"
+      }
+    },
+    {
+      "id": "1190000018438012",
+      "title": "集合类List 的接口定义",
+      "url": "/a/1190000018438012",
+      "desc": "目标：先看一下在JAVA中都包含了哪些集合类？首先我们看一下 List 相关的一些类，并搞清楚他们究竟有哪些实现类，并且这些实现类的使用场景都是什么。",
+      "author": {
+        "nick": "fixme",
+        "homepage": "/u/fixme"
+      }
+    },
+    {
+      "id": "1190000018437496",
+      "title": "POI如何高效导出百万级Excel数据？",
+      "url": "/a/1190000018437496",
+      "desc": "在一个具有统计功能的系统中，导出excel功能几乎是一定的，如何导出excel？导出的数据有多少？如何高效的导出？",
+      "author": {
+        "nick": "码上实战",
+        "homepage": "/u/flyhero"
+      }
+    },
+    {
+      "id": "1190000018437488",
+      "title": "力扣(LeetCode)199",
+      "url": "/a/1190000018437488",
+      "desc": "题目地址：[链接]题目描述：给定一棵二叉树，想象自己站在它的右侧，按照从顶部到底部的顺序，返回从右侧所能看到的节点值。",
+      "author": {
+        "nick": "Linus脱袜子",
+        "homepage": "/u/qiuqi_turing"
+      }
+    }
+  ]
+}
