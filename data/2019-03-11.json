@@ -1,0 +1,155 @@
+{
+  "watchNum": "43360",
+  "blogs": [
+    {
+      "id": "1190000018457621",
+      "title": "使用神器Lombok优雅编码",
+      "url": "/a/1190000018457621",
+      "desc": "近来偶遇一款撸码神器，介绍给大家~相信许多小伙伴都深有体会，POJO类中的千篇一律的getter/setter，constructor等方法让人写的揪心，那么今天就有一种方法可以残暴的解决这个问题。接下来为大家介绍这款神器：Lo...",
+      "author": {
+        "nick": "荆轲乐逍遥",
+        "homepage": "/u/panjingg"
+      }
+    },
+    {
+      "id": "1190000018455974",
+      "title": "轻松学会代理模式",
+      "url": "/a/1190000018455974",
+      "desc": "在代理模式（Proxy Pattern）中，一个类代表另一个类的功能。这种类型的设计模式属于结构型模式。",
+      "author": {
+        "nick": "admin79",
+        "homepage": "/u/admin79"
+      }
+    },
+    {
+      "id": "1190000018455694",
+      "title": "SpringMVC接收和响应json数据",
+      "url": "/a/1190000018455694",
+      "desc": "前后端的数据交互，除了通过form表单进行提交外，也可以通过ajax向后端传递和接收json格式数据（这种方式可以实现请求数据和页面分离）。本文将总结一下在Spring MVC中接收和响应json数据的几种方式。",
+      "author": {
+        "nick": "RainNenya",
+        "homepage": "/u/rainnenya"
+      }
+    },
+    {
+      "id": "1190000018455639",
+      "title": "Spring Boot中整合Sharding-JDBC读写分离示例",
+      "url": "/a/1190000018455639",
+      "desc": "在我《Spring Cloud微服务-全栈技术与案例解析》书中，第18章节分库分表解决方案里有对Sharding-JDBC的使用进行详细的讲解。",
+      "author": {
+        "nick": "猿天地",
+        "homepage": "/u/yuantiandi"
+      }
+    },
+    {
+      "id": "1190000018455122",
+      "title": "基于虹软人脸识别ArcFace 2.0 服务端Java 版Demo",
+      "url": "/a/1190000018455122",
+      "desc": "Jdk8、mysql5.7、libarcsoft_face.dll(so)、libarcsoft_face_engine.dll(so)、libarcsoft_face_engine_jni.dll(so)、idea",
+      "author": {
+        "nick": "KEAIILIN",
+        "homepage": "/u/keaiilin"
+      }
+    },
+    {
+      "id": "1190000018455078",
+      "title": "如何实现页面广告随时上下线、过期自动下线及到时自动上线",
+      "url": "/a/1190000018455078",
+      "desc": "最近需要实现一个功能，关于页面广告自动配置的，如支付宝的支付完成页。这篇文章是记录对这个需求从分析到实现以及优化的过程，以免以后忘记。",
+      "author": {
+        "nick": "biggerboy",
+        "homepage": "/u/kongbaidebai"
+      }
+    },
+    {
+      "id": "1190000018453647",
+      "title": "记一次线上频繁FGC的事件和解决方式",
+      "url": "/a/1190000018453647",
+      "desc": "早上去公司上班,突然就邮件一直报警,接口报异常,然后去查服务器的运行情况,发现java的cpu爆了.接着就开始排查问题",
+      "author": {
+        "nick": "我想问问天",
+        "homepage": "/u/wxwwt"
+      }
+    },
+    {
+      "id": "1190000018453624",
+      "title": "hibernate多对多，单个修改很伤神",
+      "url": "/a/1190000018453624",
+      "desc": "客户单击项目详细时，会跳转到项目详细页面。用户单击红框中的加号，页面弹出选择标签页面。用户单击待选标签中的标签，当前标签会被保存到数据库中。",
+      "author": {
+        "nick": "念兮",
+        "homepage": "/u/nian_5aedc008c1353"
+      }
+    },
+    {
+      "id": "1190000018453602",
+      "title": "分布式配置中心：Spring Cloud Config",
+      "url": "/a/1190000018453602",
+      "desc": "创建一个基础Spring Boot工程，命名为config-server，并在pom.xml中引入以下依赖：",
+      "author": {
+        "nick": "aa东",
+        "homepage": "/u/aadong"
+      }
+    },
+    {
+      "id": "1190000018453314",
+      "title": " 【跃迁之路】【748天】程序员高效学习方法论探索系列（实验阶段505-2019.3.10）",
+      "url": "/a/1190000018453314",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000018452179",
+      "title": "实现简单的Tomcat | Tomcat原理学习（1）",
+      "url": "/a/1190000018452179",
+      "desc": "用了那么久tomcat，突然觉得自己对它或许并没有想象中的那么熟悉，所以趁着放假我研究了一下这只小猫咪，实现了自己的小tomcat，写出这篇文章同大家一起分享！",
+      "author": {
+        "nick": "Shimmer",
+        "homepage": "/u/shimmer_5bbffffb26ebf"
+      }
+    },
+    {
+      "id": "1190000018451551",
+      "title": "一切都是对象",
+      "url": "/a/1190000018451551",
+      "desc": "之前自己学习Java就是以系统的角度去学习，就是我们把这些知识点罗列出来，然后做一个全面的学习。这样的的确确可以将知识点都学习全面，但是自己理解上来说还是很浅层次的。如果一段时间没有去使用Java我觉得自...",
+      "author": {
+        "nick": "勤思",
+        "homepage": "/u/qinsi"
+      }
+    },
+    {
+      "id": "1190000018451330",
+      "title": "漫谈Exception与Result",
+      "url": "/a/1190000018451330",
+      "desc": "在分布式系统开发中，我们经常需要将各种各样的状态码、错误信息传递给最外层的调用方，这个调用方通常是http/api接口，错误信息比如登录失效、参数错误等等。",
+      "author": {
+        "nick": "sisyphsu",
+        "homepage": "/u/sisyphsu"
+      }
+    },
+    {
+      "id": "1190000018450981",
+      "title": "[闹着玩-2]spring-mvc 主要流程",
+      "url": "/a/1190000018450981",
+      "desc": "SpringMvc 【源码仓库】【本文仓库】 三层结构 表现层 MVC模型 业务层 service 持久层 dao 工作流程 {代码...} 简单案例 依赖 {代码...} spring-config {代码...} web.xml {代码...} controller {代码...} item.J...",
+      "author": {
+        "nick": "wt1187982580",
+        "homepage": "/u/wt1187982580"
+      }
+    },
+    {
+      "id": "1190000018450739",
+      "title": "想在Java中实现Excel和Csv的导出吗？看这就对了",
+      "url": "/a/1190000018450739",
+      "desc": "title: 想在Java中实现Excel和Csv的导出吗？看这就对了date: 2019-03-01 20:07:07tags: Javakeywords: Java导出Excel和Csv",
+      "author": {
+        "nick": "detectiveHLH",
+        "homepage": "/u/detectivehlh"
+      }
+    }
+  ]
+}
