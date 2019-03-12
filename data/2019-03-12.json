@@ -1,0 +1,155 @@
+{
+  "watchNum": "43522",
+  "blogs": [
+    {
+      "id": "1190000018472893",
+      "title": "Sentinel: 使用注解限流",
+      "url": "/a/1190000018472893",
+      "desc": "在前面我们对Sentinel做了一个详细的介绍，可以手动的通过Sentinel提供的SphU类来保护资源。这种做法不好的地方在于每个需要限制的地方都得写代码，从 0.1.1 版本开始，Sentinel 提供了 @SentinelResource 注解的...",
+      "author": {
+        "nick": "猿天地",
+        "homepage": "/u/yuantiandi"
+      }
+    },
+    {
+      "id": "1190000018472572",
+      "title": "几个数据持久化框架Hibernate、JPA、Mybatis、JOOQ和JDBC Template的比较",
+      "url": "/a/1190000018472572",
+      "desc": "因为项目需要选择数据持久化框架，看了一下主要几个流行的和不流行的框架，对于复杂业务系统，最终的结论是，JOOQ是总体上最好的，可惜不是完全免费，最终选择JDBC Template。",
+      "author": {
+        "nick": "scherman",
+        "homepage": "/u/scherman"
+      }
+    },
+    {
+      "id": "1190000018471055",
+      "title": "PHP比特币开发系列教程汇总",
+      "url": "/a/1190000018471055",
+      "desc": "创建一个机器人 机器人接受比特币并立即退还用户 创建比特币钱包 其他编程语言比特币开发教程如下： Python 比特币开发教程 Go 比特币开发教程 Java 比特币开发教程 Node.js 比特币开发教程 C# 比特币开发教程 开...",
+      "author": {
+        "nick": "Mixin_Network",
+        "homepage": "/u/mixin_network"
+      }
+    },
+    {
+      "id": "1190000018470610",
+      "title": "Eclipse配置Tomcat8.5（显示Servers设置）",
+      "url": "/a/1190000018470610",
+      "desc": "3、选择Apache Tomcat v8.0 -->Browse 找到Tomcat8.5的安装路径，会提示版本不对应的出错The Apache Tomcat installation at this directory is version 8.5.37. A Tomcat 8.0 installation is expected.（如...",
+      "author": {
+        "nick": "EvelynCute",
+        "homepage": "/u/evelyncute"
+      }
+    },
+    {
+      "id": "1190000018470235",
+      "title": "为什么开发人员必须要了解数据库锁？",
+      "url": "/a/1190000018470235",
+      "desc": "锁在现实中的意义为:封闭的器物，以钥匙或暗码开启。在计算机中的锁一般用来管理对共享资源的并发访问，比如我们java同学熟悉的Lock,synchronized等都是我们常见的锁。当然在我们的数据库中也有锁用来控制资源的...",
+      "author": {
+        "nick": "公众号_咖啡拿铁",
+        "homepage": "/u/gongzhonghao_kafeinatie"
+      }
+    },
+    {
+      "id": "1190000018470072",
+      "title": "2019 Android 高级面试题总结",
+      "url": "/a/1190000018470072",
+      "desc": "使用场景比如最常见的AlertDialog,拿我们开发过程中举例，比如Camera开发过程中，可能需要设置一个初始化的相机配置，设置摄像头方向，闪光灯开闭，成像质量等等，这种场景下就可以使用建造者模式",
+      "author": {
+        "nick": "爱编码的coder",
+        "homepage": "/u/chengxuyuanxiaohui"
+      }
+    },
+    {
+      "id": "1190000018469427",
+      "title": "JAVA开发者大会-Spring Cloud网关分享",
+      "url": "/a/1190000018469427",
+      "desc": "新书购买：单本75折包邮",
+      "author": {
+        "nick": "猿天地",
+        "homepage": "/u/yuantiandi"
+      }
+    },
+    {
+      "id": "1190000018469121",
+      "title": "spring boot学习(2): SpringApplication和自定义banner",
+      "url": "/a/1190000018469121",
+      "desc": "SpringApplication 一般，我们用 SpringApplication 来启动spring boot应用。如 {代码...} 还有其他两种方式： 自定义SpringApplication： {代码...} 使用Builder: {代码...} 自定义banner 自定义文本 在 resourc...",
+      "author": {
+        "nick": "posuoren",
+        "homepage": "/u/posuoren"
+      }
+    },
+    {
+      "id": "1190000018469096",
+      "title": "Spring Cloud Gateway重试机制",
+      "url": "/a/1190000018469096",
+      "desc": "重试，我相信大家并不陌生。在我们调用Http接口的时候，总会因为某种原因调用失败，这个时候我们可以通过重试的方式，来重新请求接口。",
+      "author": {
+        "nick": "猿天地",
+        "homepage": "/u/yuantiandi"
+      }
+    },
+    {
+      "id": "1190000018468016",
+      "title": "便捷代码在线运行工具",
+      "url": "/a/1190000018468016",
+      "desc": "如果需要学习语言，比如有一些语言特性不太了解需要写一些简单的demo做一些验证(我经常做)，那么先搭建一个环境去跑就有一点麻烦了。",
+      "author": {
+        "nick": "monsterooo",
+        "homepage": "/u/monsterooo_57a3887d6a00a"
+      }
+    },
+    {
+      "id": "1190000018467843",
+      "title": "浅谈Java克隆",
+      "url": "/a/1190000018467843",
+      "desc": "何谓深浅？程度而已。 克隆：复制一份 被克隆的类实现Cloneable接口，覆盖clone()方法，返回调用父类的clone()即可。 {代码...} 然后，克隆时只须调用我们刚刚覆盖的clone()。 浅拷贝 现在有Child类： {代码...} ...",
+      "author": {
+        "nick": "清无色",
+        "homepage": "/u/qinvis"
+      }
+    },
+    {
+      "id": "1190000018466569",
+      "title": "Spring源码一（容器的基本实现3）",
+      "url": "/a/1190000018466569",
+      "desc": "当我们创建了bean信息的承载实例之后， 便可以进行bean信息的各种属性的解析了， 首先我们进入parseBeanDefinitionAttributes方法，parseBeanDefinitionAttributes方法是对element所有元素属性进行解析：/**",
+      "author": {
+        "nick": "Andy",
+        "homepage": "/u/segmentfaultandywong"
+      }
+    },
+    {
+      "id": "1190000018465800",
+      "title": "leetcode406. Queue Reconstruction by Height",
+      "url": "/a/1190000018465800",
+      "desc": "假设有一组人站成一堆，每个人都记录下了自己的高度，以及在自己前面有多少个不比自己矮的人。现在请按照这个信息将这组人放在队列中正确的位置上并返回。",
+      "author": {
+        "nick": "raledong",
+        "homepage": "/u/raledong"
+      }
+    },
+    {
+      "id": "1190000018464050",
+      "title": "Java 多线程中篇",
+      "url": "/a/1190000018464050",
+      "desc": "两个线程在一起执行 printString 方法, 并且交叉打印. 也就是说当我们启动一个线程执行某个方法的时候就是异步执行, 至于为啥要这样演示, 是因为下面的同步.",
+      "author": {
+        "nick": "sc_ik",
+        "homepage": "/u/sc_ik"
+      }
+    },
+    {
+      "id": "1190000018463888",
+      "title": "vo和dto拓展实体",
+      "url": "/a/1190000018463888",
+      "desc": "写好dto实体 1） 如果dto为参数 映射文件不用写dto对象类型 2） 如果dto为返回值 映射文件要写dto对象类型",
+      "author": {
+        "nick": "学问思辨行",
+        "homepage": "/u/xuewensibianxing"
+      }
+    }
+  ]
+}
