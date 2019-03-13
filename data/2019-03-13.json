@@ -1,0 +1,155 @@
+{
+  "watchNum": "43714",
+  "blogs": [
+    {
+      "id": "1190000018486786",
+      "title": "商品、订单、购物车和订单商品快照的关系，初步了解成为架构师的思想",
+      "url": "/a/1190000018486786",
+      "desc": "最近见同事在做订单和订单材料快照这方面的业务，这其实就像淘宝上的商品，不过，这里是材料了。它一共涉及到 五 张表：",
+      "author": {
+        "nick": "念兮",
+        "homepage": "/u/nian_5aedc008c1353"
+      }
+    },
+    {
+      "id": "1190000018485946",
+      "title": "轻松搞定Java位运算",
+      "url": "/a/1190000018485946",
+      "desc": "我们日常开发中为运算使用的并不多，但如果能巧妙的使用位运算可以减少运行开销和优化算法，通过Java的源码可知，如HashMap。",
+      "author": {
+        "nick": "码上实战",
+        "homepage": "/u/flyhero"
+      }
+    },
+    {
+      "id": "1190000018485733",
+      "title": "【Android开发技巧】在Activity页面中如何实现Fragment数据的缓加载",
+      "url": "/a/1190000018485733",
+      "desc": "渐渐的在开发道路上更注重App的性能， 数据的预加载的处理。在日常开发APP，一个Activity里面有可能会是有Viewpager与多个Fragment来进行组合，而如果每个Fragment都需要通过网络加载数据，或加载本地缓存。 如果...",
+      "author": {
+        "nick": "七號座先生",
+        "homepage": "/u/_5c82200fed865"
+      }
+    },
+    {
+      "id": "1190000018478508",
+      "title": "全网Star最多（近20k）的Spring Boot开源教程 2019 年要继续更新了！",
+      "url": "/a/1190000018478508",
+      "desc": "从2016年1月开始写博客，默默地更新《Spring Boot系列教程》，从无人问津到千万访问，作为一个独立站点（[链接]），相信只有那些跟我一样，坚持维护自己独立博客的童鞋才能体会这有多么不容易。",
+      "author": {
+        "nick": "程序猿DD",
+        "homepage": "/u/coderdd"
+      }
+    },
+    {
+      "id": "1190000018481619",
+      "title": "一个线程罢工的诡异事件",
+      "url": "/a/1190000018481619",
+      "desc": "事情（事故）是这样的，突然收到报警，线上某个应用里业务逻辑没有执行，导致的结果是数据库里的某些数据没有更新。",
+      "author": {
+        "nick": "crossoverJie",
+        "homepage": "/u/crossoverjie"
+      }
+    },
+    {
+      "id": "1190000018480675",
+      "title": "自动生成 java 测试 mock 对象框架 DataFactory-01-入门使用教程",
+      "url": "/a/1190000018480675",
+      "desc": "项目简介 Data-Factory 用于根据对象，随机自动生成初始化信息，避免了手动创建对象的繁琐，便于测试。 特性 8 大基本类型的支持 String、Date、金额，日期等常见类型的支持 java8 常见时间类的支持 支持 String ...",
+      "author": {
+        "nick": "叶止水",
+        "homepage": "/u/houbinbin"
+      }
+    },
+    {
+      "id": "1190000018479432",
+      "title": "dto与do互转",
+      "url": "/a/1190000018479432",
+      "desc": "Mapper mapper = DozerBeanMapperBuilder.buildDefault();bidBidprojectDTO = mapper.map(bidBidprojectDO, BidBidprojectDTO.class);",
+      "author": {
+        "nick": "学问思辨行",
+        "homepage": "/u/xuewensibianxing"
+      }
+    },
+    {
+      "id": "1190000018479369",
+      "title": "java 异步并行框架 async-01-入门教程",
+      "url": "/a/1190000018479369",
+      "desc": "项目简介 Async 是一款 Java 异步处理框架。 设计目的 并行执行可以大幅度提升程序的运行速度，有效利用 CPU 资源。 但是单独为每次方法都使用线程池手写，显然不够优雅，复用性也很差。 特性 支持接口类的动态代...",
+      "author": {
+        "nick": "叶止水",
+        "homepage": "/u/houbinbin"
+      }
+    },
+    {
+      "id": "1190000018479322",
+      "title": "5 XIN token 悬赏: Mixin Network Java SDK 补完计划",
+      "url": "/a/1190000018479322",
+      "desc": "通过邮件 lilin at mixin.one, 或者 Mixin Messenger ID 31367 联系负责人",
+      "author": {
+        "nick": "Mixin_Network",
+        "homepage": "/u/mixin_network"
+      }
+    },
+    {
+      "id": "1190000018479043",
+      "title": "力扣(LeetCode)3",
+      "url": "/a/1190000018479043",
+      "desc": "输入: \"abcabcbb\"输出: 3 解释: 因为无重复字符的最长子串是 \"abc\"，所以其长度为 3。示例 2:",
+      "author": {
+        "nick": "Linus脱袜子",
+        "homepage": "/u/qiuqi_turing"
+      }
+    },
+    {
+      "id": "1190000018478550",
+      "title": "报道帖——给 Segmentfault 朋友们的电子书",
+      "url": "/a/1190000018478550",
+      "desc": "一直都挺喜欢 Segmentfault 这个社区的，给人的第一感觉就是比较的专业正式，社区内氛围不错，各种文章的质量也很好，并且帮助了我很多。很开心能够来到这里，记录自己的成长，希望自己能够多活跃一下，无论是在...",
+      "author": {
+        "nick": "roseduan",
+        "homepage": "/u/roseduan"
+      }
+    },
+    {
+      "id": "1190000018478460",
+      "title": "力扣(LeetCode)647",
+      "url": "/a/1190000018478460",
+      "desc": "题目地址：[链接]题目描述：给定一个字符串，你的任务是计算这个字符串中有多少个回文子串。 具有不同开始位置或结束位置的子串，即使是由相同的字符组成，也会被计为是不同的子串。 示例 1: 输入: \"abc\"输出: 3...",
+      "author": {
+        "nick": "Linus脱袜子",
+        "homepage": "/u/qiuqi_turing"
+      }
+    },
+    {
+      "id": "1190000018477916",
+      "title": "【跃迁之路】【750天】程序员高效学习方法论探索系列（实验阶段507-2019.3.12）",
+      "url": "/a/1190000018477916",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000018476900",
+      "title": "线程池？面试？看这篇就够了！",
+      "url": "/a/1190000018476900",
+      "desc": "在实际工作中，线程是一个我们经常要打交道的角色，它可以帮我们灵活利用资源，提升程序运行效率。但是我们今天不是探讨线程！我们今天来聊聊另一个与线程息息相关的角色：线程池.本篇文章的目的就是全方位的解析...",
+      "author": {
+        "nick": "jsbintask",
+        "homepage": "/u/jsbintask"
+      }
+    },
+    {
+      "id": "1190000018475700",
+      "title": "mybatis利用插件实现分表",
+      "url": "/a/1190000018475700",
+      "desc": "{代码...} /** 分表插件 @author chonglou @date 2019/2/2117:04 */@Intercepts({@Signature(type = StatementHandler.class, method = \"prepare\", args = {Connection.class, Integer.class})})public class Sha...",
+      "author": {
+        "nick": "chonglou",
+        "homepage": "/u/hongluobo_5ac2222e5f3cb"
+      }
+    }
+  ]
+}
