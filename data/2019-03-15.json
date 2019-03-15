@@ -1,0 +1,155 @@
+{
+  "watchNum": "44031",
+  "blogs": [
+    {
+      "id": "1190000018518540",
+      "title": "JAVA多线程使用场景和注意事项",
+      "url": "/a/1190000018518540",
+      "desc": "我曾经对自己的小弟说，如果你实在搞不清楚什么时候用HashMap，什么时候用ConcurrentHashMap，那么就用后者，你的代码bug会很少。",
+      "author": {
+        "nick": "小姐姐味道",
+        "homepage": "/u/xjjwd"
+      }
+    },
+    {
+      "id": "1190000018514475",
+      "title": "重拾-MyBatis-配置文件解析",
+      "url": "/a/1190000018514475",
+      "desc": "我们知道在使用 Mybatis 时，我们需要通过 SqlSessionFactoryBuild 去创建 SqlSessionFactory 实例，譬如：",
+      "author": {
+        "nick": "断风雨",
+        "homepage": "/u/duanfengyu"
+      }
+    },
+    {
+      "id": "1190000018514331",
+      "title": "Java学习每日记录",
+      "url": "/a/1190000018514331",
+      "desc": "每日发布至少一条笔记！19届毕业生。要成为一个努力的Java工程师！！",
+      "author": {
+        "nick": "曾骏豪",
+        "homepage": "/u/zengjunhao"
+      }
+    },
+    {
+      "id": "1190000018513910",
+      "title": "浅析微服务框架 Helidon 的使用",
+      "url": "/a/1190000018513910",
+      "desc": "Helidon Webserver : helidon-webserver 1.0.0 (核心依赖包)",
+      "author": {
+        "nick": "三流",
+        "homepage": "/u/sanliu"
+      }
+    },
+    {
+      "id": "1190000018513512",
+      "title": "开源PaaS Rainbond V5.1发布，支持管理异构复杂的微服务架构",
+      "url": "/a/1190000018513512",
+      "desc": "3月的北京春意盎然，Rainbond如期为大家带来了大版本V5.1更新，在此首先对所有为Rainbon项目提过建议的用户朋友们表示感谢，V5.1版本的较多思考就是来自于众多用户为Rainbond项目提出的建议。",
+      "author": {
+        "nick": "好雨科技",
+        "homepage": "/u/goodraincloud"
+      }
+    },
+    {
+      "id": "1190000018513177",
+      "title": "13.java object类",
+      "url": "/a/1190000018513177",
+      "desc": "object 类位于 java.lang 包中，是所有 Java 类的祖先，Java 中的每个类都由它扩展而来.",
+      "author": {
+        "nick": "shenlanzifa",
+        "homepage": "/u/shenlanzifa"
+      }
+    },
+    {
+      "id": "1190000018513076",
+      "title": "复选框checked",
+      "url": "/a/1190000018513076",
+      "desc": "其实这个不单单运作于此，还有用比如jfinal代码实现的put进对象中，然后通过这个键值对判断按钮是否需要显示什么内容（同时实现什么样的事件）",
+      "author": {
+        "nick": "学问思辨行",
+        "homepage": "/u/xuewensibianxing"
+      }
+    },
+    {
+      "id": "1190000018513060",
+      "title": " 创建工程时出现 A project with this name already exists 提示",
+      "url": "/a/1190000018513060",
+      "desc": "创建项目时没注意，后来发现放错了位置或其他问题，想要重新创建同名项目，只在文件夹处删除是不行的。会出现以下提示",
+      "author": {
+        "nick": "果果",
+        "homepage": "/u/guoguo_braveheart"
+      }
+    },
+    {
+      "id": "1190000018512304",
+      "title": "uniapp运行模拟器错误java.io.EOFException",
+      "url": "/a/1190000018512304",
+      "desc": "{代码...} 1.出问题原因：开启了翻墙软件，端口冲突了2.解决方法关闭翻墙软件即可",
+      "author": {
+        "nick": "potato1314",
+        "homepage": "/u/potato1314"
+      }
+    },
+    {
+      "id": "1190000018509900",
+      "title": "synchronized锁了什么",
+      "url": "/a/1190000018509900",
+      "desc": "synchronized翻译为中文的意思是同步的，它是Java中处理线程安全问题常用的关键字。也有人称其为同步锁。既然是锁，其必然有锁的东西，下面先会简单介绍一下synchronized，再通过一个示例代码展示synchronized锁...",
+      "author": {
+        "nick": "Null",
+        "homepage": "/u/null_ryan"
+      }
+    },
+    {
+      "id": "1190000018509814",
+      "title": "mybatis-plus 的一种很别扭的用法",
+      "url": "/a/1190000018509814",
+      "desc": "com.baomidou.mybatisplus.extension.service.IService",
+      "author": {
+        "nick": "捏造的信仰",
+        "homepage": "/u/yidinghe"
+      }
+    },
+    {
+      "id": "1190000018507382",
+      "title": "数据结构与算法——链表",
+      "url": "/a/1190000018507382",
+      "desc": "前面说到了数组，利用连续的内存空间来存储相同类型的数据，其最大的特点是支持下标随机访问，但是删除和插入的效率很低。今天来看另一种很基础的数据结构——链表。链表不需要使用连续的内存空间，它使用指针将不...",
+      "author": {
+        "nick": "roseduan",
+        "homepage": "/u/roseduan"
+      }
+    },
+    {
+      "id": "1190000018507089",
+      "title": "Java™ 教程（配置实用程序）",
+      "url": "/a/1190000018507089",
+      "desc": "Properties是作为键/值对管理的配置值，在每对中，键和值都是字符串值，键标识并用于检索值，就像变量名用于检索变量的值一样。例如，能够下载文件的应用程序可能使用名为“download.lastDirectory”的属性来跟踪上...",
+      "author": {
+        "nick": "博弈",
+        "homepage": "/u/lfheart"
+      }
+    },
+    {
+      "id": "1190000018506104",
+      "title": "【跃迁之路】【752天】程序员高效学习方法论探索系列（实验阶段509-2019.3.14）",
+      "url": "/a/1190000018506104",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000018505481",
+      "title": "dubbo源码解析（四十二）序列化——开篇",
+      "url": "/a/1190000018505481",
+      "desc": "目标：介绍dubbo中序列化的内容，对dubbo中支持的序列化方式做对比，介绍dubbo-serialization-api下的源码",
+      "author": {
+        "nick": "CrazyHzm",
+        "homepage": "/u/mmmmm_592a5e72c8ea7"
+      }
+    }
+  ]
+}
