@@ -1,0 +1,155 @@
+{
+  "watchNum": "44262",
+  "blogs": [
+    {
+      "id": "1190000018533928",
+      "title": "数据结构与算法——队列",
+      "url": "/a/1190000018533928",
+      "desc": "前面说完了栈，接下来再看看另一种很基础的数据结构，队列。顾名思义，队列跟我们现实生活中的排队很相似：例如我们在食堂排队打饭，先来的先打到，后来的只能一次排在后面，不允许插队。很明显，队列的操作也是...",
+      "author": {
+        "nick": "roseduan",
+        "homepage": "/u/roseduan"
+      }
+    },
+    {
+      "id": "1190000018533810",
+      "title": "【跃迁之路】【755天】程序员高效学习方法论探索系列（实验阶段512-2019.3.17）",
+      "url": "/a/1190000018533810",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000018533109",
+      "title": "使用Gradle做Java代码质量检查",
+      "url": "/a/1190000018533109",
+      "desc": "Maven --> Gradle 首先安装gradle:Mac安装 {代码...} Ubuntu安装 {代码...} Maven项目切换Gradle项目,再Maven根目录下运行: {代码...} 运行成功之后运行命令gradle build，成功之后删除pom.xml即可。 使用jaco...",
+      "author": {
+        "nick": "姜家志",
+        "homepage": "/u/jiangjiazhi"
+      }
+    },
+    {
+      "id": "1190000018531929",
+      "title": "【跃迁之路】【754天】程序员高效学习方法论探索系列（实验阶段511-2019.3.16）",
+      "url": "/a/1190000018531929",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000018531289",
+      "title": "Java 高并发环境下的性能优化，揭秘支付宝技术内幕 ",
+      "url": "/a/1190000018531289",
+      "desc": "为了让业务可以流畅的运行并且给用户一个好的交互体验，我们需要根据业务场景预估达到的并发量等因素，来设计适合自己业务场景的高并发处理方案。",
+      "author": {
+        "nick": "Java高端架构师",
+        "homepage": "/u/quanzhanshejiaoquan"
+      }
+    },
+    {
+      "id": "1190000018531061",
+      "title": "对比Java泛型中的extends/super和Kotlin的out/in",
+      "url": "/a/1190000018531061",
+      "desc": "<? extends T>：指的是上界通配符 (Upper Bounded Wildcards)",
+      "author": {
+        "nick": "songjhh",
+        "homepage": "/u/songjhh_5c5ac134a0849"
+      }
+    },
+    {
+      "id": "1190000018530551",
+      "title": "框架与RTTI的关系，RTTI与反射之间的关系",
+      "url": "/a/1190000018530551",
+      "desc": "在之后的几篇文章，我会讲解我自己的hibernate、spring、beanutils框架，但讲解这些框架之前，我需要讲解RTTI和反射。",
+      "author": {
+        "nick": "念兮",
+        "homepage": "/u/nian_5aedc008c1353"
+      }
+    },
+    {
+      "id": "1190000018530278",
+      "title": "Advice?Pointcut?Aspect?JoinPoint?Advisor?",
+      "url": "/a/1190000018530278",
+      "desc": "AOP是一种面向切面的编程思想，最小单位是切面；Java是基于OOP的编程思想，最小单位是类。虽然思想不同，但是AOP却能够给Java提供强大的加持，Spring AOP的应用就是最好的例子。AOP思想是如此优秀，所以在一开始...",
+      "author": {
+        "nick": "阿全啊",
+        "homepage": "/u/aquana"
+      }
+    },
+    {
+      "id": "1190000018530137",
+      "title": "spring boot学习(4): 命令行启动",
+      "url": "/a/1190000018530137",
+      "desc": "在使用spring boot 构建应用启动时，我们在工作中都是通过命令行来启动应用，有时候会需要一些特定的参数以在应用启动时，做一些初始化的操作。",
+      "author": {
+        "nick": "posuoren",
+        "homepage": "/u/posuoren"
+      }
+    },
+    {
+      "id": "1190000018529555",
+      "title": "数据结构与算法——栈",
+      "url": "/a/1190000018529555",
+      "desc": "今天来看看栈这种线性数据结构，非常的基础，我举个例子你就能明白了。比如你桌子上堆放的一摞文件，最先放的在最下面，拿的时候也是最后拿，最后放的在最上面，拿的时候也先拿到。这种满足了 先进后出，后进先出...",
+      "author": {
+        "nick": "roseduan",
+        "homepage": "/u/roseduan"
+      }
+    },
+    {
+      "id": "1190000018529220",
+      "title": "JavaConfig方式以及处理自动装配歧义性-spring基础学习",
+      "url": "/a/1190000018529220",
+      "desc": "在XML配置和直接注解式配置之外还有一种有趣的选择方式-JavaConfig，java config是指基于java配置的spring。传统的Spring一般都是基本xml配置的，后来spring3.0新增了许多java config的注解，特别是spring boot，...",
+      "author": {
+        "nick": "套泥个猴",
+        "homepage": "/u/_5c7f5ffe48085"
+      }
+    },
+    {
+      "id": "1190000018528807",
+      "title": "【西瓜皮】Spring Boot 2.x 整合 Redis（一）",
+      "url": "/a/1190000018528807",
+      "desc": "Spring Boot 2 整合 Redis（一） Spring Boot 2.0.3简单整合Redis IDEA Spring Initialzr 创建工程：选上Redis依赖项 Maven依赖 {代码...} application.yml文件的配置，其中Jedis配置有默认值，Spring Boot 2后默...",
+      "author": {
+        "nick": "大大大西西瓜皮",
+        "homepage": "/u/dadadaxixiguapi"
+      }
+    },
+    {
+      "id": "1190000018528777",
+      "title": "Lombok安装及Spring Boot集成Lombok",
+      "url": "/a/1190000018528777",
+      "desc": "在我们实体Bean中有大量的Getter/Setter方法以及toString, hashCode等可能不会用到，但是某些时候仍然需要复写；在使用Lombok之后，将由其来自动帮你实现代码生成。注意，其是在编译源码过程中，帮你自动生成的。...",
+      "author": {
+        "nick": "逆天子陆离",
+        "homepage": "/u/nitianziluli"
+      }
+    },
+    {
+      "id": "1190000018528590",
+      "title": "使用spring boot + swagger自动生成HTML、PDF接口文档，并解决中文显示为空白问题",
+      "url": "/a/1190000018528590",
+      "desc": "做后端开发，自然离不开接口文档，接口文档不仅方便后端开发人员之间查看，更是前端人员必要的文档，也有可能提供给第三方来调用我们的接口。但是，写接口文档太费时间，而且如果没有确定好格式，每个人写的接口...",
+      "author": {
+        "nick": "逆天子陆离",
+        "homepage": "/u/nitianziluli"
+      }
+    },
+    {
+      "id": "1190000018528540",
+      "title": "Maven多模块之父子关系",
+      "url": "/a/1190000018528540",
+      "desc": "Maven多模块项目,适用于一些比较大的项目，通过合理的模块拆分，实现代码的复用，便于维护和管理。尤其是一些开源框架，也是采用多模块的方式，提供插件集成，用户可以根据需要配置指定的模块。",
+      "author": {
+        "nick": "RainNenya",
+        "homepage": "/u/rainnenya"
+      }
+    }
+  ]
+}
