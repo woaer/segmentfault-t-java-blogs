@@ -1,0 +1,155 @@
+{
+  "watchNum": "44336",
+  "blogs": [
+    {
+      "id": "1190000018554751",
+      "title": "JAVA动态代理和CGLIB实现模式",
+      "url": "/a/1190000018554751",
+      "desc": "动态代理是使用反射和字节码的技术，在运行期创建指定接口或类的子类（动态代理）以及其实例对象的技术，通过这个技术可以无侵入性的为代码进行增强",
+      "author": {
+        "nick": "java_D",
+        "homepage": "/u/java_d"
+      }
+    },
+    {
+      "id": "1190000018554632",
+      "title": "JAVA动态代理和CGLIB实现模式",
+      "url": "/a/1190000018554632",
+      "desc": "动态代理是使用反射和字节码的技术，在运行期创建指定接口或类的子类（动态代理）以及其实例对象的技术，通过这个技术可以无侵入性的为代码进行增强",
+      "author": {
+        "nick": "java_D",
+        "homepage": "/u/java_d"
+      }
+    },
+    {
+      "id": "1190000018554528",
+      "title": "springboot 解决跨域",
+      "url": "/a/1190000018554528",
+      "desc": "现代浏览器出于安全的考虑，使用 XMLHttpRequest对象发起 HTTP请求时必须遵守同源策略，否则就是跨域的HTTP请求，默认情况下是被禁止的。跨域HTTP请求是指A域上资源请求了B域上的资源，举例而言，部署在A机器上Ng...",
+      "author": {
+        "nick": "harbor",
+        "homepage": "/u/harbor"
+      }
+    },
+    {
+      "id": "1190000018552259",
+      "title": "引用两个或多个数据库里的数据，项目数据库的配置方法",
+      "url": "/a/1190000018552259",
+      "desc": "5、写两个数据源配置类DataSourceContextHolder.java和DynamicDataSource.java来配置数据源，利用ThreadLocal解决线程安全问题。",
+      "author": {
+        "nick": "LeAn_He",
+        "homepage": "/u/lean_he"
+      }
+    },
+    {
+      "id": "1190000018549025",
+      "title": "linux创建swap分区",
+      "url": "/a/1190000018549025",
+      "desc": "dd if=/dev/zero of=/mnt/swap bs=1M count=1024 设置交换分区文件",
+      "author": {
+        "nick": "guanhui07",
+        "homepage": "/u/guanhui07"
+      }
+    },
+    {
+      "id": "1190000018538616",
+      "title": "监听器实栗 在线人数统计",
+      "url": "/a/1190000018538616",
+      "desc": "常见的流程是,标准的mvc 即 登录表单,用户提交数据到登录检查,若登录检查通过以后,触发session事件,保存进入在线人员列表中,页面跳转到在线用户列表,若用户注销,从在线列表中删除.",
+      "author": {
+        "nick": "小小____",
+        "homepage": "/u/xiaoxiao___________"
+      }
+    },
+    {
+      "id": "1190000018538584",
+      "title": "过滤器实栗 登录检测",
+      "url": "/a/1190000018538584",
+      "desc": "项目结构 ![]([链接]) 代码如下 登录servlet {代码...} 对于登录的servlet增加了session 过滤器如下 {代码...} 配置文件如下 {代码...} jsp文件如下 涉及 前端的js验证采用拦截click事件 {代码...}",
+      "author": {
+        "nick": "小小____",
+        "homepage": "/u/xiaoxiao___________"
+      }
+    },
+    {
+      "id": "1190000018538525",
+      "title": "web开发模式",
+      "url": "/a/1190000018538525",
+      "desc": "客户端发送request 到 jsp jsp 执行javabean javabean读取databases",
+      "author": {
+        "nick": "小小____",
+        "homepage": "/u/xiaoxiao___________"
+      }
+    },
+    {
+      "id": "1190000018538426",
+      "title": "让facebook自愈：自动化主动机架维护  - 1",
+      "url": "/a/1190000018538426",
+      "desc": "Making Facebook self-healing: Automating proactive rack maintenance",
+      "author": {
+        "nick": "祝坤荣",
+        "homepage": "/u/zhukunrong"
+      }
+    },
+    {
+      "id": "1190000018538387",
+      "title": "dao 设计模式",
+      "url": "/a/1190000018538387",
+      "desc": "DAO功能是数据操作.客户发送数据到显示层,显示层发送数据到业务层,业务发送数据到数据层,数据层进行持久化.即.保存进入databases",
+      "author": {
+        "nick": "小小____",
+        "homepage": "/u/xiaoxiao___________"
+      }
+    },
+    {
+      "id": "1190000018538162",
+      "title": "力扣(LeetCode)45",
+      "url": "/a/1190000018538162",
+      "desc": "解答：和第55题一样，首先试一下动态规划dp[i]代表到坐标为i的节点所用的最短步骤。那么dp[0] = 0，dp[i] = min(dp[i-k]+1) , k >= 0 并且 k <= i-1,并且nums[k]+k >= i。不过可惜的是复杂度过大，为O(N...",
+      "author": {
+        "nick": "Linus脱袜子",
+        "homepage": "/u/qiuqi_turing"
+      }
+    },
+    {
+      "id": "1190000018537884",
+      "title": "力扣(LeetCode)55",
+      "url": "/a/1190000018537884",
+      "desc": "题目地址：[链接]题目描述：给定一个非负整数数组，你最初位于数组的第一个位置。 数组中的每个元素代表你在该位置可以跳跃的最大长度。 判断你是否能够到达最后一个位置。 示例 1: 输入: [2,3,1,1,4]输出: true...",
+      "author": {
+        "nick": "Linus脱袜子",
+        "homepage": "/u/qiuqi_turing"
+      }
+    },
+    {
+      "id": "1190000018537858",
+      "title": "mybatis-plus源码分析之sql注入器",
+      "url": "/a/1190000018537858",
+      "desc": "mybatis-plus是完全基于mybatis开发的一个增强工具，它的设计理念是在mybatis的基础上只做增强不做改变，为简化开发、提高效率而生，它在mybatis的基础上增加了很多实用性的功能，比如增加了乐观锁插件、字段自动...",
+      "author": {
+        "nick": "objcoding",
+        "homepage": "/u/objcoding"
+      }
+    },
+    {
+      "id": "1190000018537056",
+      "title": "Java到底要做到什么程度才能适应市场的需求（本人的面试经历）",
+      "url": "/a/1190000018537056",
+      "desc": "前言：从过年前就萌生出要跳槽的想法，到过年来公司从月初提出离职到~~号正式离职，上班的时间也出去面试过几家公司，后来总觉的在职找工作总是得请假，便决心离职后找工作。到3月10号找到了一家互联网公司成功应...",
+      "author": {
+        "nick": "Java高端架构师",
+        "homepage": "/u/quanzhanshejiaoquan"
+      }
+    },
+    {
+      "id": "1190000018536906",
+      "title": "SpringBoot | @Value 和 @ConfigurationProperties 的区别",
+      "url": "/a/1190000018536906",
+      "desc": "最近有跳槽的想法，所以故意复习了下 SpringBoot 的相关知识，复习得比较细。其中有些，我感觉是以前忽略掉的东西，比如 @Value 和 @ConfigurationProperties 的区别 。",
+      "author": {
+        "nick": "一个优秀的废人",
+        "homepage": "/u/nasus"
+      }
+    }
+  ]
+}
