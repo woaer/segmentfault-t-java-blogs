@@ -1,0 +1,155 @@
+{
+  "watchNum": "44847",
+  "blogs": [
+    {
+      "id": "1190000018598159",
+      "title": "重磅发布：阿里开源 OpenJDK 长期支持版本 Alibaba Dragonwell",
+      "url": "/a/1190000018598159",
+      "desc": "3 月 21 日北京阿里云峰会，阿里巴巴正式宣布对外开源 OpenJDK 长期支持版本 Alibaba Dragonwell。作为 Java 全球管理组织 Java Community Process (JCP) 的最高执行委员会的唯一中国代表，以及 Oracle 之外的 Ja...",
+      "author": {
+        "nick": "阿里云云栖社区",
+        "homepage": "/u/yunqishequ_5aa899aad5395"
+      }
+    },
+    {
+      "id": "1190000018597435",
+      "title": "XML转换",
+      "url": "/a/1190000018597435",
+      "desc": "XmlUtils {代码...} Bean {代码...} 测试 {代码...}",
+      "author": {
+        "nick": "aa东",
+        "homepage": "/u/aadong"
+      }
+    },
+    {
+      "id": "1190000018597050",
+      "title": "【从蛋壳到满天飞】JAVA 数据结构解析和算法实现-栈和队列",
+      "url": "/a/1190000018597050",
+      "desc": "【从蛋壳到满天飞】JAVA 数据结构解析和算法实现，全部文章大概的内容如下：Arrays(数组)、Stacks(栈)、Queues(队列)、LinkedList(链表)、Recursion(递归思想)、BinarySearchTree(二分搜索树)、Set(集合)、Map(映...",
+      "author": {
+        "nick": "哎哟迪奥",
+        "homepage": "/u/aiyodiao"
+      }
+    },
+    {
+      "id": "1190000018596681",
+      "title": "面向复杂应用，Node.js中的IoC容器 -- Rockerjs/core",
+      "url": "/a/1190000018596681",
+      "desc": "基于 TypeScript 和注解的轻量级IoC容器，提供了依赖注入、面向切面编程及异常处理等功能。Rockerjs Core可在任意工程中引入，是一个框架无关的IoC容器。",
+      "author": {
+        "nick": "RoyalRover",
+        "homepage": "/u/royalrover"
+      }
+    },
+    {
+      "id": "1190000018596512",
+      "title": "Rust中文启用Matrix在线聊天室🎉🎉🎉",
+      "url": "/a/1190000018596512",
+      "desc": "Rust 中文启用Matrix在线聊天室🎉🎉🎉 欢迎加入. Matrix像IRC一样自由，全平台可用，端到端加密 前往聊天室 现在Rust 中文，你可以一边学习Rust教材文档，一边在中文论坛发帖或写文章，一边在线聊天室讨论交流。 Rus...",
+      "author": {
+        "nick": "krircc",
+        "homepage": "/u/krircc"
+      }
+    },
+    {
+      "id": "1190000018596177",
+      "title": "还在使用SimpleDateFormat？",
+      "url": "/a/1190000018596177",
+      "desc": "日常开发中，我们经常需要使用时间相关类，想必大家对SimpleDateFormat并不陌生。主要是用它进行时间的格式化输出和解析，挺方便快捷的，但是SimpleDateFormat并不是一个线程安全的类。在多线程情况下，会出现异...",
+      "author": {
+        "nick": "孤独键客",
+        "homepage": "/u/gudujianke"
+      }
+    },
+    {
+      "id": "1190000018596124",
+      "title": "从RocketMQ我们学到了什么之NameServer",
+      "url": "/a/1190000018596124",
+      "desc": "在很久很久以前，人们之间的通信方式就是面对面交谈，你说一句，我听一句，虽然简单可靠，但是弊端也很大。比如，当你成为一个军队的首领，每个属下一有情况就立刻向你汇报，一个还好，但当你的属下有几十个几百...",
+      "author": {
+        "nick": "IT一刻钟",
+        "homepage": "/u/itinfo"
+      }
+    },
+    {
+      "id": "1190000018593805",
+      "title": "【跃迁之路】【758天】程序员高效学习方法论探索系列（实验阶段515-2019.3.20）",
+      "url": "/a/1190000018593805",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000018593620",
+      "title": "Spring框架下向异步线程传递HttpServletRequest参数的坑",
+      "url": "/a/1190000018593620",
+      "desc": "在spring的注解 @RequestMapping 之下可以直接获取 HttpServletRequest 来获得诸如request header等重要的请求信息：",
+      "author": {
+        "nick": "geekartt",
+        "homepage": "/u/geekartt"
+      }
+    },
+    {
+      "id": "1190000018593408",
+      "title": "从源码的角度解析Mybatis的会话机制",
+      "url": "/a/1190000018593408",
+      "desc": "坐在我旁边的钟同学听说我精通Mybatis源码（我就想不通，是谁透漏了风声），就顺带问了我一个问题：在同一个方法中，Mybatis多次请求数据库，是否要创建多个SqlSession会话？",
+      "author": {
+        "nick": "objcoding",
+        "homepage": "/u/objcoding"
+      }
+    },
+    {
+      "id": "1190000018592698",
+      "title": "【从蛋壳到满天飞】JAVA 数据结构解析和算法实现-Arrays(数组)",
+      "url": "/a/1190000018592698",
+      "desc": "【从蛋壳到满天飞】JAVA 数据结构解析和算法实现，全部文章大概的内容如下：Arrays(数组)、Stacks(栈)、Queues(队列)、LinkedList(链表)、Recursion(递归思想)、BinarySearchTree(二分搜索树)、Set(集合)、Map(映...",
+      "author": {
+        "nick": "哎哟迪奥",
+        "homepage": "/u/aiyodiao"
+      }
+    },
+    {
+      "id": "1190000018591626",
+      "title": "如何顺利通过编程面试",
+      "url": "/a/1190000018591626",
+      "desc": "如果你是一个刚毕业的学生业生或一个职业生涯中期的工程师，那么准备接受你梦寐以求的工作的技术面试可能既费时又令人紧张。想象一下，人们期望你能够在现场解决一个复杂的挑战，并将其转化为无错误的代码？",
+      "author": {
+        "nick": "阿生",
+        "homepage": "/u/asheng_5c922396498d7"
+      }
+    },
+    {
+      "id": "1190000018591607",
+      "title": "关于java访问https资源时,忽略证书信任问题",
+      "url": "/a/1190000018591607",
+      "desc": "java程序在访问https资源时，出现报错sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certificati...",
+      "author": {
+        "nick": "white_wwt",
+        "homepage": "/u/white_wwt"
+      }
+    },
+    {
+      "id": "1190000018591397",
+      "title": "基本排序",
+      "url": "/a/1190000018591397",
+      "desc": "排序介绍 选择排序 插入排序 洗牌算法 Shuffling Shellsort 排序 Comparators 比较器 课后问题",
+      "author": {
+        "nick": "黑洞的奥义",
+        "homepage": "/u/heidongdeaoyi"
+      }
+    },
+    {
+      "id": "1190000018591236",
+      "title": "数据结构与算法——希尔、归并、快速排序",
+      "url": "/a/1190000018591236",
+      "desc": "前面说完了三种较为简单的排序算法，分别是冒泡排序，选择排序和插入排序，它们的平均情况时间复杂度都是 O(n2)，比较的高，适合小规模的数据排序，其中插入排序的效率稍高，所以更推荐使用插入排序。今天再来看...",
+      "author": {
+        "nick": "roseduan",
+        "homepage": "/u/roseduan"
+      }
+    }
+  ]
+}
