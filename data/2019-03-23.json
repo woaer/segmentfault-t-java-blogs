@@ -1,0 +1,155 @@
+{
+  "watchNum": "45156",
+  "blogs": [
+    {
+      "id": "1190000018624938",
+      "title": "#T001 网络穿透-natapp",
+      "url": "/a/1190000018624938",
+      "desc": "内网穿透即NAT穿透，网络连接时术语，计算机是局域网内时，外网与内网的计算机节点需要连接通信，有时就会出现不支持内网穿透。",
+      "author": {
+        "nick": "飞流",
+        "homepage": "/u/feiliu_5c4458465194f"
+      }
+    },
+    {
+      "id": "1190000018624720",
+      "title": "聊聊Garbage Collector的SATB",
+      "url": "/a/1190000018624720",
+      "desc": "CMS、G1、Shenandoah在进行concurrent marking的都采用了SATB的技术",
+      "author": {
+        "nick": "codecraft",
+        "homepage": "/u/codecraft"
+      }
+    },
+    {
+      "id": "1190000018624231",
+      "title": "带你搭一个SpringBoot+SpringData JPA的环境",
+      "url": "/a/1190000018624231",
+      "desc": "不知道大家对SpringBoot和Spring Data JPA了解多少，如果你已经学过Spring和Hibernate的话，那么SpringBoot和SpringData JPA可以分分钟上手的。SpringBoot和SpringData JPA的好处我就不说了，当时我学习的时候也...",
+      "author": {
+        "nick": "Java3y",
+        "homepage": "/u/java_3y"
+      }
+    },
+    {
+      "id": "1190000018623737",
+      "title": "利用反射和注解，拷贝类型相同，属性名不同的对象",
+      "url": "/a/1190000018623737",
+      "desc": "最近开发遇到一个问题，两个对象进行属性值拷贝。理论上来说可以直接借助org.springframework.beans.BeanUtils.copyProperties(Object source, Object target)来进行拷贝，奈何两个对象属性名不同，懵逼脸。",
+      "author": {
+        "nick": "weenie",
+        "homepage": "/u/weenie"
+      }
+    },
+    {
+      "id": "1190000018623659",
+      "title": "Effective Java 3rd.Edition 翻译",
+      "url": "/a/1190000018623659",
+      "desc": "第1项：用静态工厂方法代替构造器 第2项：遇到多个构造器参数时要考虑使用构建器 第3项：用私有构造器或者枚举类型强化Singleton属性 第4项：通过私有构造器强化不可实例化的能力 第5项：优先考虑依赖注入来引用...",
+      "author": {
+        "nick": "coloured_glaze",
+        "homepage": "/u/coloured_glaze"
+      }
+    },
+    {
+      "id": "1190000018623559",
+      "title": "View之invalidate，requestLayout，postInvalidate",
+      "url": "/a/1190000018623559",
+      "desc": "目录介绍 01.invalidate，requestLayout，postInvalidate区别 02.invalidate深入分析 03.postInvalidate深入分析 04.requestLayout深入分析 05.ViewRootImpl作用分析 06.这几个方法总结 好消息 博客笔记大汇总【1...",
+      "author": {
+        "nick": "潇湘剑雨",
+        "homepage": "/u/xiangjianyu"
+      }
+    },
+    {
+      "id": "1190000018621987",
+      "title": "web 全架构系列(一): 整体分层及各层模块化",
+      "url": "/a/1190000018621987",
+      "desc": "这一系列文章, 旨在描述面对一个从零开始的 B(C)/S 应用的时候, 如何去搭建一个业务无关的平台, 承载上层应用流量. 这里要强调这个平台的几个特点:",
+      "author": {
+        "nick": "acrazing",
+        "homepage": "/u/nadass"
+      }
+    },
+    {
+      "id": "1190000018621843",
+      "title": "编程和英语一起学，每日一词",
+      "url": "/a/1190000018621843",
+      "desc": "笔者可以坚持每天花一两个小时学习技术，并坚持了快两年了。但学习英语，坚持五天都做不到。笔者曾经在跨境电商公司工作过，看到同事用流利的英语和外国友人交流时，羡慕与崇拜。我开始督促自己也要学好英语。什...",
+      "author": {
+        "nick": "itdragon",
+        "homepage": "/u/itdragon"
+      }
+    },
+    {
+      "id": "1190000018621545",
+      "title": "Java 作者谈克隆方法的实现",
+      "url": "/a/1190000018621545",
+      "desc": "“克隆”不应该被覆盖, 属坏味道, 阻断型错误约书亚•布洛赫表示，许多人在 Java 中对 clone 方法 和 Cloneable 接口存在误解，很大程度上是因为重写 clone 方法的规则很棘手, 且出错难以纠正。Object 的 clone 方法...",
+      "author": {
+        "nick": "Yujiaao",
+        "homepage": "/u/yujiaao"
+      }
+    },
+    {
+      "id": "1190000018621146",
+      "title": "【跃迁之路】【760天】程序员高效学习方法论探索系列（实验阶段517-2019.3.22）",
+      "url": "/a/1190000018621146",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000018620988",
+      "title": "17.1 什么是Servlet?",
+      "url": "/a/1190000018620988",
+      "desc": "一个Servlet是一个Java类，用来扩展托管请求-响应模型的应用程序的服务器的功能。尽管Servlet可以响应任何类型的请求，但通常用来扩展Web应用服务器托管的应用程序的功能。对于这些应用程序，Servlet定义了特定的...",
+      "author": {
+        "nick": "团结",
+        "homepage": "/u/2006"
+      }
+    },
+    {
+      "id": "1190000018619323",
+      "title": "一图胜千言，八张图解读java大数据知识",
+      "url": "/a/1190000018619323",
+      "desc": "8张读解读 java 大数据 知识,一图胜千言，下面图解均来自Program Creek 网站 ，目前它们拥有最多的票选。如果图解没有阐明问题，那么你可以借助它的 标题 来一窥究竟。 8张读解读java大 数据 知识：",
+      "author": {
+        "nick": "杜弥",
+        "homepage": "/u/dumi"
+      }
+    },
+    {
+      "id": "1190000018619167",
+      "title": "JAVA EE 6官方教程-17 Java Servlet",
+      "url": "/a/1190000018619167",
+      "desc": "Java Servlet技术使用请求-响应编程模型提供动态的面向用户的web应用程序。 这里将讨论一下主题：",
+      "author": {
+        "nick": "团结",
+        "homepage": "/u/2006"
+      }
+    },
+    {
+      "id": "1190000018619089",
+      "title": "UnsupportedOperationException",
+      "url": "/a/1190000018619089",
+      "desc": "本周在写单元测试的时候遇见了一个新的exception，在此记录一下。 单元测试中有一段代码是这样的： {代码...} 使用了singletonList来生成一个只有一个数据的链表，运行之后却报了exception 然后在看了这篇文章知...",
+      "author": {
+        "nick": "笙歌会停",
+        "homepage": "/u/gehuiting"
+      }
+    },
+    {
+      "id": "1190000018618646",
+      "title": "谷歌浏览器上传文件时候出现卡死现象",
+      "url": "/a/1190000018618646",
+      "desc": "谷歌浏览器上传文件时候出现卡死现象，由于本人非常喜欢搜狗输入法，始终不愿意相信这是ta的错，然后经过翻折腾之后，上网找了又找，但是最终还是没有其他的办法能解决这个问题，所以我也只能认了，经过下面这个...",
+      "author": {
+        "nick": "学问思辨行",
+        "homepage": "/u/xuewensibianxing"
+      }
+    }
+  ]
+}
