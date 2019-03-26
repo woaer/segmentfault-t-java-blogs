@@ -1,0 +1,155 @@
+{
+  "watchNum": "45443",
+  "blogs": [
+    {
+      "id": "1190000018657457",
+      "title": "dubbo源码解析（四十三）2.7新特性",
+      "url": "/a/1190000018657457",
+      "desc": "我们知道Dubbo在2011年开源，停止更新了一段时间。在2017 年 9 月 7 日，Dubbo 悄悄的在 GitHub 发布了 2.5.4 版本。随后，版本发布的非常迅速，Dubbo项目被重启了，经过大半年的更新，在2018年2月15日，Dubbo 获...",
+      "author": {
+        "nick": "CrazyHzm",
+        "homepage": "/u/mmmmm_592a5e72c8ea7"
+      }
+    },
+    {
+      "id": "1190000018657370",
+      "title": "从clone方法到复制构造函数",
+      "url": "/a/1190000018657370",
+      "desc": "在Java API中,可以通过实现Cloneable接口并重写clone方法实现克隆,但Java设计者否定了使用clone创建新对象的方法.",
+      "author": {
+        "nick": "赵栩彬",
+        "homepage": "/u/crabapple"
+      }
+    },
+    {
+      "id": "1190000018654487",
+      "title": "ECode1024 | String拼接方法concat与+效率比较问题",
+      "url": "/a/1190000018654487",
+      "desc": "结论为:concat的计算效率要比+的效率高concat只适用于string和string的拼接，+适用于string和任何的拼接。",
+      "author": {
+        "nick": "Bspom",
+        "homepage": "/u/bspom"
+      }
+    },
+    {
+      "id": "1190000018653990",
+      "title": "Android四大组件之Service",
+      "url": "/a/1190000018653990",
+      "desc": "Service 算是四大组件中比较常用的吧，至少比起 Broadcase receiver 跟 Content provider 还算是用的多的，这里用来记录一些关于 Service 的小细节。",
+      "author": {
+        "nick": "蒋永星",
+        "homepage": "/u/jiangyongxing_5c997ad8a73ec"
+      }
+    },
+    {
+      "id": "1190000018652463",
+      "title": "Spring Boot 2.x基础教程：快速入门未指定标题的文章",
+      "url": "/a/1190000018652463",
+      "desc": "在您第1次接触和学习Spring框架的时候，是否因为其繁杂的配置而退却了？在你第n次使用Spring框架的时候，是否觉得一堆反复黏贴的配置有一些厌烦？那么您就不妨来试试使用Spring Boot来让你更易上手，更简单快捷地...",
+      "author": {
+        "nick": "程序猿DD",
+        "homepage": "/u/coderdd"
+      }
+    },
+    {
+      "id": "1190000018653814",
+      "title": "线程池中你不容错过的一些细节",
+      "url": "/a/1190000018653814",
+      "desc": "背景 上周分享了一篇《一个线程罢工的诡异事件》，最近也在公司内部分享了这个案例。 无独有偶，在内部分享的时候也有小伙伴问了之前分享时所提出的一类问题： 这其实是一类共性问题，我认为主要还是两个原因： ...",
+      "author": {
+        "nick": "crossoverJie",
+        "homepage": "/u/crossoverjie"
+      }
+    },
+    {
+      "id": "1190000018652358",
+      "title": "简单实用的布隆过滤器",
+      "url": "/a/1190000018652358",
+      "desc": "布隆过滤器（Bloom Filter）是1970年由布隆提出的。它实际上是一个很长的二进制向量和一系列随机映射函数。",
+      "author": {
+        "nick": "Null",
+        "homepage": "/u/null_ryan"
+      }
+    },
+    {
+      "id": "1190000018651958",
+      "title": "struts 结果类型",
+      "url": "/a/1190000018651958",
+      "desc": "FreeMarker 一个模板引擎 即 FreeMarkergithub [链接]网址 [链接] maven安装 访问网址 [链接] {代码...} 编写模板 {代码...} 编写配置文件 {代码...}",
+      "author": {
+        "nick": "小小____",
+        "homepage": "/u/xiaoxiao___________"
+      }
+    },
+    {
+      "id": "1190000018651892",
+      "title": "Struts 拦截器",
+      "url": "/a/1190000018651892",
+      "desc": "实现aop的方式用于实现action之前,之后执行一般用于事物操作.一般用于对某些未授权的页面访问的时候,进行拦截操作,拦截非法访问.",
+      "author": {
+        "nick": "小小____",
+        "homepage": "/u/xiaoxiao___________"
+      }
+    },
+    {
+      "id": "1190000018651618",
+      "title": "log4j",
+      "url": "/a/1190000018651618",
+      "desc": "log4j 一个日志框架apache 基金会下的网址 [链接] maven安装 网址 [链接]复制以下依赖 {代码...} 项目目录如下 书写配置文件 {代码...} 记录日志类 {代码...} 结果演示",
+      "author": {
+        "nick": "小小____",
+        "homepage": "/u/xiaoxiao___________"
+      }
+    },
+    {
+      "id": "1190000018651460",
+      "title": "从Thread.join说开去",
+      "url": "/a/1190000018651460",
+      "desc": "看《Java特种兵》的时候发现，Thread.join可以使线程进入WAITING状态，再结合姊妹篇线程的状态我们可以了解到，有两个类状态非常接近：WAITING(TIMED_WAITING) 与 BLOCKED，这两者都会让线程看上去“阻塞”在某处了。",
+      "author": {
+        "nick": "菟潞寺沙弥",
+        "homepage": "/u/transienthm"
+      }
+    },
+    {
+      "id": "1190000018651455",
+      "title": "Struts Action 控制器",
+      "url": "/a/1190000018651455",
+      "desc": "控制器 即,mvc模型的控制器模型,用于接收数据,传递给视图层,和模型层默认使用execute方法 查看相关接口 查看com.opensymphony.xwork2下的Action接口文件如下 {代码...} 大概翻译一下 {代码...} 可以看到,定义了几...",
+      "author": {
+        "nick": "小小____",
+        "homepage": "/u/xiaoxiao___________"
+      }
+    },
+    {
+      "id": "1190000018651178",
+      "title": "聊一聊Iterable与Iterator的那些事！",
+      "url": "/a/1190000018651178",
+      "desc": "在上一篇文章通过面试题，让我们来了解Collection，我们会发现Collection接口之上还有一个接口Iterable，Iterable接口里面又有Iterator接口，那他们到底有什么区别呢？我们接下来就来了解下Iterable与Iterator相...",
+      "author": {
+        "nick": "Coder编程",
+        "homepage": "/u/520coder"
+      }
+    },
+    {
+      "id": "1190000018650704",
+      "title": "java中到底是值传递还是引用传递？",
+      "url": "/a/1190000018650704",
+      "desc": "对于普通类型的变量比如，int，char，float。不用说都知道是值传递。那么对于类类型的变量呢？为什么也是值传递？类类型的变量本身就是个引用，那么传递的不是引用吗？比如说：",
+      "author": {
+        "nick": "Linus脱袜子",
+        "homepage": "/u/qiuqi_turing"
+      }
+    },
+    {
+      "id": "1190000018650525",
+      "title": "扩展spring cache 支持缓存多租户及其自动过期",
+      "url": "/a/1190000018650525",
+      "desc": "Spring 支持基于注释（annotation）的缓存（cache）技术，它本质上不是一个具体的缓存实现方案（例如 EHCache 或者 OSCache），而是一个对缓存使用的抽象，通过在既有代码中添加少量它定义的各种 annotation，即...",
+      "author": {
+        "nick": "冷冷",
+        "homepage": "/u/gie"
+      }
+    }
+  ]
+}
