@@ -1,0 +1,155 @@
+{
+  "watchNum": "45610",
+  "blogs": [
+    {
+      "id": "1190000018672432",
+      "title": "Hibernate5.2-5.3版本的ManyToOne、OneToOne的延迟加载(fetch=Lazy)失效",
+      "url": "/a/1190000018672432",
+      "desc": "项目使用springboot的1.5.19版本进行开发，里面使用到JPA，而springboot这个版本自带的JPA实现是Hibernate的5.0.12版本。",
+      "author": {
+        "nick": "JetWong",
+        "homepage": "/u/jetwong"
+      }
+    },
+    {
+      "id": "1190000018672294",
+      "title": "让你彻底了解SQL注入、XSS和CSRF",
+      "url": "/a/1190000018672294",
+      "desc": "相信大家在各种技术文章都看到过SQL注入、XSS和CSRF这三个名词，但是我觉得有一部分人可能并不清楚这三个词的真正含义。接下来，我就说下这三个名词的含义，希望对大家能有所帮助。",
+      "author": {
+        "nick": "边缘烦恼",
+        "homepage": "/u/bianyuanfannao"
+      }
+    },
+    {
+      "id": "1190000018671288",
+      "title": "介绍 mybatis 执行 SQL 的大致过程",
+      "url": "/a/1190000018671288",
+      "desc": "本文通过 main() 方法来用 mybatis 执行带参数的 SQL 命令，来介绍 mybatis 执行 SQL 的大致过程。",
+      "author": {
+        "nick": "捏造的信仰",
+        "homepage": "/u/yidinghe"
+      }
+    },
+    {
+      "id": "1190000018670939",
+      "title": "这次我们聊一下Cookie",
+      "url": "/a/1190000018670939",
+      "desc": "会话跟踪技术用来跟踪用户的整个会话，会话就是用户在登录网站后的一系列动作，常用的是Cookie和Session，两者的唯一区别是前者在浏览器记录信息，后者在服务器。今天只是简单的说下Cookie，知道的就算看个热闹，...",
+      "author": {
+        "nick": "边缘烦恼",
+        "homepage": "/u/bianyuanfannao"
+      }
+    },
+    {
+      "id": "1190000018669505",
+      "title": "Spring 中优雅的获取泛型信息",
+      "url": "/a/1190000018669505",
+      "desc": "Spring 源码是个大宝库，我们能遇到的大部分工具在源码里都能找到，所以笔者开源的 mica 完全基于 Spring 进行基础增强，不重复造轮子。今天我要分享的是在 Spring 中优雅的获取泛型。",
+      "author": {
+        "nick": "如梦技术",
+        "homepage": "/u/dreamlu"
+      }
+    },
+    {
+      "id": "1190000018667573",
+      "title": "Spring事件机制源码分析",
+      "url": "/a/1190000018667573",
+      "desc": "由于之前使用Spring事件机制出现了问题，所以特意去了解这块的源码。Spring事件机制其实就是事件发布/订阅（注意在Spring中订阅指的是监听）。",
+      "author": {
+        "nick": "Null",
+        "homepage": "/u/null_ryan"
+      }
+    },
+    {
+      "id": "1190000018667561",
+      "title": "Spring事件机制问题排查",
+      "url": "/a/1190000018667561",
+      "desc": "当ApplicationEventPublisher批量推送ApplicationEvent时，如果ApplicationListener在处理的过程中抛出异常，则会导致后续的推送中断。",
+      "author": {
+        "nick": "Null",
+        "homepage": "/u/null_ryan"
+      }
+    },
+    {
+      "id": "1190000018667168",
+      "title": "Spring-IOC容器容器",
+      "url": "/a/1190000018667168",
+      "desc": "Spring IoC容器对Bean定义资源的载入是从refresh()函数开始的，refresh()是一个模板方法，refresh()方法的作用是：在创建IoC容器前，如果已经有容器存在，则需要把已有的容器销毁和关闭，以保证在refresh之后使用...",
+      "author": {
+        "nick": "java_D",
+        "homepage": "/u/java_d"
+      }
+    },
+    {
+      "id": "1190000018665875",
+      "title": "JMM——Java内存模型",
+      "url": "/a/1190000018665875",
+      "desc": "内存模型（Memory Model）描述了多个线程之间通过内存交互的规范，屏蔽了各种硬件和操作系统的访问差异的，保证了Java程序在各种平台下对内存的访问都能保证效果一致。在现代的多处理器（多核处理器）系统中，处...",
+      "author": {
+        "nick": "harri2012",
+        "homepage": "/u/harri2012"
+      }
+    },
+    {
+      "id": "1190000018665647",
+      "title": "Java版-数据结构-队列（循环队列）",
+      "url": "/a/1190000018665647",
+      "desc": "在上一篇，笔者给大家介绍了数组队列，并且在文末提出了数组队列实现上的劣势，以及带来的性能问题（因为数组队列，在出队的时候，我们往往要将数组中的元素往前挪动一个位置，这个动作的时间复杂度O(n)级别），...",
+      "author": {
+        "nick": "小白程序之路",
+        "homepage": "/u/gulijian"
+      }
+    },
+    {
+      "id": "1190000018665133",
+      "title": "重拾 Java 基础",
+      "url": "/a/1190000018665133",
+      "desc": "记得去年阿里给我发了邮件，我很认真地回复，然后他不理我了。(最起码的尊重都没有，就算我菜你起码回复我一下啊？)",
+      "author": {
+        "nick": "张喜硕",
+        "homepage": "/u/zhangxishuo"
+      }
+    },
+    {
+      "id": "1190000018664781",
+      "title": "Java学习笔记(八）——数据校验（Hibernate validation）",
+      "url": "/a/1190000018664781",
+      "desc": "公司转java开发也有一段时间了，在实际开发过程中还是会遇到一些问题的，本篇主要记录下接口服务中参数验证相关的开发过程和一些知识点。",
+      "author": {
+        "nick": "Bug生活2048",
+        "homepage": "/u/bugshenghuo2048"
+      }
+    },
+    {
+      "id": "1190000018664726",
+      "title": "第5项：固定资源首选使用依赖注入",
+      "url": "/a/1190000018664726",
+      "desc": "许多类依赖于一个或多个底层资源。 例如，拼写检查器依赖于字典。常见的做法是将这些类实现为静态实用程序类(第4项)：",
+      "author": {
+        "nick": "coloured_glaze",
+        "homepage": "/u/coloured_glaze"
+      }
+    },
+    {
+      "id": "1190000018664718",
+      "title": "Java类加载机制之双亲委派模型",
+      "url": "/a/1190000018664718",
+      "desc": "双亲委派模型是Java加载类的机制.采用双亲委派模型的好处是Java类随着它的类加载器一起具备了一种带有优先级的层级关系，通过这种层级关系可以避免类的重复加载.",
+      "author": {
+        "nick": "赵栩彬",
+        "homepage": "/u/crabapple"
+      }
+    },
+    {
+      "id": "1190000018664708",
+      "title": "第4项：通过私有构造器强化不可实例化的能力",
+      "url": "/a/1190000018664708",
+      "desc": "有时候你会想要编写一个只包含一组静态方法和静态字段的类。这种类名声很不好，因为有些人为了避免使用面向对象的思维方式而滥用这样的类(some people abuse them to avoid thinking in terms of objects)，但是...",
+      "author": {
+        "nick": "coloured_glaze",
+        "homepage": "/u/coloured_glaze"
+      }
+    }
+  ]
+}
