@@ -1,0 +1,155 @@
+{
+  "watchNum": "45957",
+  "blogs": [
+    {
+      "id": "1190000018700536",
+      "title": "说说我为什么看好Spring Cloud Alibaba",
+      "url": "/a/1190000018700536",
+      "desc": "最近对《Spring Cloud Alibaba基础教程》系列的催更比较多，说一下最近的近况：因为打算Spring Boot 2.x一起更新。所以一直在改博客Spring Boot专题页和Git仓库的组织。由于前端技术太过蹩脚，花了不少时间。大家...",
+      "author": {
+        "nick": "程序猿DD",
+        "homepage": "/u/coderdd"
+      }
+    },
+    {
+      "id": "1190000018699394",
+      "title": "Hyperledger Fabric 区块链开发详解",
+      "url": "/a/1190000018699394",
+      "desc": "Hyperledger是一个旨在推动区块链跨行业应用的开源项目，由Linux基金会在2015年12月主导发起该项目，成员包括金融、银行、物联网、供应链、制造和科技等多个行业的领头羊，托管了众多面向企业的区块链开源框架和...",
+      "author": {
+        "nick": "tualala",
+        "homepage": "/u/tualala"
+      }
+    },
+    {
+      "id": "1190000018697886",
+      "title": "了解一波网页端微信是如何登录的",
+      "url": "/a/1190000018697886",
+      "desc": "工作之余突然对微信的网页版的协议通信感兴趣可以搞一波了解下。毕竟网页版容易抓，靠一个浏览器的开发者工具的Network就开始抓包解析了。这是我2019年03月写的文档。因为微信的协议可能随时存在变动，以下内容可...",
+      "author": {
+        "nick": "楠宝宝",
+        "homepage": "/u/baobao_59b64e98ae19c"
+      }
+    },
+    {
+      "id": "1190000018697252",
+      "title": "Java问题汇总，持续更新到GitHub",
+      "url": "/a/1190000018697252",
+      "desc": "博客笔记大汇总【16年3月到至今】，包括Java基础及深入知识点，Android技术博客，Python学习笔记等等，还包括平时开发中遇到的bug汇总，当然也在工作之余收集了大量的面试题，长期更新维护并且修正，持续完善……开...",
+      "author": {
+        "nick": "潇湘剑雨",
+        "homepage": "/u/xiangjianyu"
+      }
+    },
+    {
+      "id": "1190000018696078",
+      "title": "Java Bean Copy 性能大比拼",
+      "url": "/a/1190000018696078",
+      "desc": "Bean 拷贝在工作中被大量使用，可以大幅度的提高工作量。本文对常用的 Bean copy 工具进行了压力测试，方便大家选择更加适合自己的工具。本篇文章是mica cglib 增强——【01】cglib bean copy 介绍 续篇，该专栏会...",
+      "author": {
+        "nick": "如梦技术",
+        "homepage": "/u/dreamlu"
+      }
+    },
+    {
+      "id": "1190000018695141",
+      "title": "Servlet教程",
+      "url": "/a/1190000018695141",
+      "desc": "Servlet包括1.普通的Servlet类2.Servlet过滤器3.Servlet监听器",
+      "author": {
+        "nick": "Cheryl",
+        "homepage": "/u/cheryl_5c95056033e3c"
+      }
+    },
+    {
+      "id": "1190000018694797",
+      "title": "【跃迁之路】【765天】程序员高效学习方法论探索系列（实验阶段522-2019.3.28）",
+      "url": "/a/1190000018694797",
+      "desc": "从2017.10.6起，开启这个系列，目标只有一个：探索新的学习方法，实现跃迁式成长 实验期2年（2017.10.06 - 2019.10.06） 我将以自己为实验对象。 我将开源我的学习方法，方法不断更新迭代，全程记录分享 实验结束...",
+      "author": {
+        "nick": "Wall_Breaker",
+        "homepage": "/u/wall_breaker"
+      }
+    },
+    {
+      "id": "1190000018694340",
+      "title": "zTree",
+      "url": "/a/1190000018694340",
+      "desc": "(id, parent, code, name, icon, t, isp, open, s, ls, f)parent：父节点open:是否展开1)树实体的字段对应2)sql脚本3)界面查询",
+      "author": {
+        "nick": "学问思辨行",
+        "homepage": "/u/xuewensibianxing"
+      }
+    },
+    {
+      "id": "1190000018694270",
+      "title": "java打包war",
+      "url": "/a/1190000018694270",
+      "desc": "【1】maven项目 war包部署需要,如下： {代码...} 【2】java web项目 直接项目右键导出war即可",
+      "author": {
+        "nick": "学问思辨行",
+        "homepage": "/u/xuewensibianxing"
+      }
+    },
+    {
+      "id": "1190000018694163",
+      "title": "Java中的栈",
+      "url": "/a/1190000018694163",
+      "desc": "Java中的Stack是早期的遗留类，Sun/Oracle已经不推荐使用，现在只是为了兼容遗留代码而保留.",
+      "author": {
+        "nick": "phiysng",
+        "homepage": "/u/phiysng"
+      }
+    },
+    {
+      "id": "1190000018694114",
+      "title": "ARTS(第一周)",
+      "url": "/a/1190000018694114",
+      "desc": "Given a binary tree, return the postorder traversal of its nodes' values.",
+      "author": {
+        "nick": "adamying",
+        "homepage": "/u/adamying"
+      }
+    },
+    {
+      "id": "1190000018693935",
+      "title": "Oracle高级对象",
+      "url": "/a/1190000018693935",
+      "desc": "调用存储过程可以大大减少同数据库的交互次数。降低网络通信量，因为存储过程执行的时候，只需要call存储过程名，不需要传递大量的SQL语句。有利于复用。",
+      "author": {
+        "nick": "AlitoString",
+        "homepage": "/u/alitostring"
+      }
+    },
+    {
+      "id": "1190000018693742",
+      "title": "【本人秃顶程序员】996.ICU引发程序猿的集体高潮",
+      "url": "/a/1190000018693742",
+      "desc": "996.ICU的意思是：工作996，生病ICU。“996工作制”是指每天早9点上班晚上9点，每周工作6天。“996”工作制的周工作时间为最低 60 小时。",
+      "author": {
+        "nick": "本人秃顶程序员",
+        "homepage": "/u/benrentudingchengxuyuan"
+      }
+    },
+    {
+      "id": "1190000018693731",
+      "title": "使用weixin-java-miniapp配置进行单个小程序的配置",
+      "url": "/a/1190000018693731",
+      "desc": "在进行小程序后端接口开发方面，使用weixin-java-tools中的weixin-java-miniapp模块，往往可以事半功倍。",
+      "author": {
+        "nick": "yangzhao",
+        "homepage": "/u/yangzhao"
+      }
+    },
+    {
+      "id": "1190000018693388",
+      "title": "编程小技巧",
+      "url": "/a/1190000018693388",
+      "desc": "相对于驼峰法而言，我更喜欢下划线法。下划线法可以更清楚的看出这个变量表示的意思。比如aBigGreenBanana和一个a_big_green_banana。",
+      "author": {
+        "nick": "fish",
+        "homepage": "/u/fish_5906d93ea3058"
+      }
+    }
+  ]
+}
