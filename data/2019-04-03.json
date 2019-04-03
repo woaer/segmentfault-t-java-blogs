@@ -1,0 +1,155 @@
+{
+  "watchNum": "46516",
+  "blogs": [
+    {
+      "id": "1190000018749470",
+      "title": "SpringBoot 基础配置 & Hello Word",
+      "url": "/a/1190000018749470",
+      "desc": "yml跟properties     例如设置端口为：8000     application.properties",
+      "author": {
+        "nick": "Bobby",
+        "homepage": "/u/bobby_5abafb342a424"
+      }
+    },
+    {
+      "id": "1190000018748627",
+      "title": "MySQL 复制 - 性能与扩展性的基石 2：部署及其配置",
+      "url": "/a/1190000018748627",
+      "desc": "正所谓理论造航母，现实小帆船。单有理论，不动手实践，学到的知识犹如空中楼阁。接下来，我们一起来看下如何一步步进行 MySQL Replication 的配置。",
+      "author": {
+        "nick": "北国风光",
+        "homepage": "/u/beiguofengguang"
+      }
+    },
+    {
+      "id": "1190000018748506",
+      "title": "Spring Boot简介 & 入门",
+      "url": "/a/1190000018748506",
+      "desc": "Spring Boot是由Pivotal团队提供的全新框架,秉承“习惯优于配置”的理念，简化了Spring应用程序创建和开发，无须过多关注配置，可以将更多精力放在业务代码上。",
+      "author": {
+        "nick": "Bobby",
+        "homepage": "/u/bobby_5abafb342a424"
+      }
+    },
+    {
+      "id": "1190000018747380",
+      "title": "Mybatis源码分析(1) - Mybatis包目录简介",
+      "url": "/a/1190000018747380",
+      "desc": "通过整理每个包的主要功能。通览整个mybatis的代码结构，了解各个组件的位置和大概的处理关系。为后续分析源码打下基础。",
+      "author": {
+        "nick": "疯狂小兵",
+        "homepage": "/u/jingzz"
+      }
+    },
+    {
+      "id": "1190000018746751",
+      "title": "YARN架构简记",
+      "url": "/a/1190000018746751",
+      "desc": "HA：RM启动时会向zk的/mrstore路径下写入lock文件，写入成功的则为active RM，否则为standby RM。启动后，RM会将job信息写入/mrstore,RM进程中的ZKFC线程会监控/mrstore中的lock文件，若不存在则RM为active，存在...",
+      "author": {
+        "nick": "Wish大人",
+        "homepage": "/u/wishdaren_5c243b920a3eb"
+      }
+    },
+    {
+      "id": "1190000018746071",
+      "title": "React Native 跳转到 APP 推送页面并获取推送状态",
+      "url": "/a/1190000018746071",
+      "desc": "产品为了提高推送送达率，提了一个需求：在 APP 推送关闭的情况下显示一个小 TIP，点击 TIP 跳转到 APP 消息设置界面。",
+      "author": {
+        "nick": "sky卤代烃",
+        "homepage": "/u/skychx"
+      }
+    },
+    {
+      "id": "1190000018745678",
+      "title": "HDFS架构简记",
+      "url": "/a/1190000018745678",
+      "desc": "读写：客户端通过命名空间发请求，可以无感知的找到active NN，active NN所做操作会保存在editlog文件中，并向JournalNode节点写入editlog。DN向NN发送心跳报告的时候，NN将editlog上的数据操作发送给DN实现。",
+      "author": {
+        "nick": "Wish大人",
+        "homepage": "/u/wishdaren_5c243b920a3eb"
+      }
+    },
+    {
+      "id": "1190000018745313",
+      "title": "乐字节-Java8新特性-Lambda表达式",
+      "url": "/a/1190000018745313",
+      "desc": "Lambda表达式（也称为闭包），它允许我们将函数当成参数传递给某个方法，或者把代码本身当作数据处理。很多语言（Groovy、Scala等）从设计之初就支持Lambda表达式。但是java中使用的是 匿名内部类代替。",
+      "author": {
+        "nick": "乐字节",
+        "homepage": "/u/lezijie"
+      }
+    },
+    {
+      "id": "1190000018745232",
+      "title": "热部署",
+      "url": "/a/1190000018745232",
+      "desc": "热部署(别名热启动)，其实很多地方都在使用也非常流行且好用(如springboot，jfinal，ssm)，web.xml中加入",
+      "author": {
+        "nick": "学问思辨行",
+        "homepage": "/u/xuewensibianxing"
+      }
+    },
+    {
+      "id": "1190000018745087",
+      "title": "在线JS编程学习(毕业设计)",
+      "url": "/a/1190000018745087",
+      "desc": "四年了,到了验收的时候了,收益于codewars所以自己也写了一个在线编码学习的网站。 前端技术：VUE, ElementUi 后端技术：Spring boot, Jeesite 部署：CentOs7, Docker 点此进入[链接] 首页: 答题: 答案:",
+      "author": {
+        "nick": "Tionsin",
+        "homepage": "/u/tionsin_5ae58062afe76"
+      }
+    },
+    {
+      "id": "1190000018743423",
+      "title": "Spring中Filter和Interceptor的区别",
+      "url": "/a/1190000018743423",
+      "desc": "主要作用：拦截用户请求，进行处理，比如判断用户登录情况、权限验证，只要针对Controller请求进行处理，是通过HandlerInterceptor。",
+      "author": {
+        "nick": "斜月明寒草",
+        "homepage": "/u/xuantianzhanlingjian"
+      }
+    },
+    {
+      "id": "1190000018742857",
+      "title": "springboot登陆页面图片验证码简单的web项目",
+      "url": "/a/1190000018742857",
+      "desc": "前段时间大家都说最近大环境不好，好多公司在裁员，换工作的话不推荐轻易的裸辞，但是我想说的是我所在的公司好流弊，有做不完的业务需求，还有就是招不完的人......最近我也是比较繁忙，但是还是要抽一点时间来...",
+      "author": {
+        "nick": "charmsongo",
+        "homepage": "/u/charmsongo"
+      }
+    },
+    {
+      "id": "1190000018742283",
+      "title": "物联网下的分布式总账技术：寄生虫链攻击",
+      "url": "/a/1190000018742283",
+      "desc": "(翻译的非常晦涩，也不准确，不作任何参考)　　在物联网领域的很多应用中，有向无环图(DAG)依靠分布式账本作用显著。分布式账本应以不可变、交易记录不可逆的形式提供服务，但是，一个DAG结构在它作为一种数据结...",
+      "author": {
+        "nick": "吕纬甫",
+        "homepage": "/u/lvweifu"
+      }
+    },
+    {
+      "id": "1190000018738966",
+      "title": "【zookeeper源码阅读】数据模型Znode",
+      "url": "/a/1190000018738966",
+      "desc": "本文主要对zookeeper的数据模型Znode进行的简要说明 主要内容： 1. zk的主要应用场景 2. zk的数据节点的概述 数据节点的类型 节点的数据结构 节点上的监听机制 1. zk的主要应用场景 数据的发布与订阅 负载均衡 统...",
+      "author": {
+        "nick": "Shannon",
+        "homepage": "/u/shannon_5ca2d7860e67c"
+      }
+    },
+    {
+      "id": "1190000018738332",
+      "title": "CICD项目发版脚本",
+      "url": "/a/1190000018738332",
+      "desc": "本文主要介绍通过shell脚本完成线上发版，自动打发版tag，方便线上功能回退。结合Jenkins参数化构建，可以实现自动化发布。",
+      "author": {
+        "nick": "darren",
+        "homepage": "/u/darren_5ae30a501a521"
+      }
+    }
+  ]
+}
