@@ -1,0 +1,155 @@
+{
+  "watchNum": "46789",
+  "blogs": [
+    {
+      "id": "1190000018771138",
+      "title": "JDK源码那些事儿之红黑树基础上篇",
+      "url": "/a/1190000018771138",
+      "desc": "说到HashMap，就一定要说到红黑树，红黑树作为一种自平衡二叉查找树，是一种用途较广的数据结构，在jdk1.8中使用红黑树提升HashMap的性能，今天就来说一说红黑树。",
+      "author": {
+        "nick": "orange",
+        "homepage": "/u/orange_5c808c5cc3ad2"
+      }
+    },
+    {
+      "id": "1190000018770996",
+      "title": "Java学习必备书籍推荐终极版！",
+      "url": "/a/1190000018770996",
+      "desc": "很早就想把JavaGuide的书单更新一下了，昨晚加今天早上花了几个时间对之前的书单进行了分类和补充完善。虽是终极版，但一定还有很多不错的 Java 书籍我没有添加进去，会继续完善下去。希望这篇文章对你有帮助，不...",
+      "author": {
+        "nick": "Snailclimb",
+        "homepage": "/u/snailclimb"
+      }
+    },
+    {
+      "id": "1190000018770957",
+      "title": "数据结构与算法——图",
+      "url": "/a/1190000018770957",
+      "desc": "1. 什么是图？ 前面说完了树这种数据结构，接下来在看看一种更加复杂的非线性数据结构——图。 先看看下面图这种数据结构的图片演示吧： 像上图这样的数据结构就叫做图了，图中的每个节点叫做 顶点 ，各个顶点之间...",
+      "author": {
+        "nick": "roseduan",
+        "homepage": "/u/roseduan"
+      }
+    },
+    {
+      "id": "1190000018770501",
+      "title": "LinkedList 基本示例及源码解析",
+      "url": "/a/1190000018770501",
+      "desc": "LinkedList双向链表，实现了List的 双向队列接口，实现了所有list可选择性操作，允许存储任何元素(包括null值)",
+      "author": {
+        "nick": "cxuan",
+        "homepage": "/u/cxuan"
+      }
+    },
+    {
+      "id": "1190000018769338",
+      "title": "《On Java 8》中文版，又名《Java 编程思想》中文第五版",
+      "url": "/a/1190000018769338",
+      "desc": "来源：LingCoder/OnJava8 主译: LingCoder 参译: LortSir 校对：nickChenyx E-mail: <lingcoder@gmail.com>",
+      "author": {
+        "nick": "飞龙",
+        "homepage": "/u/wizardforcel"
+      }
+    },
+    {
+      "id": "1190000018769103",
+      "title": "如何阅读Java源码？且听阿里P7架构师的分享",
+      "url": "/a/1190000018769103",
+      "desc": "假如你从来都没有学过Java，也没有其它编程语言的基础，上来就啃《Core Java》，那样是很难有收获的，尤其是《深入Java虚拟机》这类书，或许别人觉得好，但是未必适合现在的你。",
+      "author": {
+        "nick": "本人秃顶程序员",
+        "homepage": "/u/benrentudingchengxuyuan"
+      }
+    },
+    {
+      "id": "1190000018768907",
+      "title": "Java 8中Stream API集合操作的小技巧！",
+      "url": "/a/1190000018768907",
+      "desc": "Java 8引入了全新的Stream API。这里的Stream和I/O流不同，它更像具有Iterable的集合类，但行为和集合类又有所不同。",
+      "author": {
+        "nick": "本人秃顶程序员",
+        "homepage": "/u/benrentudingchengxuyuan"
+      }
+    },
+    {
+      "id": "1190000018768882",
+      "title": "增强版斐波纳契函数Tribonacci",
+      "url": "/a/1190000018768882",
+      "desc": "很好地遇到了斐波那契更大的兄弟，AKA Tribonacci。 它基本上像斐波纳契一样，但是将序列的最后3个（而不是2个）数相加以生成下一个。 所以，如果我们要以开始[1, 1, 1]输入开始我们的Tribonacci序列，我们有这样...",
+      "author": {
+        "nick": "sf190404",
+        "homepage": "/u/sf190404"
+      }
+    },
+    {
+      "id": "1190000018768855",
+      "title": "【codewars】将句子的首字母转大写",
+      "url": "/a/1190000018768855",
+      "desc": "威尔史密斯的儿子贾登史密斯是电影的明星，如空手道小子（2010）和地球之后（2013）。贾登以他通过Twitter提供的一些哲学而闻名。在Twitter上写作时，他几乎总是将每个单词都用于大写。",
+      "author": {
+        "nick": "sf190404",
+        "homepage": "/u/sf190404"
+      }
+    },
+    {
+      "id": "1190000018768663",
+      "title": "Java 高效编程（Effective Java）中文第三版",
+      "url": "/a/1190000018768663",
+      "desc": "《Effective Java, Third Edition》一书英文版已经出版，这本书的第二版想必很多人都读过，号称Java四大名著之一，不过第二版2009年出版，到现在已经将近8年的时间，但随着Java 6，7，8，甚至9的发布，Java语言发...",
+      "author": {
+        "nick": "飞龙",
+        "homepage": "/u/wizardforcel"
+      }
+    },
+    {
+      "id": "1190000018768512",
+      "title": "乐字节-Java8新特性之函数式接口",
+      "url": "/a/1190000018768512",
+      "desc": "上一篇小乐带大家学过 Java8新特性-Lambda表达式，什么时候可以使用Lambda？通常Lambda表达式是用在函数式接口上使用的。从Java8开始引入了函数式接口，其说明比较简单:函数式接口(Functional Interface)就是一个...",
+      "author": {
+        "nick": "乐字节",
+        "homepage": "/u/lezijie"
+      }
+    },
+    {
+      "id": "1190000018768276",
+      "title": "使用maven创建简单的多模块 Spring Web项目",
+      "url": "/a/1190000018768276",
+      "desc": "第一次写技术文章，主要内容是使用maven创建一个简单的SpringMVC WEB 项目，如有操作或理解错误请务必指出，当谦虚学习。做这一次的工作主要是因为想加强一下自己对Spring Web 项目的理解，因为平时都是直接写业...",
+      "author": {
+        "nick": "Roy7sang",
+        "homepage": "/u/roy7sang"
+      }
+    },
+    {
+      "id": "1190000018767529",
+      "title": "Android 与 JavaScript 交互 支持的数据类型",
+      "url": "/a/1190000018767529",
+      "desc": "当需要Android原生与H5之间交互的时候，需要调用WebView的getSettings().setJavaScriptEnabled(true);以及webView.addJavascriptInterface(Js对象名，Java对象);",
+      "author": {
+        "nick": "键笔刀",
+        "homepage": "/u/qingcongshidaizhangdongdong"
+      }
+    },
+    {
+      "id": "1190000018766719",
+      "title": "SpringBoot",
+      "url": "/a/1190000018766719",
+      "desc": "框架技术：SpringBoot+Mybatis+MySQL等 配置文件 配置文件application.propreties文件 {代码...} 如果使用yml文件 则使用下面配置 {代码...} Controller层 注意： 使用Restful时 要加上@PathVariable注解 。前面...",
+      "author": {
+        "nick": "Tidetrace",
+        "homepage": "/u/tidetrace"
+      }
+    },
+    {
+      "id": "1190000018766025",
+      "title": "SpringBoot | 是如何实现自动配置的？",
+      "url": "/a/1190000018766025",
+      "desc": "相信接触过 SpringBoot 的朋友都知道 SpringBoot 有各种 starter 依赖，想要什么直接勾选加进来就可以了。想要自定义的时候就直接在配置文件写自己的配置就好。但你们有没有困惑，为什么 SpringBoot 如此智能，到...",
+      "author": {
+        "nick": "本人秃顶程序员",
+        "homepage": "/u/benrentudingchengxuyuan"
+      }
+    }
+  ]
+}
