@@ -1,0 +1,155 @@
+{
+  "watchNum": "46846",
+  "blogs": [
+    {
+      "id": "1190000018776076",
+      "title": "android  Fragment ---- 笔记",
+      "url": "/a/1190000018776076",
+      "desc": "一、简介 Fragment 是一种可以嵌入在活动当中的UI片段，它能让程序更加合理和充分地利用大屏幕的空间。 二、优点 解决了手机，平板等各种设备的适配问题； 解决了多个 Activity 之间切换性能问题，使用更灵活； ...",
+      "author": {
+        "nick": "kele",
+        "homepage": "/u/kele_5c185edcaca29"
+      }
+    },
+    {
+      "id": "1190000018775310",
+      "title": "ConcurrentHashMap学习",
+      "url": "/a/1190000018775310",
+      "desc": "1、HashMap线程不安全，并且进行put操作会导致死循环（由于HashMap的Entry链表形成环形数据结构，Entry下的next节点永远不为空）2、HashTable多线程效率低下，主要表现在数据操作方法头采用synchronized互斥锁，...",
+      "author": {
+        "nick": "幻翼",
+        "homepage": "/u/huanyi"
+      }
+    },
+    {
+      "id": "1190000018773800",
+      "title": "【译】Spring Boot 2.0的属性绑定",
+      "url": "/a/1190000018773800",
+      "desc": "原文从Spring boot第一个版本以来，我们可以使用@ConfigurationProperties注解将属性绑定到对象。也可以指定属性的各种不同格式。比如，person.first-name,person.firstName和PERSON_FIRSTNAME都可以使用。这个功...",
+      "author": {
+        "nick": "沈子平",
+        "homepage": "/u/shenziping"
+      }
+    },
+    {
+      "id": "1190000018773738",
+      "title": "SpringBoot中并发定时任务的实现、动态定时任务的实现（看这一篇就够了）",
+      "url": "/a/1190000018773738",
+      "desc": "Timer：jdk中自带的一个定时调度类，可以简单的实现按某一频度进行任务执行。提供的功能比较单一，无法实现复杂的调度任务。",
+      "author": {
+        "nick": "本人秃顶程序员",
+        "homepage": "/u/benrentudingchengxuyuan"
+      }
+    },
+    {
+      "id": "1190000018773654",
+      "title": "Spring整合Quartz定时任务 在集群、分布式系统中的应用",
+      "url": "/a/1190000018773654",
+      "desc": "虽然单个Quartz实例能给予你很好的Job调度能力，但它不能满足典型的企业需求，如可伸缩性、高可靠性满足。假如你需要故障转移的能力并能运行日益增多的 Job，Quartz集群势必成为你应用的一部分了。使用 Quartz 的...",
+      "author": {
+        "nick": "本人秃顶程序员",
+        "homepage": "/u/benrentudingchengxuyuan"
+      }
+    },
+    {
+      "id": "1190000018773014",
+      "title": "数组",
+      "url": "/a/1190000018773014",
+      "desc": "顾名思义，线性表就是数据排列成像一条线一样的结构。每个线性表上的数据最多只有前和后两个方向，数组，链表，栈，队列等都是典型的线性表结构。",
+      "author": {
+        "nick": "Dawsson",
+        "homepage": "/u/dawsson"
+      }
+    },
+    {
+      "id": "1190000018772565",
+      "title": "linux 安装java",
+      "url": "/a/1190000018772565",
+      "desc": "下载java地址： java 查看当前Linux系统是否已经安装javarpm -qa | grep java 如果已经安装，卸载输入rpm -e --nodeps 要卸载的软件 上传文件到linux 解压jdk到/usr/local下 tar –xvf jdk-8u202-linux-x64.tar.gz...",
+      "author": {
+        "nick": "lijingyulee",
+        "homepage": "/u/lijingyulee"
+      }
+    },
+    {
+      "id": "1190000018772368",
+      "title": "重构代码（应如写诗）",
+      "url": "/a/1190000018772368",
+      "desc": "最近公司做了个项目，深深体会到架构设计以及代码优化有多么的重要。回头看自己的代码都觉得特别混乱，有时候还要看很久才能看懂，可扩展性特别差，完全是为了完成需求而编码的。说得形象一点就像修水管，最后全...",
+      "author": {
+        "nick": "zero",
+        "homepage": "/u/zero_5b9fc2c32c74c"
+      }
+    },
+    {
+      "id": "1190000018771841",
+      "title": "如何求ABC的全排列？--如何理解回溯算法？",
+      "url": "/a/1190000018771841",
+      "desc": "如何通过程序求解？方法一：暴力法，为什么是暴力法？因为暴力是机器唯一听得懂的语言。如何暴力？对一个空的字符串添加字母，添加三次，这个字母是ABC这三个中的一个。每添加完三个字母后，也就是得到一个排列以...",
+      "author": {
+        "nick": "Linus脱袜子",
+        "homepage": "/u/qiuqi_turing"
+      }
+    },
+    {
+      "id": "1190000018771138",
+      "title": "JDK源码那些事儿之红黑树基础上篇",
+      "url": "/a/1190000018771138",
+      "desc": "说到HashMap，就一定要说到红黑树，红黑树作为一种自平衡二叉查找树，是一种用途较广的数据结构，在jdk1.8中使用红黑树提升HashMap的性能，今天就来说一说红黑树。",
+      "author": {
+        "nick": "orange",
+        "homepage": "/u/orange_5c808c5cc3ad2"
+      }
+    },
+    {
+      "id": "1190000018770996",
+      "title": "Java学习必备书籍推荐终极版！",
+      "url": "/a/1190000018770996",
+      "desc": "很早就想把JavaGuide的书单更新一下了，昨晚加今天早上花了几个时间对之前的书单进行了分类和补充完善。虽是终极版，但一定还有很多不错的 Java 书籍我没有添加进去，会继续完善下去。希望这篇文章对你有帮助，不...",
+      "author": {
+        "nick": "Snailclimb",
+        "homepage": "/u/snailclimb"
+      }
+    },
+    {
+      "id": "1190000018770957",
+      "title": "数据结构与算法——图",
+      "url": "/a/1190000018770957",
+      "desc": "1. 什么是图？ 前面说完了树这种数据结构，接下来在看看一种更加复杂的非线性数据结构——图。 先看看下面图这种数据结构的图片演示吧： 像上图这样的数据结构就叫做图了，图中的每个节点叫做 顶点 ，各个顶点之间...",
+      "author": {
+        "nick": "roseduan",
+        "homepage": "/u/roseduan"
+      }
+    },
+    {
+      "id": "1190000018770501",
+      "title": "LinkedList 基本示例及源码解析",
+      "url": "/a/1190000018770501",
+      "desc": "LinkedList双向链表，实现了List的 双向队列接口，实现了所有list可选择性操作，允许存储任何元素(包括null值)",
+      "author": {
+        "nick": "cxuan",
+        "homepage": "/u/cxuan"
+      }
+    },
+    {
+      "id": "1190000018769338",
+      "title": "《On Java 8》中文版，又名《Java 编程思想》中文第五版",
+      "url": "/a/1190000018769338",
+      "desc": "来源：LingCoder/OnJava8 主译: LingCoder 参译: LortSir 校对：nickChenyx E-mail: <lingcoder@gmail.com>",
+      "author": {
+        "nick": "飞龙",
+        "homepage": "/u/wizardforcel"
+      }
+    },
+    {
+      "id": "1190000018769103",
+      "title": "如何阅读Java源码？且听阿里P7架构师的分享",
+      "url": "/a/1190000018769103",
+      "desc": "假如你从来都没有学过Java，也没有其它编程语言的基础，上来就啃《Core Java》，那样是很难有收获的，尤其是《深入Java虚拟机》这类书，或许别人觉得好，但是未必适合现在的你。",
+      "author": {
+        "nick": "本人秃顶程序员",
+        "homepage": "/u/benrentudingchengxuyuan"
+      }
+    }
+  ]
+}
