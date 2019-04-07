@@ -1,0 +1,155 @@
+{
+  "watchNum": "46899",
+  "blogs": [
+    {
+      "id": "1190000018780217",
+      "title": "复杂type页面封装库，支持多种状态切换和下拉刷新上拉加载",
+      "url": "/a/1190000018780217",
+      "desc": "目录介绍 1.复杂页面库介绍 2.本库优势亮点 2.1 支持多种状态切换管理 2.2 支持添加多个header和footer 2.3 支持侧滑功能和拖拽移动 2.4 其他亮点介绍 3.如何使用介绍 3.1 最基础的使用 3.2 添加下拉刷新和加载更...",
+      "author": {
+        "nick": "潇湘剑雨",
+        "homepage": "/u/xiangjianyu"
+      }
+    },
+    {
+      "id": "1190000018780104",
+      "title": "第三课(spring-boot+mybatis+jqgrid)",
+      "url": "/a/1190000018780104",
+      "desc": "课程目标 完成与spring boot 与的mybatis的集成处理数据curd 课程计划 使用mybatis完成博客后台管理员列表的jqgird搜索 课程分析 想要完成列表的搜索，就必须对sql按提交搜索条件进行逻辑判断组织sql,也就是动态s...",
+      "author": {
+        "nick": "麦田348462402",
+        "homepage": "/u/maitian348462402"
+      }
+    },
+    {
+      "id": "1190000018779848",
+      "title": "SpringCloud之Hystrix",
+      "url": "/a/1190000018779848",
+      "desc": "在分布式环境中，许多服务依赖关系中的一些必然会失败。Hystrix是一个库，它通过添加延迟容忍和容错逻辑来帮助您控制这些分布式服务之间的交互。Hystrix通过隔离服务之间的访问点、停止跨服务的级联故障并提供回...",
+      "author": {
+        "nick": "zero",
+        "homepage": "/u/zero_5b9fc2c32c74c"
+      }
+    },
+    {
+      "id": "1190000018779644",
+      "title": "无状态会话",
+      "url": "/a/1190000018779644",
+      "desc": "当用户访问一个系统的时候，是\"不存在\"会话这种东西的，访问一次就断开和系统之间的连接，这种情况下一般来说需要在后台做控制来维系用户和系统之间的关系。既然Tomcat服务器做不到，那么可以考虑用redis来实现。",
+      "author": {
+        "nick": "Nathan",
+        "homepage": "/u/nathan_5ca8c9f03de2b"
+      }
+    },
+    {
+      "id": "1190000018778743",
+      "title": "SpringBoot 仿抖音短视频小程序开发（一）",
+      "url": "/a/1190000018778743",
+      "desc": "模仿抖音做的一个短视频微信小程序，用SpringBoot搭建小程序后台，用SSM框架搭建短视频后台管理系统，小程序后台通过分布式zookeeper监听节点自动下载或删除短视频后台管理系统上传的视频。",
+      "author": {
+        "nick": "Nathan",
+        "homepage": "/u/nathan_5ca8c9f03de2b"
+      }
+    },
+    {
+      "id": "1190000018776594",
+      "title": "【极简版】SpringBoot+SpringData JPA 管理系统",
+      "url": "/a/1190000018776594",
+      "desc": "在上一篇中已经讲解了如何从零搭建一个SpringBoot+SpringData JPA的环境，测试接口的时候也成功获取得到数据了。",
+      "author": {
+        "nick": "Java3y",
+        "homepage": "/u/java_3y"
+      }
+    },
+    {
+      "id": "1190000018776578",
+      "title": "第7项：清除过期对象的引用",
+      "url": "/a/1190000018776578",
+      "desc": "当你从手工管理内存的语言(比如C或者C++)转换到具有垃圾回收功能的语言的时候，程序猿的工作就会变得更加容易，因为当你用完了对象之后，他们就会被自动回收。当你第一次经历对象回收功能的时候，会觉得这简直有...",
+      "author": {
+        "nick": "coloured_glaze",
+        "homepage": "/u/coloured_glaze"
+      }
+    },
+    {
+      "id": "1190000018776498",
+      "title": "第6项：避免创建不需要的对象",
+      "url": "/a/1190000018776498",
+      "desc": "一般来说，最好能重用对象而不是在每次需要的时候就创建一个相同功能的新对象。重用的方式既快速，有流行。如果对象是不可变(immutable)的(第17项)，那么就能重复使用它。",
+      "author": {
+        "nick": "coloured_glaze",
+        "homepage": "/u/coloured_glaze"
+      }
+    },
+    {
+      "id": "1190000018776435",
+      "title": "AQS 的 ConditionObject 源码分析",
+      "url": "/a/1190000018776435",
+      "desc": "同步器（AbstractQueuedSynchronizer）拥有一个同步队列和多个等待队列，同步队列和等待队列中节点的类型都是同步器的静态内部类 AbstractQueuedSynchronizer.Node，这里分析的源码基于 JDK 8。",
+      "author": {
+        "nick": "sorel",
+        "homepage": "/u/sorel"
+      }
+    },
+    {
+      "id": "1190000018776076",
+      "title": "android  Fragment ---- 笔记",
+      "url": "/a/1190000018776076",
+      "desc": "一、简介 Fragment 是一种可以嵌入在活动当中的UI片段，它能让程序更加合理和充分地利用大屏幕的空间。 二、优点 解决了手机，平板等各种设备的适配问题； 解决了多个 Activity 之间切换性能问题，使用更灵活； ...",
+      "author": {
+        "nick": "kele",
+        "homepage": "/u/kele_5c185edcaca29"
+      }
+    },
+    {
+      "id": "1190000018775310",
+      "title": "ConcurrentHashMap学习",
+      "url": "/a/1190000018775310",
+      "desc": "1、HashMap线程不安全，并且进行put操作会导致死循环（由于HashMap的Entry链表形成环形数据结构，Entry下的next节点永远不为空）2、HashTable多线程效率低下，主要表现在数据操作方法头采用synchronized互斥锁，...",
+      "author": {
+        "nick": "幻翼",
+        "homepage": "/u/huanyi"
+      }
+    },
+    {
+      "id": "1190000018773800",
+      "title": "【译】Spring Boot 2.0的属性绑定",
+      "url": "/a/1190000018773800",
+      "desc": "原文从Spring boot第一个版本以来，我们可以使用@ConfigurationProperties注解将属性绑定到对象。也可以指定属性的各种不同格式。比如，person.first-name,person.firstName和PERSON_FIRSTNAME都可以使用。这个功...",
+      "author": {
+        "nick": "沈子平",
+        "homepage": "/u/shenziping"
+      }
+    },
+    {
+      "id": "1190000018773738",
+      "title": "SpringBoot中并发定时任务的实现、动态定时任务的实现（看这一篇就够了）",
+      "url": "/a/1190000018773738",
+      "desc": "Timer：jdk中自带的一个定时调度类，可以简单的实现按某一频度进行任务执行。提供的功能比较单一，无法实现复杂的调度任务。",
+      "author": {
+        "nick": "本人秃顶程序员",
+        "homepage": "/u/benrentudingchengxuyuan"
+      }
+    },
+    {
+      "id": "1190000018773654",
+      "title": "Spring整合Quartz定时任务 在集群、分布式系统中的应用",
+      "url": "/a/1190000018773654",
+      "desc": "虽然单个Quartz实例能给予你很好的Job调度能力，但它不能满足典型的企业需求，如可伸缩性、高可靠性满足。假如你需要故障转移的能力并能运行日益增多的 Job，Quartz集群势必成为你应用的一部分了。使用 Quartz 的...",
+      "author": {
+        "nick": "本人秃顶程序员",
+        "homepage": "/u/benrentudingchengxuyuan"
+      }
+    },
+    {
+      "id": "1190000018773014",
+      "title": "数组",
+      "url": "/a/1190000018773014",
+      "desc": "顾名思义，线性表就是数据排列成像一条线一样的结构。每个线性表上的数据最多只有前和后两个方向，数组，链表，栈，队列等都是典型的线性表结构。",
+      "author": {
+        "nick": "Dawsson",
+        "homepage": "/u/dawsson"
+      }
+    }
+  ]
+}
