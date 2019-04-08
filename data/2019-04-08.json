@@ -1,0 +1,155 @@
+{
+  "watchNum": "46969",
+  "blogs": [
+    {
+      "id": "1190000018791686",
+      "title": "Java™ 教程（捕获和处理异常）",
+      "url": "/a/1190000018791686",
+      "desc": "本节描述如何使用三个异常处理程序组件 — try、catch和finally块 — 来编写异常处理程序，然后，解释了Java SE 7中引入的try-with-resources语句，try-with-resources语句特别适用于使用Closeable资源的情况，例如...",
+      "author": {
+        "nick": "博弈",
+        "homepage": "/u/lfheart"
+      }
+    },
+    {
+      "id": "1190000018789200",
+      "title": "IntelliJ IDEA创建Spring Boot项目",
+      "url": "/a/1190000018789200",
+      "desc": "File-->New-->Project 选择Spring Initializr maven参数 Group组织唯一标识(组织域名倒序) Artifact项目的唯一标识 输出格式jar/war jdk版本 开发语言java Version目前项目版本 选择依赖 项目名称 目录结构...",
+      "author": {
+        "nick": "lijingyulee",
+        "homepage": "/u/lijingyulee"
+      }
+    },
+    {
+      "id": "1190000018789024",
+      "title": "Java多线程&高并发",
+      "url": "/a/1190000018789024",
+      "desc": "定义：当多个线程访问某个类时，不管运行时环境采用何种调度方式，或者这些线程将如何交替执行，并且在主调代码中不需要任何额外的同步或协同，这个类都能表现出正确的行为，那么就称这个类是线程安全的。",
+      "author": {
+        "nick": "阿南",
+        "homepage": "/u/anan_5ca066790c21a"
+      }
+    },
+    {
+      "id": "1190000018788967",
+      "title": "SpringBoot中并发定时任务的实现、动态定时任务的实现（看这一篇就够了）",
+      "url": "/a/1190000018788967",
+      "desc": "Timer：jdk中自带的一个定时调度类，可以简单的实现按某一频度进行任务执行。提供的功能比较单一，无法实现复杂的调度任务。",
+      "author": {
+        "nick": "会炼钢的小白龙",
+        "homepage": "/u/baixianlong"
+      }
+    },
+    {
+      "id": "1190000018787007",
+      "title": "android 四大组件（未完待续）",
+      "url": "/a/1190000018787007",
+      "desc": "1.1 正常情况下的生命周期（1）onCreate：我们可以在这里做一下数据的初始化，加载布局资源等工作。",
+      "author": {
+        "nick": "kele",
+        "homepage": "/u/kele_5c185edcaca29"
+      }
+    },
+    {
+      "id": "1190000018786676",
+      "title": "git必会必知",
+      "url": "/a/1190000018786676",
+      "desc": "git前身是BitKeeper，但是他不是开源软件，不符合当时开源趋势，于是就会有了开源的git，git开发只用了十天时间。目前git是公司开发必不可少的一个工具，用于多人开发的分布式版本控制软件。git是Linux内核，由c...",
+      "author": {
+        "nick": "布尔bl",
+        "homepage": "/u/chenzhuantou"
+      }
+    },
+    {
+      "id": "1190000018785903",
+      "title": "MySQL 复制 - 性能与扩展性的基石 3：常见问题及解决方案",
+      "url": "/a/1190000018785903",
+      "desc": "主备复制过程中有很大可能会出现各种问题，接下来我们就讨论一些比较普遍的问题，以及当遇到这些问题时，如何解决或者预防问题发生。",
+      "author": {
+        "nick": "北国风光",
+        "homepage": "/u/beiguofengguang"
+      }
+    },
+    {
+      "id": "1190000018785489",
+      "title": "阿里开源的缓存框架JetCache",
+      "url": "/a/1190000018785489",
+      "desc": "之前一直在用Spring Cache进行接口数据的缓存，主要是Spring Cache在对具体key缓存失效时间的设置不是很方法，还要自己去扩展，无意中发现了阿里的JetCache。大部分的需求都能满足，并且有一些很实用的功能，今天...",
+      "author": {
+        "nick": "猿天地",
+        "homepage": "/u/yuantiandi"
+      }
+    },
+    {
+      "id": "1190000018783923",
+      "title": "springMVC-returned a response status of 400 OR 403 OR 409",
+      "url": "/a/1190000018783923",
+      "desc": "returned a response status of 400 returned a response status of 403 returned a response status of 409",
+      "author": {
+        "nick": "套泥个猴",
+        "homepage": "/u/_5c7f5ffe48085"
+      }
+    },
+    {
+      "id": "1190000018781098",
+      "title": "元数据治理框架Atlas研究——数据写入过程源码分析",
+      "url": "/a/1190000018781098",
+      "desc": "概要Atlas通过AtlasEntityStoreV2.createOrUpdate函数进行数据写入，了解AtlasEntityStoreV2.createOrUpdate这个重要函数有助于理解Atlas工作流程、优化写入性能。本文主要梳理createOrUpdate中各子模块的功能和...",
+      "author": {
+        "nick": "sjq1992",
+        "homepage": "/u/sjq1992"
+      }
+    },
+    {
+      "id": "1190000018780432",
+      "title": "谈谈Java引用和Threadlocal的那些事 ",
+      "url": "/a/1190000018780432",
+      "desc": "1 背景某一天在某一个群里面的某个群友突然提出了一个问题:\"threadlocal的key是弱引用，那么在threadlocal.get()的时候,发生GC之后，key是否是null？\"屏幕前的你可以好好的想想这个问题，在这里我先卖个关子，先...",
+      "author": {
+        "nick": "代码改变世界",
+        "homepage": "/u/daimagaibianshijie"
+      }
+    },
+    {
+      "id": "1190000018780217",
+      "title": "复杂type页面封装库，支持多种状态切换和下拉刷新上拉加载",
+      "url": "/a/1190000018780217",
+      "desc": "目录介绍 1.复杂页面库介绍 2.本库优势亮点 2.1 支持多种状态切换管理 2.2 支持添加多个header和footer 2.3 支持侧滑功能和拖拽移动 2.4 其他亮点介绍 3.如何使用介绍 3.1 最基础的使用 3.2 添加下拉刷新和加载更...",
+      "author": {
+        "nick": "潇湘剑雨",
+        "homepage": "/u/xiangjianyu"
+      }
+    },
+    {
+      "id": "1190000018780104",
+      "title": "第三课(spring-boot+mybatis+jqgrid)",
+      "url": "/a/1190000018780104",
+      "desc": "课程目标 完成与spring boot 与的mybatis的集成处理数据curd 课程计划 使用mybatis完成博客后台管理员列表的jqgird搜索 课程分析 想要完成列表的搜索，就必须对sql按提交搜索条件进行逻辑判断组织sql,也就是动态s...",
+      "author": {
+        "nick": "麦田348462402",
+        "homepage": "/u/maitian348462402"
+      }
+    },
+    {
+      "id": "1190000018779848",
+      "title": "SpringCloud之Hystrix",
+      "url": "/a/1190000018779848",
+      "desc": "在分布式环境中，许多服务依赖关系中的一些必然会失败。Hystrix是一个库，它通过添加延迟容忍和容错逻辑来帮助您控制这些分布式服务之间的交互。Hystrix通过隔离服务之间的访问点、停止跨服务的级联故障并提供回...",
+      "author": {
+        "nick": "zero",
+        "homepage": "/u/zero_5b9fc2c32c74c"
+      }
+    },
+    {
+      "id": "1190000018779644",
+      "title": "无状态会话",
+      "url": "/a/1190000018779644",
+      "desc": "当用户访问一个系统的时候，是\"不存在\"会话这种东西的，访问一次就断开和系统之间的连接，这种情况下一般来说需要在后台做控制来维系用户和系统之间的关系。既然Tomcat服务器做不到，那么可以考虑用redis来实现。",
+      "author": {
+        "nick": "Nathan",
+        "homepage": "/u/nathan_5ca8c9f03de2b"
+      }
+    }
+  ]
+}
