@@ -1,0 +1,155 @@
+{
+  "watchNum": "47119",
+  "blogs": [
+    {
+      "id": "1190000018804204",
+      "title": "栈的实现原理",
+      "url": "/a/1190000018804204",
+      "desc": "目录介绍 01.栈由简单数据实现 1.1 简单数组代码实现 1.2 可能出现问题 1.3 性能和局限性 02.栈由动态数组实现 2.1 基于简单数组存在问题 2.2 第一种解决办法 2.3 第二种解决办法 2.4 动态数组实现栈代码 2.5 性...",
+      "author": {
+        "nick": "潇湘剑雨",
+        "homepage": "/u/xiangjianyu"
+      }
+    },
+    {
+      "id": "1190000018804184",
+      "title": "干货｜Spring Cloud Stream 体系及原理介绍",
+      "url": "/a/1190000018804184",
+      "desc": "Spring Cloud Stream 在 Spring Cloud 体系内用于构建高度可扩展的基于事件驱动的微服务，其目的是为了简化消息在 Spring Cloud 应用程序中的开发。Spring Cloud Stream (后面以 SCS 代替 Spring Cloud Stream) ...",
+      "author": {
+        "nick": "阿里云云栖社区",
+        "homepage": "/u/yunqishequ_5aa899aad5395"
+      }
+    },
+    {
+      "id": "1190000018802877",
+      "title": " Spring Security 进阶-细节总结",
+      "url": "/a/1190000018802877",
+      "desc": "关于 Spring Security 的学习已经告一段落了，刚开始接触该安全框架感觉很迷茫，总觉得没有 Shiro 灵活，到后来的深入学习和探究才发现它非常强大。简单快速集成，基本不用写任何代码，拓展起来也非常灵活和强大。",
+      "author": {
+        "nick": "超人",
+        "homepage": "/u/superman01"
+      }
+    },
+    {
+      "id": "1190000018802087",
+      "title": "AbstractXlsxView导出带有下拉框列的Excel",
+      "url": "/a/1190000018802087",
+      "desc": "AbstractXlsxView 在导出Excel数据的时候，遇到了某一列要设置为下拉框选择，前辈们在网上都是简单的例子，没有下拉框的设置，索性自己折腾一下。",
+      "author": {
+        "nick": "如期而至",
+        "homepage": "/u/ruqierzhi"
+      }
+    },
+    {
+      "id": "1190000018801876",
+      "title": "Spring Cloud Alibaba到底坑不坑？",
+      "url": "/a/1190000018801876",
+      "desc": "之前我发过一篇《说说我为什么看好Spring Cloud Alibaba》，然后这两天有网友给我转了这篇文章《坑爹项目spring-cloud-alibaba，我们也来一个》，问我的看法是怎么样的，聊天时候简单说了一下。今天在家休息，抽...",
+      "author": {
+        "nick": "程序猿DD",
+        "homepage": "/u/coderdd"
+      }
+    },
+    {
+      "id": "1190000018801471",
+      "title": "[蜕变之路] [1天] 计划目标制定",
+      "url": "/a/1190000018801471",
+      "desc": "目标导向，主次分明——学习知识，不是为了懂更多知识，而是为了用知识创造价值，让人类文明更加进步，所以，不要奢求什么都懂，一定要目标导向，主次分明的学习创造价值所需要的知识。终生学习，每日精进——永远不...",
+      "author": {
+        "nick": "Samm",
+        "homepage": "/u/hackerfreedom"
+      }
+    },
+    {
+      "id": "1190000018801400",
+      "title": "论JVM爆炸的几种姿势及自救方法",
+      "url": "/a/1190000018801400",
+      "desc": "如今不管是在面试还是在我们的工作中，OOM总是不断的出现在我们的视野中，所以我们有必要去了解一下导致OOM的原因以及一些基本的调整方法，大家可以通过下面的事例来了解一下什么样的代码会导致OOM，帮助我们以后...",
+      "author": {
+        "nick": "深夜里的程序猿",
+        "homepage": "/u/19921228"
+      }
+    },
+    {
+      "id": "1190000018800865",
+      "title": "JavaWeb 乱码问题终极解决方案！",
+      "url": "/a/1190000018800865",
+      "desc": "经常有读者在公众号上问 JavaWeb 乱码的问题，昨天又有一个小伙伴问及此事，其实这个问题很简单，但是想要说清楚却并不容易，因为每个人乱码的原因都不一样，给每位小伙伴都把乱码的原因讲一遍也挺费时间的，因此...",
+      "author": {
+        "nick": "江南一点雨",
+        "homepage": "/u/lenve"
+      }
+    },
+    {
+      "id": "1190000018800171",
+      "title": "谷歌的Android Q到底有哪些新特性及变更？",
+      "url": "/a/1190000018800171",
+      "desc": "Android Q 改变了应用程序访问设备外部存储上文件的方式。 通过使用更细粒度的媒体特定权限替换以前的 READ_EXTERNAL_STORAGE 和 WRITE_EXTERNAL_STORAGE权限。",
+      "author": {
+        "nick": "爱编码的coder",
+        "homepage": "/u/chengxuyuanxiaohui"
+      }
+    },
+    {
+      "id": "1190000018800004",
+      "title": "Centos7.6安装Java8",
+      "url": "/a/1190000018800004",
+      "desc": "本博客 猫叔的博客，转载请申明出处本系列教程为HMStrange项目附带。 历史文章 如何在VMware12安装Centos7.6最新版 下载 [链接] 这个是我下载的jdk版本，项目选用Java8，Centos的安装是在上一篇文章的内容 实操 1...",
+      "author": {
+        "nick": "Java猫说",
+        "homepage": "/u/myself_5ab9f390c6129"
+      }
+    },
+    {
+      "id": "1190000018799734",
+      "title": "maven多模块的项目搭建",
+      "url": "/a/1190000018799734",
+      "desc": "springmvc + spring + mybatis +springboot + maven多模块的项目搭建",
+      "author": {
+        "nick": "学问思辨行",
+        "homepage": "/u/xuewensibianxing"
+      }
+    },
+    {
+      "id": "1190000018798721",
+      "title": "mybatis 入门搭建",
+      "url": "/a/1190000018798721",
+      "desc": "MyBatis应用是以SqlSessionFactory为中心的,实例可以通过SqlSessionFactoryBuilder获得.其中SqlSessionFactory是工厂接口,任务用于创建SqlSession 配置文件将会解析配置XML文件在Configuration类对象中.",
+      "author": {
+        "nick": "小小____",
+        "homepage": "/u/xiaoxiao___________"
+      }
+    },
+    {
+      "id": "1190000018797724",
+      "title": "element-ui日期时间选择器的日期格式化问题",
+      "url": "/a/1190000018797724",
+      "desc": "最近在做vue+element-ui的后台管理页面，其中用到了DateTimePicker来选择日期时间，但是在将数据传回后台的过程中遇到了一些令人头疼的问题，在此记录一下解决方案，以免日后再次遇到。 前端代码 {代码...} 实体...",
+      "author": {
+        "nick": "codecho",
+        "homepage": "/u/codecho"
+      }
+    },
+    {
+      "id": "1190000018797642",
+      "title": "JFinal-event v2.3.0 发布，简化 Event 事件类",
+      "url": "/a/1190000018797642",
+      "desc": "JFinal-event 2.x 参考 Spring 4.2.x 中 Event 的使用方式而生，为 JFinal 用户带来更多方便。其核心目标是深层次解耦，为您节约更多时间，去陪恋人、家人和朋友 :)",
+      "author": {
+        "nick": "如梦技术",
+        "homepage": "/u/dreamlu"
+      }
+    },
+    {
+      "id": "1190000018797167",
+      "title": "归并排序 - Algorithms, Part I, week 3 MERGESORTS",
+      "url": "/a/1190000018797167",
+      "desc": "本周讲解两个50多年前发明，但今天仍然很重要的经典算法 (归并排序和快速排序) 之一 -- 归并排序，几乎每个软件系统中都可以找到其中一个或两个的实现，并研究这些经典方法的新变革。我们的涉及范围从数学模型中...",
+      "author": {
+        "nick": "黑洞的奥义",
+        "homepage": "/u/heidongdeaoyi"
+      }
+    }
+  ]
+}
