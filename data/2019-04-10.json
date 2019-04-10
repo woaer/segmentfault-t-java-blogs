@@ -1,0 +1,155 @@
+{
+  "watchNum": "47205",
+  "blogs": [
+    {
+      "id": "1190000018817336",
+      "title": "Alibaba Sentinel（1）：快速上手",
+      "url": "/a/1190000018817336",
+      "desc": "Alibaba Sentinel 是一个灵活的系统负载控制框架，通过控制接口和方法的调用来保证系统负载不会过大，维持正常响应速度。",
+      "author": {
+        "nick": "捏造的信仰",
+        "homepage": "/u/yidinghe"
+      }
+    },
+    {
+      "id": "1190000018816005",
+      "title": "[蜕变之路] [2天] 仓库项目搭建",
+      "url": "/a/1190000018816005",
+      "desc": "1.主要面对java知识总结以及英文训练2.实验期一年(2019.4.9 -2020.5.1 ) 完成Epreeing briely java 语言搭建的仓库管理,网址wxxwz.top",
+      "author": {
+        "nick": "Samm",
+        "homepage": "/u/hackerfreedom"
+      }
+    },
+    {
+      "id": "1190000018815782",
+      "title": "SpringBoot+MySQL+MyBatis的入门教程",
+      "url": "/a/1190000018815782",
+      "desc": "本博客 猫叔的博客，转载请申明出处本系列教程为HMStrange项目附带。 历史文章 如何在VMware12安装Centos7.6最新版 Centos7.6安装Java8 Centos7.6安装MySQL+Redis（最新版） 教程内容 备注：本系列开发工具均为ID...",
+      "author": {
+        "nick": "Java猫说",
+        "homepage": "/u/myself_5ab9f390c6129"
+      }
+    },
+    {
+      "id": "1190000018814003",
+      "title": "android 线程和线程池",
+      "url": "/a/1190000018814003",
+      "desc": "线程是CPU调度的最小单位。当一个程序第一次启动的时候，Android 会启动一个 Linux 进程和一个主线程。Android 中所有的组件都在主线程中实例化。主线程主要负责处理 UI 相关的事件，所以又被叫做 UI 线程。在 An...",
+      "author": {
+        "nick": "kele",
+        "homepage": "/u/kele_5c185edcaca29"
+      }
+    },
+    {
+      "id": "1190000018813884",
+      "title": "Centos7.6安装MySQL+Redis（最新版）",
+      "url": "/a/1190000018813884",
+      "desc": "1、下载mysql，地址：[链接]2、使用xftp上传到自己想要得目录3、代码操作，安装并重启mysql服务",
+      "author": {
+        "nick": "Java猫说",
+        "homepage": "/u/myself_5ab9f390c6129"
+      }
+    },
+    {
+      "id": "1190000018813237",
+      "title": "关于零拷贝的一点认识",
+      "url": "/a/1190000018813237",
+      "desc": "从字面意思理解就是数据不需要来回的拷贝，大大提升了系统的性能；这个词我们也经常在java nio，netty，kafka，RocketMQ等框架中听到，经常作为其提升性能的一大亮点；下面从I/O的几个概念开始，进而在分析零拷贝。",
+      "author": {
+        "nick": "ksfzhaohui",
+        "homepage": "/u/ksfzhaohui"
+      }
+    },
+    {
+      "id": "1190000018813097",
+      "title": "事务隔离级别(图文详解)",
+      "url": "/a/1190000018813097",
+      "desc": "该文已加入笔主的开源项目——JavaGuide（一份涵盖大部分Java程序员所需要掌握的核心知识的文档类项目),地址:[链接]。觉得不错的话，记得点个Star。",
+      "author": {
+        "nick": "Snailclimb",
+        "homepage": "/u/snailclimb"
+      }
+    },
+    {
+      "id": "1190000018812808",
+      "title": "一条SQL语句在MySQL中如何执行的",
+      "url": "/a/1190000018812808",
+      "desc": "该文已加入笔主的开源项目——JavaGuide（一份涵盖大部分Java程序员所需要掌握的核心知识的文档类项目),地址:[链接] 。觉得不错的话，记得点个Star。",
+      "author": {
+        "nick": "Snailclimb",
+        "homepage": "/u/snailclimb"
+      }
+    },
+    {
+      "id": "1190000018811935",
+      "title": "Hold住面试官之Integer Cache",
+      "url": "/a/1190000018811935",
+      "desc": "最近跟许多朋友聊了下，在这个“跳槽”的黄金季节，大家都有点蠢蠢欲动，所以最近就多聊聊面试的时候需要注意的一些问题，这些问题不一定多深奥，多复杂，但是一不注意的话却容易掉坑。下面看一下面试的时候经常遇...",
+      "author": {
+        "nick": "深夜里的程序猿",
+        "homepage": "/u/19921228"
+      }
+    },
+    {
+      "id": "1190000018811603",
+      "title": "基于oauth 2.0  实现第三方开放平台",
+      "url": "/a/1190000018811603",
+      "desc": "通过开放自己平台产品服务的各种API接口，让其他第三方开发者在开发应用时根据需求直接调用，例如微信登录、QQ登录、微信支付、微博登录、热门等。 让第三方应用通过开发平台，使得自身海量数据资源得到沉淀（变...",
+      "author": {
+        "nick": "冷冷",
+        "homepage": "/u/gie"
+      }
+    },
+    {
+      "id": "1190000018811337",
+      "title": "『并发包入坑指北』之阻塞队列",
+      "url": "/a/1190000018811337",
+      "desc": "较长一段时间以来我都发现不少开发者对 jdk 中的 J.U.C（java.util.concurrent）也就是 Java 并发包的使用甚少，更别谈对它的理解了；但这却也是我们进阶的必备关卡。",
+      "author": {
+        "nick": "crossoverJie",
+        "homepage": "/u/crossoverjie"
+      }
+    },
+    {
+      "id": "1190000018811208",
+      "title": "你不知道的浏览器页面渲染机制",
+      "url": "/a/1190000018811208",
+      "desc": "浏览器的内核是指支持浏览器运行的最核心的程序，分为两个部分的，一是渲染引擎，另一个是JS引擎。渲染引擎在不同的浏览器中也不是都相同的。目前市面上常见的浏览器内核可以分为这四种：Trident（IE）、Gecko（...",
+      "author": {
+        "nick": "浪里行舟",
+        "homepage": "/u/langlixingzhou"
+      }
+    },
+    {
+      "id": "1190000018810837",
+      "title": "30 分钟快速入门 Docker 教程",
+      "url": "/a/1190000018810837",
+      "desc": "原文地址：梁桂钊的博客博客地址：[链接] 欢迎关注公众号：「服务端思维」。一群同频者，一起成长，一起精进，打破认知的局限性。",
+      "author": {
+        "nick": "梁桂钊",
+        "homepage": "/u/lianggzone"
+      }
+    },
+    {
+      "id": "1190000018810676",
+      "title": "多线程中那些看不见的陷阱",
+      "url": "/a/1190000018810676",
+      "desc": "多线程编程就像一个沼泽，中间遍布各种各样的陷阱。大多数开发者绝大部分时间都是在做上层应用的开发，并不需要过多地涉入底层细节。但是在多线程编程或者说是并发编程中，有非常多的陷阱被埋在底层细节当中。如...",
+      "author": {
+        "nick": "兜里有辣条",
+        "homepage": "/u/juxingzhutou"
+      }
+    },
+    {
+      "id": "1190000018810211",
+      "title": "ReentrantReadWriteLock 类",
+      "url": "/a/1190000018810211",
+      "desc": "ReentrantReadWriteLock 类, 顾名思义, 是一种读写锁, 它是 ReadWriteLock 接口的直接实现, 该类在内部实现了具体独占锁特点的写锁, 以及具有共享锁特点的读锁, 和 ReentrantLock 一样, ReentrantReadWriteLock ...",
+      "author": {
+        "nick": "sc_ik",
+        "homepage": "/u/sc_ik"
+      }
+    }
+  ]
+}
