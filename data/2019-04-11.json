@@ -1,0 +1,155 @@
+{
+  "watchNum": "47337",
+  "blogs": [
+    {
+      "id": "1190000018832326",
+      "title": "注解的奇妙之旅一",
+      "url": "/a/1190000018832326",
+      "desc": "注解，也被称为元数据，为我们在代码中添加信息，提供了一种形式化的方法是，使我们在稍后某个时刻，可以非常方便地使用这些原数据（thinking in java）。",
+      "author": {
+        "nick": "念兮",
+        "homepage": "/u/nian_5aedc008c1353"
+      }
+    },
+    {
+      "id": "1190000018831831",
+      "title": "最新java并发编程高级面试30题:并发队列+可重入锁+线程池+Synchronized",
+      "url": "/a/1190000018831831",
+      "desc": "众所周知，在Java的知识体系中，并发编程是非常重要的一环，也是面试的必问题，一个好的Java程序员是必须对并发编程这块有所了解的。",
+      "author": {
+        "nick": "代码改变世界",
+        "homepage": "/u/daimagaibianshijie"
+      }
+    },
+    {
+      "id": "1190000018831198",
+      "title": "Spring Boot中的那些条件判断",
+      "url": "/a/1190000018831198",
+      "desc": "spring boot中为我们提供了丰富的Conditional来让我们得以非常方便的在项目中向容器中添加Bean。本文主要是对各个注解进行解释并辅以代码说明其用途。",
+      "author": {
+        "nick": "沈子平",
+        "homepage": "/u/shenziping"
+      }
+    },
+    {
+      "id": "1190000018829313",
+      "title": "《java 8 实战》读书笔记 -第三章 Lambda表达式",
+      "url": "/a/1190000018829313",
+      "desc": "函数式接口就是只定义一个抽象方法的接口，哪怕有很多默认方法，只要接口只定义了一个抽象方法，它就仍然是一个函数式接口。",
+      "author": {
+        "nick": "小白龙",
+        "homepage": "/u/xiaobailong_5b6017cbf24e2"
+      }
+    },
+    {
+      "id": "1190000018829046",
+      "title": "“==”、“equals()”、“hashcode()”之间的秘密",
+      "url": "/a/1190000018829046",
+      "desc": "万丈高楼平地起，今天的聊点基础而又经常让人忽视的话题，比如“==”与“equals()”区别？为何当我们重写完\"equals()\"后也要有必要去重写\"hashcode()\"呢？ ... 带着这些问题，我们一起来探究一下。",
+      "author": {
+        "nick": "深夜里的程序猿",
+        "homepage": "/u/19921228"
+      }
+    },
+    {
+      "id": "1190000018824543",
+      "title": "Spring Cloud Alibaba基础教程：使用Sentinel实现接口限流",
+      "url": "/a/1190000018824543",
+      "desc": "最近管点闲事浪费了不少时间，感谢网友libinwalan的留言提醒。及时纠正路线，继续跟大家一起学习Spring Cloud Alibaba。",
+      "author": {
+        "nick": "程序猿DD",
+        "homepage": "/u/coderdd"
+      }
+    },
+    {
+      "id": "1190000018827415",
+      "title": "Java 基础入门",
+      "url": "/a/1190000018827415",
+      "desc": "关键字：程序中的保留的单词,比如：public、class、void等标识符:程序中我们自己定义的变量、方法名等。",
+      "author": {
+        "nick": "大波仔",
+        "homepage": "/u/dabozi"
+      }
+    },
+    {
+      "id": "1190000018827242",
+      "title": "一位6年老Android面经总结",
+      "url": "/a/1190000018827242",
+      "desc": "准备面试其实已经准备了挺久了,当时打算面试准备了差不多以后,跟公司谈谈涨薪的事情,谈不拢的话,就年后直接找其他的公司。谁想到婚假还没休完,老板就在公司宣布了撤出上海的决定,愿意去深圳的就去,不愿意的就自己...",
+      "author": {
+        "nick": "爱编码的coder",
+        "homepage": "/u/chengxuyuanxiaohui"
+      }
+    },
+    {
+      "id": "1190000018826841",
+      "title": "Swagger2 WebFlux小试牛刀",
+      "url": "/a/1190000018826841",
+      "desc": "swagger.version目前是3.0.0-SNAPSHOT，因而没有发布到maven官方仓库里头，需要从jcenter-snapshots中拉取",
+      "author": {
+        "nick": "codecraft",
+        "homepage": "/u/codecraft"
+      }
+    },
+    {
+      "id": "1190000018826521",
+      "title": "开发人员常用框架文档整理及中文翻译",
+      "url": "/a/1190000018826521",
+      "desc": "开发人员常用的框架文档及中文翻译，包含 Spring 系列文档（Spring, Spring Boot, Spring Cloud, Spring Security, Spring Session），日志（Apache Flume, Log4j2），Http Server（NGINX，Apache），Python，数...",
+      "author": {
+        "nick": "heyuxian",
+        "homepage": "/u/heyuxian"
+      }
+    },
+    {
+      "id": "1190000018826283",
+      "title": "\b[Java并发-4]关于Java的死锁",
+      "url": "/a/1190000018826283",
+      "desc": "[Java并发-4]关于Java的死锁",
+      "author": {
+        "nick": "df007df",
+        "homepage": "/u/df007df"
+      }
+    },
+    {
+      "id": "1190000018826269",
+      "title": "SpringCloud之zuul",
+      "url": "/a/1190000018826269",
+      "desc": "Zuul是所有从设备和web站点到Netflix流媒体应用程序后端的请求的前门。作为一个边缘服务应用程序，Zuul的构建是为了支持动态路由、监视、弹性和安全性。它还可以根据需要将请求路由到多个Amazon自动伸缩组。",
+      "author": {
+        "nick": "zero",
+        "homepage": "/u/zero_5b9fc2c32c74c"
+      }
+    },
+    {
+      "id": "1190000018825853",
+      "title": "乐字节-Java8新特性之Stream流（下）",
+      "url": "/a/1190000018825853",
+      "desc": "例如以订单数据为例，在做报表展示时，会根据订单状态、用户信息、支付结果等状态来分别展示（即过滤和统计展示）",
+      "author": {
+        "nick": "乐字节",
+        "homepage": "/u/lezijie"
+      }
+    },
+    {
+      "id": "1190000018825260",
+      "title": "\b[Java并发-3]Java互斥锁，解决原子性问题",
+      "url": "/a/1190000018825260",
+      "desc": "我们已经知道原子性问题是线程切换，而操作系统做线程切换是依赖 CPU 中断的，所以禁止 CPU 发生中断就能够禁止线程切换。",
+      "author": {
+        "nick": "df007df",
+        "homepage": "/u/df007df"
+      }
+    },
+    {
+      "id": "1190000018824758",
+      "title": "对象池Pools优化",
+      "url": "/a/1190000018824758",
+      "desc": "目录介绍 01.什么是对象池 02.glide哪里用到对象池 03.多条件key缓存bitmap 3.1 多条件key创建 3.2 key值的复用 04.glide对象池总结 05.学以致用对象池 5.1 使用场景 5.2 实现步骤 5.3 对象池使用 5.4 项目实践分...",
+      "author": {
+        "nick": "潇湘剑雨",
+        "homepage": "/u/xiangjianyu"
+      }
+    }
+  ]
+}
