@@ -1,0 +1,155 @@
+{
+  "watchNum": "47498",
+  "blogs": [
+    {
+      "id": "1190000018845389",
+      "title": "Java内存模型（JMM）",
+      "url": "/a/1190000018845389",
+      "desc": "定义：JMM是一种规范，它规范了Java虚拟机与计算机内存之间是如何协同工作的，它规定了一个线程是如何和何时可以看到其它线程修改过的共享变量的值，以及如何同步共享变量的值。",
+      "author": {
+        "nick": "阿南",
+        "homepage": "/u/anan_5ca066790c21a"
+      }
+    },
+    {
+      "id": "1190000018845299",
+      "title": "什么是消息队列？",
+      "url": "/a/1190000018845299",
+      "desc": "公司用到的很多技术，自己之前都没学过(尬)，于是只能慢慢补了。这次给大家写写我学习消息队列的笔记，希望对大家有帮助。",
+      "author": {
+        "nick": "Java3y",
+        "homepage": "/u/java_3y"
+      }
+    },
+    {
+      "id": "1190000018844625",
+      "title": "谈谈Spring Boot 数据源加载及其多数据源简单实现",
+      "url": "/a/1190000018844625",
+      "desc": "业务需求 提供所有微服务数据源的图形化维护功能 代码生成可以根据选择的数据源加载表等源信息 数据源管理要支持动态配置，实时生效 附录效果图 实现思路 本文提供方法仅供类似简单业务场景，在生产环境和复杂的...",
+      "author": {
+        "nick": "冷冷",
+        "homepage": "/u/gie"
+      }
+    },
+    {
+      "id": "1190000018841647",
+      "title": "Java异常处理12条军规",
+      "url": "/a/1190000018841647",
+      "desc": "摘要： 简单实用的建议。 原文：Java异常处理12条军规 公众号：Spring源码解析 Fundebug经授权转载，版权归原作者所有。 在Java语言中，异常从使用方式上可以分为两大类： CheckedException UncheckedException ...",
+      "author": {
+        "nick": "Fundebug",
+        "homepage": "/u/fundebug"
+      }
+    },
+    {
+      "id": "1190000018841375",
+      "title": "我的知识星球上线啦~",
+      "url": "/a/1190000018841375",
+      "desc": "[链接]",
+      "author": {
+        "nick": "Nirvana",
+        "homepage": "/u/nirvana_5c73b14c8c902"
+      }
+    },
+    {
+      "id": "1190000018841261",
+      "title": "SpringBoot+Redis的入门教程",
+      "url": "/a/1190000018841261",
+      "desc": "本博客 猫叔的博客，转载请申明出处本系列教程为HMStrange项目附带。 历史文章 如何在VMware12安装Centos7.6最新版 Centos7.6安装Java8 Centos7.6安装MySQL+Redis（最新版） SpringBoot+MySQL+MyBatis的入门教程 ...",
+      "author": {
+        "nick": "Java猫说",
+        "homepage": "/u/myself_5ab9f390c6129"
+      }
+    },
+    {
+      "id": "1190000018841007",
+      "title": "Spring boot  + beetl + i18n国际化处理",
+      "url": "/a/1190000018841007",
+      "desc": "Spring boot 搭配慢慢开始火起来的 beetl 模板 配置国际化 首先需要添加WebMvcConfigurer配置 {代码...} 然后自定义配置beetl {代码...} 然后配置i18n国际化函数 {代码...} 最后配置资源文件 这个资源文件路径也...",
+      "author": {
+        "nick": "Start_liyi",
+        "homepage": "/u/start_liyi"
+      }
+    },
+    {
+      "id": "1190000018838988",
+      "title": "各大API网关性能比较",
+      "url": "/a/1190000018838988",
+      "desc": "用于实现API网关的技术有很多，大致分为这么几类： 通用反向代理：Nginx、Haproxy、…… 网络编程框架：Netty、Servlet、…… API网关框架：Spring Cloud Gateway、Zuul、Zuul2、…… API网关最基本的功能就是反向代理...",
+      "author": {
+        "nick": "chanjarster",
+        "homepage": "/u/chanjarster"
+      }
+    },
+    {
+      "id": "1190000018839520",
+      "title": "快捷修改jar包代码",
+      "url": "/a/1190000018839520",
+      "desc": "背景：最近团队维护项目，涉及到文件下载，之前使用aliyun-oss-sdk-android-2.3.0.jar下载OSS的文件，现在添加文件服务器，参考了aliyun-oss的断点续传下载机制，后来发现aliyun-oss的库默认就写死了80端口，但是...",
+      "author": {
+        "nick": "0x18",
+        "homepage": "/u/0x18"
+      }
+    },
+    {
+      "id": "1190000018839332",
+      "title": "Mac 系统怎么修改默认Java版本",
+      "url": "/a/1190000018839332",
+      "desc": "Mac 修改系统默认Java版本 作者：studytime原文：[链接] 流程方法 查看当前版本，终端输入 java -version 查看存在的java sdk版本 进入目录/Library/Java/JavaVirtualMachines 复制需要更改的java sdk所在目录更...",
+      "author": {
+        "nick": "baihe",
+        "homepage": "/u/baihe"
+      }
+    },
+    {
+      "id": "1190000018839229",
+      "title": "springboot 事件监听",
+      "url": "/a/1190000018839229",
+      "desc": "定义事件 {代码...} 定义事件监听(注解方式) {代码...} 注意：@Component 注解 发布事件 {代码...} 测试时执行顺序： i循环 打印\"event = [测试事件监听]\" j循环 异步监听 监听加上@Async注解 {代码...} 测试时执...",
+      "author": {
+        "nick": "lijingyulee",
+        "homepage": "/u/lijingyulee"
+      }
+    },
+    {
+      "id": "1190000018838942",
+      "title": "springboot 异步调用",
+      "url": "/a/1190000018838942",
+      "desc": "程序按照定义顺序依次执行，每一行程序都必须等待上一行程序执行完成之后才能执行,就是在发出一个功能调用时，在没有得到结果之前，该调用就不返回。",
+      "author": {
+        "nick": "lijingyulee",
+        "homepage": "/u/lijingyulee"
+      }
+    },
+    {
+      "id": "1190000018838190",
+      "title": "一次作死经历",
+      "url": "/a/1190000018838190",
+      "desc": "今天下午一时兴起，改了一下硬盘名，当时想着应该不会有问题，毕竟以前该磁盘的挂载点是一堆乱七八糟的字符，和那个1TB卷（这名字看着真不得劲）的硬盘名看着毫无关系。",
+      "author": {
+        "nick": "笙歌会停",
+        "homepage": "/u/gehuiting"
+      }
+    },
+    {
+      "id": "1190000018837824",
+      "title": "SpringBoot 仿抖音短视频小程序开发（三）",
+      "url": "/a/1190000018837824",
+      "desc": "SpringBoot 仿抖音短视频小程序开发（一）：项目的简介([链接]SpringBoot 仿抖音短视频小程序开发（二）：项目功能分析与具体实现([链接]源代码： SpringBoot 仿抖音短视频小程序开发 全栈式实战项目（[链接]）短...",
+      "author": {
+        "nick": "Nathan",
+        "homepage": "/u/nathan_5ca8c9f03de2b"
+      }
+    },
+    {
+      "id": "1190000018837771",
+      "title": "【SpringSecurity系列01】初识SpringSecurity",
+      "url": "/a/1190000018837771",
+      "desc": "​ Spring Security是一个能够为基于Spring的企业应用系统提供声明式的安全访问控制解决方案的安全框架。它提供了一组可以在Spring应用上下文中配置的Bean，充分利用了Spring IoC，DI（控制反转Inversion of Contr...",
+      "author": {
+        "nick": "YuKong",
+        "homepage": "/u/yukong_597bf9741aee7"
+      }
+    }
+  ]
+}
