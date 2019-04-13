@@ -1,0 +1,155 @@
+{
+  "watchNum": "47636",
+  "blogs": [
+    {
+      "id": "1190000018855699",
+      "title": "在不同的 git 分支中统一 pom.xml 的版本号",
+      "url": "/a/1190000018855699",
+      "desc": "首先分支 A 中使用 <version>1.0-A-SNAPSHOT</version>，然后在其基础上创建分支 B，在分支 B 中修改了 pom.xml，使用 <version>1.0-B-SNAPSHOT</version>。",
+      "author": {
+        "nick": "捏造的信仰",
+        "homepage": "/u/yidinghe"
+      }
+    },
+    {
+      "id": "1190000018855451",
+      "title": "Java基础篇——JVM之GC原理（干货满满）",
+      "url": "/a/1190000018855451",
+      "desc": "GC是垃圾收集的意思，内存处理是编程人员容易出现问题的地方，忘记或者错误的内存回收会导致程序或系统的不稳定甚至崩溃，Java提供的GC功能可以自动监测对象是否超过作用域从而达到自动回收内存的目的，Java语言...",
+      "author": {
+        "nick": "会炼钢的小白龙",
+        "homepage": "/u/baixianlong"
+      }
+    },
+    {
+      "id": "1190000018855112",
+      "title": "【推荐】最新200篇：技术文章整理",
+      "url": "/a/1190000018855112",
+      "desc": "作为面试官，我是如何甄别应聘者的包装程度Go语言和Java、python等其他语言的对比分析 Redis和MySQL Redis：主从复制的原理详解Redis：RDB 和 AOF 持久化的原理是什么？Redis：面试中经常被问到的 Redis 持久化与...",
+      "author": {
+        "nick": "搜云库技术团队",
+        "homepage": "/u/souyunku"
+      }
+    },
+    {
+      "id": "1190000018854789",
+      "title": "[IntelliJ] 在格式化代码的同时去掉空的 javadoc 标记",
+      "url": "/a/1190000018854789",
+      "desc": "在右边选中 JavaDoc 标签页，勾选 “Enable JavaDoc formatting”，去掉勾选 Invalid tags 下面最后三个选项框。",
+      "author": {
+        "nick": "捏造的信仰",
+        "homepage": "/u/yidinghe"
+      }
+    },
+    {
+      "id": "1190000018852153",
+      "title": "且听我一个故事讲透一个锁原理之synchronized",
+      "url": "/a/1190000018852153",
+      "desc": "蜀国有一个皇帝叫蜀道难，他比较难伺候，别的皇帝早朝都是在大殿上同时接见所有大臣，共商国是。他不一样，他说早朝你们不要有事没事都跑过来叽叽喳喳，有事则来，无事则该干啥干啥去，然后安排太监每天早上在大...",
+      "author": {
+        "nick": "IT一刻钟",
+        "homepage": "/u/itinfo"
+      }
+    },
+    {
+      "id": "1190000018853578",
+      "title": "MyBatis 配置文件 用户密码加密存储",
+      "url": "/a/1190000018853578",
+      "desc": "一般是使用properties保存配置文件内容,然后在mybatis配置文件中进行读取在resource文件下新建db.properties文件内容如下",
+      "author": {
+        "nick": "小小____",
+        "homepage": "/u/xiaoxiao___________"
+      }
+    },
+    {
+      "id": "1190000018853478",
+      "title": "MyBatis 实例",
+      "url": "/a/1190000018853478",
+      "desc": "确定依赖 {代码...} 确定目前的目录结构 编写log4j配置文件 编写log4j配置文件在resource目录下新建log4j.xml文件 {代码...} 新建mybatis配置文件 在resource目录下新建mybatis-config.xml配置文件 {代码...} 构...",
+      "author": {
+        "nick": "小小____",
+        "homepage": "/u/xiaoxiao___________"
+      }
+    },
+    {
+      "id": "1190000018852452",
+      "title": "Spring Cloud 参考文档（Spring Cloud Config快速入门）",
+      "url": "/a/1190000018852452",
+      "desc": "服务器是一个Spring Boot应用程序，因此如果你愿意，可以从IDE运行它（主类是ConfigServerApplication）。",
+      "author": {
+        "nick": "博弈",
+        "homepage": "/u/lfheart"
+      }
+    },
+    {
+      "id": "1190000018851771",
+      "title": "springboot ListenableFuture 异步回调",
+      "url": "/a/1190000018851771",
+      "desc": "定义ListenableFuture {代码...} 调用 {代码...} 执行顺序 循环i 循环j 调用成功：success 代码：springboot ListenableFuture 异步回调",
+      "author": {
+        "nick": "lijingyulee",
+        "homepage": "/u/lijingyulee"
+      }
+    },
+    {
+      "id": "1190000018851311",
+      "title": "springboot 异步回调",
+      "url": "/a/1190000018851311",
+      "desc": "定义异步方法，使用Future<T>来返回异步调用的结果 {代码...} 调用 {代码...} 调用结果 {代码...} 代码：异步回调",
+      "author": {
+        "nick": "lijingyulee",
+        "homepage": "/u/lijingyulee"
+      }
+    },
+    {
+      "id": "1190000018850699",
+      "title": "Java8新特性之Optional",
+      "url": "/a/1190000018850699",
+      "desc": "Optional<T>类（java.util.Optional）是一个容器类，代表一个值存在或不存在，原来用null表示一个值不存在，现在Optional可以更好的表达这个概念。并且可以避免空指针异常。",
+      "author": {
+        "nick": "乐字节",
+        "homepage": "/u/lezijie"
+      }
+    },
+    {
+      "id": "1190000018850647",
+      "title": "3分钟干货之Spring Boot注解",
+      "url": "/a/1190000018850647",
+      "desc": "1、 @SpringBootApplication这是 Spring Boot 最最最核心的注解，用在 Spring Boot 主类上，标识这是一个 Spring Boot 应用，用来开启 Spring Boot 的各项能力。",
+      "author": {
+        "nick": "巅峰大词典",
+        "homepage": "/u/lingfeng23"
+      }
+    },
+    {
+      "id": "1190000018850162",
+      "title": "Spring Cloud 参考文档（Spring Cloud Commons：通用的抽象）",
+      "url": "/a/1190000018850162",
+      "desc": "服务发现、负载均衡和断路器等模式适用于所有Spring Cloud客户端都可以使用的通用抽象层，独立于实现（例如，使用Eureka或Consul发现）。",
+      "author": {
+        "nick": "博弈",
+        "homepage": "/u/lfheart"
+      }
+    },
+    {
+      "id": "1190000018850074",
+      "title": "“如果波场取代了以太坊的地位，我将对人类失去希望” ——历数波场与以太坊的恩怨情仇",
+      "url": "/a/1190000018850074",
+      "desc": "近日，波场创始人孙宇晨在采访中透露，波场有望与以太坊正式建立合作关系，他表示，竞争更有利于行业发展，称“未来我们或许会与更多以太坊开发人员及建立在以太坊上的企业进行合作，以促使行业更好地发展。虽然无...",
+      "author": {
+        "nick": "ETM漫谈区块链",
+        "homepage": "/u/entanmo"
+      }
+    },
+    {
+      "id": "1190000018849090",
+      "title": "静态代码块、构造代码块、构造器",
+      "url": "/a/1190000018849090",
+      "desc": "导读 今天在做公司的项目，即统计实例化对象的存活个数，例如以下的代码 {代码...} 输出如图所示： 在静态代码块中加法 但是，我如果把代码修改成这样的： {代码...} 你会发现，其只输出1，为什么会这样呢？会在...",
+      "author": {
+        "nick": "念兮",
+        "homepage": "/u/nian_5aedc008c1353"
+      }
+    }
+  ]
+}
