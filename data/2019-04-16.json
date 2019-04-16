@@ -1,0 +1,155 @@
+{
+  "watchNum": "47954",
+  "blogs": [
+    {
+      "id": "1190000018883478",
+      "title": "springboot 整合redis(自定义RedisTemplate)",
+      "url": "/a/1190000018883478",
+      "desc": "配置文件 {代码...} 自定义RedisTemplate {代码...} redis工具类 {代码...} 测试 {代码...} 代码：springboot-redis",
+      "author": {
+        "nick": "lijingyulee",
+        "homepage": "/u/lijingyulee"
+      }
+    },
+    {
+      "id": "1190000018883302",
+      "title": "springboot 整合redis",
+      "url": "/a/1190000018883302",
+      "desc": "配置文件 {代码...} redis工具类 {代码...} 测试 {代码...} 代码：springboot-redis",
+      "author": {
+        "nick": "lijingyulee",
+        "homepage": "/u/lijingyulee"
+      }
+    },
+    {
+      "id": "1190000018882985",
+      "title": "消息推送异常重发需要注意的点（上篇）",
+      "url": "/a/1190000018882985",
+      "desc": "主动推送：一般为websocket建立长连接实现，此处网上多有各种实现方式。下面贴出本人结合实际应用场景使用的长连接方式。",
+      "author": {
+        "nick": "连理枝",
+        "homepage": "/u/caotingingandbise"
+      }
+    },
+    {
+      "id": "1190000018882683",
+      "title": "Java后端学习，你应该看那些书籍？",
+      "url": "/a/1190000018882683",
+      "desc": "最近在学习Java和全栈开发，推荐一些有用的书籍 书架主要针对Java后端和全栈开发用的 书籍介绍 《Spring Boot 2.0企业级应用开发实战》 本书深入浅岀地讲解了 Spring与 Spring Boot所涉及的重要知识点。更有特色...",
+      "author": {
+        "nick": "爱编码的coder",
+        "homepage": "/u/chengxuyuanxiaohui"
+      }
+    },
+    {
+      "id": "1190000018882531",
+      "title": "SpringBoot 2.X Kotlin系列之AOP统一打印日志",
+      "url": "/a/1190000018882531",
+      "desc": "在开发项目中，我们经常会需要打印日志，这样方便开发人员了解接口调用情况及定位错误问题，很多时候对于Controller或者是Service的入参和出参需要打印日志，但是我们又不想重复的在每个方法里去使用logger打印，...",
+      "author": {
+        "nick": "惜鱼",
+        "homepage": "/u/xiyu_5cad77e21d742"
+      }
+    },
+    {
+      "id": "1190000018882481",
+      "title": "基于TableStore的海量气象格点数据解决方案实战",
+      "url": "/a/1190000018882481",
+      "desc": "气象数据是一类典型的大数据，具有数据量大、时效性高、数据种类丰富等特点。气象数据中大量的数据是时空数据，记录了时间和空间范围内各个点的各个物理量的观测量或者模拟量，每天产生的数据量常在几十TB到上百T...",
+      "author": {
+        "nick": "阿里云云栖社区",
+        "homepage": "/u/yunqishequ_5aa899aad5395"
+      }
+    },
+    {
+      "id": "1190000018882116",
+      "title": "SpringBoot 2.X Kotlin系列之JavaMailSender发送邮件",
+      "url": "/a/1190000018882116",
+      "desc": "在很多服务中我经常需要用到发送邮件功能，所幸的是SpringBoot可以快速使用的框架spring-boot-starter-mail，只要引入改框架我们可以快速的完成发送邮件功能。",
+      "author": {
+        "nick": "惜鱼",
+        "homepage": "/u/xiyu_5cad77e21d742"
+      }
+    },
+    {
+      "id": "1190000018881380",
+      "title": "Spring Cloud 参考文档（Spring Cloud Config Client）",
+      "url": "/a/1190000018881380",
+      "desc": "Spring Boot应用程序可以立即利用Spring Config Server（或应用程序开发人员提供的其他外部属性源），它还提取了一些与Environment变化事件相关的额外有用特性。",
+      "author": {
+        "nick": "博弈",
+        "homepage": "/u/lfheart"
+      }
+    },
+    {
+      "id": "1190000018881348",
+      "title": "Java读取properties文件连接数据库",
+      "url": "/a/1190000018881348",
+      "desc": "相信刚接触jdbc，用的都是这种方式，这种方式也是比较好理解的，加载驱动，带着url，用户名，密码连接数据库，代码简单易懂。同时也带来了一个最重要的问题，当有一天我们想要换数据库的时候，怎么办？驱动也变了...",
+      "author": {
+        "nick": "骑猪猪看海",
+        "homepage": "/u/qizhuzhukanhai"
+      }
+    },
+    {
+      "id": "1190000018879929",
+      "title": "超全的设计模式简介（45种）",
+      "url": "/a/1190000018879929",
+      "desc": "该文建议配合 design-patterns-for-humans 中文版 一起看。 推荐阅读 超全的设计模式简介（45种） design-patterns-for-humans 中文版（github 仓库永久更新） MongoDB 资源、库、工具、应用程序精选列表中文版 ...",
+      "author": {
+        "nick": "琯琯",
+        "homepage": "/u/guanguans"
+      }
+    },
+    {
+      "id": "1190000018879907",
+      "title": "此代码募集最优秀的答案",
+      "url": "/a/1190000018879907",
+      "desc": "这次的 [ 一分钟系列 ] 灰常的简单，只有短短几十来个字，考验你 Java 基础的时候到了，烧动吧，大脑！话不多说，本次代码只为募集到最优秀的答案，代码如下：",
+      "author": {
+        "nick": "孤独键客",
+        "homepage": "/u/gudujianke"
+      }
+    },
+    {
+      "id": "1190000018878981",
+      "title": "余额，危险的操作，给996留点福报",
+      "url": "/a/1190000018878981",
+      "desc": "想象一下你在一个月黑风高的夜晚，大概是10点多钟的样子，加班归来，打算到小卖部弄盒烟抽。夜凉风急，你用力裹了下被风鼓起的外套。那里有你暗恋的收银姑娘。没日没夜的工作，只有这十几分钟，能让你感到些许生...",
+      "author": {
+        "nick": "小姐姐味道",
+        "homepage": "/u/xjjwd"
+      }
+    },
+    {
+      "id": "1190000018878770",
+      "title": "一次分表踩坑实践的探讨",
+      "url": "/a/1190000018878770",
+      "desc": "之前不少人问我“能否分享一些分库分表相关的实践”，其实不是我不分享，而是真的经验不多🤣；和大部分人一样都是停留在理论阶段。",
+      "author": {
+        "nick": "crossoverJie",
+        "homepage": "/u/crossoverjie"
+      }
+    },
+    {
+      "id": "1190000018877950",
+      "title": "谷歌助力，快速实现 Java 应用容器化",
+      "url": "/a/1190000018877950",
+      "desc": "原文地址：梁桂钊的博客博客地址：[链接] 欢迎关注公众号：「服务端思维」。一群同频者，一起成长，一起精进，打破认知的局限性。",
+      "author": {
+        "nick": "梁桂钊",
+        "homepage": "/u/lianggzone"
+      }
+    },
+    {
+      "id": "1190000018877648",
+      "title": "java异常的设计和使用",
+      "url": "/a/1190000018877648",
+      "desc": "对于如何使用异常和设计异常,借助于业界的经验,抛砖引玉给大家分享下。尽量引用Java API和Spring的例子来说明。",
+      "author": {
+        "nick": "rt666",
+        "homepage": "/u/rt666"
+      }
+    }
+  ]
+}
