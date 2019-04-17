@@ -1,0 +1,155 @@
+{
+  "watchNum": "48125",
+  "blogs": [
+    {
+      "id": "1190000018894858",
+      "title": "Java 缩短UUID为22位",
+      "url": "/a/1190000018894858",
+      "desc": "UUID为128位，取高低64位分别处理，转为64制字符，我没有按照Base64的字符表来，随着自己的性子惯了，也没有3字节转为4字节，参考别人直接64位每低6位转为int对应一个64制字符数组（这样其实最后一组只有4位转为6...",
+      "author": {
+        "nick": "怪兽",
+        "homepage": "/u/guaishou_5ca4832b05f94"
+      }
+    },
+    {
+      "id": "1190000018893623",
+      "title": "ApiBoot - ApiBoot Resource Load 使用文档",
+      "url": "/a/1190000018893623",
+      "desc": "ApiBoot Resource Load是一款资源与业务完全分离的基础框架，可以整合微服务(Feign、OpenFeign)进行负载均衡读取固定类型、固定所属业务的资源信息，遵循一定的资源存储规则完成自动化资源读取、添加、更新、删除...",
+      "author": {
+        "nick": "恒宇少年",
+        "homepage": "/u/hengyushaonian"
+      }
+    },
+    {
+      "id": "1190000018893580",
+      "title": "ApiBoot 2.0.4.RELEASE版本发布",
+      "url": "/a/1190000018893580",
+      "desc": "ApiBoot是一款基于SpringBoot1.x、SpringBoot2.x的接口服务集成基础框架，内部提供了框架的封装集成，让接口开发者完成开箱即用，不再为搭建接口框架而犯愁，从而极大的提高开发效率。通过在我的SpringBoot系列教...",
+      "author": {
+        "nick": "恒宇少年",
+        "homepage": "/u/hengyushaonian"
+      }
+    },
+    {
+      "id": "1190000018893566",
+      "title": "Spring Cloud Alibaba基础教程：Sentinel使用Nacos存储规则",
+      "url": "/a/1190000018893566",
+      "desc": "通过上一篇《使用Sentinel实现接口限流》的介绍，相信大家对Sentinel已经有了初步的认识。在Spring Cloud Alibaba的整合封装之下，接口限流这件事情可以非常轻易的整合到我们的Spring Cloud应用中。但是，通过上...",
+      "author": {
+        "nick": "程序猿DD",
+        "homepage": "/u/coderdd"
+      }
+    },
+    {
+      "id": "1190000018893090",
+      "title": "造个轮子,我学到了什么",
+      "url": "/a/1190000018893090",
+      "desc": "听说的最多的是不是“不要重复的造轮子”？不要被这句话蒙骗了，这句话应该还没说完整，在什么情况下不要造轮子?实际项目中由于工期和质量原因，肯定不希望你造轮子，你造轮子花费时间且质量不如现有的轮子。",
+      "author": {
+        "nick": "码上实战",
+        "homepage": "/u/flyhero"
+      }
+    },
+    {
+      "id": "1190000018892811",
+      "title": "MySQL - 扩展性 1 概述：人多未必力量大",
+      "url": "/a/1190000018892811",
+      "desc": "我们应该接触过或者听说过数据库的性能瓶颈问题。对于一个单机应用而言，提升数据库性能的最快路径就是氪金 - 买更高性能的数据库服务器，只要钱到位，性能不是问题。",
+      "author": {
+        "nick": "北国风光",
+        "homepage": "/u/beiguofengguang"
+      }
+    },
+    {
+      "id": "1190000018892601",
+      "title": "Spring Cloud 参考文档（断路器：Hystrix客户端）",
+      "url": "/a/1190000018892601",
+      "desc": "较低级别的服务中的服务故障可能导致级联故障一直到用户，当对特定服务的调用超过circuitBreaker.requestVolumeThreshold（默认值：20个请求）并且在metrics.rollingStats.timeInMilliseconds（默认值：10秒）定...",
+      "author": {
+        "nick": "博弈",
+        "homepage": "/u/lfheart"
+      }
+    },
+    {
+      "id": "1190000018862368",
+      "title": "JavaScript 是如何工作的：JavaScript 的共享传递和按值传递",
+      "url": "/a/1190000018862368",
+      "desc": "这是专门探索 JavaScript 及其所构建的组件的系列文章的第 22 篇。 如果你错过了前面的章节，可以在这里找到它们： JavaScript 是如何工作的：引擎，运行时和调用堆栈的概述！ JavaScript 是如何工作的：深入V8引...",
+      "author": {
+        "nick": "前端小智",
+        "homepage": "/u/minnanitkong"
+      }
+    },
+    {
+      "id": "1190000018890141",
+      "title": "java 多线程基础",
+      "url": "/a/1190000018890141",
+      "desc": "每个正在系统上运行的程序都是一个进程。每个进程包含一到多个线程。线程是一组指令的集合，或者是程序的特殊段，它可以在程序里独立执行。也可以把它理解为代码运行的上下文。所以线程基本上是轻量级的进程，它...",
+      "author": {
+        "nick": "lijingyulee",
+        "homepage": "/u/lijingyulee"
+      }
+    },
+    {
+      "id": "1190000018889909",
+      "title": "leetcode443. String Compression",
+      "url": "/a/1190000018889909",
+      "desc": "对字符串进行简单的压缩操作，压缩的规则是，如果出现多个重复的字母，则用字母加上字母出现的字数进行表示。如果字母只出现一次，则不记录次数。",
+      "author": {
+        "nick": "raledong",
+        "homepage": "/u/raledong"
+      }
+    },
+    {
+      "id": "1190000018889900",
+      "title": "SpringBoot JWT Token  跨域 Preflight response is not successful",
+      "url": "/a/1190000018889900",
+      "desc": "SpringBoot实现token校验，可以通过Filter或者HandlerInterceptor，两种方式都可以，Filter在最外层，请求首先会通过Filter，filter允许请求才会通过Intercept。",
+      "author": {
+        "nick": "liuhh",
+        "homepage": "/u/liuhh"
+      }
+    },
+    {
+      "id": "1190000018888918",
+      "title": "领域驱动设计战术模式--领域事件",
+      "url": "/a/1190000018888918",
+      "desc": "领域驱动实践者发现他们可以通过了解更多发生在问题域中的事件，来更好的理解问题域。这些事件，就是领域事件，主要是与领域专家一起进行知识提炼环节中获得。",
+      "author": {
+        "nick": "文心紫竹",
+        "homepage": "/u/weixinzizhu"
+      }
+    },
+    {
+      "id": "1190000018888705",
+      "title": "3分钟干货之详解线程池",
+      "url": "/a/1190000018888705",
+      "desc": "线程池通过复用线程，避免线程频繁创建和销毁。Java的Executors工具类中，提供了5种类型线程池的创建方法，它们的特点和适用场景如下：",
+      "author": {
+        "nick": "巅峰大词典",
+        "homepage": "/u/lingfeng23"
+      }
+    },
+    {
+      "id": "1190000018888616",
+      "title": "springboot中使用swagger",
+      "url": "/a/1190000018888616",
+      "desc": "在做项目的时候对于api的规范特别重要,以前用了swagger,感觉挺好用,但是就是有点麻烦,现在springboot中可以使用注解的方式来逆向生成swagger文档,以下是使用步骤:1.在pom文件中引入依赖",
+      "author": {
+        "nick": "BISKEE",
+        "homepage": "/u/biskee"
+      }
+    },
+    {
+      "id": "1190000018888420",
+      "title": "虹软人脸识别SDK - Java服务端的那些事",
+      "url": "/a/1190000018888420",
+      "desc": "最近有合作公司的项目需要服务端人脸识别的开发，于是就用了公司的人脸识别SDK开发，由于之前对服务端开发介绍的资料比较少，正好这次又做了这个项目，花了几天的开发，这里就简单分享一下个人的见解。",
+      "author": {
+        "nick": "虹哥聊AI",
+        "homepage": "/u/honggeliaoai"
+      }
+    }
+  ]
+}
