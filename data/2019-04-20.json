@@ -1,0 +1,155 @@
+{
+  "watchNum": "48534",
+  "blogs": [
+    {
+      "id": "1190000018931336",
+      "title": "Mixin Network送出1000美金给 Java SDK 赏金任务猎人",
+      "url": "/a/1190000018931336",
+      "desc": "Mixin Network在1个月以前发布了赏金任务: 完善Java SDK 如今作品揭晓: yuantops/mixin_java_sdk 作者已经获得由CEO cedric 颁发的5 XIN token奖励，价值1000美金。 到现在，支持Mixin network的sdk已经包括PHP, ...",
+      "author": {
+        "nick": "Mixin_Network",
+        "homepage": "/u/mixin_network"
+      }
+    },
+    {
+      "id": "1190000018931272",
+      "title": "手撸lombok",
+      "url": "/a/1190000018931272",
+      "desc": "相信合理使用这样的链式代码，会更多的程序带来很好的可读性，那看一下如果使用 lombok 进行改善呢，请使用 @Accessors(chain = true)，看如下代码：",
+      "author": {
+        "nick": "CharlesCheung",
+        "homepage": "/u/charlescheung"
+      }
+    },
+    {
+      "id": "1190000018931040",
+      "title": "Netty3文档翻译（一）",
+      "url": "/a/1190000018931040",
+      "desc": "简单找了下发现网上没有关于Netty3比较完整的源码解析的文章，于是我就去读官方文档，为了加强记忆，翻译成了中文，有适当的简化。",
+      "author": {
+        "nick": "胥垣",
+        "homepage": "/u/yuan_5bf4bbcfd6e0a"
+      }
+    },
+    {
+      "id": "1190000018928180",
+      "title": "MyBatis 二级缓存",
+      "url": "/a/1190000018928180",
+      "desc": "映射语句中的select语句将会被缓存, 映射语句中的insert update delete 语句将会刷新缓存缓存使用LRU算法回收现在完整的配置文件如下",
+      "author": {
+        "nick": "小小____",
+        "homepage": "/u/xiaoxiao___________"
+      }
+    },
+    {
+      "id": "1190000018927954",
+      "title": "3分钟干货之正排索引与倒排索引",
+      "url": "/a/1190000018927954",
+      "desc": "例如，用户表：t_user(uid, name, passwd, age, sex)由uid查询整行的过程，就时正排索引查询。",
+      "author": {
+        "nick": "巅峰大词典",
+        "homepage": "/u/lingfeng23"
+      }
+    },
+    {
+      "id": "1190000018927562",
+      "title": "MyBatis 缓存",
+      "url": "/a/1190000018927562",
+      "desc": "对于一级缓存来说,Mybatis是直接单个线程隔离的在执行add,update,delete 的时候,会自动清空缓存,避免脏读造成的影响此时mapper为线程隔离的,而管理对象为所有线程所共享的.",
+      "author": {
+        "nick": "小小____",
+        "homepage": "/u/xiaoxiao___________"
+      }
+    },
+    {
+      "id": "1190000018927160",
+      "title": "好书共读 | 国内外互联网技术大牛们都写了哪些书籍?",
+      "url": "/a/1190000018927160",
+      "desc": "书籍是人们获取知识的主要途径。然而，如今的社会太浮躁，不少人不愿意花时间静下心来仔细读书，很多开发人员也是如此。殊不知，书籍沉淀了前人的经验和思考。",
+      "author": {
+        "nick": "bingo",
+        "homepage": "/u/yanglbme"
+      }
+    },
+    {
+      "id": "1190000018925031",
+      "title": "《java 8 实战》读书笔记 -第五章 使用流",
+      "url": "/a/1190000018925031",
+      "desc": "Streams接口支持filter方法。该操作会接受一个谓词（一个返回boolean的函数）作为参数，并返回一个包括所有符合谓词的元素的流。例如筛选出所有素菜，创建一张素食菜单：",
+      "author": {
+        "nick": "小白龙",
+        "homepage": "/u/xiaobailong_5b6017cbf24e2"
+      }
+    },
+    {
+      "id": "1190000018924421",
+      "title": "Java的Object类  ------终极类",
+      "url": "/a/1190000018924421",
+      "desc": "Object类是所有类的父类，也就是说任何一个类的定义的时候如果没有明确的继承一个父类的话，那么它就是Object的子类，也就是说以下两种类的定义的最终效果是完全相同的。",
+      "author": {
+        "nick": "潘佳琦",
+        "homepage": "/u/panjia_5b3b83f7743e9"
+      }
+    },
+    {
+      "id": "1190000018924105",
+      "title": "Android 简单实现View自动换行(附源码)",
+      "url": "/a/1190000018924105",
+      "desc": "类似于淘宝搜索时的推荐，首先我不知道淘宝的是否只支持文字，但是我的是任何View都支持的。看下效果先：",
+      "author": {
+        "nick": "Bamboy",
+        "homepage": "/u/liushaochen_5cb3f631c8748"
+      }
+    },
+    {
+      "id": "1190000018924033",
+      "title": "超简单实现Android自定义Toast（附源码）",
+      "url": "/a/1190000018924033",
+      "desc": "Bamboy的自定义Toast，（以下称作“BToast”）特点在于使用简单，并且自带两种样式：1)普通的文字样式；2)带图标样式。其中图标有√和×两种图标。",
+      "author": {
+        "nick": "Bamboy",
+        "homepage": "/u/liushaochen_5cb3f631c8748"
+      }
+    },
+    {
+      "id": "1190000018924018",
+      "title": "dubbo之timeout超时分析",
+      "url": "/a/1190000018924018",
+      "desc": "在使用dubbo时，通常会遇到timeout这个属性，timeout属性的作用是：给某个服务调用设置超时时间，如果服务在设置的时间内未返回结果，则会抛出调用超时异常：TimeoutException，在使用的过程中，我们有时会对prov...",
+      "author": {
+        "nick": "方袁",
+        "homepage": "/u/fangyuan_5c3465a516d0b"
+      }
+    },
+    {
+      "id": "1190000018923939",
+      "title": "Android简单酷炫点击动画(附源码)",
+      "url": "/a/1190000018923939",
+      "desc": "在Android5.0之前， Android的点击效果一直很low， 即使5.0的波纹效果也不尽如人意。",
+      "author": {
+        "nick": "Bamboy",
+        "homepage": "/u/liushaochen_5cb3f631c8748"
+      }
+    },
+    {
+      "id": "1190000018923896",
+      "title": "Android简单、高性能的高斯模糊（毛玻璃）效果(附源码)",
+      "url": "/a/1190000018923896",
+      "desc": "毛玻璃效果相信很多朋友都眼红很久了，隔壁ios系统对高斯模糊早就大范围使用了，咱们Android却丝毫不为所动，于是就只能靠广大开发者咯。",
+      "author": {
+        "nick": "Bamboy",
+        "homepage": "/u/liushaochen_5cb3f631c8748"
+      }
+    },
+    {
+      "id": "1190000018923856",
+      "title": "简单玩转ViewPager+Fragment动画效果，实现京东淘宝物流卡片效果 (附源码)",
+      "url": "/a/1190000018923856",
+      "desc": "新版的京东和淘宝有一个交互感觉不错， 待收货订单会有类似探探那样的卡片效果， 滑动查看下一条物流的信息， 近期UI部门说要做这个效果， 于是我就写了一个Demo， 现在分享出来和大家交流一下。",
+      "author": {
+        "nick": "Bamboy",
+        "homepage": "/u/liushaochen_5cb3f631c8748"
+      }
+    }
+  ]
+}
