@@ -1,0 +1,155 @@
+{
+  "watchNum": "48615",
+  "blogs": [
+    {
+      "id": "1190000018937129",
+      "title": "销毁servlet",
+      "url": "/a/1190000018937129",
+      "desc": "web容器可能决定一个Servlet是否从servic中移除（例如，当一个容器想要回收内存资源时或者被关闭时）。在上面的场景中，容器会调用Servlet接口的destroy方法。在方法中，可以释放servlet使用的任何资源，保存持久...",
+      "author": {
+        "nick": "团结",
+        "homepage": "/u/2006"
+      }
+    },
+    {
+      "id": "1190000018936877",
+      "title": "【修炼内功】[Java8] 使用Optional的正确姿势及序列化问题",
+      "url": "/a/1190000018936877",
+      "desc": "Java8的Optional为解决'空'的问题带来了很多新思路，查看Optional源码，实现非常简单，逻辑也并不复杂。Stuart Marks在其一次演讲中花了约1个小时的时间来讲述如何正确的使用Optional (Optional - The Mother of ...",
+      "author": {
+        "nick": "林舍",
+        "homepage": "/u/manerfan"
+      }
+    },
+    {
+      "id": "1190000018936540",
+      "title": "记一次 Booking 线上面试中遇到的小问题",
+      "url": "/a/1190000018936540",
+      "desc": "从事 Android 开发工作要满 5 年了，虽然明白自己技术很一般，但是也总是期望能够有机会进入更好的平台发展。这不，因为机缘巧合有了一次 Booking 的面试邀请（是在 hackerrank 上），然后开始临时抱佛脚 （leetc...",
+      "author": {
+        "nick": "荔枝我大哥",
+        "homepage": "/u/lizhiwodage"
+      }
+    },
+    {
+      "id": "1190000018935245",
+      "title": "The Clean Architecture",
+      "url": "/a/1190000018935245",
+      "desc": "Robert C. Martin (Uncle Bob) 原文：[链接]译：祝坤荣 在过去几年我们看到关于系统架构的很多想法。这些包括： Alistair Cockburn的六边形架构(也叫做端口与适配器)，Steve Freeman, 和 Nat Pryce在他们精彩的著...",
+      "author": {
+        "nick": "祝坤荣",
+        "homepage": "/u/zhukunrong"
+      }
+    },
+    {
+      "id": "1190000018934395",
+      "title": "leetcode423. Reconstruct Original Digits from English",
+      "url": "/a/1190000018934395",
+      "desc": "一个非空的英文字符串，其中包含着乱序的阿拉伯数字的英文单词。如012对应的英文表达为zeroonetwo并继续乱序成owoztneoer。要求输入乱序的英文表达式，找出其中包含的所有0-9的数字，并按照从小到大输出。",
+      "author": {
+        "nick": "raledong",
+        "homepage": "/u/raledong"
+      }
+    },
+    {
+      "id": "1190000018933672",
+      "title": "力扣(LeetCode)129",
+      "url": "/a/1190000018933672",
+      "desc": "方法二，自顶向下搜索(深度优先搜索)，搜索过程中维护一个当前累加值，一旦搜索到叶子节点，就将现在的当前累加值加入结果中。这样可以每个节点只访问一遍，并且没有额外空间消耗。java ac代码：",
+      "author": {
+        "nick": "Linus脱袜子",
+        "homepage": "/u/qiuqi_turing"
+      }
+    },
+    {
+      "id": "1190000018933341",
+      "title": "Prometheus hotspot监控指标解读",
+      "url": "/a/1190000018933341",
+      "desc": "Prometheus 是一套开源的系统监控报警框架。它启发于 Google 的 borgmon 监控系统，由工作在 SoundCloud 的 google 前员工在 2012 年创建，作为社区开源项目进行开发，并于 2015 年正式发布。2016 年，Prometheus...",
+      "author": {
+        "nick": "团结",
+        "homepage": "/u/2006"
+      }
+    },
+    {
+      "id": "1190000018932798",
+      "title": "RPC框架是啥？",
+      "url": "/a/1190000018932798",
+      "desc": "在我刚刚了解分布式的时候，经常对RPC和分布式有些混淆，甚至一直以为两者对等，所以我们先看看他们有什么区别？",
+      "author": {
+        "nick": "Java猫说",
+        "homepage": "/u/myself_5ab9f390c6129"
+      }
+    },
+    {
+      "id": "1190000018932071",
+      "title": "BlockLang - 软件拼装工厂",
+      "url": "/a/1190000018932071",
+      "desc": "转眼间，做业务系统的软件开发已有十个年头，从刚开始的激情满满，到周而复始地一个接一个的做项目，虽然竭尽全力将一些常用的代码或模式封装到框架中，但依然感觉到了无尽的重复，而正是这无尽的重复在逐渐的吞...",
+      "author": {
+        "nick": "blocklang",
+        "homepage": "/u/blocklang"
+      }
+    },
+    {
+      "id": "1190000018931336",
+      "title": "Mixin Network送出1000美金给 Java SDK 赏金任务猎人",
+      "url": "/a/1190000018931336",
+      "desc": "Mixin Network在1个月以前发布了赏金任务: 完善Java SDK 如今作品揭晓: yuantops/mixin_java_sdk 作者已经获得由CEO cedric 颁发的5 XIN token奖励，价值1000美金。 到现在，支持Mixin network的sdk已经包括PHP, ...",
+      "author": {
+        "nick": "Mixin_Network",
+        "homepage": "/u/mixin_network"
+      }
+    },
+    {
+      "id": "1190000018931272",
+      "title": "手撸lombok",
+      "url": "/a/1190000018931272",
+      "desc": "相信合理使用这样的链式代码，会更多的程序带来很好的可读性，那看一下如果使用 lombok 进行改善呢，请使用 @Accessors(chain = true)，看如下代码：",
+      "author": {
+        "nick": "CharlesCheung",
+        "homepage": "/u/charlescheung"
+      }
+    },
+    {
+      "id": "1190000018931040",
+      "title": "Netty3文档翻译（一）",
+      "url": "/a/1190000018931040",
+      "desc": "简单找了下发现网上没有关于Netty3比较完整的源码解析的文章，于是我就去读官方文档，为了加强记忆，翻译成了中文，有适当的简化。",
+      "author": {
+        "nick": "胥垣",
+        "homepage": "/u/yuan_5bf4bbcfd6e0a"
+      }
+    },
+    {
+      "id": "1190000018928503",
+      "title": "object类的概述",
+      "url": "/a/1190000018928503",
+      "desc": "object类是类层次结构的根类，每个类都使用object作为超类。即每个类都直接或间接的继承object类。",
+      "author": {
+        "nick": "紫月冰凌",
+        "homepage": "/u/ziyuebingling"
+      }
+    },
+    {
+      "id": "1190000018928180",
+      "title": "MyBatis 二级缓存",
+      "url": "/a/1190000018928180",
+      "desc": "映射语句中的select语句将会被缓存, 映射语句中的insert update delete 语句将会刷新缓存缓存使用LRU算法回收现在完整的配置文件如下",
+      "author": {
+        "nick": "小小____",
+        "homepage": "/u/xiaoxiao___________"
+      }
+    },
+    {
+      "id": "1190000018927954",
+      "title": "3分钟干货之正排索引与倒排索引",
+      "url": "/a/1190000018927954",
+      "desc": "例如，用户表：t_user(uid, name, passwd, age, sex)由uid查询整行的过程，就时正排索引查询。",
+      "author": {
+        "nick": "巅峰大词典",
+        "homepage": "/u/lingfeng23"
+      }
+    }
+  ]
+}
