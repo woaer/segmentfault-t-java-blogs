@@ -1,0 +1,155 @@
+{
+  "watchNum": "48684",
+  "blogs": [
+    {
+      "id": "1190000018945930",
+      "title": "设计模式|彻底理解单列模式",
+      "url": "/a/1190000018945930",
+      "desc": "单例模式是一种常用的设计模式、也可能是设计模式中代码量最少的设计模式。但是少并不意味着简单、想要用好、用对单例、就的费一番脑子了。因为它里面涉及到了很多Java底层的知识如类装载机制、Java内存模型、vol...",
+      "author": {
+        "nick": "阅历笔记",
+        "homepage": "/u/yuelicn"
+      }
+    },
+    {
+      "id": "1190000018944508",
+      "title": "【LeetCode Easy】001 Two Sum",
+      "url": "/a/1190000018944508",
+      "desc": "Given an array of integers, return indices of the two numbers such that they add up to a specific target. You may assume that each input would have exactly one solution, and you may not use the sam...",
+      "author": {
+        "nick": "Noora",
+        "homepage": "/u/noora_5cb2ecd92531a"
+      }
+    },
+    {
+      "id": "1190000018943708",
+      "title": "MySQL - 扩展策略：氪金氪脑任君选",
+      "url": "/a/1190000018943708",
+      "desc": "如果将应用的所有数据简单地放在一台 MySQL 服务器实例上，就不用谈什么扩展性了。但是业务能稳定持续的增长，那么应用肯定会碰到性能瓶颈。",
+      "author": {
+        "nick": "北国风光",
+        "homepage": "/u/beiguofengguang"
+      }
+    },
+    {
+      "id": "1190000018943521",
+      "title": "Spring Cloud Alibaba 新版本发布：众多期待内容整合打包加入！",
+      "url": "/a/1190000018943521",
+      "desc": "在Nacos 1.0.0 Release之后，Spring Cloud Alibaba也终于发布了最新的版本。该版本距离上一次发布，过去了整整4个月！下面就随我一起看看，这个大家期待已久的版本都有哪些内容值得我们关注。",
+      "author": {
+        "nick": "程序猿DD",
+        "homepage": "/u/coderdd"
+      }
+    },
+    {
+      "id": "1190000018942945",
+      "title": "J.U.C|AQS工作原理",
+      "url": "/a/1190000018942945",
+      "desc": "首先，确实还有很多人连AQS是什么都不知道，甚至有的竟不知其为何物。或者有的听说过其名，但怎么拼写的都忘记了。",
+      "author": {
+        "nick": "阅历笔记",
+        "homepage": "/u/yuelicn"
+      }
+    },
+    {
+      "id": "1190000018942894",
+      "title": "商品详情页上拉查看详情",
+      "url": "/a/1190000018942894",
+      "desc": "商品详情页上拉查看详情 目录介绍 01.该库介绍 02.效果展示 03.如何使用 04.注意要点 05.优化问题 06.部分代码逻辑 07.参考案例 01.该库介绍 模仿淘宝、京东、考拉等商品详情页分页加载的UI效果。可以嵌套Recycle...",
+      "author": {
+        "nick": "潇湘剑雨",
+        "homepage": "/u/xiangjianyu"
+      }
+    },
+    {
+      "id": "1190000018942771",
+      "title": "Spring Cloud Alibaba整合Sentinel流控",
+      "url": "/a/1190000018942771",
+      "desc": "前面我们都是直接通过集成sentinel的依赖，通过编码的方式配置规则等。对于集成到Spring Cloud中阿里已经有了一套开源框架spring-cloud-alibaba，就是用于将一系列的框架成功的整合到Spring Cloud中。",
+      "author": {
+        "nick": "猿天地",
+        "homepage": "/u/yuantiandi"
+      }
+    },
+    {
+      "id": "1190000018940801",
+      "title": "分布式缓存Memcache与Redis",
+      "url": "/a/1190000018940801",
+      "desc": "一、MemcacheMemcache是一个高性能，分布式内存对象缓存系统，通过在内存里维护一个统一的巨大的hash表，它能够用来存储各种格式的数据，包括图像、视频、文件以及数据库检索的结果等。简单的说就是将数据调用到...",
+      "author": {
+        "nick": "无厘头",
+        "homepage": "/u/wulitou"
+      }
+    },
+    {
+      "id": "1190000018940784",
+      "title": "分布式缓存Memcache与Redis",
+      "url": "/a/1190000018940784",
+      "desc": "一、MemcacheMemcache是一个高性能，分布式内存对象缓存系统，通过在内存里维护一个统一的巨大的hash表，它能够用来存储各种格式的数据，包括图像、视频、文件以及数据库检索的结果等。简单的说就是将数据调用到...",
+      "author": {
+        "nick": "无厘头",
+        "homepage": "/u/wulitou"
+      }
+    },
+    {
+      "id": "1190000018940472",
+      "title": "Java系列之注解",
+      "url": "/a/1190000018940472",
+      "desc": "Java 注解（Annotation）又称之为 Java 标注、元数据，是 Java 1.5 之后加入的一种特殊语法，通过注解可以标注 Java 中的类、方法、属性、参数、包等，可以通过反射原理对这些元数据进行访问，注解的使用不会影响...",
+      "author": {
+        "nick": "jzman",
+        "homepage": "/u/jzman"
+      }
+    },
+    {
+      "id": "1190000018940360",
+      "title": "RPC框架是啥之Java自带RPC实现，RMI框架入门",
+      "url": "/a/1190000018940360",
+      "desc": "首先RMI（Remote Method Invocation）是Java特有的一种RPC实现，它能够使部署在不同主机上的Java对象进行通信与方法调用，它是一种基于Java的远程方法调用技术。",
+      "author": {
+        "nick": "Java猫说",
+        "homepage": "/u/myself_5ab9f390c6129"
+      }
+    },
+    {
+      "id": "1190000018939147",
+      "title": "len(x) 击败 x.len()，从内置函数看 Python 的设计思想",
+      "url": "/a/1190000018939147",
+      "desc": "它们预先定义在内置命名空间中，开箱即用，所见即所得。Python 被公认是一种新手友好型的语言，这种说法能够成立，内置函数在其中起到了极关键的作用。",
+      "author": {
+        "nick": "豌豆花下猫",
+        "homepage": "/u/chinesehuazhou"
+      }
+    },
+    {
+      "id": "1190000018938790",
+      "title": "解决死锁的100种方法",
+      "url": "/a/1190000018938790",
+      "desc": "死锁是多线程编程或者说是并发编程中的一个经典问题，也是我们在实际工作中很可能会碰到的问题。相信大部分读者对“死锁”这个词都是略有耳闻的，但从我对后端开发岗位的面试情况来看很多同学往往对死锁都还没有系...",
+      "author": {
+        "nick": "兜里有辣条",
+        "homepage": "/u/juxingzhutou"
+      }
+    },
+    {
+      "id": "1190000018938237",
+      "title": "Spring webflux 函数式编程web框架",
+      "url": "/a/1190000018938237",
+      "desc": "Spring 5.0 Spring webflux 是一个全新的非堵塞的函数式 Reactive Web 框架，可以用来构建异步的、非堵塞的、事件驱动的服务。springboot2.0发布不久，最近研究了一下springboot2.0的新特性,其中就发现了webflux。",
+      "author": {
+        "nick": "leone",
+        "homepage": "/u/leone_5c8070290c59c"
+      }
+    },
+    {
+      "id": "1190000018938146",
+      "title": "Spring Cloud Alibaba基础教程：Sentinel使用Apollo存储规则",
+      "url": "/a/1190000018938146",
+      "desc": "上一篇我们介绍了如何通过Nacos的配置功能来存储限流规则。Apollo是国内用户非常多的配置中心，所以，今天我们继续说说Spring Cloud Alibaba Sentinel中如何将流控规则存储在Apollo中。",
+      "author": {
+        "nick": "程序猿DD",
+        "homepage": "/u/coderdd"
+      }
+    }
+  ]
+}
