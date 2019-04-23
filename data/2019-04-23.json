@@ -1,0 +1,155 @@
+{
+  "watchNum": "48810",
+  "blogs": [
+    {
+      "id": "1190000018958847",
+      "title": "springboot(三)——application.properties和application.yml是何时解析的",
+      "url": "/a/1190000018958847",
+      "desc": "用过springboot的肯定很熟悉，它其中有个重要的特性，就是自动配置(平时习惯的一些设置的配置作为默认配置)。springboot提倡无XML配置文件的理念，使用springboot生成的应用完全不会生成任何配置代码与XML配置文...",
+      "author": {
+        "nick": "stone想静静",
+        "homepage": "/u/zhangsbubing"
+      }
+    },
+    {
+      "id": "1190000018958251",
+      "title": "J.U.C|AQS独占式源码分析",
+      "url": "/a/1190000018958251",
+      "desc": "上篇文章通过ReentrantLock 的加锁和释放锁过程给大家聊了聊AQS架构以及实现原理，具体参见《J.U.C|AQS的原理》。",
+      "author": {
+        "nick": "阅历笔记",
+        "homepage": "/u/yuelicn"
+      }
+    },
+    {
+      "id": "1190000018957701",
+      "title": "《java 8 实战》读书笔记 -第六章 用流收集数据",
+      "url": "/a/1190000018957701",
+      "desc": "从Collectors类提供的工厂方法（例如groupingBy）创建的收集器。它们主要提供了三大功能：",
+      "author": {
+        "nick": "小白龙",
+        "homepage": "/u/xiaobailong_5b6017cbf24e2"
+      }
+    },
+    {
+      "id": "1190000018956209",
+      "title": "【LeetCode Easy】014 Longest Common Prefix",
+      "url": "/a/1190000018956209",
+      "desc": "find the longest common prefix string amongst an array of strings. If there is no common prefix, return an empty string \"\". (注意要检查参数数组是否为空或==null)==Example==Input: [\"flower\",\"flow\",\"f...",
+      "author": {
+        "nick": "Noora",
+        "homepage": "/u/noora_5cb2ecd92531a"
+      }
+    },
+    {
+      "id": "1190000018956054",
+      "title": "源码｜详解分布式事务之 Seata-Client 原理及流程",
+      "url": "/a/1190000018956054",
+      "desc": "摘要： 本文主要基于 spring cloud + spring jpa + spring cloud alibaba fescar + mysql + seata 的结构，搭建一个分布式系统的 demo，通过 seata 的 debug 日志和源代码，从 client 端（RM、TM）的角度分析其工...",
+      "author": {
+        "nick": "阿里云云栖社区",
+        "homepage": "/u/yunqishequ_5aa899aad5395"
+      }
+    },
+    {
+      "id": "1190000018955949",
+      "title": "【LeetCode Easy】013 Roman to Integer",
+      "url": "/a/1190000018955949",
+      "desc": "将罗马字母的字符串转换为代表的整数Roman numerals are usually written largest to smallest from left to right. However, there are six instances where subtraction is used: I can be placed before V (5)...",
+      "author": {
+        "nick": "Noora",
+        "homepage": "/u/noora_5cb2ecd92531a"
+      }
+    },
+    {
+      "id": "1190000018955666",
+      "title": "springboot(二)——springboot自动配置解析",
+      "url": "/a/1190000018955666",
+      "desc": "用过springboot的肯定很熟悉，它其中有个重要的特性，就是自动配置(平时习惯的一些设置的配置作为默认配置)。springboot提倡无XML配置文件的理念，使用springboot生成的应用完全不会生成任何配置代码与XML配置文...",
+      "author": {
+        "nick": "stone想静静",
+        "homepage": "/u/zhangsbubing"
+      }
+    },
+    {
+      "id": "1190000018955613",
+      "title": "【LeetCode Easy】009 Palindrome Number",
+      "url": "/a/1190000018955613",
+      "desc": "Determine whether an integer is a palindrome. An integer is a palindrome when it reads the same backward as forward.==Example==123: true-123: false10: false",
+      "author": {
+        "nick": "Noora",
+        "homepage": "/u/noora_5cb2ecd92531a"
+      }
+    },
+    {
+      "id": "1190000018954997",
+      "title": "Java随想 - 计算机的工作方式",
+      "url": "/a/1190000018954997",
+      "desc": "背景 如图所示, 冯诺依曼计算机体系结构; 由于最近做业务需求做到发瘟, 借此发散一下思维; 最近业务需求的痛点如下: 基础代码骨架已固定, 业务流程固定, 然而, 业务中产品的配置需要非常灵活, 并且有可能需要跨过...",
+      "author": {
+        "nick": "宵夜",
+        "homepage": "/u/xiaoye_java_way"
+      }
+    },
+    {
+      "id": "1190000018954561",
+      "title": "使用ConcurrentHashMap一定线程安全？",
+      "url": "/a/1190000018954561",
+      "desc": "老王为何半夜惨叫？几行代码为何导致服务器爆炸？说好的线程安全为何还是出问题？让我们一起收看今天的《走进IT》",
+      "author": {
+        "nick": "深夜里的程序猿",
+        "homepage": "/u/19921228"
+      }
+    },
+    {
+      "id": "1190000018953896",
+      "title": "17.12 异步处理",
+      "url": "/a/1190000018953896",
+      "desc": "应用服务器的web容器通常会为每个请求分配一个服务线程。在重负载的场景下，容器需要大量的线程去服务所有客户端请求。服务可扩展性的限制包括内存不足或者耗尽容器线程。创建可扩展web程序，你必须确保没有关联...",
+      "author": {
+        "nick": "团结",
+        "homepage": "/u/2006"
+      }
+    },
+    {
+      "id": "1190000018953699",
+      "title": "dubbo源码解析（四十四）服务暴露过程",
+      "url": "/a/1190000018953699",
+      "desc": "本来这一篇一个写异步化改造的内容，但是最近我一直在想，某一部分的优化改造该怎么去撰写才能更加的让读者理解。我觉得还是需要先从整个调用链入手，先弄清楚了该功能在哪一个时机发生的，说通俗一点，这块代码...",
+      "author": {
+        "nick": "CrazyHzm",
+        "homepage": "/u/mmmmm_592a5e72c8ea7"
+      }
+    },
+    {
+      "id": "1190000018952860",
+      "title": "leetcode413. Arithmetic Slices",
+      "url": "/a/1190000018952860",
+      "desc": "将包含大于等于三个元素且任意相邻两个元素之间的差相等的数组成为等差数列。现在输入一个随机数组，问该数组中一共可以找出多少组等差数列。",
+      "author": {
+        "nick": "raledong",
+        "homepage": "/u/raledong"
+      }
+    },
+    {
+      "id": "1190000018952583",
+      "title": "springboot(一)——搭建自己的springboot项目（附带日志配置）",
+      "url": "/a/1190000018952583",
+      "desc": "idea使用spring Initalizr 快速构建spring boot 点击新建项目,选择如图所示 点击next后 点击next，之后按照图中所示选择 选择路径 点击完成，如图所示，删除自己不想要的，项目构建完成 构建一个controller，启动...",
+      "author": {
+        "nick": "stone想静静",
+        "homepage": "/u/zhangsbubing"
+      }
+    },
+    {
+      "id": "1190000018952454",
+      "title": "Spring Cloud Admin 实战",
+      "url": "/a/1190000018952454",
+      "desc": "Spring Boot Admin 用于监控基于 Spring Boot 的应用，它是在 Spring Boot Actuator 的基础上提供简洁的可视化 WEB UI。Spring Boot Admin 提供了很多功能，如显示 name、id 和 version，显示在线状态，Loggers ...",
+      "author": {
+        "nick": "leone",
+        "homepage": "/u/janlle"
+      }
+    }
+  ]
+}
