@@ -1,0 +1,155 @@
+{
+  "watchNum": "48963",
+  "blogs": [
+    {
+      "id": "1190000018972558",
+      "title": "浅谈 Spark 的多语言支持",
+      "url": "/a/1190000018972558",
+      "desc": "作者：郑锴，花名铁杰，阿里巴巴高级技术专家，Apache Hadoop PMC，Apache Kerby 创立者。深耕分布式系统开发和开源大数据多年，先后专注在安全，存储和计算领域。之前在 Intel，目前转战阿里云上，致力于提供更...",
+      "author": {
+        "nick": "阿里云云栖社区",
+        "homepage": "/u/yunqishequ_5aa899aad5395"
+      }
+    },
+    {
+      "id": "1190000018970723",
+      "title": "把「策略模式」应用到实际项目中",
+      "url": "/a/1190000018970723",
+      "desc": "无论你知不知道这个设计模式，但必定在项目中都似曾相识。倘若仅仅聊理论必然枯燥乏味，只有理论和实战相结合方可达到人剑合一的境界。",
+      "author": {
+        "nick": "码上实战",
+        "homepage": "/u/flyhero"
+      }
+    },
+    {
+      "id": "1190000018970425",
+      "title": "J.U.C|AQS共享式源码分析",
+      "url": "/a/1190000018970425",
+      "desc": "我们以读写锁为例来看两者，一个线程在对一个资源文件进行读操作时，那么这一时刻对于文件的写操作均被阻塞，而其它线程的读操作可以同时进行。当写操作要求对资源独占操作，而读操作可以是共享的，两种不同的操...",
+      "author": {
+        "nick": "阅历笔记",
+        "homepage": "/u/yuelicn"
+      }
+    },
+    {
+      "id": "1190000018970192",
+      "title": "《java 8 实战》读书笔记 -第七章 并行数据处理与性能",
+      "url": "/a/1190000018970192",
+      "desc": "它在内部实际上就是设了一个boolean标志，表示你想让调用parallel之后进行的所有操作都并行执行。类似地，你只需要对并行流调用sequential方法就可以把它变成顺序流。但最后一次parallel或sequential调用会影响整...",
+      "author": {
+        "nick": "小白龙",
+        "homepage": "/u/xiaobailong_5b6017cbf24e2"
+      }
+    },
+    {
+      "id": "1190000018969830",
+      "title": "Spring Cloud 参考文档（HTTP客户端）",
+      "url": "/a/1190000018969830",
+      "desc": "Spring Cloud Netflix会自动为你创建Ribbon、Feign和Zuul使用的HTTP客户端，但是，你也可以根据需要自定义自己的HTTP客户端，为此，如果使用Apache Http Cient，可以创建ClosableHttpClient类型的bean；如果使用O...",
+      "author": {
+        "nick": "博弈",
+        "homepage": "/u/lfheart"
+      }
+    },
+    {
+      "id": "1190000018969574",
+      "title": "Spring Cloud 参考文档（重试失败的请求）",
+      "url": "/a/1190000018969574",
+      "desc": "Spring Cloud Netflix提供了多种方式来发出HTTP请求，你可以使用负载均衡的RestTemplate、Ribbon或Feign。无论你如何选择创建HTTP请求，总是有可能请求失败，请求失败时，你可能希望自动重试请求，要在使用Sping ...",
+      "author": {
+        "nick": "博弈",
+        "homepage": "/u/lfheart"
+      }
+    },
+    {
+      "id": "1190000018967958",
+      "title": "MySQL - 扩展性负载均衡：眼花缭乱迷人眼",
+      "url": "/a/1190000018967958",
+      "desc": "基于这个思路，我们通常的做法是在服务器前端设置一个负载均衡器。负载均衡器的作用是将请求的连接路由到最空闲的可用服务器上。如图 1，显示了一个大型网站负载均衡设置。其中一个负责 HTTP 流量，另一个用于 My...",
+      "author": {
+        "nick": "北国风光",
+        "homepage": "/u/beiguofengguang"
+      }
+    },
+    {
+      "id": "1190000018967436",
+      "title": "从单例模式到HappensBefore",
+      "url": "/a/1190000018967436",
+      "desc": "目录 双重检测锁的演变过程 利用HappensBefore分析并发问题 无volatile的双重检测锁",
+      "author": {
+        "nick": "乐天派",
+        "homepage": "/u/liumian"
+      }
+    },
+    {
+      "id": "1190000018966667",
+      "title": "一篇文章看懂java迭代器",
+      "url": "/a/1190000018966667",
+      "desc": "迭代器，提供了在不了解集合内部实现方法的时候遍历集合的能力。可以将容器内部实现与遍历操作隔离、解耦。",
+      "author": {
+        "nick": "BinaryTom",
+        "homepage": "/u/bingotom"
+      }
+    },
+    {
+      "id": "1190000018966584",
+      "title": "leetcode429. N-ary Tree Level Order Traversal",
+      "url": "/a/1190000018966584",
+      "desc": "这个和一般的水平遍历有所区别，因为它会记录每一行的水平遍历结果分别存在结果数组相应行。因此首先可以用水平遍历的通用解法，即队列的方式，进行解决：",
+      "author": {
+        "nick": "raledong",
+        "homepage": "/u/raledong"
+      }
+    },
+    {
+      "id": "1190000018965046",
+      "title": "Hive将UDF编译到源码中（idea）",
+      "url": "/a/1190000018965046",
+      "desc": "有时候需要改写源码，比如将常用的某个UDF放在源码中，启动即可使用。在Linux上直接改写源码是很容易出错的，因为vim没有检测提示，直到打包时过了很久才报错，并找到日志才发现是哪里写错了，而且提示的也不清楚...",
+      "author": {
+        "nick": "Wish大人",
+        "homepage": "/u/wishdaren_5c243b920a3eb"
+      }
+    },
+    {
+      "id": "1190000018965006",
+      "title": "RPC框架是啥之Apache CXF一款WebService RPC框架入门教程",
+      "url": "/a/1190000018965006",
+      "desc": "本博客 猫叔的博客，转载请申明出处 学习系列 RPC框架是啥？ RPC框架是啥之Java自带RPC实现，RMI框架入门 Apache CXF一款WebService RPC框架入门教程 CXF官网：http://cxf.apache.org/ Apache CXF是一个开源的Web...",
+      "author": {
+        "nick": "Java猫说",
+        "homepage": "/u/myself_5ab9f390c6129"
+      }
+    },
+    {
+      "id": "1190000018964784",
+      "title": "Android自定义控件1--EventParser",
+      "url": "/a/1190000018964784",
+      "desc": "自定义View经常和事件打交道，不过那个event对象用着感觉挺麻烦 打算自己写一个事件的解析类来辅助事件的分析，功能包括：",
+      "author": {
+        "nick": "张风捷特烈",
+        "homepage": "/u/toly1994"
+      }
+    },
+    {
+      "id": "1190000018964636",
+      "title": "Java面试题：类加载器",
+      "url": "/a/1190000018964636",
+      "desc": "Java源代码.java文件通过编译成字节码.class文件后，需要被加载到Java虚拟机的内存空间中使用，这个过程就是类加载。类加载依靠的是Java类加载器",
+      "author": {
+        "nick": "itzhouq",
+        "homepage": "/u/itzhouq"
+      }
+    },
+    {
+      "id": "1190000018964477",
+      "title": "java多线程 join/yield",
+      "url": "/a/1190000018964477",
+      "desc": "join方法相当于让出执行权，thread.join把指定的线程加入到当前线程，可以将两个交替执行的线程合并为顺序执行的线程。比如在线程B中调用了线程A的Join()方法，直到线程A执行完毕后，才会继续执行线程B。",
+      "author": {
+        "nick": "lijingyulee",
+        "homepage": "/u/lijingyulee"
+      }
+    }
+  ]
+}
