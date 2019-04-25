@@ -1,0 +1,155 @@
+{
+  "watchNum": "49099",
+  "blogs": [
+    {
+      "id": "1190000018984867",
+      "title": "TA约你看《复联》 ，ETM全球有奖中文名征集活动等你“出名”",
+      "url": "/a/1190000018984867",
+      "desc": "俗话说的好，人在江湖飘，全靠名撑腰！被译为《复仇者联盟》的《The Avengers》，除了影片本身的超高质量以及情怀之外，早就作为漫威一个巨大的IP而家喻户晓。",
+      "author": {
+        "nick": "ETM漫谈区块链",
+        "homepage": "/u/entanmo"
+      }
+    },
+    {
+      "id": "1190000018984506",
+      "title": "《java 8 实战》读书笔记 -第九章 默认方法",
+      "url": "/a/1190000018984506",
+      "desc": "如果在现存的接口上引入了非常多的新方法，所有的实现类都必须进行改造，实现新方法，为了解决这个问题，Java 8为了解决这一问题引入了一种新的机制。Java 8中的接口现在支持在声明方法的同时提供实现，这听起来...",
+      "author": {
+        "nick": "小白龙",
+        "homepage": "/u/xiaobailong_5b6017cbf24e2"
+      }
+    },
+    {
+      "id": "1190000018983149",
+      "title": "力扣(LeetCode)124",
+      "url": "/a/1190000018983149",
+      "desc": "解答：这一题，看上去，根本不可能做出来！为什么呢？因为这里的路径和很特别，它可以是从任意点到任意点的路径，搜索我都搜索不出来，按照定义路径可以是从一个叶子到另一个叶子，比如这样：",
+      "author": {
+        "nick": "Linus脱袜子",
+        "homepage": "/u/qiuqi_turing"
+      }
+    },
+    {
+      "id": "1190000018982229",
+      "title": "《java 8 实战》读书笔记 -第八章 重构、测试和调试",
+      "url": "/a/1190000018982229",
+      "desc": "这里我们会介绍三种简单的重构，利用Lambda表达式、方法引用以及Stream改善程序代码的可读性：",
+      "author": {
+        "nick": "小白龙",
+        "homepage": "/u/xiaobailong_5b6017cbf24e2"
+      }
+    },
+    {
+      "id": "1190000018981913",
+      "title": "Spring Boot中的Mongodb多数据源扩展",
+      "url": "/a/1190000018981913",
+      "desc": "在日常工作中，我们通过Spring Data Mongodb来操作Mongodb数据库，在Spring Boot中只需要引入spring-boot-starter-data-mongodb即可。",
+      "author": {
+        "nick": "猿天地",
+        "homepage": "/u/yuantiandi"
+      }
+    },
+    {
+      "id": "1190000018980274",
+      "title": "leetcode449. Serialize and Deserialize BST",
+      "url": "/a/1190000018980274",
+      "desc": "将二叉搜索树序列化和反序列化，序列化是指将树用字符串的形式表示，反序列化是指将字符串形式的树还原成原来的样子。",
+      "author": {
+        "nick": "raledong",
+        "homepage": "/u/raledong"
+      }
+    },
+    {
+      "id": "1190000018979876",
+      "title": "【开发小记】 Java 线程池 之 被“吃掉”的线程异常（附源码分析和解决方法）",
+      "url": "/a/1190000018979876",
+      "desc": "经过本地代码调试之后，发现在任务逻辑的前半段，抛出了NPE，但是代码外层没有try-catch，导致这个异常被吃掉。",
+      "author": {
+        "nick": "Richard_Yi",
+        "homepage": "/u/richard_yi"
+      }
+    },
+    {
+      "id": "1190000018979028",
+      "title": "逼着爱吃海鲜的人去吃牛肉火锅",
+      "url": "/a/1190000018979028",
+      "desc": "本博客 猫叔的博客，转载请申明出处 成长这种东西真的很矛盾！ 还记得那些选择自己兴趣爱好作为职业的那些人吗？他们现在过的怎么样呢？ 那些每天发朋友圈卖广告的朋友，还有属于自己的生活吗？ 我不知道大家怎么...",
+      "author": {
+        "nick": "Java猫说",
+        "homepage": "/u/myself_5ab9f390c6129"
+      }
+    },
+    {
+      "id": "1190000018978786",
+      "title": "Spark 快速入门",
+      "url": "/a/1190000018978786",
+      "desc": "Spark是一种快速、通用、可扩展的大数据分析引擎，2009年诞生于加州大学伯克利分校AMPLab，2010年开源，2013年6月成为Apache孵化项目，2014年2月成为Apache顶级项目。目前，Spark生态系统已经发展成为一个包含多...",
+      "author": {
+        "nick": "leone",
+        "homepage": "/u/janlle"
+      }
+    },
+    {
+      "id": "1190000018978639",
+      "title": "手写一个springboot错误自动通知starter插件",
+      "url": "/a/1190000018978639",
+      "desc": "在实际工作当中, 每次线上问题到达开发时间久，线上日志查找问题麻烦，所以想在程序发生错误时直接监听到并将错误信息发送给开发同学，提高客户使用体验",
+      "author": {
+        "nick": "dev_lih",
+        "homepage": "/u/dev_lih"
+      }
+    },
+    {
+      "id": "1190000018978478",
+      "title": "MyBatis 解析运行原理",
+      "url": "/a/1190000018978478",
+      "desc": "提供一个接口 {代码...} 接口如何生成对象,采用jdk的动态代理技术,生成对象 CGLB 使用CGLB动态代理可以实现在不提供接口的时候,生成对象 构建SqlSessionFactory过程 在源代码中是 {代码...} 通过new 出一个 SqlSe...",
+      "author": {
+        "nick": "小小____",
+        "homepage": "/u/xiaoxiao___________"
+      }
+    },
+    {
+      "id": "1190000018978419",
+      "title": "3分钟干货之详解线程池执行流程",
+      "url": "/a/1190000018978419",
+      "desc": "我们向线程提交任务时可以使用Execute和Submit，区别就是Submit可以返回一个Future对象，通过Future对象可以了解任务执行情况，可以取消任务的执行，还可获取执行结果或执行异常。Submit最终也是通过Execute执行的。",
+      "author": {
+        "nick": "巅峰大词典",
+        "homepage": "/u/lingfeng23"
+      }
+    },
+    {
+      "id": "1190000018978201",
+      "title": "你和阿里员工的技术水平到底差几个等级！",
+      "url": "/a/1190000018978201",
+      "desc": "根据近年数据，中国现有程序员500万左右，其中P1、P2数量占据了近100万，P8以下程序员约有497万，P8及以上仅有3万。",
+      "author": {
+        "nick": "茶轴的青春",
+        "homepage": "/u/chazhoudeqingchun"
+      }
+    },
+    {
+      "id": "1190000018977030",
+      "title": "intelliJ idea 使用maven创建spring+springMVC+mybatis（SSM）",
+      "url": "/a/1190000018977030",
+      "desc": "配置pom用到的框架和版本：spring 5.0.5.RELEASEmybatis 3.4.0mysql 5.1.35log4j 1.2.17mybatis-spring 1.3.2jdk 1.8",
+      "author": {
+        "nick": "r_yaya",
+        "homepage": "/u/rongyaya"
+      }
+    },
+    {
+      "id": "1190000018974498",
+      "title": "记一次升级Oracle驱动引发的死锁",
+      "url": "/a/1190000018974498",
+      "desc": "近期项目需要从虚拟机环境迁移到容器环境，其中有一个项目在迁移到容器环境之后的两天之内出现了2次“死锁(deadlock)”的问题，部分关键日志如下：",
+      "author": {
+        "nick": "ksfzhaohui",
+        "homepage": "/u/ksfzhaohui"
+      }
+    }
+  ]
+}
