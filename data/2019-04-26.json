@@ -1,0 +1,155 @@
+{
+  "watchNum": "49224",
+  "blogs": [
+    {
+      "id": "1190000018995735",
+      "title": "Android 复盘——帮你彻底了解消息机制",
+      "url": "/a/1190000018995735",
+      "desc": "说到消息机制，作为一名 Android 开发者一定先想到的是 Handler。Handler 就是 Android 消息机制的上层接口，我们可用通过 Handler 轻松的在不同的线程中切换任务，但 Handler 的实现还有两个很重要的概念 Messag...",
+      "author": {
+        "nick": "Binguner",
+        "homepage": "/u/binguner"
+      }
+    },
+    {
+      "id": "1190000018995699",
+      "title": "《java 8 实战》读书笔记 -第十章 用Optional取代null",
+      "url": "/a/1190000018995699",
+      "desc": "Java 8中引入了一个新的类java.util.Optional<T>。变量存在时，Optional类只是对类简单封装。变量不存在时，缺失的值会被建模成一个“空”的Optional对象，由方法Optional.empty()返回。",
+      "author": {
+        "nick": "小白龙",
+        "homepage": "/u/xiaobailong_5b6017cbf24e2"
+      }
+    },
+    {
+      "id": "1190000018994120",
+      "title": "程序中算钱不能用浮点类型是个什么坑？",
+      "url": "/a/1190000018994120",
+      "desc": "貌似难不倒大家，这不是 so easy ，连小学生都会算的题目，1.0 - 0.9 = 0.1 啊，但是你觉得会等于 0.1 吗？",
+      "author": {
+        "nick": "孤独键客",
+        "homepage": "/u/gudujianke"
+      }
+    },
+    {
+      "id": "1190000018993355",
+      "title": "阿里Sentinel支持Spring Cloud Gateway啦",
+      "url": "/a/1190000018993355",
+      "desc": "4月25号，Sentinel 1.6.0 正式发布，带来 Spring Cloud Gateway 支持、控制台登录功能、改进的热点限流和注解 fallback 等多项新特性，该出手时就出手，紧跟时代潮流，昨天刚发布，今天我就要给大家分享下如何使用！",
+      "author": {
+        "nick": "猿天地",
+        "homepage": "/u/yuantiandi"
+      }
+    },
+    {
+      "id": "1190000018993293",
+      "title": "J.U.C|可重入锁ReentrantLock",
+      "url": "/a/1190000018993293",
+      "desc": "注 ：本章主要讲解非公平锁的实现流程和源码解析，其中涉及到AQS底层的实现因在前面几章都已经详细聊过在这会一笔带过。",
+      "author": {
+        "nick": "阅历笔记",
+        "homepage": "/u/yuelicn"
+      }
+    },
+    {
+      "id": "1190000018993259",
+      "title": "可以提高程序员效率的工具！",
+      "url": "/a/1190000018993259",
+      "desc": "前言 只有光头才能变强。文本已收录至我的GitHub仓库，欢迎Star：[链接] 本文记录一下我在平时喜欢用的一些小工具，以便以后重装系统/换电脑的时候能快速安装 本文涉及的所有软件和下载地址/破解码，安装教程在公...",
+      "author": {
+        "nick": "Java3y",
+        "homepage": "/u/java_3y"
+      }
+    },
+    {
+      "id": "1190000018992967",
+      "title": "记录一次成都阿里一面的经历",
+      "url": "/a/1190000018992967",
+      "desc": "上周在拉勾上收到一个蚂蚁金服的大哥要我的简历，当时很惊讶，居然有蚂蚁金服的找到我，然后想都没想就给了。",
+      "author": {
+        "nick": "旧港",
+        "homepage": "/u/jiugang"
+      }
+    },
+    {
+      "id": "1190000018992153",
+      "title": "为什么HTTPS比HTTP更安全?",
+      "url": "/a/1190000018992153",
+      "desc": "近几年，互联网发生着翻天覆地的变化，尤其是我们一直习以为常的HTTP协议，在逐渐的被HTTPS协议所取代，在浏览器、搜索引擎、CA机构、大型互联网企业的共同促进下，互联网迎来了“HTTPS加密时代”，HTTPS将在未来的...",
+      "author": {
+        "nick": "浪里行舟",
+        "homepage": "/u/langlixingzhou"
+      }
+    },
+    {
+      "id": "1190000018991721",
+      "title": "Dubbo Spring Cloud 重塑微服务治理",
+      "url": "/a/1190000018991721",
+      "desc": "在 Java 微服务生态中，Spring Cloud1 成为了开发人员的首选技术栈，然而随着实践的深入和运用规模的扩大，大家逐渐意识到 Spring Cloud 的局限性。在服务治理方面，相较于 Dubbo2 而言，Spring Cloud 并不成熟。...",
+      "author": {
+        "nick": "mercyblitz",
+        "homepage": "/u/mercyblitz"
+      }
+    },
+    {
+      "id": "1190000018990943",
+      "title": "zookeeper 快速入门",
+      "url": "/a/1190000018990943",
+      "desc": "Apache ZooKeeper是Apache软件基金会的一个软件项目，他为大型分布式计算提供开源的分布式配置服务、同步服务和命名注册。ZooKeeper曾经是Hadoop的一个子项目，但现在是一个独立的顶级项目。",
+      "author": {
+        "nick": "leone",
+        "homepage": "/u/janlle"
+      }
+    },
+    {
+      "id": "1190000018990490",
+      "title": "阿里45K高级Java岗，必备技能清单",
+      "url": "/a/1190000018990490",
+      "desc": "已经工作两三年了，每个项目都会加班加点全力以赴去完成，薪资增长幅度却不如人意。听说年后离职的老同事，金三刚拿下高薪offer，年薪直奔50万了。 由于现在的公司接触不到新技术，对自己的市场竞争力无比焦虑，...",
+      "author": {
+        "nick": "茶轴的青春",
+        "homepage": "/u/chazhoudeqingchun"
+      }
+    },
+    {
+      "id": "1190000018990043",
+      "title": "configtx.yaml中文详解",
+      "url": "/a/1190000018990043",
+      "desc": "configtx.yaml是Hyperledger Fabric区块链网络运维工具configtxgen用于生成通道创世块或通道交易的配置文件，configtx.yaml的内容直接决定了所生成的创世区块的内容。本文将给出configtx.yaml的详细中文说明。",
+      "author": {
+        "nick": "tualala",
+        "homepage": "/u/tualala"
+      }
+    },
+    {
+      "id": "1190000018989522",
+      "title": "spring-boot 整合mybatis-plus 组成后台开发基本框架",
+      "url": "/a/1190000018989522",
+      "desc": "一直想搞一套后台基本开发框架出来，无奈太忙（其实太懒），最近受到两位大佬的启发，就改动了一下大佬做好的东西。初始版本：[链接]",
+      "author": {
+        "nick": "锦峰将将",
+        "homepage": "/u/jinfengjiangjiang"
+      }
+    },
+    {
+      "id": "1190000018987523",
+      "title": "在阿里做了5年技术Leader，我总结出这些套路！",
+      "url": "/a/1190000018987523",
+      "desc": "今天的文章，他将继续深入探讨这一话题，从管理的角度分享技术 TL 的核心职责，主要分为如下几个方面与大家共同探讨、交流：",
+      "author": {
+        "nick": "旧港",
+        "homepage": "/u/jiugang"
+      }
+    },
+    {
+      "id": "1190000018986743",
+      "title": "Spring Cloud 参考文档（Spring Cloud Sleuth介绍）",
+      "url": "/a/1190000018986743",
+      "desc": "Span：基本工作单元，例如，发送RPC是一个新的span，就像向RPC发送响应一样，Span由span的唯一64位ID标识，另一个64位ID标识其所属的Trace。Span还有其他数据，例如描述、带时间戳的事件、键值annotations（标签...",
+      "author": {
+        "nick": "博弈",
+        "homepage": "/u/lfheart"
+      }
+    }
+  ]
+}
