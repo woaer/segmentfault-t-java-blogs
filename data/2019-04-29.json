@@ -1,0 +1,155 @@
+{
+  "watchNum": "49527",
+  "blogs": [
+    {
+      "id": "1190000019025706",
+      "title": "SpringBoot整合MyBatis并使用Redis作为缓存组件的Demo",
+      "url": "/a/1190000019025706",
+      "desc": "本博客 猫叔的博客，转载请申明出处本系列教程为HMStrange项目附带。 Auth：HMStrange-TIAN e-mail:zhangqihao@hnu.edu.cn",
+      "author": {
+        "nick": "Java猫说",
+        "homepage": "/u/myself_5ab9f390c6129"
+      }
+    },
+    {
+      "id": "1190000019025385",
+      "title": "用maven将dubbo工程打成jar包运行",
+      "url": "/a/1190000019025385",
+      "desc": "使用maven打包插件maven-jar-plugin在pom.xml文件最后新增以下代码。maven-dependency-plugin是指将依赖的jar包复制到指定目录maven-resources-plugin将依赖的resources复制到指定目录",
+      "author": {
+        "nick": "sf4y",
+        "homepage": "/u/sf4y"
+      }
+    },
+    {
+      "id": "1190000019024444",
+      "title": "Java 学习笔记",
+      "url": "/a/1190000019024444",
+      "desc": "参考资料 Java程序设计 - 北大 - 唐大仕 零基础学Java语言 - 浙大 - 翁恺 面向对象程序设计——Java语言 - 浙大 - 翁恺 Eclipse 在preference里面，搜索keys，可以查看和修改快捷键 Content Assist, 自动补全 Forma...",
+      "author": {
+        "nick": "FrozenMap",
+        "homepage": "/u/frozenmap"
+      }
+    },
+    {
+      "id": "1190000019024012",
+      "title": "Java集合中的LinkedList",
+      "url": "/a/1190000019024012",
+      "desc": "1 LinkedList 是一个 Doubly-linked list双向连表，实现了Deque接口，该接口中定义了双向连表的一般操作。 2 LinkedList 也实现了List接口，所以List包含的基本方法（新增，删除，插入等）LinkedList都实现了。 3...",
+      "author": {
+        "nick": "云谷子",
+        "homepage": "/u/huaiku"
+      }
+    },
+    {
+      "id": "1190000019023891",
+      "title": "java转大数据的学习路线",
+      "url": "/a/1190000019023891",
+      "desc": "大数据本质也是数据，但是又有了新的特征，包括数据来源广、数据格式多样化（结构化数据、非结构化数据、Excel文件、文本文件等）、数据量大（最少也是TB级别的、甚至可能是PB级别）、数据增长速度快等。在这里还...",
+      "author": {
+        "nick": "心在遠方",
+        "homepage": "/u/_5cc51dc9c0721"
+      }
+    },
+    {
+      "id": "1190000019022331",
+      "title": "MySQL - 高可用性：少宕机即高可用？",
+      "url": "/a/1190000019022331",
+      "desc": "我们之前了解了复制、扩展性，接下来就让我们来了解可用性。归根到底，高可用性就意味着 \"更少的宕机时间\"。",
+      "author": {
+        "nick": "北国风光",
+        "homepage": "/u/beiguofengguang"
+      }
+    },
+    {
+      "id": "1190000019021032",
+      "title": "『并发包入坑指北』之向大佬汇报任务",
+      "url": "/a/1190000019021032",
+      "desc": "前言 在面试过程中聊到并发相关的内容时，不少面试官都喜欢问这类问题： 当 N 个线程同时完成某项任务时，如何知道他们都已经执行完毕了。 这也是本次讨论的话题之一，所以本篇为『并发包入坑指北』的第二篇；来...",
+      "author": {
+        "nick": "crossoverJie",
+        "homepage": "/u/crossoverjie"
+      }
+    },
+    {
+      "id": "1190000019021409",
+      "title": "从0到1实现自己的阻塞队列(下)",
+      "url": "/a/1190000019021409",
+      "desc": "在上一篇文章《从0到1实现自己的阻塞队列(上)》中，我们已经实现了一个可以使用的阻塞队列版本。在这篇文章中，我们可以继续我们的冒险之旅，将我们的阻塞队列提升到接近JDK版本的水平上。",
+      "author": {
+        "nick": "兜里有辣条",
+        "homepage": "/u/juxingzhutou"
+      }
+    },
+    {
+      "id": "1190000019021066",
+      "title": "从0到1实现自己的阻塞队列(上)",
+      "url": "/a/1190000019021066",
+      "desc": "阻塞队列不止是一道热门的面试题，同时也是许多并发处理模型的基础，比如常用的线程池类ThreadPoolExecutor内部就使用了阻塞队列来保存等待被处理的任务。而且在大多数经典的多线程编程资料中，阻塞队列都是其中...",
+      "author": {
+        "nick": "兜里有辣条",
+        "homepage": "/u/juxingzhutou"
+      }
+    },
+    {
+      "id": "1190000019020963",
+      "title": "[存疑] JVMCFRE003 bad major version, offset=6",
+      "url": "/a/1190000019020963",
+      "desc": "今天Deploy静态资源包到我们Production环境, package中只涉及到静态资源文件, 例如数据库连接信息, SQL查询语句等. 成功部署后, 启动服务报错如下:",
+      "author": {
+        "nick": "yizheng",
+        "homepage": "/u/cyz"
+      }
+    },
+    {
+      "id": "1190000019020281",
+      "title": "XUpdate 整套的Android全量版本更新解决方案",
+      "url": "/a/1190000019020281",
+      "desc": "XUpdate是一套基于Android的全量版本更新整体解决方案。他除了提供了Android SDK外，还附带了Spring Boot搭建的后台服务以及Vue.js编写的后台管理界面。 ## 为什么选择XUpdate",
+      "author": {
+        "nick": "xuexiangjys",
+        "homepage": "/u/xuexiangjys"
+      }
+    },
+    {
+      "id": "1190000019019326",
+      "title": "Spring学习笔记",
+      "url": "/a/1190000019019326",
+      "desc": "1.导包（idea直接新建Spring项目，一般的都有，除了依赖）2.准备类3.书写配置(src/applicationContext.xml)",
+      "author": {
+        "nick": "小咸鱼",
+        "homepage": "/u/xiaoxianyu"
+      }
+    },
+    {
+      "id": "1190000019018762",
+      "title": "在OceanOne上挂单买卖任意ERC20 token",
+      "url": "/a/1190000019018762",
+      "desc": "在上一课中，我们介绍了如何在OceanOne交易比特币。OceanOne支持交易任何Mixin Network上的token，包括所有的ERC20和EOS token，不需要任何手续和费用，直接挂单即可。下面介绍如何将将一个ERC20 token挂上OceanO...",
+      "author": {
+        "nick": "Mixin_Network",
+        "homepage": "/u/mixin_network"
+      }
+    },
+    {
+      "id": "1190000019018698",
+      "title": "Java 比特币开发系列教程汇总",
+      "url": "/a/1190000019018698",
+      "desc": "创建一个机器人 机器人接受比特币并立即退还用户 创建比特币钱包 市场价闪兑比特币 在去中心化交易所限价买卖比特币 在去中心化交易所自由挂单买卖任意ERC20 token 其他编程语言比特币开发教程如下： Python 比特...",
+      "author": {
+        "nick": "Mixin_Network",
+        "homepage": "/u/mixin_network"
+      }
+    },
+    {
+      "id": "1190000019018523",
+      "title": "javaweb开发之servlet初始",
+      "url": "/a/1190000019018523",
+      "desc": "Sun公司在其API中提供了一个servlet接口，用户若想用发一个动态web资源(即开发一个Java程序向浏览器输出数据)，需要完成以下2个步骤： {代码...}",
+      "author": {
+        "nick": "繁星落眼眶",
+        "homepage": "/u/fanxingluoyankuang"
+      }
+    }
+  ]
+}
