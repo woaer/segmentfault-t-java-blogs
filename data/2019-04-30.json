@@ -1,0 +1,155 @@
+{
+  "watchNum": "49635",
+  "blogs": [
+    {
+      "id": "1190000019038166",
+      "title": "Python 数据分析与挖掘的学习路径",
+      "url": "/a/1190000019038166",
+      "desc": "很多人反映在学习了Python基础之后无所适从，不知道下一步往哪走。作为较早期的跨界者（土木狗）深有体会。本文将结合上图，为后来者指明方向，可作为参考。在此强调：如果打算依靠Python逃离现有的工作(如土木施...",
+      "author": {
+        "nick": "心在遠方",
+        "homepage": "/u/_5cc51dc9c0721"
+      }
+    },
+    {
+      "id": "1190000019037588",
+      "title": "Spring Cloud 参考文档（Spring Cloud Sleuth抽样）",
+      "url": "/a/1190000019037588",
+      "desc": "抽样是一个前期决策，这意味着报告数据的决定是在trace中的第一个操作中做出的，并且该决策是向下游传播的。",
+      "author": {
+        "nick": "博弈",
+        "homepage": "/u/lfheart"
+      }
+    },
+    {
+      "id": "1190000019037447",
+      "title": "Android 反编译指南",
+      "url": "/a/1190000019037447",
+      "desc": "我们下载到的 App 安装包是 Apk 文件（Android Application Package） 。通过 Apk 文件，我们也可以得到这个应用的代码和资源文件，对应用进行修改。",
+      "author": {
+        "nick": "Binguner",
+        "homepage": "/u/binguner"
+      }
+    },
+    {
+      "id": "1190000019035613",
+      "title": "把「模板方法」应用到实际项目中",
+      "url": "/a/1190000019035613",
+      "desc": "如果不在工作中思考，模板方法模式的概念和定义即使背再多遍估计也是徒劳，今天我思考如何解决实际项目中的问题时发现，模板方法正是解决问题的良策。",
+      "author": {
+        "nick": "码上实战",
+        "homepage": "/u/flyhero"
+      }
+    },
+    {
+      "id": "1190000019035590",
+      "title": "J.U.C|读-写锁ReentrantReadWriteLock",
+      "url": "/a/1190000019035590",
+      "desc": "重入锁ReentrantLock是排他锁（互斥锁），排他锁在同一时刻仅有一个线程可访问，但是在大多数场景下，大部分时间都是提供读服务的，而写服务占用极少的时间，然而读服务不存在数据竞争的问题，如果一个线程在读时...",
+      "author": {
+        "nick": "阅历笔记",
+        "homepage": "/u/yuelicn"
+      }
+    },
+    {
+      "id": "1190000019034003",
+      "title": "35条建议让你对Java 代码性能优化彻底理解",
+      "url": "/a/1190000019034003",
+      "desc": "代码优化，一个很重要的课题。可能有些人觉得没用，一些细小的地方有什么好修改的，改与不改对于代码的运行效率有什么影响呢？这个问题我是这么考虑的，就像大海里面的鲸鱼一样，它吃一条小虾米有用吗？没用，但...",
+      "author": {
+        "nick": "代码改变世界",
+        "homepage": "/u/daimagaibianshijie"
+      }
+    },
+    {
+      "id": "1190000019033528",
+      "title": "Java基础2-变量与数据类型",
+      "url": "/a/1190000019033528",
+      "desc": "变量，可以把他想象成一个杯子，它可以装水，它可以装饮料，甚至可以装沙子。也就是说，变量就是一个容器，里面放的是一些我们需要用到的数据，我们可以随时改变它放的东西，它的值是可以改变的。",
+      "author": {
+        "nick": "liyanan",
+        "homepage": "/u/liyanan_5ca613ee1b8aa"
+      }
+    },
+    {
+      "id": "1190000019033432",
+      "title": "3分钟干货之SqlServer的优缺点",
+      "url": "/a/1190000019033432",
+      "desc": "优点：易用性、适合分布式组织的可伸缩性、用于决策支持的数据仓库功能、与许多其他服务器软件紧密关联的集成性、良好的性价比等；",
+      "author": {
+        "nick": "巅峰大词典",
+        "homepage": "/u/lingfeng23"
+      }
+    },
+    {
+      "id": "1190000019033292",
+      "title": "五分钟快速了解ActiveMQ，案例简单且详细！",
+      "url": "/a/1190000019033292",
+      "desc": "ActiveMQ消息队列，信息收发的容器，作用有异步消息，流量削锋，应用耦合。同行还有 Kafka、RabbitMQ、RocketMQ、ZeroMQ、MetaMQ 。",
+      "author": {
+        "nick": "Mshu",
+        "homepage": "/u/mshu"
+      }
+    },
+    {
+      "id": "1190000019029705",
+      "title": "线程池系列 (1) 让多线程不再坑爹的线程池",
+      "url": "/a/1190000019029705",
+      "desc": "服务端的程序，例如数据库服务器和Web服务器，每次收到客户端的请求，都会创建一个线程来处理这些请求。",
+      "author": {
+        "nick": "西召",
+        "homepage": "/u/ijiangtao"
+      }
+    },
+    {
+      "id": "1190000019029659",
+      "title": "Java并发之线程组ThreadGroup介绍",
+      "url": "/a/1190000019029659",
+      "desc": "线程组介绍 线程组的构造 ThreadGroup方法介绍 查看线程组信息 终止线程组中的所有线程 总结 Links 作者资源 相关资源 线程组介绍 线程组(ThreadGroup)简单来说就是一个线程集合。线程组的出现是为了更方便地管理...",
+      "author": {
+        "nick": "西召",
+        "homepage": "/u/ijiangtao"
+      }
+    },
+    {
+      "id": "1190000019029623",
+      "title": "Spring IOC源码深度解析",
+      "url": "/a/1190000019029623",
+      "desc": "IOC的核心就是代码入口就在AbstractApplictionContext {代码...} 未完待续。。。",
+      "author": {
+        "nick": "花溪的小石头",
+        "homepage": "/u/huaxidexiaoshitou"
+      }
+    },
+    {
+      "id": "1190000019027420",
+      "title": "【Java设计模式0】概述",
+      "url": "/a/1190000019027420",
+      "desc": "占坑有空写",
+      "author": {
+        "nick": "Noora",
+        "homepage": "/u/noora_5cb2ecd92531a"
+      }
+    },
+    {
+      "id": "1190000019026438",
+      "title": "【开源】 js 在线编程|答题系统",
+      "url": "/a/1190000019026438",
+      "desc": "前言：开源一套javascript的在线编程答题系统。 技术架构: 前端: Vue 后端: Spring Boot 数据库: Mysql 持久层框架: Mybatis 缓存存储: redis 项目部署: docker 部分截图: 项目演示: [链接] 项目前端: [链接] 项...",
+      "author": {
+        "nick": "Tionsin",
+        "homepage": "/u/tionsin_5ae58062afe76"
+      }
+    },
+    {
+      "id": "1190000019025706",
+      "title": "SpringBoot整合MyBatis并使用Redis作为缓存组件的Demo",
+      "url": "/a/1190000019025706",
+      "desc": "本博客 猫叔的博客，转载请申明出处本系列教程为HMStrange项目附带。 Auth：HMStrange-TIAN e-mail:zhangqihao@hnu.edu.cn",
+      "author": {
+        "nick": "Java猫说",
+        "homepage": "/u/myself_5ab9f390c6129"
+      }
+    }
+  ]
+}
