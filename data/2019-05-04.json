@@ -1,0 +1,155 @@
+{
+  "watchNum": "49912",
+  "blogs": [
+    {
+      "id": "1190000019062555",
+      "title": "Spring笔记03_AOP",
+      "url": "/a/1190000019062555",
+      "desc": "在软件业，AOP为Aspect Oriented Programming的缩写，意为：面向切面编程，通过预编译方式和运行期动态代理实现程序功能的统一维护的一种技术。AOP是OOP（面向对象编程）的延续，是软件开发中的一个热点，也是Spr...",
+      "author": {
+        "nick": "itzhouq",
+        "homepage": "/u/itzhouq"
+      }
+    },
+    {
+      "id": "1190000019062442",
+      "title": "Windows下搭建前后端分离开发环境",
+      "url": "/a/1190000019062442",
+      "desc": "最近公司打算采用前后端分离的开发模式，这就意味着前后端代码将分为两个工程了，所以我打算用nginx的反向代理来搭建一个开发环境，方便后续的开发。",
+      "author": {
+        "nick": "loong",
+        "homepage": "/u/linyunlong"
+      }
+    },
+    {
+      "id": "1190000019062194",
+      "title": "<java并发编程实战>学习三",
+      "url": "/a/1190000019062194",
+      "desc": "满足同步需求的另一种方法是使用不可变对象。1，对象创建以后其状态就不能修改。2，对象的所有域都是final类型。3，对象是正确创建的。",
+      "author": {
+        "nick": "旁观者z",
+        "homepage": "/u/pangguanzhez"
+      }
+    },
+    {
+      "id": "1190000019061098",
+      "title": "Android 复盘——你真的了解 setContentView 吗？",
+      "url": "/a/1190000019061098",
+      "desc": "分析 Android 中的 View，我们先从进入应用的看到的的一个 View 入手，第一个 View 就是 通过 setContentView() 这个方法进行加载的。我们来看 setContentView() 的源码：",
+      "author": {
+        "nick": "Binguner",
+        "homepage": "/u/binguner"
+      }
+    },
+    {
+      "id": "1190000019060976",
+      "title": "做大数据工程师需要掌握哪些技能呢？",
+      "url": "/a/1190000019060976",
+      "desc": "大数据是眼下非常时髦的技术名词，与此同时自然也催生出了一些与大数据处理相关的职业，通过对数据的挖掘分析来影响企业的商业决策。",
+      "author": {
+        "nick": "心在遠方",
+        "homepage": "/u/_5cc51dc9c0721"
+      }
+    },
+    {
+      "id": "1190000019060023",
+      "title": "Java Socket编程之UDP编程",
+      "url": "/a/1190000019060023",
+      "desc": "UDP协议（用户数据报协议）是无连接的、不可靠的、无序的,速度快      进行数据传输时，首先将要传输的数据定义成数据报（Datagram），大小限制在64k，在数据报中指明数据索要达到的Socket（主机地址和端口号），...",
+      "author": {
+        "nick": "石志远",
+        "homepage": "/u/shizhiyuan"
+      }
+    },
+    {
+      "id": "1190000019059977",
+      "title": "Java Socket编程之TCP编程",
+      "url": "/a/1190000019059977",
+      "desc": "TCP协议是面向连接的、可靠的、有序的、以字节流的方式发送数据，通过三次握手方式建立连接，形成传输数据的通道，在连接中进行大量数据的传输，效率会稍低",
+      "author": {
+        "nick": "石志远",
+        "homepage": "/u/shizhiyuan"
+      }
+    },
+    {
+      "id": "1190000019059946",
+      "title": "Java Socket编程之常识网络基础知识",
+      "url": "/a/1190000019059946",
+      "desc": "更多物联网高并发编程知识请移步：[链接] Java Socket编程之常识网络基础知识 网络基础知识（参考计算机网络）  《TCP/IP协议栈及OSI参考模型详解》           两台计算机间进行通讯需要以下三个条件            ...",
+      "author": {
+        "nick": "石志远",
+        "homepage": "/u/shizhiyuan"
+      }
+    },
+    {
+      "id": "1190000019059842",
+      "title": "那些年，我们用过的“定时调度”",
+      "url": "/a/1190000019059842",
+      "desc": "作为后端开发人员，我们总会遇到这样的业务场景：每周同步一批数据；每半个小时检查一遍服务器运行状况；每天早上八点给用户发送一份包含今日待办事项的邮件，等等。",
+      "author": {
+        "nick": "KerryWu",
+        "homepage": "/u/kerrywu"
+      }
+    },
+    {
+      "id": "1190000019059828",
+      "title": "如何在低版本的 Spring 中快速实现类似自动配置的功能",
+      "url": "/a/1190000019059828",
+      "desc": "在 Spring 4 后才引入了 @Conditional 等条件注解，它是 Spring Boot 中实现自动配置的最大功臣！那么问题来了：如果我们还在使用 Spring 3.x 的老版本，这时候要怎么实现一个自动配置呢？",
+      "author": {
+        "nick": "y0ngb1n",
+        "homepage": "/u/y0ngb1n"
+      }
+    },
+    {
+      "id": "1190000019059810",
+      "title": "Java获取当前进程ID以及所有Java进程的进程ID",
+      "url": "/a/1190000019059810",
+      "desc": "ManagementFactory是一个在运行时管理和监控Java VM的工厂类，它能提供很多管理VM的静态接口，比如RuntimeMXBean；RuntimeMXBean是Java虚拟机的运行时管理接口.",
+      "author": {
+        "nick": "石志远",
+        "homepage": "/u/shizhiyuan"
+      }
+    },
+    {
+      "id": "1190000019059623",
+      "title": "JDK源码那些事儿之HashMap.TreeNode",
+      "url": "/a/1190000019059623",
+      "desc": "前面几篇文章已经讲解过HashMap内部实现以及红黑树的基础知识，今天这篇文章就讲解之前HashMap中未讲解的红黑树操作部分，如果没了解红黑树，请去阅读前面的两篇文章，能更好的理解本章所讲解的红黑树源码操作，...",
+      "author": {
+        "nick": "orange",
+        "homepage": "/u/orange_5c808c5cc3ad2"
+      }
+    },
+    {
+      "id": "1190000019059207",
+      "title": "从零开始搭建SSM框架（Spring + Spring MVC + Mybatis）",
+      "url": "/a/1190000019059207",
+      "desc": "最近在回顾和总结一些技术，想到了把之前比较火的 SSM 框架重新搭建出来，作为一个小结，同时也希望本文章写出来能对大家有一些帮助和启发，因本人水平有限，难免可能会有一些不对之处，欢迎各位大神拍砖指教，共...",
+      "author": {
+        "nick": "Calvinist",
+        "homepage": "/u/calvinit"
+      }
+    },
+    {
+      "id": "1190000019058754",
+      "title": " ChannelPipeline 和 ChannelHandler",
+      "url": "/a/1190000019058754",
+      "desc": "Channel 概念与 java.nio.channel 概念一致, 用以连接IO设备 (socket, 文件等) 的纽带. 例如将网络的读、写, 客户端发起连接, 主动关闭连接, 链路关闭, 获取通信双方的网络地址等.",
+      "author": {
+        "nick": "sc_ik",
+        "homepage": "/u/sc_ik"
+      }
+    },
+    {
+      "id": "1190000019058377",
+      "title": "<java并发编程实战>学习二",
+      "url": "/a/1190000019058377",
+      "desc": "上一章介绍了如何通过同步来避免多个线程在同一时刻访问相同的数据，而本章将介绍如何共享和发布对象，从而使它们能够安全地由多个线程同时访问。",
+      "author": {
+        "nick": "旁观者z",
+        "homepage": "/u/pangguanzhez"
+      }
+    }
+  ]
+}
