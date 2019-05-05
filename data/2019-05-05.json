@@ -1,0 +1,155 @@
+{
+  "watchNum": "49973",
+  "blogs": [
+    {
+      "id": "1190000019072203",
+      "title": "springboot(六)——springboot与webflux结合初探",
+      "url": "/a/1190000019072203",
+      "desc": "这几天看了看spring-cloud-gateway的请求处理流程，因为之前一直用的springboot1.x和spring4，一开始对spring-cloud-gateway的处理流程有点懵逼，找不到入口，后来跟了代码，在网上找了点资料，发现spring-cloud-...",
+      "author": {
+        "nick": "stone想静静",
+        "homepage": "/u/zplxjj"
+      }
+    },
+    {
+      "id": "1190000019071931",
+      "title": "【LeetCode Easy】020 Valid Parentheses",
+      "url": "/a/1190000019071931",
+      "desc": "“()” \"[]\" \"{}\"三种括号匹配问题，判断参数字符串是否满足匹配要求如：“({[]})” true “[{})” falseNote:空串为true",
+      "author": {
+        "nick": "Noora",
+        "homepage": "/u/noora_5cb2ecd92531a"
+      }
+    },
+    {
+      "id": "1190000019071891",
+      "title": "java集合--Collection接口",
+      "url": "/a/1190000019071891",
+      "desc": "在概述里面也说过：Collection是java集合两大接口之一，旗下有三大子接口：Set（元素不能重复，且无序）、Queue、List（元素可重复，且有序）。    Collection来源于java.util包，主要方法包括：",
+      "author": {
+        "nick": "cartoon",
+        "homepage": "/u/cartoon_5cce2e0fb8fae"
+      }
+    },
+    {
+      "id": "1190000019071829",
+      "title": "synchronized关键字使用详解",
+      "url": "/a/1190000019071829",
+      "desc": "计算机单线程在执行任务时，是严格按照程序的代码逻辑，按照顺序执行的。因此单位时间内能执行的任务数量有限。为了能在相同的时间内能执行更多的任务，就必须采用多线程的方式来执行（注意：多线程模式无法减少...",
+      "author": {
+        "nick": "君莫笑",
+        "homepage": "/u/jmxiao"
+      }
+    },
+    {
+      "id": "1190000019071471",
+      "title": "JAVA集合概述",
+      "url": "/a/1190000019071471",
+      "desc": "近段时间在学习java集合，原本也没想着写笔记或者博客的。但是慢慢看下去之后发现java集合的内容繁多，但是各集合之间具有很大的共通性。所以就动了写博客的念头。    在安卓开发的时候已经有在用集合了，具体是...",
+      "author": {
+        "nick": "cartoon",
+        "homepage": "/u/cartoon_5cce2e0fb8fae"
+      }
+    },
+    {
+      "id": "1190000019070557",
+      "title": "Spring Cloud Alibaba Sentinel对RestTemplate的支持",
+      "url": "/a/1190000019070557",
+      "desc": "Spring Cloud Alibaba Sentinel 支持对 RestTemplate 的服务调用使用 Sentinel 进行保护，在构造 RestTemplate bean的时候需要加上 @SentinelRestTemplate 注解。",
+      "author": {
+        "nick": "猿天地",
+        "homepage": "/u/yuantiandi"
+      }
+    },
+    {
+      "id": "1190000019070511",
+      "title": "大数据开发过程中的5个学习通用步骤",
+      "url": "/a/1190000019070511",
+      "desc": "上图只是一个简化后的步骤和流程，实际开发中，有的步骤可能不需要，有的还需要增加步骤，有的流程可能更复杂，因具体情况而定。",
+      "author": {
+        "nick": "心在遠方",
+        "homepage": "/u/_5cc51dc9c0721"
+      }
+    },
+    {
+      "id": "1190000019069376",
+      "title": "RecyclerView问题汇总",
+      "url": "/a/1190000019069376",
+      "desc": "25.0.0.0 请说一下RecyclerView？adapter的作用是什么，几个方法是做什么用的？如何理解adapter订阅者模式？",
+      "author": {
+        "nick": "潇湘剑雨",
+        "homepage": "/u/xiangjianyu"
+      }
+    },
+    {
+      "id": "1190000019068816",
+      "title": "HashMap的死循环",
+      "url": "/a/1190000019068816",
+      "desc": "在多线程使用场景中，应该尽量避免使用线程不安全的 HashMap，而使用线程安全的 ConcurrentHashMap。那么为什么说 HashMap 是线程不安全的，下面举例子说明在并发的多线程使用场景中使用 HashMap 可能造成死循环...",
+      "author": {
+        "nick": "晓航",
+        "homepage": "/u/xiaohang_5cb5be9ec1246"
+      }
+    },
+    {
+      "id": "1190000019068059",
+      "title": "《Spring Boot 编程思想 - 核心篇》勘误汇总",
+      "url": "/a/1190000019068059",
+      "desc": "如果您在阅读《Spring Boot 编程思想 - 核心篇》或示例练习的过程中发现了其中错误或提出建议，请将内容提交至【勘误汇】，小马哥将勘误或建议内容汇总到此，修正后的内容将在后续的书籍发行中体现，并刊登勘误贡...",
+      "author": {
+        "nick": "mercyblitz",
+        "homepage": "/u/mercyblitz"
+      }
+    },
+    {
+      "id": "1190000019067341",
+      "title": "面试题：增强一个对象的方法的三种方式",
+      "url": "/a/1190000019067341",
+      "desc": "面试题：增强一个对象的方法的三种方式 1. 继承 使用这种方式必须满足的条件是：被增强的方法的所在类能被继承，并且这个对象已经明确知道。 举例： 有一个接口Person，里面有一个方法run（） {代码...} 类Normal...",
+      "author": {
+        "nick": "itzhouq",
+        "homepage": "/u/itzhouq"
+      }
+    },
+    {
+      "id": "1190000019065971",
+      "title": "适合新手的spring cloud入门教程",
+      "url": "/a/1190000019065971",
+      "desc": "就和 springboot 是 web 应用的脚手架一样， springcloud 是分布式和集群应用的脚手架。",
+      "author": {
+        "nick": "Jacob",
+        "homepage": "/u/jacob_5ccd514dcc945"
+      }
+    },
+    {
+      "id": "1190000019065578",
+      "title": "<java并发编程实战>学习四",
+      "url": "/a/1190000019065578",
+      "desc": "对象的组合 {代码...} 设计线程安全的类 {代码...} 找出构成对象状态的所有变量 找出约束对象状态的不可变性条件。 建立对象状态的并发访问管理策略。 收集同步需求 {代码...} 依赖状态的操作 {代码...} 状态的所...",
+      "author": {
+        "nick": "旁观者z",
+        "homepage": "/u/pangguanzhez"
+      }
+    },
+    {
+      "id": "1190000019065521",
+      "title": "spring boot介绍及使用详解",
+      "url": "/a/1190000019065521",
+      "desc": "Spring Boot是由Pivotal团队提供的全新框架，其设计目的是用来简化新Spring应用的初始搭建以及开发过程。该框架使用了特定的方式来进行配置，从而使开发人员不再需要定义样板化的配置。通过这种方式，Boot致力于...",
+      "author": {
+        "nick": "旧港",
+        "homepage": "/u/jiugang"
+      }
+    },
+    {
+      "id": "1190000019065384",
+      "title": "从实践认识修饰符",
+      "url": "/a/1190000019065384",
+      "desc": "说到修饰符，大家都知道有private deafult protect public，说到它们的区别，相信大家脑海会出现一张图。",
+      "author": {
+        "nick": "布尔bl",
+        "homepage": "/u/chenzhuantou"
+      }
+    }
+  ]
+}
