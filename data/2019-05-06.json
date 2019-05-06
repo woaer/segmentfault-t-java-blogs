@@ -1,0 +1,155 @@
+{
+  "watchNum": "50112",
+  "blogs": [
+    {
+      "id": "1190000019084074",
+      "title": "服务治理：Spring Cloud Eureka（上）",
+      "url": "/a/1190000019084074",
+      "desc": "Netflix Eureka是由Netflix开源的一款基于REST的服务治理组件，包括Eureka Server及Eureka Client。由于种种原因，Eureka 2.x版本已经冻结开发，目前最新版本是2018年8月份发布的1.9.4版本。Spring Cloud Eureka...",
+      "author": {
+        "nick": "大大大西西瓜皮",
+        "homepage": "/u/dadadaxixiguapi"
+      }
+    },
+    {
+      "id": "1190000019084069",
+      "title": "leetcode376. Wiggle Subsequence",
+      "url": "/a/1190000019084069",
+      "desc": "扭动序列是指数组中的相邻两个元素的差保证严格的正负交替，如[1,7,4,9,2,5]数组中相邻两个元素的差为6,-3,5,-7,3，满足扭动序列的要求。现在要求从一个数组中，找到长度最长的扭动子序列，并返回其长度。",
+      "author": {
+        "nick": "raledong",
+        "homepage": "/u/raledong"
+      }
+    },
+    {
+      "id": "1190000019083770",
+      "title": "《java 8 实战》读书笔记 -第十二章 新的日期和时间 API",
+      "url": "/a/1190000019083770",
+      "desc": "你还可以通过传递一个TemporalField参数给get方法拿到同样的信息。TemporalField是一个接口，它定义了如何访问temporal对象某个字段的值。ChronoField枚举实现了这一接口，所以你可以很方便地使用get方法得到枚举...",
+      "author": {
+        "nick": "小白龙",
+        "homepage": "/u/xiaobailong_5b6017cbf24e2"
+      }
+    },
+    {
+      "id": "1190000019080180",
+      "title": "分布式系统关注点(19)——深入浅出「异步」",
+      "url": "/a/1190000019080180",
+      "desc": "如果第二次看到我的文章，欢迎「文末」扫码订阅我个人的公众号（跨界架构师）哟~ 每周五早8点 按时送达到公众号。当然了，也会时不时加个餐～",
+      "author": {
+        "nick": "Zachary",
+        "homepage": "/u/zachary_5b7b78d91f94d"
+      }
+    },
+    {
+      "id": "1190000019079432",
+      "title": "设计模式之观察者设计模式",
+      "url": "/a/1190000019079432",
+      "desc": "原文首发于微信公众号：jzman-blog，欢迎关注交流！ 最近补一下设计模式相关的知识，关于观察者设计模式主要从以下几个方面来学习,具体如下： 什么是观察者设计模式 关键概念理解 通知观察者的方式 观察者模式的...",
+      "author": {
+        "nick": "jzman",
+        "homepage": "/u/jzman"
+      }
+    },
+    {
+      "id": "1190000019078987",
+      "title": "Spring项目本地环境搭建",
+      "url": "/a/1190000019078987",
+      "desc": "0x01 依赖环境 安装JDK 1.8，并配置环境变量 安装Gradle 4.4.1，并配置环境变量 Git IntellJ IDEA 0x02 下载源码到本地，导入IDEA [链接] 这里建议fork到自己仓库，便于翻看源码添加注释 0x03 构建编译顺序 1.直...",
+      "author": {
+        "nick": "猿在天",
+        "homepage": "/u/cos2a"
+      }
+    },
+    {
+      "id": "1190000019078339",
+      "title": "线程安全性-原子性",
+      "url": "/a/1190000019078339",
+      "desc": "当多个线程访问同一个类时，不管运行时环境采用何种调度方式，不论线程如何交替执行，在主调代码中不需要额外的协同或者同步代码时，这个类都可以表现出正确的行为，我们则称这个类为线程安全的。",
+      "author": {
+        "nick": "一号线",
+        "homepage": "/u/yihaoxian"
+      }
+    },
+    {
+      "id": "1190000019078000",
+      "title": "mac OS 下配置java 开发环境",
+      "url": "/a/1190000019078000",
+      "desc": "下载jdk,下载地址:https://www.oracle.com/technetwork/java/javase/downloads/index.html，根据提示进行安装",
+      "author": {
+        "nick": "ZhangQi77",
+        "homepage": "/u/zhangqi77"
+      }
+    },
+    {
+      "id": "1190000019077933",
+      "title": "Synchronized原理分析",
+      "url": "/a/1190000019077933",
+      "desc": "1. 什么时候需要用SynchronizedSynchronized主要作用是在多个线程操作共享数据的时候，保证对共享数据访问的线程安全性。比如两个线程对于i这个共享变量同时做i++递增操作，那么这个时候对于i这个值来说就存在一...",
+      "author": {
+        "nick": "无厘头",
+        "homepage": "/u/wulitou"
+      }
+    },
+    {
+      "id": "1190000019077713",
+      "title": "3分钟干货之HTTP特点",
+      "url": "/a/1190000019077713",
+      "desc": "1、简单快速：客户向服务器请求服务时，只需传送请求方法和路径。由于HTTP协议简单，使得HTTP服务器的程序规模小，因而通信速度很快。",
+      "author": {
+        "nick": "巅峰大词典",
+        "homepage": "/u/lingfeng23"
+      }
+    },
+    {
+      "id": "1190000019077064",
+      "title": "[转载]Spring Boot 设置项目名后静态文件相对路径问题",
+      "url": "/a/1190000019077064",
+      "desc": "server.servlet.context-path=testDemospring.mvc.static-path-pattern=/static/**定义项目名和静态资源路径后发现，templates中html 中引用的css,js的相对路径出现异常在上面目录中，index.html 通过相对路径引...",
+      "author": {
+        "nick": "cartoon",
+        "homepage": "/u/cartoon_5cce2e0fb8fae"
+      }
+    },
+    {
+      "id": "1190000019076942",
+      "title": "Java面试题",
+      "url": "/a/1190000019076942",
+      "desc": "近段时间在准备实习的面试，在网上看到一份面试题，就慢慢试着做，争取每天积累一点点。    暂时手头上的面试题只有一份，题量还是挺大的，有208题，所以可能讲的不是很详细，只是我自己帮助记忆的笔记，希望对你...",
+      "author": {
+        "nick": "cartoon",
+        "homepage": "/u/cartoon_5cce2e0fb8fae"
+      }
+    },
+    {
+      "id": "1190000019076901",
+      "title": "&与&&，|与||的区别",
+      "url": "/a/1190000019076901",
+      "desc": "&：按位与(Bitwise and)&&：逻辑与(logical and)|：按位或(Bitwise or)||：逻辑或(logical or)",
+      "author": {
+        "nick": "cartoon",
+        "homepage": "/u/cartoon_5cce2e0fb8fae"
+      }
+    },
+    {
+      "id": "1190000019076869",
+      "title": "Stack，ArrayDeque，LinkedList的区别",
+      "url": "/a/1190000019076869",
+      "desc": " 这段时间把疯狂JAVA再看了一遍，发现Stack，ArrayDeque，LinkedList都可以作为栈使用，所以就稍微从性能以及实现的细节对比这三者的区别。",
+      "author": {
+        "nick": "cartoon",
+        "homepage": "/u/cartoon_5cce2e0fb8fae"
+      }
+    },
+    {
+      "id": "1190000019076795",
+      "title": "JDK在Win10与Ubuntu下的安装与配置",
+      "url": "/a/1190000019076795",
+      "desc": "近段时间把自己电脑（win）、虚拟机（Ubuntu）以及阿里云（ubuntu）都重置了一遍，三个地方都有用到JDK,不想之后找教程找的那么麻烦。所以就自己总结一遍，一次性把轮子造好。",
+      "author": {
+        "nick": "cartoon",
+        "homepage": "/u/cartoon_5cce2e0fb8fae"
+      }
+    }
+  ]
+}
