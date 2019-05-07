@@ -1,0 +1,155 @@
+{
+  "watchNum": "50253",
+  "blogs": [
+    {
+      "id": "1190000019096640",
+      "title": "Android Gradle系列-入门篇",
+      "url": "/a/1190000019096640",
+      "desc": "接下来的一段时间会对Android Gradle的相关知识进行梳理，所以借此整理成一个系列。如果你是刚入行的新秀，那么这个系列将会非常适合你，因为Android基本的配置都与Gradle有关。当然如果你已经入行，但对Gradle还...",
+      "author": {
+        "nick": "idisfkj",
+        "homepage": "/u/idisfkj"
+      }
+    },
+    {
+      "id": "1190000019095341",
+      "title": "Provisional headers are shown错误",
+      "url": "/a/1190000019095341",
+      "desc": "使用chrome谷歌浏览器前后端接口调试的时候遇到了这个问题：network {代码...} console {代码...} 如果使用其它浏览器或者postman等测试工具测试的话又可以调用。 错误原因其实是跨域的问题，后端需要设置允许跨...",
+      "author": {
+        "nick": "流浪的神明",
+        "homepage": "/u/liulangdeshenming"
+      }
+    },
+    {
+      "id": "1190000019094867",
+      "title": "Sentinel Dashboard中修改规则同步到Apollo存储",
+      "url": "/a/1190000019094867",
+      "desc": "在之前的两篇教程中我们分别介绍了如何将Sentinel的限流规则存储到Nacos和Apollo中。同时，在文末的思考中，我都指出了这两套整合方案都存在一个不足之处：不论采用什么配置中心，限流规则都只能通过Nacos界面或A...",
+      "author": {
+        "nick": "程序猿DD",
+        "homepage": "/u/coderdd"
+      }
+    },
+    {
+      "id": "1190000019094606",
+      "title": "SSM",
+      "url": "/a/1190000019094606",
+      "desc": "请求方法对应 CRUDGET ---SELECT，从服务器取出资源 POST --- CREATE，在服务器新建一个资源 PUT --- UPDATE，在服务器更新资源（客户端提供改变后的完整资源） DELETE --- DELETE，从服务器删除资源",
+      "author": {
+        "nick": "FrozenMap",
+        "homepage": "/u/frozenmap"
+      }
+    },
+    {
+      "id": "1190000019094454",
+      "title": "Lombok （自动生成get、set方法",
+      "url": "/a/1190000019094454",
+      "desc": "IDEA中的安装打开IDEA的Setting –> 选择Plugins选项 –> 选择Browse repositories –> 搜索lombok –> 点击安装 –> 安装完成重启IDEA –> 安装成功",
+      "author": {
+        "nick": "weijie",
+        "homepage": "/u/weijie6067"
+      }
+    },
+    {
+      "id": "1190000019093914",
+      "title": "jpa 数据库id自增 数据库别名",
+      "url": "/a/1190000019093914",
+      "desc": "id自增 {代码...} 数据库别名 {代码...}",
+      "author": {
+        "nick": "weijie",
+        "homepage": "/u/weijie6067"
+      }
+    },
+    {
+      "id": "1190000019091604",
+      "title": "RabbitMQ快速入门",
+      "url": "/a/1190000019091604",
+      "desc": "RabbitMQ其实是我最早接触的一个MQ框架，我记得当时是在大学的时候跑到图书馆一个人去看，由于RabbitMQ官网的英文还不算太难，因此也是参考官网学习的，一共有6章，当时是用Node来开发的，当时花了一下午看完了，...",
+      "author": {
+        "nick": "leekwe",
+        "homepage": "/u/leekwe"
+      }
+    },
+    {
+      "id": "1190000019091435",
+      "title": "初读《Java并发编程的艺术》-第十章：Executor框架 -10.1 Executor框架简介",
+      "url": "/a/1190000019091435",
+      "desc": "在java中，直接使用线程来异步的执行任务，线程的每次创建与销毁需要一定的计算机资源开销。每个任务创建一个线程的话，当任务数量多的时候，则对应的创建销毁开销会消耗大量的资源，这种策略最终可能会使处于高...",
+      "author": {
+        "nick": "Penguin",
+        "homepage": "/u/penguin_5ba1c1b05d394"
+      }
+    },
+    {
+      "id": "1190000019090702",
+      "title": "【面试】Java相关",
+      "url": "/a/1190000019090702",
+      "desc": "面向对象编程简称OOP，是开发程序的一种方法、思想。面向过程编程中常常会导致所有的代码都在一起，难以阅读和维护，牵一动百。而OOP，使用许多代码模块，每个模块都只提供特定的功能，彼此独立，可以增加代码重...",
+      "author": {
+        "nick": "剑锋所指",
+        "homepage": "/u/jianfengsuozhi"
+      }
+    },
+    {
+      "id": "1190000019090426",
+      "title": "GC日志分析",
+      "url": "/a/1190000019090426",
+      "desc": "未自定义垃圾收集器的情况下在Non-default VM flags:一栏可以看到默认的 GC收集器设置为：-XX:+UseParallelGC。",
+      "author": {
+        "nick": "Developer",
+        "homepage": "/u/song_song"
+      }
+    },
+    {
+      "id": "1190000019090294",
+      "title": "线程安全-可见性",
+      "url": "/a/1190000019090294",
+      "desc": "共享变量在线程间不可见的原因 线程的交叉执行 重排序结合线程交叉执行 共享变量更新后的值没有在工作内存与主内存间及时更新 使用synchronized的来保证可见性 使用synchronized的两条规定： 线程解锁前，必须把...",
+      "author": {
+        "nick": "一号线",
+        "homepage": "/u/yihaoxian"
+      }
+    },
+    {
+      "id": "1190000019090214",
+      "title": "3分钟干货之模拟算法",
+      "url": "/a/1190000019090214",
+      "desc": "模拟是对真实事物或者过程的虚拟。在编程时为了实现某个功能，可以用语言来模拟那个功能，模拟成功也就相应地表示编程成功。",
+      "author": {
+        "nick": "巅峰大词典",
+        "homepage": "/u/lingfeng23"
+      }
+    },
+    {
+      "id": "1190000019089463",
+      "title": "同样是程序员，他转行在新加坡卖鱼走向巅峰！",
+      "url": "/a/1190000019089463",
+      "desc": "就我个人而言，我也开始重新整理自己的发展路线，我是一个很容易会有新想法的人，而且做的快、放手也快。因为近期主要还是了解产品相关的工作，所以也经常会有想法利用业余时间去做一个有价值的产品。",
+      "author": {
+        "nick": "Java猫说",
+        "homepage": "/u/myself_5ab9f390c6129"
+      }
+    },
+    {
+      "id": "1190000019089019",
+      "title": "Android屏幕适配方案分析",
+      "url": "/a/1190000019089019",
+      "desc": "Android开发过程中我们常用的尺寸单位有px、dp，还有一种sp一般是用于字体的大小。但是由于px是像素单位，比如我们通常说的手机分辨例如1920*1080都是px的单位。现在Android屏幕分辨率碎片化720x1280、1080x1920...",
+      "author": {
+        "nick": "薄荷前端",
+        "homepage": "/u/boohee"
+      }
+    },
+    {
+      "id": "1190000019088582",
+      "title": "J.U.C|condition分析",
+      "url": "/a/1190000019088582",
+      "desc": "在前几篇我们聊了 AQS、CLH、ReentrantLock、ReentrantReadWriteLock等的原理以及其源码解读，具体参见专栏 《非学无以广才》",
+      "author": {
+        "nick": "阅历笔记",
+        "homepage": "/u/yuelicn"
+      }
+    }
+  ]
+}
