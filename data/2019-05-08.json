@@ -1,0 +1,155 @@
+{
+  "watchNum": "50403",
+  "blogs": [
+    {
+      "id": "1190000019109053",
+      "title": "为什么强烈禁止开发人员使用isSuccess作为变量名",
+      "url": "/a/1190000019109053",
+      "desc": "在日常开发中，我们会经常要在类中定义布尔类型的变量，比如在给外部系统提供一个RPC接口的时候，我们一般会定义一个字段表示本次请求是否成功的。",
+      "author": {
+        "nick": "阿里云云栖社区",
+        "homepage": "/u/yunqishequ_5aa899aad5395"
+      }
+    },
+    {
+      "id": "1190000019104962",
+      "title": "Java知识体系之Java基础",
+      "url": "/a/1190000019104962",
+      "desc": "最近看到CSDN上面的一篇博客 面试必备:《Java最常见的200+面试题全解析》, 讲解了关于Java体系的一些模块以及面试中的一些常见问题; 虽然最近没有要去找工作的需求, 但是巩固一下这方面的知识还是很有必要的; 后...",
+      "author": {
+        "nick": "terryKing1992",
+        "homepage": "/u/terryking1992"
+      }
+    },
+    {
+      "id": "1190000019104854",
+      "title": "面试题：类加载器",
+      "url": "/a/1190000019104854",
+      "desc": "Java源代码.java文件通过编译成字节码.class文件后，需要被加载到Java虚拟机的内存空间中使用，这个过程就是类加载。类加载依靠的是Java类加载器",
+      "author": {
+        "nick": "itzhouq",
+        "homepage": "/u/itzhouq"
+      }
+    },
+    {
+      "id": "1190000019104831",
+      "title": "解密Mybatis,手写Mybatis框架（一）",
+      "url": "/a/1190000019104831",
+      "desc": "Mybatis快速入门 步骤： 1.加入mybatis的依赖 2.添加Mybatis的配置文件 3.场景介绍 4.编写实体类丶mapper接口及mapper.xml文件 5.编写测试代码 demo: {代码...} mapper接口： {代码...} TUserMapper.xml: {代码.....",
+      "author": {
+        "nick": "y猪",
+        "homepage": "/u/aasadf"
+      }
+    },
+    {
+      "id": "1190000019104391",
+      "title": "Java中wait、notify、notifyAll使用详解",
+      "url": "/a/1190000019104391",
+      "desc": "其中notify()、notifyAll()、wait(long timeout)是本地方法其次我们需要知道这几个方法主要是用来个线程之间通信的。那可能就有人会问，既然是用来线程之间通信的，那为什么这几个方法不是在线程类Thread上呢？对...",
+      "author": {
+        "nick": "君莫笑",
+        "homepage": "/u/jmxiao"
+      }
+    },
+    {
+      "id": "1190000019103636",
+      "title": "Java锁相关知识总结",
+      "url": "/a/1190000019103636",
+      "desc": "锁的种类： {代码...} 解决死锁的方法： {代码...} 悲观锁与乐观锁 {代码...} 未完待续",
+      "author": {
+        "nick": "剑锋所指",
+        "homepage": "/u/jianfengsuozhi"
+      }
+    },
+    {
+      "id": "1190000019103229",
+      "title": "3分钟干货之redis的哨兵的监控机制是怎样的？",
+      "url": "/a/1190000019103229",
+      "desc": "哨兵监控也是有集群的，会有多个哨兵进行监控，当判断发生故障的哨兵达到一定数量的时候才进行修复。一个健壮的部署至少需要三个哨兵实例。",
+      "author": {
+        "nick": "巅峰大词典",
+        "homepage": "/u/lingfeng23"
+      }
+    },
+    {
+      "id": "1190000019102801",
+      "title": "Spring中Enable*功能的使用",
+      "url": "/a/1190000019102801",
+      "desc": "@Enable** 注解，一般用于开启某一类功能。类似于一种开关，只有加了这个注解，才能使用某些功能。",
+      "author": {
+        "nick": "zeody",
+        "homepage": "/u/zeody"
+      }
+    },
+    {
+      "id": "1190000019101902",
+      "title": "AVL树的Java实现",
+      "url": "/a/1190000019101902",
+      "desc": "在计算机科学中，AVL树是最早被发明的自平衡二叉查找树。在AVL树中，任一节点对应的两棵子树的最大高度差为1，因此它也被称为高度平衡树。查找、插入和删除在平均和最坏情况下的时间复杂度都是 {displaystyle O(l...",
+      "author": {
+        "nick": "ShinobuChyan",
+        "homepage": "/u/shinobuchyan_596f581c9914b"
+      }
+    },
+    {
+      "id": "1190000019101073",
+      "title": "后端好书阅读与推荐（续七）",
+      "url": "/a/1190000019101073",
+      "desc": "Spring体系用来做微服务在当下可谓是风头正劲，这本书就用一个实例来手把手教我们实现微服务。实战系列的口碑一直不错，这本也不例外，看完就可以对微服务的概念有一个完整的理解，并且想上手也有路可寻。",
+      "author": {
+        "nick": "MageekChiu",
+        "homepage": "/u/mageek"
+      }
+    },
+    {
+      "id": "1190000019101829",
+      "title": "Spring Cloud GateWay 路由转发规则介绍",
+      "url": "/a/1190000019101829",
+      "desc": "Spring在因Netflix开源流产事件后，在不断的更换Netflix相关的组件，比如：Eureka、Zuul、Feign、Ribbon等，Zuul的替代产品就是SpringCloud Gateway，这是Spring团队研发的网关组件，可以实现限流、安全认证、支...",
+      "author": {
+        "nick": "恒宇少年",
+        "homepage": "/u/hengyushaonian"
+      }
+    },
+    {
+      "id": "1190000019100073",
+      "title": "被误读的设计模式",
+      "url": "/a/1190000019100073",
+      "desc": "<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->",
+      "author": {
+        "nick": "西召",
+        "homepage": "/u/ijiangtao"
+      }
+    },
+    {
+      "id": "1190000019098520",
+      "title": "《java 8 实战》读书笔记 -第十三章 函数式的思考",
+      "url": "/a/1190000019098520",
+      "desc": "如果一个方法既不修改它内嵌类的状态，也不修改其他对象的状态，使用return返回所有的计算结果，那么我们称其为纯粹的或者无副作用的。副作用就是函数的效果已经超出了函数自身的范畴。下面是一些例子。",
+      "author": {
+        "nick": "小白龙",
+        "homepage": "/u/xiaobailong_5b6017cbf24e2"
+      }
+    },
+    {
+      "id": "1190000019096640",
+      "title": "Android Gradle系列-入门篇",
+      "url": "/a/1190000019096640",
+      "desc": "接下来的一段时间会对Android Gradle的相关知识进行梳理，所以借此整理成一个系列。如果你是刚入行的新秀，那么这个系列将会非常适合你，因为Android基本的配置都与Gradle有关。当然如果你已经入行，但对Gradle还...",
+      "author": {
+        "nick": "idisfkj",
+        "homepage": "/u/idisfkj"
+      }
+    },
+    {
+      "id": "1190000019095759",
+      "title": "IDEA 中 JUnit 的使用",
+      "url": "/a/1190000019095759",
+      "desc": "JUnit 是一个 Java 语言的回归测试框架（regression testing framework），由 Kent Beck 和 Erich Gamma 建立。",
+      "author": {
+        "nick": "Nemo",
+        "homepage": "/u/nemo_5ccbb22e0f8d0"
+      }
+    }
+  ]
+}
