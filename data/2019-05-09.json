@@ -1,0 +1,155 @@
+{
+  "watchNum": "50534",
+  "blogs": [
+    {
+      "id": "1190000019122823",
+      "title": "“吃鸡”吗？《和平精英》来了，感觉不一般",
+      "url": "/a/1190000019122823",
+      "desc": "本文部分素材摘抄自“36Kr-《最前线 | 腾讯“吃鸡”游戏或借壳变现，《绝地求生》“成为”《和平精英》》”。",
+      "author": {
+        "nick": "Java猫说",
+        "homepage": "/u/myself_5ab9f390c6129"
+      }
+    },
+    {
+      "id": "1190000019118027",
+      "title": "图床失效了？也许你应该试试这个工具",
+      "url": "/a/1190000019118027",
+      "desc": "经过几个小伙伴的提醒，发现个人博客中的许多图片都裂了无法访问；原因就不多说，既然出现问题就得要解决。",
+      "author": {
+        "nick": "crossoverJie",
+        "homepage": "/u/crossoverjie"
+      }
+    },
+    {
+      "id": "1190000019116861",
+      "title": "解密Mybatis,手写Mybatis框架（二）",
+      "url": "/a/1190000019116861",
+      "desc": "3.通过factory创建SqlSession对象,把configuaration传入SqlSession.",
+      "author": {
+        "nick": "y猪",
+        "homepage": "/u/aasadf"
+      }
+    },
+    {
+      "id": "1190000019116753",
+      "title": "leetCode第一题",
+      "url": "/a/1190000019116753",
+      "desc": "将数组的遍历值当作key（为了存取好处理，所以将数组的遍历值当作key），索引当作value来存储。",
+      "author": {
+        "nick": "Gatlin",
+        "homepage": "/u/gatlin"
+      }
+    },
+    {
+      "id": "1190000019116191",
+      "title": "pom.xml下的标签的作用",
+      "url": "/a/1190000019116191",
+      "desc": "maven中pom标签下的所有标签作用 {代码...}",
+      "author": {
+        "nick": "不完美主义者",
+        "homepage": "/u/fangdangbudetuzi"
+      }
+    },
+    {
+      "id": "1190000019115881",
+      "title": "Elasticsearch实战Java High Level REST Client实现员工管理案例",
+      "url": "/a/1190000019115881",
+      "desc": "elasticsearch:7.0.0kibana:7.0.0JDK: 1.8.0_201maven: 3.6.1",
+      "author": {
+        "nick": "郑国",
+        "homepage": "/u/zhengguo"
+      }
+    },
+    {
+      "id": "1190000019115521",
+      "title": "ArrayList源码分析",
+      "url": "/a/1190000019115521",
+      "desc": "时间复杂度：size、isEmpty、get、set、iterator和listIterator方法都以固定时间运行，时间复杂度为O(1)。add和remove方法需要O(n)时间。与用于LinkedList实现的常数因子相比，此实现的常数因子较低。",
+      "author": {
+        "nick": "LuoJKL",
+        "homepage": "/u/luojkl"
+      }
+    },
+    {
+      "id": "1190000019115423",
+      "title": "3分钟干货之常用的ORM框架",
+      "url": "/a/1190000019115423",
+      "desc": "ORM就是对象关系匹配，是为了解决面向对象与关系数据库存在的互不匹配的问题。简单来说，就是把关系数据库中的数据转换成面向对象程序中的对象。",
+      "author": {
+        "nick": "巅峰大词典",
+        "homepage": "/u/lingfeng23"
+      }
+    },
+    {
+      "id": "1190000019113989",
+      "title": "disconf问题引发对spring boot 配置加载的探究",
+      "url": "/a/1190000019113989",
+      "desc": "今天小伙伴跑过来说，搭建框架的时候出现disconf配置好的信息不能够及时注入到实体类中的情况。他通过实践发现，spring 加载Configuration 的时候，通过@Autowired注入的RedisProperties 实体类里面没有值。等到...",
+      "author": {
+        "nick": "zeody",
+        "homepage": "/u/zeody"
+      }
+    },
+    {
+      "id": "1190000019112536",
+      "title": "Spring注解专题系列",
+      "url": "/a/1190000019112536",
+      "desc": "这是Spring注解专题系类文章，本系类文章适合Spring入门者或者原理入门者，小编会在本系类文章下进行企业级应用实战讲解以及spring源码跟进。",
+      "author": {
+        "nick": "evinhope",
+        "homepage": "/u/evinhope"
+      }
+    },
+    {
+      "id": "1190000019111141",
+      "title": "Android之Window和弹窗问题",
+      "url": "/a/1190000019111141",
+      "desc": "10.0.0.1 Window是什么？如何通过WindowManager添加Window(代码实现)？WindowManager的主要功能是什么？",
+      "author": {
+        "nick": "潇湘剑雨",
+        "homepage": "/u/xiangjianyu"
+      }
+    },
+    {
+      "id": "1190000019109053",
+      "title": "为什么强烈禁止开发人员使用isSuccess作为变量名",
+      "url": "/a/1190000019109053",
+      "desc": "在日常开发中，我们会经常要在类中定义布尔类型的变量，比如在给外部系统提供一个RPC接口的时候，我们一般会定义一个字段表示本次请求是否成功的。",
+      "author": {
+        "nick": "阿里云云栖社区",
+        "homepage": "/u/yunqishequ_5aa899aad5395"
+      }
+    },
+    {
+      "id": "1190000019104962",
+      "title": "Java知识体系之Java基础",
+      "url": "/a/1190000019104962",
+      "desc": "最近看到CSDN上面的一篇博客 面试必备:《Java最常见的200+面试题全解析》, 讲解了关于Java体系的一些模块以及面试中的一些常见问题; 虽然最近没有要去找工作的需求, 但是巩固一下这方面的知识还是很有必要的; 后...",
+      "author": {
+        "nick": "terryKing1992",
+        "homepage": "/u/terryking1992"
+      }
+    },
+    {
+      "id": "1190000019104854",
+      "title": "面试题：类加载器",
+      "url": "/a/1190000019104854",
+      "desc": "Java源代码.java文件通过编译成字节码.class文件后，需要被加载到Java虚拟机的内存空间中使用，这个过程就是类加载。类加载依靠的是Java类加载器",
+      "author": {
+        "nick": "itzhouq",
+        "homepage": "/u/itzhouq"
+      }
+    },
+    {
+      "id": "1190000019104831",
+      "title": "解密Mybatis,手写Mybatis框架（一）",
+      "url": "/a/1190000019104831",
+      "desc": "Mybatis快速入门 步骤： 1.加入mybatis的依赖 2.添加Mybatis的配置文件 3.场景介绍 4.编写实体类丶mapper接口及mapper.xml文件 5.编写测试代码 demo: {代码...} mapper接口： {代码...} TUserMapper.xml: {代码.....",
+      "author": {
+        "nick": "y猪",
+        "homepage": "/u/aasadf"
+      }
+    }
+  ]
+}
