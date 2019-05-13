@@ -1,0 +1,155 @@
+{
+  "watchNum": "50994",
+  "blogs": [
+    {
+      "id": "1190000019161317",
+      "title": "没有实战经验？从零敲一个企业级共享项目前后端！",
+      "url": "/a/1190000019161317",
+      "desc": "本文是两个GitHub项目的序章，旨在指导初级程序员完成一个企业级共享项目的前后端代码实践，丰富自身的实战经验与知识。",
+      "author": {
+        "nick": "Java猫说",
+        "homepage": "/u/myself_5ab9f390c6129"
+      }
+    },
+    {
+      "id": "1190000019160432",
+      "title": "java多线程： 如何停止线程",
+      "url": "/a/1190000019160432",
+      "desc": "线程停止的几种情况：1： 使用退出标记，run方法执行完毕，线程正常退出。2： 使用stop()方法，已过时的方法，不推荐。3： 使用interrupt()方法中断线程。",
+      "author": {
+        "nick": "idealcn",
+        "homepage": "/u/idealcn"
+      }
+    },
+    {
+      "id": "1190000019159289",
+      "title": "来认识一下venus-init——一个让你仅需一个命令开始Java开发的命令行工具",
+      "url": "/a/1190000019159289",
+      "desc": "不知道你是否有过这样的经历。不管你是什么岗位，前端也好，后端也罢，想去了解一下Java开发到底是什么样的，它是不是真的跟传说中的一样。",
+      "author": {
+        "nick": "detectiveHLH",
+        "homepage": "/u/detectivehlh"
+      }
+    },
+    {
+      "id": "1190000019159286",
+      "title": "关于java中的强制类型转换和二进制表示问题",
+      "url": "/a/1190000019159286",
+      "desc": "1、Java中用补码形式表示2、第一位正负位，1表示负，0表示正。3、原码：一个数的二进制表示。 {代码...} 4、反码：负数原码按位取反（符号位不变）。正数原码本身。 {代码...} 5、补码：正数是原码本身。负数反码...",
+      "author": {
+        "nick": "旁观者z",
+        "homepage": "/u/pangguanzhez"
+      }
+    },
+    {
+      "id": "1190000019157444",
+      "title": "View事件机制分析",
+      "url": "/a/1190000019157444",
+      "desc": "目录介绍 01.Android中事件分发顺序 1.1 事件分发的对象是谁 1.2 事件分发的本质 1.3 事件在哪些对象间进行传递 1.4 事件分发过程涉及方法 1.5 Android中事件分发顺序 02.Activity的事件分发机制 2.1 源码分析 2....",
+      "author": {
+        "nick": "潇湘剑雨",
+        "homepage": "/u/xiangjianyu"
+      }
+    },
+    {
+      "id": "1190000019156416",
+      "title": "[Java并发-10] ReadWriteLock：快速实现一个完备的缓存",
+      "url": "/a/1190000019156416",
+      "desc": "大家知道了Java中使用管程同步原语,理论上可以解决所有的并发问题。那 Java SDK 并发包里为什么还有很多其他的工具类呢？原因很简单：分场景优化性能，提升易用性",
+      "author": {
+        "nick": "df007df",
+        "homepage": "/u/df007df"
+      }
+    },
+    {
+      "id": "1190000019156088",
+      "title": "超级白中白的学习进程（3）：抽象类（abstract）",
+      "url": "/a/1190000019156088",
+      "desc": "抽象类，关键字abstract。我的理解就是泛指的意思，就好比说你建立一个类，叫Animal类，里面有一个eat（）方法，但是这个动物类指的是什么动物呢？这个可以是小猫，也可以是小狗，还有这个eat方法，是吃什么呢？...",
+      "author": {
+        "nick": "ZHC_YTYQ",
+        "homepage": "/u/zhc_ytyq"
+      }
+    },
+    {
+      "id": "1190000019155358",
+      "title": "JAVA可视化监控程序JVisualVM的使用",
+      "url": "/a/1190000019155358",
+      "desc": "0x01.监控本地JAVA进程 JVisualVM是Oracle程序，安装JDK默认在bin目录下 打开JVisualVM默认会显示本机JAVA进程 1.Tab简介 概述：显示线程基本状态，线程号，JVM参数以及一些系统属性 监视：显示CPU，堆/metaspace...",
+      "author": {
+        "nick": "猿在天",
+        "homepage": "/u/cos2a"
+      }
+    },
+    {
+      "id": "1190000019155324",
+      "title": "Hive集群合并之应用端的负载均衡算法",
+      "url": "/a/1190000019155324",
+      "desc": "有这么一个场景，我们有两个Hive集群，Hive集群1（后面成为1号集群）是一直专享于数据计算平台的，而Hive集群2（后面成为2号集群）是用于其他团队使用的，比如特征，广告等。而由此存在两个主要问题：a) 两个Hive...",
+      "author": {
+        "nick": "buildupchao",
+        "homepage": "/u/luwangmeilun"
+      }
+    },
+    {
+      "id": "1190000019155279",
+      "title": "AQS同步组件--CountDownLatch",
+      "url": "/a/1190000019155279",
+      "desc": "CountDownLatch是在java1.5被引入的，跟它一起被引入的并发工具类还有CyclicBarrier、Semaphore、ConcurrentHashMap和BlockingQueue，它们都存在于java.util.concurrent包下。CountDownLatch这个类能够使一个线程...",
+      "author": {
+        "nick": "一号线",
+        "homepage": "/u/yihaoxian"
+      }
+    },
+    {
+      "id": "1190000019154820",
+      "title": "MappedByteBuffer VS FileChannel 孰强孰弱？",
+      "url": "/a/1190000019154820",
+      "desc": "Java 在 JDK 1.4 引入了 ByteBuffer 等 NIO 相关的类，使得 Java 程序员可以抛弃基于 Stream ，从而使用基于 Block 的方式读写文件，另外，JDK 还引入了 IO 性能优化之王—— 零拷贝 sendFile 和 mmap。但他们的性...",
+      "author": {
+        "nick": "莫那_鲁道",
+        "homepage": "/u/thinkinjava_cn"
+      }
+    },
+    {
+      "id": "1190000019154724",
+      "title": "SSM框架整合",
+      "url": "/a/1190000019154724",
+      "desc": "ssm整合项目结构 Maven导入jar pom.xml {代码...} Mybatis sqlMapConfig.xml里面为空 db.properties {代码...} log4j.properties {代码...} Spring applicationContext-dao.xml {代码...} applicationContext-ser...",
+      "author": {
+        "nick": "小咸鱼",
+        "homepage": "/u/xiaoxianyu"
+      }
+    },
+    {
+      "id": "1190000019154651",
+      "title": "JAVA面试题(24)",
+      "url": "/a/1190000019154651",
+      "desc": "本文首发于cartoon的博客    转载请注明出处:[链接] Spring 有哪些主要模块？ Spring Core Spring核心库 主要实现IOC AOP 提供拦截器功能供用户控制程序流程 ORM 提供对常用的ORM框架的支持，如Hibernate，MyBati...",
+      "author": {
+        "nick": "cartoon",
+        "homepage": "/u/cartoon_5cce2e0fb8fae"
+      }
+    },
+    {
+      "id": "1190000019154634",
+      "title": "JAVA面试题(23)",
+      "url": "/a/1190000019154634",
+      "desc": "本文首发于cartoon的博客    转载请注明出处:[链接] 简单工厂和抽象工厂有什么区别？ 简单工厂面向具体实体，抽象工厂面向多个实体 简单工厂通过继承抽象工厂，重写相应方法生成产品 为什么要使用 Spring？ Sprin...",
+      "author": {
+        "nick": "cartoon",
+        "homepage": "/u/cartoon_5cce2e0fb8fae"
+      }
+    },
+    {
+      "id": "1190000019154619",
+      "title": "JAVA面试题(22)",
+      "url": "/a/1190000019154619",
+      "desc": "本文首发于cartoon的博客    转载请注明出处:[链接] Get和 Post 请求有哪些区别？ Get方法不改变数据库状态，POST会改变数据库状态 回退页面/刷新时，Get不会再提交数据，Post会再次提交数据 Get能被客户端缓存或...",
+      "author": {
+        "nick": "cartoon",
+        "homepage": "/u/cartoon_5cce2e0fb8fae"
+      }
+    }
+  ]
+}
