@@ -1,0 +1,155 @@
+{
+  "watchNum": "51146",
+  "blogs": [
+    {
+      "id": "1190000019175953",
+      "title": "JAVA刷题（持续更新）",
+      "url": "/a/1190000019175953",
+      "desc": "类（数据类型）：具有相同特性（数据元素）和行为（功能）的对象的抽象就是类。类的具体化就是对象，对象是类的实例。类具有属性（对象状态的抽象）和操作（对象行为的抽象）",
+      "author": {
+        "nick": "roylion",
+        "homepage": "/u/roylion"
+      }
+    },
+    {
+      "id": "1190000019175784",
+      "title": "关于本体自动构建goldminner的bug心得",
+      "url": "/a/1190000019175784",
+      "desc": "一.项目地址[链接]该项目的fork量只有2，能不用的尽量别用，太费劲了。二.marven踩坑1.Could not resolve dependencies for project de.uni-mannheim.informatik.dws.goldminer:1.1-Snpshot,failure to find net....",
+      "author": {
+        "nick": "胡杨",
+        "homepage": "/u/huyang_5c370e87b9de9"
+      }
+    },
+    {
+      "id": "1190000019175173",
+      "title": "SpringBoot整合MybatisPlus的简单教程（简单整合）",
+      "url": "/a/1190000019175173",
+      "desc": "最近在研究springboot，顺便就会看看数据库连接这一块的知识 ，所以当我发现有通用Mapper和MybatisPlus这两款网络上比较火的简化mybatis开发的优秀软件之后。就都想试一下，看看哪一款比较适合自己。",
+      "author": {
+        "nick": "周兆东",
+        "homepage": "/u/zhouzhaodong"
+      }
+    },
+    {
+      "id": "1190000019174796",
+      "title": "【从零入门系列-2】Sprint Boot 之 数据库实体类",
+      "url": "/a/1190000019174796",
+      "desc": "SpringBoot数据库的持久层框架主要分为两种架构模式，即以JDBC Template为代表的SQL类和以Spring Data JPA为代表的ORM对象类。其中：",
+      "author": {
+        "nick": "arbboter",
+        "homepage": "/u/arbboter"
+      }
+    },
+    {
+      "id": "1190000019174625",
+      "title": "rabbitmq",
+      "url": "/a/1190000019174625",
+      "desc": "Binding：Exchange和Exchange、Queue之间的连接关系Queue：实际存储消息。Durability：是否持久化，Durable：是，Transient：否。Auto delete：如选yes，代表当最后一个监听被移除之后，该Queue会自动删除。Messa...",
+      "author": {
+        "nick": "阿南",
+        "homepage": "/u/anan_5ca066790c21a"
+      }
+    },
+    {
+      "id": "1190000019173169",
+      "title": "java多线程：synchronized",
+      "url": "/a/1190000019173169",
+      "desc": "synchronize可以在多个线程操作同一个成员变量或者方法时，实现同步(或者互斥)的效果。synchronized可以作用于方法，以及方法内部的代码块。",
+      "author": {
+        "nick": "idealcn",
+        "homepage": "/u/idealcn"
+      }
+    },
+    {
+      "id": "1190000019170025",
+      "title": "超级白中白的学习进程（4）：继承练习",
+      "url": "/a/1190000019170025",
+      "desc": "今天因为上班太忙，没有时间看视频，只看到了练习，所以今天就只做了这一道练习。题目要求：要求编写一个类似微信放红包的程序。分析：",
+      "author": {
+        "nick": "ZHC_YTYQ",
+        "homepage": "/u/zhc_ytyq"
+      }
+    },
+    {
+      "id": "1190000019168923",
+      "title": "AQS同步组件--Semaphore",
+      "url": "/a/1190000019168923",
+      "desc": "是用于控制某个资源同一时间被线程访问的个数，提供acquire（）和release（）方法，acquire获取一个许可，如果没有获取的到就等待，release是在操作完成后释放一个许可，Semaphore维护了当前访问的个数，通过同步...",
+      "author": {
+        "nick": "一号线",
+        "homepage": "/u/yihaoxian"
+      }
+    },
+    {
+      "id": "1190000019168769",
+      "title": "Java开发必须要掌握的20个核心技术",
+      "url": "/a/1190000019168769",
+      "desc": "对于刚刚接触Java的人来说，JVM相关的知识不一定需要理解很深，对此里面的概念有一些简单的了解即可。不过对于一个有着3年以上Java经验的资深开发者来说，不会JVM几乎是不可接受的。JVM作为java运行的基础，很难...",
+      "author": {
+        "nick": "旧港",
+        "homepage": "/u/jiugang"
+      }
+    },
+    {
+      "id": "1190000019168411",
+      "title": "记录一次 “跟谁学”面试的经历",
+      "url": "/a/1190000019168411",
+      "desc": "跟谁学一共三层，开发好像就一层，外面看感觉有点拥挤，面试地点在走廊伤的桌子，在外面还好没有感到太压抑，填完表之后，让我做了个自我介绍并且说了一下之前做过的项目，当时我在想，不来个笔试题考一下数据结...",
+      "author": {
+        "nick": "老笔斋",
+        "homepage": "/u/laobizhai"
+      }
+    },
+    {
+      "id": "1190000019168232",
+      "title": "mybatis处理枚举类",
+      "url": "/a/1190000019168232",
+      "desc": "org.apache.ibatis.type.EnumOrdinalTypeHandler<E> :该类实现了枚举类型和Integer类型的相互转换。",
+      "author": {
+        "nick": "疯狂小兵",
+        "homepage": "/u/jingzz"
+      }
+    },
+    {
+      "id": "1190000019168229",
+      "title": "3分钟干货之死锁与活锁的区别",
+      "url": "/a/1190000019168229",
+      "desc": "死锁：是指两个或两个以上的进程（或线程）在执行过程中，因争夺资源而造成的一种互相等待的现象，若无外力作用，它们都将无法推进下去。",
+      "author": {
+        "nick": "巅峰大词典",
+        "homepage": "/u/lingfeng23"
+      }
+    },
+    {
+      "id": "1190000019167312",
+      "title": "Hibernate Validator—更简洁的参数校验及一个util",
+      "url": "/a/1190000019167312",
+      "desc": "hibernate-validator是Hibernate项目中的一个数据校验框架，是Bean Validation 的参考实现，hibernate-validator除了提供了JSR 303规范中所有内置constraint 的实现，还有一些附加的constraint。使用hibernate-va...",
+      "author": {
+        "nick": "夙梦流尘",
+        "homepage": "/u/mazhenjie"
+      }
+    },
+    {
+      "id": "1190000019167048",
+      "title": "一个Dubbo泛化调用的Util",
+      "url": "/a/1190000019167048",
+      "desc": "源码地址 [链接] 作用 可以更加灵活的调用其他dubbo接口 实现思路 反射+泛化调用 局限性 局限性： 传入的参数列表顺序必须和方法上的参数顺序相同（问题不大） 拿不到具体类型的泛型反序列化还是会失败（这种情况...",
+      "author": {
+        "nick": "夙梦流尘",
+        "homepage": "/u/mazhenjie"
+      }
+    },
+    {
+      "id": "1190000019166658",
+      "title": "Android防护扫盲篇",
+      "url": "/a/1190000019166658",
+      "desc": "Java 是一种跨平台、解释型语言，Java 源代码编译成的class文件中有大量包含语义的变量名、方法名的信息，很容易被反编译为Java 源代码。为了防止这种现象，我们可以对Java字节码进行混淆。混淆不仅能将代码中的...",
+      "author": {
+        "nick": "MobService",
+        "homepage": "/u/kaifazhefuwu"
+      }
+    }
+  ]
+}
