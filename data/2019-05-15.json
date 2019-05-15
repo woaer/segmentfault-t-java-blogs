@@ -1,0 +1,155 @@
+{
+  "watchNum": "51284",
+  "blogs": [
+    {
+      "id": "1190000019188257",
+      "title": "【ShareBook】1-后台框架与小程序用户登录接口实战",
+      "url": "/a/1190000019188257",
+      "desc": "本博客 猫叔的博客，转载请申明出处阅读本文约 “5分钟”适读人群：Java后端、Java初级、小程序前端 前后端项目的地址 ShareBookServer ShareBookClient 小程序前端 先看一下本节的学习目录，我们项目的小程序会在...",
+      "author": {
+        "nick": "Java猫说",
+        "homepage": "/u/myself_5ab9f390c6129"
+      }
+    },
+    {
+      "id": "1190000019185022",
+      "title": "JAVA整理（二）",
+      "url": "/a/1190000019185022",
+      "desc": "一：抽象类与接口 参数 抽象类 接口 默认的方法实现 它可以有默认的方法实现 接口完全是抽象的。它根本不存在方法的实现 实现 子类使用extends关键字来继承抽象类。如果子类不是抽象类的话，它需要提供抽象类中所...",
+      "author": {
+        "nick": "彩笔梳子",
+        "homepage": "/u/caibishuzi"
+      }
+    },
+    {
+      "id": "1190000019184930",
+      "title": "JAVA基础整理（四）",
+      "url": "/a/1190000019184930",
+      "desc": "private Object[] elementData;private int size;private static final int DEFAULT_LENGTH=10;",
+      "author": {
+        "nick": "彩笔梳子",
+        "homepage": "/u/caibishuzi"
+      }
+    },
+    {
+      "id": "1190000019184256",
+      "title": "JAVA基础整理（三）",
+      "url": "/a/1190000019184256",
+      "desc": "int a1= 1000;int a2=1000;if(a1==a2){System.out.println(\"yes\");}",
+      "author": {
+        "nick": "彩笔梳子",
+        "homepage": "/u/caibishuzi"
+      }
+    },
+    {
+      "id": "1190000019184136",
+      "title": "JAVA基础整理（二）",
+      "url": "/a/1190000019184136",
+      "desc": "一：抽象类与接口 参数 抽象类 接口 默认的方法实现 它可以有默认的方法实现 接口完全是抽象的。它根本不存在方法的实现 实现 子类使用extends关键字来继承抽象类。如果子类不是抽象类的话，它需要提供抽象类中所...",
+      "author": {
+        "nick": "彩笔梳子",
+        "homepage": "/u/caibishuzi"
+      }
+    },
+    {
+      "id": "1190000019183878",
+      "title": "spring xml 配置文件中标签的解析",
+      "url": "/a/1190000019183878",
+      "desc": "spring-context-x.x.x.RELEASE.jar/META-INF/spring.handlers文件[链接]如: 定义了命名空间对应的处理类: <context:xxx...>的标签由ContextNamespaceHandler类来处理",
+      "author": {
+        "nick": "严唱天",
+        "homepage": "/u/yanchangtian"
+      }
+    },
+    {
+      "id": "1190000019183829",
+      "title": "带你深入浅出HTTP协议（一）",
+      "url": "/a/1190000019183829",
+      "desc": "最近在面试一些前端工程师时，我总会问一个问题，'您有了解过HTTP协议吗？'有一些呢，答着还不错，有一些呢，回答有些差强人意，而有一些呢，竟然直接和我说身为前端不需要了解这些，这些是后端所需要了解的。在...",
+      "author": {
+        "nick": "extendsObject",
+        "homepage": "/u/extendsobject"
+      }
+    },
+    {
+      "id": "1190000019183725",
+      "title": "Spring Cloud Alibaba Sentinel对Feign的支持",
+      "url": "/a/1190000019183725",
+      "desc": "Spring Cloud Alibaba Sentinel 除了对 RestTemplate 做了支持，同样对于 Feign 也做了支持，如果我们要从 Hystrix 切换到 Sentinel 是非常方便的，下面来介绍下如何对 Feign 的支持以及实现原理。",
+      "author": {
+        "nick": "猿天地",
+        "homepage": "/u/yuantiandi"
+      }
+    },
+    {
+      "id": "1190000019182012",
+      "title": "JAVA面试题(26)",
+      "url": "/a/1190000019182012",
+      "desc": "Spring MVC 有哪些组件？ HandlerMapping 决定使用哪个Handler处理请求",
+      "author": {
+        "nick": "cartoon",
+        "homepage": "/u/cartoon_5cce2e0fb8fae"
+      }
+    },
+    {
+      "id": "1190000019181806",
+      "title": "AQS同步组件--ReentrantLock与锁",
+      "url": "/a/1190000019181806",
+      "desc": "锁的实现：Synchronized是依赖jvm实现的，ReentrantLock是jdk实现的。（我们可以理解为一个是操作系统层面的实现另一个是用户自己自己实现的）Synchronized的实现是jvm层面的很难看到其中的实现。而ReentrantLock...",
+      "author": {
+        "nick": "一号线",
+        "homepage": "/u/yihaoxian"
+      }
+    },
+    {
+      "id": "1190000019181504",
+      "title": "公益：开放一台Nacos服务端给各位Spring Cloud爱好者",
+      "url": "/a/1190000019181504",
+      "desc": "之前开放过一台公益Eureka Server给大家，以方便大家在阅读我博客中教程时候做实验。由于目前在连载Spring Cloud Alibaba，所以对应的也部署了一台Nacos，并且也开放出来，给大家学习测试之用。",
+      "author": {
+        "nick": "程序猿DD",
+        "homepage": "/u/coderdd"
+      }
+    },
+    {
+      "id": "1190000019181338",
+      "title": "JAVA基础整理（一）",
+      "url": "/a/1190000019181338",
+      "desc": "笼统说，一个流程简单一个复杂，面向过程好比开车上路，可以简单罗列出几个动作：上车，系安全带，点火，出发；向过程好比造出一辆汽车，肯定不能从焊铁做起，第一步是收集所需要的各个部分（对象），通过一定的...",
+      "author": {
+        "nick": "彩笔梳子",
+        "homepage": "/u/caibishuzi"
+      }
+    },
+    {
+      "id": "1190000019181028",
+      "title": "AQS同步组件--CyclicBarrier",
+      "url": "/a/1190000019181028",
+      "desc": "CyclicBarrier也是一个同步辅助类，它允许一组线程相互等待直到到达某个工作屏障点，通过他可以完成多线程之间的相互等待。每个线程都就绪之后才能执行后面的操作。和CountLatch有相似的地方都是通过计数器来实现...",
+      "author": {
+        "nick": "一号线",
+        "homepage": "/u/yihaoxian"
+      }
+    },
+    {
+      "id": "1190000019180802",
+      "title": "3分钟干货之redis过期键的删除策略",
+      "url": "/a/1190000019180802",
+      "desc": "1.定时删除：在设置键的过期时间的同时，创建一个timer，让定时器在键的过期时间到达时，立即执行对键的删除操作。（主动删除）对内存友好，但是对cpu时间不友好，有较多过期键的而情况下，删除过期键会占用相当...",
+      "author": {
+        "nick": "巅峰大词典",
+        "homepage": "/u/lingfeng23"
+      }
+    },
+    {
+      "id": "1190000019180288",
+      "title": "【从零入门系列-3】Sprint Boot 之 数据库操作",
+      "url": "/a/1190000019180288",
+      "desc": "前一章简述了如何设计实现数据库实体类，本篇文章在此基础上进行开发，完成对该数据库表的常用操作，主要包括使用Spring Data JPA进行简单的增删改查和复杂查询操作。",
+      "author": {
+        "nick": "arbboter",
+        "homepage": "/u/arbboter"
+      }
+    }
+  ]
+}
