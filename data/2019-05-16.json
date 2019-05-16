@@ -1,0 +1,155 @@
+{
+  "watchNum": "51422",
+  "blogs": [
+    {
+      "id": "1190000019199445",
+      "title": "Java学习进阶—高级编程",
+      "url": "/a/1190000019199445",
+      "desc": "当你已经熟练的掌握了面向对象中的各种概念后，是否会对这些知识是如何使用的产生浓厚的兴趣？本课程主要针对于已经掌握了JAVA核心开发技术的读者准备，讲解了JAVA多线程、常用类库、IO编程、网络编程、类集框架...",
+      "author": {
+        "nick": "开发者学习指南",
+        "homepage": "/u/aliyundaxuexiaoliu"
+      }
+    },
+    {
+      "id": "1190000019199246",
+      "title": "工厂模式详解",
+      "url": "/a/1190000019199246",
+      "desc": "即静态工厂模式1.将对象的创建和使用分开;2.将生产过程集中，便于集中管理;3.当需要创建的对象类有变动时，就不用在所有new 的地方修改了，直接修改工厂类即可;",
+      "author": {
+        "nick": "y猪",
+        "homepage": "/u/aasadf"
+      }
+    },
+    {
+      "id": "1190000019199057",
+      "title": "实用 | 35个可以提高千倍效率的Java代码小技巧",
+      "url": "/a/1190000019199057",
+      "desc": "代码优化 ，一个很重要的课题。可能有些人觉得没用，一些细小的地方有什么好修改的，改与不改对于代码的运行效率有什么影响呢？这个问题我是这么考虑的，就像大海里面的鲸鱼一样，它吃一条小虾米有用吗？没用，但...",
+      "author": {
+        "nick": "壹佰案例",
+        "homepage": "/u/cynthiamsup"
+      }
+    },
+    {
+      "id": "1190000019198831",
+      "title": "BlockLang 0.2.0 发布啦",
+      "url": "/a/1190000019198831",
+      "desc": "BlockLang 官网：[链接] 欢迎您了解 Block Lang 0.2.0 发布的功能。此版本增加三个功能： 在项目中创建空页面 在项目中创建分组 使用版本控制系统管理新创建的页面 创建空页面 页面，等同 web 项目中的网页，或小...",
+      "author": {
+        "nick": "blocklang",
+        "homepage": "/u/blocklang"
+      }
+    },
+    {
+      "id": "1190000019198675",
+      "title": "maven构建java项目工具介绍",
+      "url": "/a/1190000019198675",
+      "desc": "一、maven用途 java在创建项目的时候，可以自己手动创建，也可以利用工具创建，也就是maven来创建。 maven可以用来创建项目、部署项目、安装管理依赖、编译代码、管理二进制等。 maven的目的是使项目过程规范化、...",
+      "author": {
+        "nick": "繁星落眼眶",
+        "homepage": "/u/fanxingluoyankuang"
+      }
+    },
+    {
+      "id": "1190000019198168",
+      "title": "Java枚举实现原理",
+      "url": "/a/1190000019198168",
+      "desc": "定义   一个事物的所有值的集合。 枚举类型的属性   因为枚举类型所代表的是一个事物的所有值的集合，所以枚举类型应具有的属性为： 枚举类型所具有的值是不可变的。 具有所有的值 枚举的作用   限定值的范围，通...",
+      "author": {
+        "nick": "水水",
+        "homepage": "/u/hello_5c934b62df6d0"
+      }
+    },
+    {
+      "id": "1190000019197654",
+      "title": "感谢你的陪伴，《生活大爆炸》",
+      "url": "/a/1190000019197654",
+      "desc": "《生活大爆炸》（英文：The Big Bang Theory 简称：TBBT），于2007年在哥伦比亚广播公司（CBS）播出。该剧讲述的是四个宅男科学家和一个美女邻居发生的搞笑生活故事。2014年4月下旬《生活大爆炸》政策原因搜狐视...",
+      "author": {
+        "nick": "Java猫说",
+        "homepage": "/u/myself_5ab9f390c6129"
+      }
+    },
+    {
+      "id": "1190000019197520",
+      "title": "zookeeper-选举源码分析",
+      "url": "/a/1190000019197520",
+      "desc": "在 zookeeper 集群中发生选举的场景有以下三种： 集群启动时 Leader 节点重启时 Follower 节点重启时 本文主要针对集群启动时发生的选举实现进行分析。 ZK 集群中节点在启动时会调用QuorumPeer.start方法 {代码.....",
+      "author": {
+        "nick": "断风雨",
+        "homepage": "/u/duanfengyu"
+      }
+    },
+    {
+      "id": "1190000019197171",
+      "title": "LinkedList源码分析",
+      "url": "/a/1190000019197171",
+      "desc": "public class LinkedList<E> extends AbstractSequentialList<E> implements List<E>, Deque<E>, Cloneable, java.io.Serializable",
+      "author": {
+        "nick": "LuoJKL",
+        "homepage": "/u/luojkl"
+      }
+    },
+    {
+      "id": "1190000019196740",
+      "title": "javap命令与Java Dcompiler、IDEA等反编译的结果的差别",
+      "url": "/a/1190000019196740",
+      "desc": "源代码： {代码...} 编译之后使用javap -c Season.class命令反编译结果： {代码...} 编译之后使用Java Decompiler的反编译结果： {代码...} 反编译结果不相同可以分为两部分： javap反编译结果包含了static(),val...",
+      "author": {
+        "nick": "水水",
+        "homepage": "/u/hello_5c934b62df6d0"
+      }
+    },
+    {
+      "id": "1190000019194270",
+      "title": "项目笔记1:通过在线制图工具绘制阿里云部署图",
+      "url": "/a/1190000019194270",
+      "desc": "该项目主要是做一个采集婴幼儿的手掌指纹和掌纹的客户端，并且通过服务端接口保存手掌指纹到阿里云oss存储中。同时后台提供管理功能，对采集人员，系统角色权限管理，同时提供婴幼儿的手指指纹图片的查看和分析功...",
+      "author": {
+        "nick": "金色大地",
+        "homepage": "/u/jinsedadi"
+      }
+    },
+    {
+      "id": "1190000019194215",
+      "title": "JAVA面试题(27)",
+      "url": "/a/1190000019194215",
+      "desc": "为什么要用 Spring Boot？ Spring Boot是对Spring以及Sping MVC进一步封装的轻量级框架",
+      "author": {
+        "nick": "cartoon",
+        "homepage": "/u/cartoon_5cce2e0fb8fae"
+      }
+    },
+    {
+      "id": "1190000019194124",
+      "title": "Java8-Lambda表达式使用与Stream API",
+      "url": "/a/1190000019194124",
+      "desc": "0x00. 前置数据 {代码...} 0x01. 提取对象中的一列 {代码...} {代码...} 0x02. 通过字段中条件过滤集合列表 {代码...} {代码...} 0x03. 列表中对象数值型列数据求和 {代码...} {代码...} 0x04. 取出集合符合条件...",
+      "author": {
+        "nick": "猿在天",
+        "homepage": "/u/cos2a"
+      }
+    },
+    {
+      "id": "1190000019193320",
+      "title": "JAVA基础整理（五）",
+      "url": "/a/1190000019193320",
+      "desc": "LinkedList类 链表容器也是通过对比jdk源码进行对比学习。 1.定义结点类型 class Node<E>{ {代码...} } private static class Node<E> { {代码...} } 分析： （1）Node的访问权限是private的，因为这...",
+      "author": {
+        "nick": "彩笔梳子",
+        "homepage": "/u/caibishuzi"
+      }
+    },
+    {
+      "id": "1190000019193131",
+      "title": "3分钟干货之对spring进行定制化功能扩展",
+      "url": "/a/1190000019193131",
+      "desc": "▌1.BeanFactoryPostProcessor是beanFactory后置处理器，支持在bean factory标准初始化完成后，对bean factory进行一些额外处理。在讲context初始化流程时介绍过，这时所有的bean的描述信息已经加载完毕，但是还没...",
+      "author": {
+        "nick": "巅峰大词典",
+        "homepage": "/u/lingfeng23"
+      }
+    }
+  ]
+}
