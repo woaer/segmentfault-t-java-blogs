@@ -1,0 +1,155 @@
+{
+  "watchNum": "51723",
+  "blogs": [
+    {
+      "id": "1190000019226659",
+      "title": "【LeetCode Easy】021 Merge Two Sorted Lists",
+      "url": "/a/1190000019226659",
+      "desc": "Merge two sorted linked lists and return it as a new list. The new list should be made by splicing together the nodes of the first two lists.Input: 1->2->4, 1->3->4Output: 1->1->2...",
+      "author": {
+        "nick": "Noora",
+        "homepage": "/u/noora_5cb2ecd92531a"
+      }
+    },
+    {
+      "id": "1190000019225714",
+      "title": "算法复杂度分析",
+      "url": "/a/1190000019225714",
+      "desc": "算法（algorithm）是对特定问题求解步骤的一种描述，它是指令的有限序列，其中每一条指令表示一个或多个操作；此外，一个算法通常来说具有以下五个特性：",
+      "author": {
+        "nick": "1s_Kiwen",
+        "homepage": "/u/1s_kiwen"
+      }
+    },
+    {
+      "id": "1190000019225407",
+      "title": "java Threadlocal",
+      "url": "/a/1190000019225407",
+      "desc": "ThreadLocal提高一个线程的局部变量，访问某个线程拥有自己局部变量。 当使用ThreadLocal维护变量时，ThreadLocal为每个使用该变量的线程提供独立的变量副本，所以每一个线程都可以独立地改变自己的副本，而不会...",
+      "author": {
+        "nick": "lijingyulee",
+        "homepage": "/u/lijingyulee"
+      }
+    },
+    {
+      "id": "1190000019224425",
+      "title": "Android Q 沙箱适配多媒体文件总结",
+      "url": "/a/1190000019224425",
+      "desc": "首先是扫描。扫描依然是使用 query MediaStore 的方式。一句话介绍 MediaStore，MediaStore 就是Android系统中的一个多媒体数据库。代码如下图所示，以搜索本地视频为例子：",
+      "author": {
+        "nick": "DesGemini",
+        "homepage": "/u/desgemini"
+      }
+    },
+    {
+      "id": "1190000019224296",
+      "title": "我是如何做到 GitHub star 在 5 天内从 0 飙至 666 的",
+      "url": "/a/1190000019224296",
+      "desc": "上周五我在掘金发表了 《真香警告：即使不用饿了么订餐，也请务必收藏好该库！》，文中主角 Linkage-RecyclerView 原本只是为 《RxJava魔法师》 这个项目的需求而存在的，没想到在各路读者的积极参与下，让一个本...",
+      "author": {
+        "nick": "KunMinX",
+        "homepage": "/u/kunminx"
+      }
+    },
+    {
+      "id": "1190000019224175",
+      "title": "leetcode410. Split Array Largest Sum",
+      "url": "/a/1190000019224175",
+      "desc": "将一个长度为n的正整数数组分割为m个非空的连续子数组，并分别计算每个子数组中所有元素的和。求一种分割方式，使得该分割方式生成的最大子数组和为所有分割方式中最小的。",
+      "author": {
+        "nick": "raledong",
+        "homepage": "/u/raledong"
+      }
+    },
+    {
+      "id": "1190000019224154",
+      "title": "SpringCloud入门",
+      "url": "/a/1190000019224154",
+      "desc": "什么是微服务框架？ 与单体系统的区别 如何实施微服务 为什么选择SpringCloud？ SpringCloud简介 版本说明",
+      "author": {
+        "nick": "用户2827967484",
+        "homepage": "/u/yonghu2827967484"
+      }
+    },
+    {
+      "id": "1190000019224111",
+      "title": "海量人脸特征检索解决方案演进之路",
+      "url": "/a/1190000019224111",
+      "desc": "人脸识别技术在最近几年得到了长足进步，目前在人脸识别领域业界领先的厂家识别准确率均达到了99%以上，因此大量人脸相关的应用场景开始逐步落地，例如人脸支付、人员布控、寻找失踪人口等，此外，结合人脸的追踪...",
+      "author": {
+        "nick": "huashiou",
+        "homepage": "/u/huashiou"
+      }
+    },
+    {
+      "id": "1190000019223793",
+      "title": "SynchronousQueue原理详解-非公平模式",
+      "url": "/a/1190000019223793",
+      "desc": "前面已经讲解了公平模式的内容，今天来讲解下关于非公平模式下的SynchronousQueue是如何进行工作的，在源码分析的时候，先来简单看一下非公平模式的简单原理，它采用的栈这种FILO先进后出的方式进行非公平处理，...",
+      "author": {
+        "nick": "BattleHeart",
+        "homepage": "/u/battleheart"
+      }
+    },
+    {
+      "id": "1190000019223485",
+      "title": "java多线程 线程安全问题",
+      "url": "/a/1190000019223485",
+      "desc": "当多个线程同时共享，同一个全局变量或静态变量，做写的操作时，可能会发生数据冲突问题，也就是线程安全问题。但是做读操作是不会发生数据冲突问题",
+      "author": {
+        "nick": "lijingyulee",
+        "homepage": "/u/lijingyulee"
+      }
+    },
+    {
+      "id": "1190000019222981",
+      "title": "Java源码阅读笔记之Integer",
+      "url": "/a/1190000019222981",
+      "desc": "基本描述：Integer是对原生基本类型int的封装，其定义value来存储值和一些用于描述int的信息",
+      "author": {
+        "nick": "PiscesYE",
+        "homepage": "/u/piscesye"
+      }
+    },
+    {
+      "id": "1190000019222437",
+      "title": "gradle多模块打jar，上传本地仓库，并给本地其他项目使用",
+      "url": "/a/1190000019222437",
+      "desc": "1、前言 本篇主要讲述：gradle多模块打jar包，上传本地仓库，并交由本地其他项目使用 2、环境准备 操作系统： mac os gradle版本：4.1.0 开发软件：idea 注：gradle版本不同，引入依赖方式可能不同，如果你发现本...",
+      "author": {
+        "nick": "weeny",
+        "homepage": "/u/weenie"
+      }
+    },
+    {
+      "id": "1190000019222324",
+      "title": "如何提高开发者代码的创造力/让编程不再枯燥",
+      "url": "/a/1190000019222324",
+      "desc": "作为一名JAVAEE开发者，你也许已经对web开发的模式非常的熟悉，比如Controller/Service/Repository,模式化程度非常高，甚至业务也抽象为简单的CRUD。简单的严重的限制开发的思维方式，限制代码的创造力，同时也让...",
+      "author": {
+        "nick": "苏亚强",
+        "homepage": "/u/seeing_5bdbefbfea520"
+      }
+    },
+    {
+      "id": "1190000019221900",
+      "title": "JAVA面试题(30)",
+      "url": "/a/1190000019221900",
+      "desc": "Mybatis 有哪些执行器（Executor）？ SimpleExecutor 只允许执行update或select语句",
+      "author": {
+        "nick": "cartoon",
+        "homepage": "/u/cartoon_5cce2e0fb8fae"
+      }
+    },
+    {
+      "id": "1190000019221789",
+      "title": "前端开发会被淘汰吗？",
+      "url": "/a/1190000019221789",
+      "desc": "在前段时间，有个团队做了个移动端的APP，发布了，据称可以直接生成网页效果，于是有很多人一下子慌了。于是就有不少人来问，“手机APP都可以直接生成网页了，直接就取代了前端开发工程师一部分的工作了，以后APP...",
+      "author": {
+        "nick": "技术研究所",
+        "homepage": "/u/jishuyanjiusuo"
+      }
+    }
+  ]
+}
