@@ -1,0 +1,155 @@
+{
+  "watchNum": "51788",
+  "blogs": [
+    {
+      "id": "1190000019233922",
+      "title": "Java语言特点与学习",
+      "url": "/a/1190000019233922",
+      "desc": "Java语言是一款面向对象的一款高级语言是由Sun Microsystems公司（现已被oracle公司收购）。由James Gosling和同事们共同研发，并在1995年正式推出，据oracle官方数据指数，目前全球已有上亿的系统是使用Java开发...",
+      "author": {
+        "nick": "开发者学习指南",
+        "homepage": "/u/aliyundaxuexiaoliu"
+      }
+    },
+    {
+      "id": "1190000019233185",
+      "title": "在闲鱼，我们如何用Dart做高效后端开发？",
+      "url": "/a/1190000019233185",
+      "desc": "像阿里其他技术团队以及业界的做法一样，闲鱼的大多数后端应用都是全部使用java来实现的。java易用、丰富的库、结构容易设计的特性决定了它是进行业务开发的最好语言之一。后端应用中数据的存储、访问、转换、输...",
+      "author": {
+        "nick": "阿里云云栖社区",
+        "homepage": "/u/yunqishequ_5aa899aad5395"
+      }
+    },
+    {
+      "id": "1190000019229696",
+      "title": "线程池没你想的那么简单",
+      "url": "/a/1190000019229696",
+      "desc": "原以为线程池还挺简单的（平时常用，也分析过原理），这次是想自己动手写一个线程池来更加深入的了解它；但在动手写的过程中落地到细节时发现并没想的那么容易。结合源码对比后确实不得不佩服 Doug Lea 。",
+      "author": {
+        "nick": "crossoverJie",
+        "homepage": "/u/crossoverjie"
+      }
+    },
+    {
+      "id": "1190000019230061",
+      "title": "JAVA面试题(31)",
+      "url": "/a/1190000019230061",
+      "desc": "一张自增表里面总共有 7 条数据，删除了最后 2 条数据，重启 MySQL 数据库，又插入了一条数据，此时 ID 是几？ 插入数据ID为8，自增长不受删除数据的影响",
+      "author": {
+        "nick": "cartoon",
+        "homepage": "/u/cartoon_5cce2e0fb8fae"
+      }
+    },
+    {
+      "id": "1190000019229914",
+      "title": "Spring Boot Hello World",
+      "url": "/a/1190000019229914",
+      "desc": "本篇文章是SpringBoot最入门的介绍。我们不借助任何额外的工具，从无到有创建一个Spring Boot的web项目，并运行这个项目。",
+      "author": {
+        "nick": "poype",
+        "homepage": "/u/liudongliang"
+      }
+    },
+    {
+      "id": "1190000019229487",
+      "title": "几种限流技术",
+      "url": "/a/1190000019229487",
+      "desc": "就秒杀接口来说，当访问频率或者并发请求超过其承受范围的时候，这时候我们就要考虑限流来保证接口的可用性，以防止非预期的请求对系统压力过大而引起的系统瘫痪。通常的策略就是拒绝多余的访问，或者让多余的访...",
+      "author": {
+        "nick": "无厘头",
+        "homepage": "/u/wulitou"
+      }
+    },
+    {
+      "id": "1190000019229385",
+      "title": "设计模式之适配器模式",
+      "url": "/a/1190000019229385",
+      "desc": "场景：水果店卖有橘子和苹果，橘子用橘子包装盒，苹果用苹果包装盒，顾客A来买橘子，但是没有橘子包装盒了，则用苹果包装盒暂时替代一下。",
+      "author": {
+        "nick": "y猪",
+        "homepage": "/u/aasadf"
+      }
+    },
+    {
+      "id": "1190000019228254",
+      "title": "leetcode441. Arranging Coins",
+      "url": "/a/1190000019228254",
+      "desc": "用n个硬币搭台阶，要求第k级台阶必须有k个硬币。问n个硬币最多能够搭多少级台阶？如五个硬币最多能够搭两级台阶，8个硬币最多搭三级台阶。",
+      "author": {
+        "nick": "raledong",
+        "homepage": "/u/raledong"
+      }
+    },
+    {
+      "id": "1190000019227678",
+      "title": "【修炼内功】[JVM] 浅谈虚拟机内存模型",
+      "url": "/a/1190000019227678",
+      "desc": "对于C/C++而言，可以轻易地操作任意地址的内存，而对于已申请内存数据的生命周期，又要担负起维护的责任。不知各位在初学C语言时，是否经历过由于内存泄漏导致系统内存不足，又或者因为误操作系统关键内存导致强...",
+      "author": {
+        "nick": "林舍",
+        "homepage": "/u/manerfan"
+      }
+    },
+    {
+      "id": "1190000019227651",
+      "title": "布隆过滤器简介",
+      "url": "/a/1190000019227651",
+      "desc": "最近做爬虫项目过滤重复的url的时候,了解到一个东西,叫布隆过滤器,然后也学习了一下,写下这篇博客记录一下.下面我们将分为几个专题来介绍布隆过滤器:1.什么是布隆过滤器;2.布隆过滤器的使用场景和缺陷;3.布隆过滤...",
+      "author": {
+        "nick": "我想问问天",
+        "homepage": "/u/wxwwt"
+      }
+    },
+    {
+      "id": "1190000019226659",
+      "title": "【LeetCode Easy】021 Merge Two Sorted Lists",
+      "url": "/a/1190000019226659",
+      "desc": "Merge two sorted linked lists and return it as a new list. The new list should be made by splicing together the nodes of the first two lists.Input: 1->2->4, 1->3->4Output: 1->1->2...",
+      "author": {
+        "nick": "Noora",
+        "homepage": "/u/noora_5cb2ecd92531a"
+      }
+    },
+    {
+      "id": "1190000019225714",
+      "title": "算法复杂度分析",
+      "url": "/a/1190000019225714",
+      "desc": "算法（algorithm）是对特定问题求解步骤的一种描述，它是指令的有限序列，其中每一条指令表示一个或多个操作；此外，一个算法通常来说具有以下五个特性：",
+      "author": {
+        "nick": "1s_Kiwen",
+        "homepage": "/u/1s_kiwen"
+      }
+    },
+    {
+      "id": "1190000019225407",
+      "title": "java Threadlocal",
+      "url": "/a/1190000019225407",
+      "desc": "ThreadLocal提高一个线程的局部变量，访问某个线程拥有自己局部变量。 当使用ThreadLocal维护变量时，ThreadLocal为每个使用该变量的线程提供独立的变量副本，所以每一个线程都可以独立地改变自己的副本，而不会...",
+      "author": {
+        "nick": "lijingyulee",
+        "homepage": "/u/lijingyulee"
+      }
+    },
+    {
+      "id": "1190000019224425",
+      "title": "Android Q 沙箱适配多媒体文件总结",
+      "url": "/a/1190000019224425",
+      "desc": "首先是扫描。扫描依然是使用 query MediaStore 的方式。一句话介绍 MediaStore，MediaStore 就是Android系统中的一个多媒体数据库。代码如下图所示，以搜索本地视频为例子：",
+      "author": {
+        "nick": "DesGemini",
+        "homepage": "/u/desgemini"
+      }
+    },
+    {
+      "id": "1190000019224296",
+      "title": "我是如何做到 GitHub star 在 5 天内从 0 飙至 666 的",
+      "url": "/a/1190000019224296",
+      "desc": "上周五我在掘金发表了 《真香警告：即使不用饿了么订餐，也请务必收藏好该库！》，文中主角 Linkage-RecyclerView 原本只是为 《RxJava魔法师》 这个项目的需求而存在的，没想到在各路读者的积极参与下，让一个本...",
+      "author": {
+        "nick": "KunMinX",
+        "homepage": "/u/kunminx"
+      }
+    }
+  ]
+}
