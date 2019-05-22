@@ -1,0 +1,155 @@
+{
+  "watchNum": "52054",
+  "blogs": [
+    {
+      "id": "1190000019259824",
+      "title": "关于springboot里面的事务回滚的简单记录",
+      "url": "/a/1190000019259824",
+      "desc": "今天主要记录一下自己在写数据库存储的时候想到要是出现错误，是不是要回滚数据库的操作呀！然后就百度并实践了一下，得出下面的结论：",
+      "author": {
+        "nick": "周兆东",
+        "homepage": "/u/zhouzhaodong"
+      }
+    },
+    {
+      "id": "1190000019259776",
+      "title": "前百度面试官整理的——Java后端面试题（二）",
+      "url": "/a/1190000019259776",
+      "desc": "可直接通过obj取得对应的对象 如 obj.equels(new Object()); 而这样 obj 对象对后面 new Object 的一个强 引用，只有当 obj 这个引用被释放之后，对象才会被释放掉，这也是我们经常所用到的编码形式。",
+      "author": {
+        "nick": "程序猿",
+        "homepage": "/u/chengxuyuan_5cc54ab2c9d69"
+      }
+    },
+    {
+      "id": "1190000019258798",
+      "title": "业务流程图制作_wps流程图怎么制作",
+      "url": "/a/1190000019258798",
+      "desc": "大多数人在工作中都需要做各种流程设计，日程排期表，头脑风暴，竞争分析，还有很多专业领域的图形图表来有效梳理自己的思路，提高工作效率。流程图的专业程度也直接影响着整个团队的工作效率。好的流程设计可以...",
+      "author": {
+        "nick": "傻白zc",
+        "homepage": "/u/shabaizc"
+      }
+    },
+    {
+      "id": "1190000019257870",
+      "title": "Mac 开发环境配置",
+      "url": "/a/1190000019257870",
+      "desc": "引言 本周收到了新的Mac mini，感谢潘老师。 然后开始了安装开发环境的生涯，相较于Linux和Windows，还是挺简单的。 配置 学习软件 微信、钉钉、印象笔记，少哪个都不行。 这里向大家推荐印象笔记，真的是学习神...",
+      "author": {
+        "nick": "张喜硕",
+        "homepage": "/u/zhangxishuo"
+      }
+    },
+    {
+      "id": "1190000019257679",
+      "title": "Java保存日期到mysql中datetime类型字段的问题",
+      "url": "/a/1190000019257679",
+      "desc": "Java保存日期数据时遇到保存日期不正确的问题处理 首先确认保存的是日期类型，并且保存完之后数据库保存的时间和实际插入的日期不一致 确认使用的是mysql 解决办法 确认mysql的设置show variables like '%time_zo...",
+      "author": {
+        "nick": "kunm",
+        "homepage": "/u/kunm"
+      }
+    },
+    {
+      "id": "1190000019256857",
+      "title": "深度理解JVM-----运行时数据区域",
+      "url": "/a/1190000019256857",
+      "desc": "以下内容部分转载于： CS-Notes 程序计数器（Program Counter Register） 记录正在执行的虚拟机字节码指令的地址（如果正在执行的是本地方法则为空）。 ps：什么是本地方法？ 本地方法是由其他语言（如C、C++ 或...",
+      "author": {
+        "nick": "Hyutao",
+        "homepage": "/u/hyutao"
+      }
+    },
+    {
+      "id": "1190000019256677",
+      "title": "springcloud框架的简单搭建（消费服务基于feign）",
+      "url": "/a/1190000019256677",
+      "desc": "上一篇文章主要介绍了如何搭建一个简单的springcloud框架。不过，我们搭建好框架就是为了消费它使用它，那么这篇文章就来看看如何去消费使用我们之前搭建起来的服务吧！",
+      "author": {
+        "nick": "周兆东",
+        "homepage": "/u/zhouzhaodong"
+      }
+    },
+    {
+      "id": "1190000019256182",
+      "title": "IDEA 常用插件",
+      "url": "/a/1190000019256182",
+      "desc": "帮助 JAVA 开发者提升开发效率的插件工具 插件名称 功能描述 备注 lombok 注解方式实现 Setter 和 Getter 等方法 可以大量减少模板代码的编写工作，代码更整洁 backgroundimage plus 设置IDEA 的背景图片 CodeGla...",
+      "author": {
+        "nick": "疯狂小兵",
+        "homepage": "/u/jingzz"
+      }
+    },
+    {
+      "id": "1190000019255721",
+      "title": "mybatis-spring原理解析",
+      "url": "/a/1190000019255721",
+      "desc": "Mybatis是目前主流的Java ORM框架之一。mybatis-spring包则是为了让Mybatis更好得整合进Spring的衍生产品。本文就从Mybatis和mybatis-spring源码着手，以目前较为流行的用法，探究Mybatis的工作原理以及mybatis-s...",
+      "author": {
+        "nick": "胥垣",
+        "homepage": "/u/yuan_5bf4bbcfd6e0a"
+      }
+    },
+    {
+      "id": "1190000019255396",
+      "title": "基于HTML5转换PDF的电子书阅读插件",
+      "url": "/a/1190000019255396",
+      "desc": "项目一般都是以pdf.js插件阅读PDF文件，但存在阅读体验不理想的情况，所以参考手机上的电子书阅读器，使用国外的链接描述[链接]制作电子书示例。",
+      "author": {
+        "nick": "晕晕大作战",
+        "homepage": "/u/yunyundazuozhan"
+      }
+    },
+    {
+      "id": "1190000019255377",
+      "title": "git操作实战指南",
+      "url": "/a/1190000019255377",
+      "desc": "小白进入公司，进入日常多人开发，git的使用应该是新人要掌握的第一个技能。git是一个分布式数据存储库，分为远程存储和本地存储，本地存储的话，每一台计算机就相当于一个存储数据库，可以记录和存储代码",
+      "author": {
+        "nick": "布尔bl",
+        "homepage": "/u/chenzhuantou"
+      }
+    },
+    {
+      "id": "1190000019254071",
+      "title": "【Spring Boot】Spring Boot——HelloWorld",
+      "url": "/a/1190000019254071",
+      "desc": "Spring Boot——入门 spring boot简化了spring的开发，是J2EE一站式解决方案。 Spring Boot 的优缺点 优点 快速创建独立运行的服务，与主流框架集成。 使用嵌入式Serverlet容器，应用无需达成war包。 starters自动...",
+      "author": {
+        "nick": "SnaiLiu",
+        "homepage": "/u/snailiu"
+      }
+    },
+    {
+      "id": "1190000019253998",
+      "title": "JAVA面试题(33)",
+      "url": "/a/1190000019253998",
+      "desc": "本文首发于cartoon的博客    转载请注明出处:[链接] 说一下数据库的事务隔离 事务是一系列操作，结果只有两种 操作完成 操作异常，回滚造成全部操作被撤销 特性 原子性。系统将事务作为一个整体。 一致性。事务执...",
+      "author": {
+        "nick": "cartoon",
+        "homepage": "/u/cartoon_5cce2e0fb8fae"
+      }
+    },
+    {
+      "id": "1190000019252939",
+      "title": "简单的工厂模式",
+      "url": "/a/1190000019252939",
+      "desc": "简单工厂的问题就在于swich case（或者if else)。每当新增一种产品时，你都需要去维护工厂中的判断语句，造成该工厂类不断增长，各种判断挤在一起，给扩展和维护带来麻烦。产品和工厂没有实现完全解耦，绑定在一...",
+      "author": {
+        "nick": "回不去的童年",
+        "homepage": "/u/huibuqudetongnian"
+      }
+    },
+    {
+      "id": "1190000019252929",
+      "title": "Intellij Idea 中进行 Mybatis逆向工程",
+      "url": "/a/1190000019252929",
+      "desc": "Mybatis有个实用的功能就是逆向工程，能根据表结构反向生成实体类，这样能避免手工生成出错。市面上的教程大多都很老了，大部分都是针对mysql5的，以下为我执行mysql8时的经验。",
+      "author": {
+        "nick": "Rootrl",
+        "homepage": "/u/rootrl"
+      }
+    }
+  ]
+}
