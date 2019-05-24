@@ -1,0 +1,155 @@
+{
+  "watchNum": "52297",
+  "blogs": [
+    {
+      "id": "1190000019280725",
+      "title": "JDK1.8的HashMap部分源码解析",
+      "url": "/a/1190000019280725",
+      "desc": "HashMap主要来存放键值对。JDK1.8之前使用数组+链表的形式，JDK1.8之后进行了改变，使用了数组+链表或者红黑树的形式。",
+      "author": {
+        "nick": "SHerlockTHao",
+        "homepage": "/u/sherlockthao_5ce75fc7a41d8"
+      }
+    },
+    {
+      "id": "1190000019280577",
+      "title": "Android线程池封装库",
+      "url": "/a/1190000019280577",
+      "desc": "目录介绍 1.遇到的问题和需求 1.1 遇到的问题有哪些 1.2 遇到的需求 1.3 多线程通过实现Runnable弊端 1.4 为什么要用线程池 2.封装库具有的功能 2.1 常用的功能 3.封装库的具体使用 3.1 一键集成 3.2 在applicati...",
+      "author": {
+        "nick": "潇湘剑雨",
+        "homepage": "/u/xiangjianyu"
+      }
+    },
+    {
+      "id": "1190000019278753",
+      "title": "Android云通信IM系列(1)-集成与配置",
+      "url": "/a/1190000019278753",
+      "desc": "云通信 IM（Instant Messaging）承载亿级 QQ 用户即时通讯技术，数十年技术积累，腾讯云为您提供超乎寻常即时通讯聊天服务。针对开发者的不同阶段需求及不同场景，云通信 IM 提供了一系列解决方案，包括： Androi...",
+      "author": {
+        "nick": "秦子帅",
+        "homepage": "/u/huozhemingtian"
+      }
+    },
+    {
+      "id": "1190000019278016",
+      "title": "策略模式",
+      "url": "/a/1190000019278016",
+      "desc": "《希伯来圣经》中有这样一个故事，说的是人类产生不同语言的起源。在这个故事中，一群只说一种语言的人在“大洪水”之后从东方来到了示拿地区，并决定在这修建一座城市和一座“能够通天的”高塔；上帝见此情形就把他...",
+      "author": {
+        "nick": "对影成三人",
+        "homepage": "/u/duiyingchengsanren_5cd95d6ecb647"
+      }
+    },
+    {
+      "id": "1190000019276437",
+      "title": "面试官:“谈谈Spring中都用到了那些设计模式?”。",
+      "url": "/a/1190000019276437",
+      "desc": "我自己总结的Java学习的系统知识点以及面试问题，已经开源，目前已经 41k+ Star。会一直完善下去，欢迎建议和指导，同时也欢迎Star： [链接]",
+      "author": {
+        "nick": "Snailclimb",
+        "homepage": "/u/snailclimb"
+      }
+    },
+    {
+      "id": "1190000019276241",
+      "title": "3分钟干货之数据库事务特性",
+      "url": "/a/1190000019276241",
+      "desc": "数据库的特性是面试时考察频率非常高的题目，共4个特性：△原子性：是指事务由原子的操作序列组成，所有操作要么全部成功，要么全部失败回滚。",
+      "author": {
+        "nick": "巅峰大词典",
+        "homepage": "/u/lingfeng23"
+      }
+    },
+    {
+      "id": "1190000019275933",
+      "title": "Java开发环境不再需要配置classpath！",
+      "url": "/a/1190000019275933",
+      "desc": "之前发布了关于java开发环境配置的文章，经过与网友的交流，我了解到在jdk1.5以后，java开发环境配置的时候，确实不需要对classpath进行配置，但市面上的书籍，以及一些博客、还是老一套，继续推荐配置classpath...",
+      "author": {
+        "nick": "BWH_Steven",
+        "homepage": "/u/bwh_steven"
+      }
+    },
+    {
+      "id": "1190000019225557",
+      "title": "11 种在大多数教程中找不到的JavaScript技巧",
+      "url": "/a/1190000019225557",
+      "desc": "当我开始学习JavaScript时，我把我在别人的代码、code challenge网站以及我使用的教程之外的任何地方发现的每一个节省时间的技巧都列了一个清单。",
+      "author": {
+        "nick": "前端小智",
+        "homepage": "/u/minnanitkong"
+      }
+    },
+    {
+      "id": "1190000019273553",
+      "title": "windows系统下skywalking的安装和配置",
+      "url": "/a/1190000019273553",
+      "desc": "可以去http://skywalking.apache.org/downloads/下载最新版本的skywalking压缩包，然后解压。",
+      "author": {
+        "nick": "飘在云层的念想",
+        "homepage": "/u/piaozaiyuncengdenianxiang"
+      }
+    },
+    {
+      "id": "1190000019273239",
+      "title": "springboot2.x集成swagger",
+      "url": "/a/1190000019273239",
+      "desc": "如果不想将所有的接口都通过swagger管理的话，可以将RequestHandlerSelectors.any()修改为RequestHandlerSelectors.basePackage()",
+      "author": {
+        "nick": "荔枝",
+        "homepage": "/u/fangdangbudetuzi"
+      }
+    },
+    {
+      "id": "1190000019272068",
+      "title": "了解多线程！",
+      "url": "/a/1190000019272068",
+      "desc": "什么是多线程？在java语言里最大的特点是支持多线程的开发（也是为数不多支持多线程的编程语言），所以在整个的Java技术的学习里面，如果你不能够对多线程的概念有一个全面并且细致的了解，则在日后进行一些项目...",
+      "author": {
+        "nick": "开发者学习指南",
+        "homepage": "/u/aliyundaxuexiaoliu"
+      }
+    },
+    {
+      "id": "1190000019271245",
+      "title": "今天是 Java 诞生日，Java 24 岁了！",
+      "url": "/a/1190000019271245",
+      "desc": "今天是 Java 诞生日，Java 今年 24 岁了，比栈长还年轻。。还有得搞，别慌！作为一名Java语言的学习者，对Java的起源和发展有个大概的了解应是必要的。",
+      "author": {
+        "nick": "Java技术栈",
+        "homepage": "/u/javastack"
+      }
+    },
+    {
+      "id": "1190000019268166",
+      "title": "CIO职位可能已是个技术化石，CTO和CDO了解一下？",
+      "url": "/a/1190000019268166",
+      "desc": "最近猎头们可能很活跃、很迫切，因为证券公司们打开了高管职位大门，都在找首席信息官（Chief Information Officer - CIO）。这波操作意味着什么？对猎头公司们，自然是必须逮住这个机会获得丰厚的佣金；对更多的...",
+      "author": {
+        "nick": "FinChat",
+        "homepage": "/u/mayun_5a31ee0f6bca6"
+      }
+    },
+    {
+      "id": "1190000019267250",
+      "title": "FastDFS Docker化部署 以及 Java SpringMVC实践",
+      "url": "/a/1190000019267250",
+      "desc": "FastDFS是一个轻量级分布式文件系统。可以对文件进行管理，功能包括：文件存储、文件同步、文件访问（文件上传、文件下载）等，而且可以集群部署，有高可用保障。相应的竞品有Ceph、TFS等。相比而言FastDFS对硬件...",
+      "author": {
+        "nick": "Rootrl",
+        "homepage": "/u/rootrl"
+      }
+    },
+    {
+      "id": "1190000019266450",
+      "title": "JAVA面试题(34)",
+      "url": "/a/1190000019266450",
+      "desc": "本文首发于cartoon的博客      转载请注明出处:[链接] MySQL问题排查都有哪些手段？ 参考博客:[链接] 查看事务级别 查看数据当前状态 查看数据库连接状态 查看锁状态 查看数据库客户端连接统计 查询当前执行SQL ...",
+      "author": {
+        "nick": "cartoon",
+        "homepage": "/u/cartoon_5cce2e0fb8fae"
+      }
+    }
+  ]
+}
