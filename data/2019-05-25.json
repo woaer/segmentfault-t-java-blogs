@@ -1,0 +1,155 @@
+{
+  "watchNum": "52422",
+  "blogs": [
+    {
+      "id": "1190000019291010",
+      "title": "最简单的springboot2整合redis 10行代码 完成订阅和发布",
+      "url": "/a/1190000019291010",
+      "desc": "pom： {代码...} 代码： {代码...} 测试类： {代码...}",
+      "author": {
+        "nick": "coder94",
+        "homepage": "/u/qinkaiyuan"
+      }
+    },
+    {
+      "id": "1190000019290953",
+      "title": "Java 编译器 javac 笔记：javac API、注解处理 API 与 Lombok 原理",
+      "url": "/a/1190000019290953",
+      "desc": "javac 是 Java 代码的编译器 [openjdk, oracle ]，初学 Java 的时候就应该接触过。本笔记整理一些 javac 相关的高级用法。",
+      "author": {
+        "nick": "nullwy",
+        "homepage": "/u/nullwy"
+      }
+    },
+    {
+      "id": "1190000019290840",
+      "title": " Java 运行时获取方法参数名",
+      "url": "/a/1190000019290840",
+      "desc": "本文整理 Java 运行时获取方法参数名的两种方法，Java 8 的最新的方法和 Java 8 之前的方法。",
+      "author": {
+        "nick": "nullwy",
+        "homepage": "/u/nullwy"
+      }
+    },
+    {
+      "id": "1190000019290483",
+      "title": "小说搜索站快速搭建：1.架构图",
+      "url": "/a/1190000019290483",
+      "desc": "技术栈 模板 thymeleaf 框架 Spring Boot 2 数据库 Mongodb 缓存 Redis 搜索 聚合源站搜索 框架图 仅展示交流使用：免费小说阅读网",
+      "author": {
+        "nick": "大肠杆菌",
+        "homepage": "/u/dachangganjun_5ce8bf8be1e17"
+      }
+    },
+    {
+      "id": "1190000019289719",
+      "title": "Java基础语法知识你真的都会吗？",
+      "url": "/a/1190000019289719",
+      "desc": "在我们开始讲解程序之前，命名规范是我们不得不提的一个话题，虽说命名本应该是自由的，但是仍然有一定的“潜规则”，通过你对命名的书写，别人一眼就能看出你是不是一个“行家”。我们先来看一下有哪些规则。",
+      "author": {
+        "nick": "BWH_Steven",
+        "homepage": "/u/bwh_steven"
+      }
+    },
+    {
+      "id": "1190000019289312",
+      "title": "【占坑】【计算机网络】用Socket模拟简单的HTTP服务器与客户端",
+      "url": "/a/1190000019289312",
+      "desc": "需要有一个地方来存post过来的数据，get需要的数据也得有地方去找 首先想到的肯定是搞个数据库，但因为组里不划水的人都不会数据库，所以这条路基本走不通",
+      "author": {
+        "nick": "Noora",
+        "homepage": "/u/noora_5cb2ecd92531a"
+      }
+    },
+    {
+      "id": "1190000019289079",
+      "title": "Effective Java 第三版 全文翻译",
+      "url": "/a/1190000019289079",
+      "desc": "本章涉及创建和销毁对象，包括何时以及如何创建它们，何时以及如何避免创建它们，如何确保它们被及时销毁，以及如何管理在销毁之前必须进行的清理操作。",
+      "author": {
+        "nick": "coloured_glaze",
+        "homepage": "/u/coloured_glaze"
+      }
+    },
+    {
+      "id": "1190000019288988",
+      "title": "Java 中的线程安全容器",
+      "url": "/a/1190000019288988",
+      "desc": "常用的一些容器例如 ArrayList、HashMap、都不是线程安全的，最简单的将这些容器变为线程安全的方式，是给这些容器所有的方法都加上 synchronized 关键字。",
+      "author": {
+        "nick": "roseduan",
+        "homepage": "/u/roseduan"
+      }
+    },
+    {
+      "id": "1190000019287287",
+      "title": "java 多表查询",
+      "url": "/a/1190000019287287",
+      "desc": "之前在项目中经常使用单表查询，在涉及到多个实体间查询时，往往直接用云智的综合查询库，怎么查的，一概不知；",
+      "author": {
+        "nick": "潘佳琦",
+        "homepage": "/u/panjia_5b3b83f7743e9"
+      }
+    },
+    {
+      "id": "1190000019286273",
+      "title": "微服务的拆分与组件",
+      "url": "/a/1190000019286273",
+      "desc": "目录 一、微服务 1、服务化拆分的两种姿势 2、服务化拆分的前置条件 二、微服务组件 1、服务描述 2、注册中心 3、服务框架 4、服务监控 5、服务追踪 6、服务治理 微服务 微服务架构是一种将单应用程序作为一套微...",
+      "author": {
+        "nick": "程序猿",
+        "homepage": "/u/chengxuyuan_5cc54ab2c9d69"
+      }
+    },
+    {
+      "id": "1190000019286083",
+      "title": "Spring-bean的几种循环依赖方式",
+      "url": "/a/1190000019286083",
+      "desc": "循环依赖其实就是循环引用，也就是两个或则两个以上的bean互相持有对方，最终形成闭环。比如A依赖于B，B依赖于C，C又依赖于A。如下图：",
+      "author": {
+        "nick": "程序猿",
+        "homepage": "/u/chengxuyuan_5cc54ab2c9d69"
+      }
+    },
+    {
+      "id": "1190000019285497",
+      "title": "HystrixFeign的详细构建过程及自定义扩展功能",
+      "url": "/a/1190000019285497",
+      "desc": "spring-cloud-openfeign-core-2.1.1.RELEASE.jar 中 HystrixFeign 的详细构建过程：@EnableFeignClients -> FeignClientsRegistrar 扫描 @Feign注解的类 -> FeignClientFactoryBean通过Targeter生产FeignCl...",
+      "author": {
+        "nick": "逸飞兮",
+        "homepage": "/u/lw5946"
+      }
+    },
+    {
+      "id": "1190000019284784",
+      "title": "踩坑历程 >> InputStream.read(byte[]) 造成死循环",
+      "url": "/a/1190000019284784",
+      "desc": "在Java中流的一系列操作，可能会感到既熟悉又陌生。熟悉是因为很基础且出镜率很高，陌生对大多数程序员平时工作中很少写相关的代码。",
+      "author": {
+        "nick": "阅历笔记",
+        "homepage": "/u/yuelicn"
+      }
+    },
+    {
+      "id": "1190000019284488",
+      "title": "【java】关于多态和转型的一点思考和总结",
+      "url": "/a/1190000019284488",
+      "desc": "对象转型分为两种，父类对象的引用或者叫基类对象的引用指向子类对象，这就是向上转型；向下转型则相反。个人理解：转型使用的场景是基于继承的，是有层次的，即子类和父类之间的类型转换。",
+      "author": {
+        "nick": "Ressel",
+        "homepage": "/u/ressel"
+      }
+    },
+    {
+      "id": "1190000019284355",
+      "title": "spring cloud consul config小demo遇到的问题",
+      "url": "/a/1190000019284355",
+      "desc": "正好我也想看看新东西，天天解决业务问题。。。太没有激情了。。。而且我们大多应用都还是springmvc，springboot的应用都很少，只有几个，唉，我也是深陷业务问题中",
+      "author": {
+        "nick": "imango",
+        "homepage": "/u/imango"
+      }
+    }
+  ]
+}
