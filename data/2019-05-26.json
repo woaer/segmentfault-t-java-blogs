@@ -1,0 +1,155 @@
+{
+  "watchNum": "52507",
+  "blogs": [
+    {
+      "id": "1190000019296548",
+      "title": "Java同步机制的底层实现",
+      "url": "/a/1190000019296548",
+      "desc": "在多线程编程中我们会遇到很多需要使用线程同步机制去解决的并发问题，而这些同步机制就是多线程编程中影响正确性和运行效率的重中之重。这不禁让我感到好奇，这些同步机制是如何实现的呢？好奇心是进步的源泉，...",
+      "author": {
+        "nick": "兜里有辣条",
+        "homepage": "/u/juxingzhutou"
+      }
+    },
+    {
+      "id": "1190000019295442",
+      "title": "方法和数组就是这么简单！",
+      "url": "/a/1190000019295442",
+      "desc": "第三章 方法和数组 3.1 概述 还记得我们的HelloWorld例程吗？我们现在对于输出语句应该已经很熟悉了，解释： System 是系统类。 out 是标准输出对象 println() 是一个方法。 如果我们想要在一个类中实现很多功能...",
+      "author": {
+        "nick": "BWH_Steven",
+        "homepage": "/u/bwh_steven"
+      }
+    },
+    {
+      "id": "1190000019294485",
+      "title": "JDK1.8下ConcurrentHashMap的一些理解(一)",
+      "url": "/a/1190000019294485",
+      "desc": "在JDK1.8里面，ConcurrentHashMap在put方法里面已经将分段锁移除了，转而是CAS锁和synchronized",
+      "author": {
+        "nick": "Somersames",
+        "homepage": "/u/somersame"
+      }
+    },
+    {
+      "id": "1190000019293731",
+      "title": "如何用Java代码在SAP Marketing Cloud里创建contact数据",
+      "url": "/a/1190000019293731",
+      "desc": "我们可以使用SAP Marketing Cloud提供的Contact create OData API在第三方应用里创建Contact主数据.",
+      "author": {
+        "nick": "JerryWangSAP",
+        "homepage": "/u/jerrywangsap"
+      }
+    },
+    {
+      "id": "1190000019293618",
+      "title": "java 中 IO 操作总结",
+      "url": "/a/1190000019293618",
+      "desc": "代码 java IO 操作分析 {代码...} 声明 原创手敲，by 拉丁小毛",
+      "author": {
+        "nick": "拉丁小毛",
+        "homepage": "/u/siben"
+      }
+    },
+    {
+      "id": "1190000019293468",
+      "title": "老哥你真的知道ArrayList#sublist的正确用法么",
+      "url": "/a/1190000019293468",
+      "desc": "我们有这么一个场景，给你一个列表，可以动态的新增，但是最终要求列表升序，要求长度小于20，可以怎么做？",
+      "author": {
+        "nick": "小灰灰Blog",
+        "homepage": "/u/xiaohuihuiblog"
+      }
+    },
+    {
+      "id": "1190000019292730",
+      "title": "java.lang.ClassNotFoundException 问题与解决",
+      "url": "/a/1190000019292730",
+      "desc": "依据[1]，run as == > maven build == > 在goals中输入clean test（即使用mvn clean test命令），在打印的日志中有一句如下所示[WARNING] 读取E:JarRepositorycomstumbleuponasync1.4.1async-1.4.1.jar时出...",
+      "author": {
+        "nick": "奇迹之诱惑",
+        "homepage": "/u/qijizhiyouhuo"
+      }
+    },
+    {
+      "id": "1190000019292537",
+      "title": "Java Reactive Web设计与实现",
+      "url": "/a/1190000019292537",
+      "desc": "注： 本文是由读者观看小马哥公开课视频过程中的笔记整理而成。更多Spring Framework文章可参看笔者个人github: spring-framework-lesson 。",
+      "author": {
+        "nick": "landy8530",
+        "homepage": "/u/landy8530"
+      }
+    },
+    {
+      "id": "1190000019291565",
+      "title": "Spring注解专题系类（二）",
+      "url": "/a/1190000019291565",
+      "desc": "这是Spring注解专题系类文章，本系类文章适合Spring入门者或者原理入门者，小编会在本系类文章下进行企业级应用实战讲解以及spring源码跟进。本文来自公众号：B一下爪哇",
+      "author": {
+        "nick": "evinhope",
+        "homepage": "/u/evinhope"
+      }
+    },
+    {
+      "id": "1190000019291520",
+      "title": "Spring Boot Aop",
+      "url": "/a/1190000019291520",
+      "desc": "面向切面的程序设计（Aspect-oriented programming，AOP，又译作面向方面的程序设计、剖面导向程序设计）是计算机科学中的一种程序设计思想，旨在将横切关注点与业务主体进行进一步分离，以提高程序代码的模块化...",
+      "author": {
+        "nick": "leone",
+        "homepage": "/u/janlle"
+      }
+    },
+    {
+      "id": "1190000019291010",
+      "title": "最简单的springboot2整合redis 10行代码 完成订阅和发布",
+      "url": "/a/1190000019291010",
+      "desc": "pom： {代码...} 代码： {代码...} 测试类： {代码...}",
+      "author": {
+        "nick": "coder94",
+        "homepage": "/u/qinkaiyuan"
+      }
+    },
+    {
+      "id": "1190000019290953",
+      "title": "Java 编译器 javac 笔记：javac API、注解处理 API 与 Lombok 原理",
+      "url": "/a/1190000019290953",
+      "desc": "javac 是 Java 代码的编译器 [openjdk, oracle ]，初学 Java 的时候就应该接触过。本笔记整理一些 javac 相关的高级用法。",
+      "author": {
+        "nick": "nullwy",
+        "homepage": "/u/nullwy"
+      }
+    },
+    {
+      "id": "1190000019290840",
+      "title": " Java 运行时获取方法参数名",
+      "url": "/a/1190000019290840",
+      "desc": "本文整理 Java 运行时获取方法参数名的两种方法，Java 8 的最新的方法和 Java 8 之前的方法。",
+      "author": {
+        "nick": "nullwy",
+        "homepage": "/u/nullwy"
+      }
+    },
+    {
+      "id": "1190000019290483",
+      "title": "小说搜索站快速搭建：1.架构图",
+      "url": "/a/1190000019290483",
+      "desc": "技术栈 模板 thymeleaf 框架 Spring Boot 2 数据库 Mongodb 缓存 Redis 搜索 聚合源站搜索 框架图 仅展示交流使用：免费小说阅读网",
+      "author": {
+        "nick": "大肠杆菌",
+        "homepage": "/u/dachangganjun_5ce8bf8be1e17"
+      }
+    },
+    {
+      "id": "1190000019289719",
+      "title": "Java基础语法知识你真的都会吗？",
+      "url": "/a/1190000019289719",
+      "desc": "在我们开始讲解程序之前，命名规范是我们不得不提的一个话题，虽说命名本应该是自由的，但是仍然有一定的“潜规则”，通过你对命名的书写，别人一眼就能看出你是不是一个“行家”。我们先来看一下有哪些规则。",
+      "author": {
+        "nick": "BWH_Steven",
+        "homepage": "/u/bwh_steven"
+      }
+    }
+  ]
+}
