@@ -1,0 +1,155 @@
+{
+  "watchNum": "52718",
+  "blogs": [
+    {
+      "id": "1190000019315628",
+      "title": "JAVA基础整理（七）---使用迭代器对容器进行遍历",
+      "url": "/a/1190000019315628",
+      "desc": "容器遍历之迭代器的使用 一个简单的main函数demo来记录下： {代码...}",
+      "author": {
+        "nick": "彩笔梳子",
+        "homepage": "/u/caibishuzi"
+      }
+    },
+    {
+      "id": "1190000019311595",
+      "title": "这一次，我连 web.xml 都不要了，纯 Java 搭建 SSM 环境!",
+      "url": "/a/1190000019311595",
+      "desc": "在 Spring Boot 项目中，正常来说是不存在 XML 配置，这是因为 Spring Boot 不推荐使用 XML ，注意，并非不支持，Spring Boot 推荐开发者使用 Java 配置来搭建框架，Spring Boot 中，大量的自动化配置都是通过 Ja...",
+      "author": {
+        "nick": "江南一点雨",
+        "homepage": "/u/lenve"
+      }
+    },
+    {
+      "id": "1190000019310334",
+      "title": "JAVA面试题(39)",
+      "url": "/a/1190000019310334",
+      "desc": "怎么判断对象是否可以被回收 根搜索法 判断是否有finalize方法或是否进行过finalize 满足上面判断条件直接回收",
+      "author": {
+        "nick": "cartoon",
+        "homepage": "/u/cartoon_5cce2e0fb8fae"
+      }
+    },
+    {
+      "id": "1190000019310314",
+      "title": "JAVA面试题(38)",
+      "url": "/a/1190000019310314",
+      "desc": "本文首发于cartoon的博客    转载请注明出处:[链接] 说一下堆栈的区别？ 存放数据类型的不同 栈存放基本类型变量和对象的引用变量 堆存放通过new关键字创建的对象和数组 内存回收的不同 栈中数据超过作用域则被释...",
+      "author": {
+        "nick": "cartoon",
+        "homepage": "/u/cartoon_5cce2e0fb8fae"
+      }
+    },
+    {
+      "id": "1190000019310293",
+      "title": "JAVA面试题(37)",
+      "url": "/a/1190000019310293",
+      "desc": "本文首发于cartoon的博客    转载请注明出处:[链接] Redis 分布式锁有什么缺陷 参考博客:[链接] 主从切换可能丢失锁信息 缓存易失性 Redis 淘汰策略有哪些 参考博客:[链接] noevicition 内存达到阈值时申请内存报...",
+      "author": {
+        "nick": "cartoon",
+        "homepage": "/u/cartoon_5cce2e0fb8fae"
+      }
+    },
+    {
+      "id": "1190000019310276",
+      "title": "JAVA面试题(36)",
+      "url": "/a/1190000019310276",
+      "desc": "本文首发于cartoon的博客    转载请注明出处:[链接] Jedis 和 Redisson 有哪些区别 参考博客 [链接] Jedis 优点 轻量简洁 支持连接池 支持pipelining、事务、LUA Scripting、Redis Sentinel、Redis Cluster 缺点 ...",
+      "author": {
+        "nick": "cartoon",
+        "homepage": "/u/cartoon_5cce2e0fb8fae"
+      }
+    },
+    {
+      "id": "1190000019309532",
+      "title": "作为一技术人员，面试前都需要做哪些准备？",
+      "url": "/a/1190000019309532",
+      "desc": "面试前对目标公司，岗位要求及面试流程有所了解，这样才可以有针对性的突破，我们来看以下几个方面，相信可以帮助大家解决大部分求职迷茫的问题。",
+      "author": {
+        "nick": "Coder编程",
+        "homepage": "/u/520coder"
+      }
+    },
+    {
+      "id": "1190000019309343",
+      "title": "3分钟干货之Java性能优化的几个细节",
+      "url": "/a/1190000019309343",
+      "desc": "△尽量使用局部变量调用方法时传递的参数以及在调用中创建的临时变量都保存在栈（Stack）中，速度较快；其他变量，如静态变量、实例变量等，都在堆（Heap）中创建，速度较慢。",
+      "author": {
+        "nick": "巅峰大词典",
+        "homepage": "/u/lingfeng23"
+      }
+    },
+    {
+      "id": "1190000019309163",
+      "title": "54个JAVA官方文档重要术语",
+      "url": "/a/1190000019309163",
+      "desc": "近期在阅读JAVA最新几版的官方文档过程中发现不少术语不清之处,特发此文总结.以下的术语大量在官方文档中直接出现,且直接如基本词语一样使用,不理解它们会严重影响阅读.",
+      "author": {
+        "nick": "山人",
+        "homepage": "/u/cugb"
+      }
+    },
+    {
+      "id": "1190000019308378",
+      "title": "面试官：为什么 Java 中只有值传递？",
+      "url": "/a/1190000019308378",
+      "desc": "首先回顾一下在程序设计语言中有关将参数传递给方法（或函数）的一些专业术语。按值调用(call by value)表示方法接收的是调用者提供的值，而按引用调用（call by reference)表示方法接收的是调用者提供的变量地址...",
+      "author": {
+        "nick": "连理枝",
+        "homepage": "/u/caotingingandbise"
+      }
+    },
+    {
+      "id": "1190000019308319",
+      "title": "大白带你侃JAVA——封装的概述及好处",
+      "url": "/a/1190000019308319",
+      "desc": "简单的来说就是我将不想给别人看的数据，以及别人无需知道的内部细节， “锁起来” ，我们只留下一些入口，使其与外部发生联系。",
+      "author": {
+        "nick": "BWH_Steven",
+        "homepage": "/u/bwh_steven"
+      }
+    },
+    {
+      "id": "1190000019307961",
+      "title": "面试官：“你重写过 hashcode 和 equals 么，为什么重写equals时必须重写hashCode方法？”",
+      "url": "/a/1190000019307961",
+      "desc": "hashCode() 的作用是获取哈希码，也称为散列码；它实际上是返回一个int整数。这个散列码的作用是确定该对象在散列表中的索引位置，如果有看我的上一篇文章 什么是散列表，那么这里的散列码就相当于上文中根据首字...",
+      "author": {
+        "nick": "连理枝",
+        "homepage": "/u/caotingingandbise"
+      }
+    },
+    {
+      "id": "1190000019307851",
+      "title": "简述 ZAB 协议 以及 zookeeper",
+      "url": "/a/1190000019307851",
+      "desc": "zookeeper 它为分布式应用提供了高效可靠的分布式协调服务。 实现依赖于 ZAB协议，实现了主备模式架构用来保持集群中数据的一致性 Zookeeper 将所有数据存放在 内存中 应用场景：更适合读操作为主 角色：leader f...",
+      "author": {
+        "nick": "Johnsontao",
+        "homepage": "/u/johnsontao"
+      }
+    },
+    {
+      "id": "1190000019307249",
+      "title": "大牛整理的ZooKeeper笔记",
+      "url": "/a/1190000019307249",
+      "desc": "目录 一、ZooKeeper概述 二、ZooKeeper数据模型 三、ZooKeeper服务中操作 四、Watch触发器 五、ZooKeeper应用举例 一、ZooKeeper概述 ZooKeeper是一种为分布式应用所设计的高可用、高性能且一致的开源协调服务，...",
+      "author": {
+        "nick": "程序猿",
+        "homepage": "/u/chengxuyuan_5cc54ab2c9d69"
+      }
+    },
+    {
+      "id": "1190000019306920",
+      "title": "初探Java类型擦除",
+      "url": "/a/1190000019306920",
+      "desc": "上面的判断结果是true。代表了两个传入了不同泛型的List最终都编译成了ArrayList，成为了同一种类型，原来的泛型参数String和Integer被擦除掉了。这就是类型擦除的一个典型的例子。",
+      "author": {
+        "nick": "detectiveHLH",
+        "homepage": "/u/detectivehlh"
+      }
+    }
+  ]
+}
