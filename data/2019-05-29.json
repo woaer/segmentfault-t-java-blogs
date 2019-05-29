@@ -1,0 +1,155 @@
+{
+  "watchNum": "52852",
+  "blogs": [
+    {
+      "id": "1190000019328339",
+      "title": "高性能Java代码的最佳实践",
+      "url": "/a/1190000019328339",
+      "desc": "在这篇文章中，我们将讨论几个有助于提升Java应用程序性能的方法。我们首先将介绍如何定义可度量的性能指标，然后看看有哪些工具可以用来度量和监控应用程序性能，以及确定性能瓶颈。",
+      "author": {
+        "nick": "程序猿",
+        "homepage": "/u/chengxuyuan_5cc54ab2c9d69"
+      }
+    },
+    {
+      "id": "1190000019327597",
+      "title": "Activity、Window、View三者关系",
+      "url": "/a/1190000019327597",
+      "desc": "目录介绍 01.Window，View，子Window 02.什么是Activity 03.什么是Window 04.什么是DecorView 05.什么是View 06.关系结构图 07.Window创建过程 08.创建机制分析 8.1 Activity实例的创建 8.2 Activity中Window的创...",
+      "author": {
+        "nick": "潇湘剑雨",
+        "homepage": "/u/xiangjianyu"
+      }
+    },
+    {
+      "id": "1190000019327162",
+      "title": "不，你不了解Spring实例化bean的时候做了什么",
+      "url": "/a/1190000019327162",
+      "desc": "Spring加载bean的时候构造函数什么时候调用、@PostConstruct什么时候调用、实现了BeanPostProcessor接口的bean中的postProcessAfterInitialization和postProcessBeforeInitialization什么时候调用？你是否清楚呢...",
+      "author": {
+        "nick": "稀饭",
+        "homepage": "/u/xifan_592e9c211a6af"
+      }
+    },
+    {
+      "id": "1190000019326655",
+      "title": "Java SDK 并发包全面总结",
+      "url": "/a/1190000019326655",
+      "desc": "Java 并发包中的 Lock 和 Condition 主要解决的是线程的互斥和同步问题，这两者的配合使用，相当于 synchronized、wait()、notify() 的使用。",
+      "author": {
+        "nick": "roseduan",
+        "homepage": "/u/roseduan"
+      }
+    },
+    {
+      "id": "1190000019326016",
+      "title": "ArrayList源码解读(一)",
+      "url": "/a/1190000019326016",
+      "desc": "ArrayList源码解读 属性 {代码...} 构造方法 设置初始空间大小的构造方法 {代码...} 无参构造方法 {代码...} 集合子类参数的构造方法 {代码...} 基础方法 trimToSize elementData长度修剪到实际存储数据长度 {代...",
+      "author": {
+        "nick": "刘启威",
+        "homepage": "/u/liuqiwei"
+      }
+    },
+    {
+      "id": "1190000019321936",
+      "title": "java 多线程 wait，notify",
+      "url": "/a/1190000019321936",
+      "desc": "因为涉及到对象锁，Wait、Notify一定要在synchronized里面进行使用。 Wait必须暂定当前正在执行的线程,并释放资源锁,让其他线程可以有机会运行 notify/notifyall: 唤醒线程 共享变量 {代码...} 线程1（生产者） {...",
+      "author": {
+        "nick": "lijingyulee",
+        "homepage": "/u/lijingyulee"
+      }
+    },
+    {
+      "id": "1190000019321813",
+      "title": "关于继承的那些事！",
+      "url": "/a/1190000019321813",
+      "desc": "其实在我们面向对象这一阶段的学习中，我们就是围绕Java的三大特性（封装、继承、多态）来讲解的，在上一掌内容中我们讲解了一部分封装的有关知识，今天我们来重点学习继承的学习。",
+      "author": {
+        "nick": "BWH_Steven",
+        "homepage": "/u/bwh_steven"
+      }
+    },
+    {
+      "id": "1190000019321571",
+      "title": "多叉树全路径遍历",
+      "url": "/a/1190000019321571",
+      "desc": "本文为原创作品，首发于微信公众号：【坂本先生】，如需转载请在文首明显位置标明“转载于微信公众号：【坂本先生】”，否则追究其法律责任。",
+      "author": {
+        "nick": "Taoey",
+        "homepage": "/u/taoey"
+      }
+    },
+    {
+      "id": "1190000019321190",
+      "title": "3分钟干货之如何提高数据库SQL语句执行速度？（上）",
+      "url": "/a/1190000019321190",
+      "desc": "技巧2 明知只有一条查询结果，那请使用 “LIMIT 1”“LIMIT 1”可以避免全表扫描，找到对应结果就不会再继续扫描了。",
+      "author": {
+        "nick": "巅峰大词典",
+        "homepage": "/u/lingfeng23"
+      }
+    },
+    {
+      "id": "1190000019319379",
+      "title": "Java基础——过滤器和监听器",
+      "url": "/a/1190000019319379",
+      "desc": "什么是过滤器？Servlet过滤器和Servlet十分相似，但它具有拦截客户端请求的功能，Servlet过滤器可以改变请求中的内容，来满足实际开发中的需要。对于开发人员而言，过滤器实际上就是在Web应用服务器上的Web组件，...",
+      "author": {
+        "nick": "开发者学习指南",
+        "homepage": "/u/aliyundaxuexiaoliu"
+      }
+    },
+    {
+      "id": "1190000019319050",
+      "title": "Java中线程池原理以及参数说明",
+      "url": "/a/1190000019319050",
+      "desc": "Java开发的同学肯定使用过多线程，使用多线程那就肯定会用到线程池。而且个人认为线程池也是各大互联网公司在面试的时候必问的一个知识点。因此作为开发人员，必须了解线程池的原理以及具体参数的含义。",
+      "author": {
+        "nick": "君莫笑",
+        "homepage": "/u/jmxiao"
+      }
+    },
+    {
+      "id": "1190000019317777",
+      "title": "Java开发就业形势和面试技巧",
+      "url": "/a/1190000019317777",
+      "desc": "如果从软件编程的就业来讲，如果你现在不懂架构，那么找到一份好工作还是比较难的，但是这里面有两点需要注意：",
+      "author": {
+        "nick": "开发者学习指南",
+        "homepage": "/u/aliyundaxuexiaoliu"
+      }
+    },
+    {
+      "id": "1190000019317178",
+      "title": " 细读应聘阿里全流程，我是如何拿到阿里offer！",
+      "url": "/a/1190000019317178",
+      "desc": "应聘阿里是一个相对较长的流程，涉及岗位选择、简历投递、简历评估、技术面试、HR面试、背景调查、入职材料准备等环节。其中，关于技术面试，网上有很多优秀的攻略，但普遍聚焦于“纯知识点”总结，而阿里的技术面...",
+      "author": {
+        "nick": "进击的java程序员",
+        "homepage": "/u/javagaojijiagou_5b18fe1e8778a"
+      }
+    },
+    {
+      "id": "1190000019316913",
+      "title": "XML教程！",
+      "url": "/a/1190000019316913",
+      "desc": "什么是XML？XML是指可扩展标记语言（eXtensible Markup Language），它是一种标记语言，很类似HTML。它被设计的宗旨是传输数据，而非显示数据。XML标签没有被预定义，需要用户自行定义标签。XML技术是W3C组织（Wo...",
+      "author": {
+        "nick": "开发者学习指南",
+        "homepage": "/u/aliyundaxuexiaoliu"
+      }
+    },
+    {
+      "id": "1190000019315628",
+      "title": "JAVA基础整理（七）---使用迭代器对容器进行遍历",
+      "url": "/a/1190000019315628",
+      "desc": "容器遍历之迭代器的使用 一个简单的main函数demo来记录下： {代码...} Collection对容器数据进行一些排序，洗牌等等。。",
+      "author": {
+        "nick": "彩笔梳子",
+        "homepage": "/u/caibishuzi"
+      }
+    }
+  ]
+}
