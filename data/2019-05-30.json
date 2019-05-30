@@ -1,0 +1,155 @@
+{
+  "watchNum": "52973",
+  "blogs": [
+    {
+      "id": "1190000019338424",
+      "title": "设计模式之软件设计七大原则",
+      "url": "/a/1190000019338424",
+      "desc": "0x01.开闭原则 定义：一个软件实体如类，模块和函数应该对扩展开放，对修改关闭 要点： 当变更发生时，不要直接修改类，而是通过继承扩展的方式完成变更 用抽象构建框架，用实现扩展细节 预先设计好抽象 优点：提...",
+      "author": {
+        "nick": "猿在天",
+        "homepage": "/u/cos2a"
+      }
+    },
+    {
+      "id": "1190000019337326",
+      "title": "阿阿阿为什么记不住我的英文名？——来自公链ETM的自白",
+      "url": "/a/1190000019337326",
+      "desc": "我叫En-Tan-Mo，很高兴认识你。 什么tanmo？？？ 我叫En-Tan-Mo，很高兴认识你。 en什么mo？？？ 我叫En-Tan-Mo，很高兴认识你。 entan什么？？ emmmm 以上场景大概出现了100000+次吧 - Entente、Transaction和Mo...",
+      "author": {
+        "nick": "ETM漫谈区块链",
+        "homepage": "/u/entanmo"
+      }
+    },
+    {
+      "id": "1190000019334692",
+      "title": "java Semaphore",
+      "url": "/a/1190000019334692",
+      "desc": "Semaphore是一种基于计数的信号量。它可以设定一个阈值，基于此，多个线程竞争获取许可信号，做自己的申请后归还，超过阈值后，线程申请许可信号将会被阻塞。Semaphore可以用来构建一些对象池，资源池之类的，比...",
+      "author": {
+        "nick": "lijingyulee",
+        "homepage": "/u/lijingyulee"
+      }
+    },
+    {
+      "id": "1190000019334595",
+      "title": "java CountDownLatch",
+      "url": "/a/1190000019334595",
+      "desc": "CountDownLatch 类位于java.util.concurrent包下，利用它可以实现类似计数器的功能。比如有一个任务A，它要等待其他几个任务执行完毕之后才能执行，此时就可以利用CountDownLatch来实现这种功能了。CountDownLatc...",
+      "author": {
+        "nick": "lijingyulee",
+        "homepage": "/u/lijingyulee"
+      }
+    },
+    {
+      "id": "1190000019334206",
+      "title": "MyBatis的原理",
+      "url": "/a/1190000019334206",
+      "desc": "每一个MyBatis应用都是以一个SqlSessionFactory的实例为核心构建的。SqlSessionFactory的核心作用是什么？",
+      "author": {
+        "nick": "建飞",
+        "homepage": "/u/jianfei_pang"
+      }
+    },
+    {
+      "id": "1190000019333662",
+      "title": "JavaWeb学生选课（Servlet、JSP、JDBC）",
+      "url": "/a/1190000019333662",
+      "desc": "运行结果： 数据库的2个表：course表 student表 ps：一定要build path导入数据库用的jar包，以及在在lib文件夹中导入数据库jar包 文件目录结构： 具体代码：index.jsp 首页 {代码...} login.jsp 学生登录 {代码.....",
+      "author": {
+        "nick": "一路有你",
+        "homepage": "/u/xuxiaominxxm"
+      }
+    },
+    {
+      "id": "1190000019333577",
+      "title": "Leetcode747至少是其他数字两倍的最大数",
+      "url": "/a/1190000019333577",
+      "desc": "在一个给定的数组nums中，总是存在一个最大元素 。查找数组中的最大元素是否至少是数组中每个其他数字的两倍。如果是，则返回最大元素的索引，否则返回-1。",
+      "author": {
+        "nick": "爱写Bug",
+        "homepage": "/u/icodebugs"
+      }
+    },
+    {
+      "id": "1190000019333311",
+      "title": "Java之HashMap迭代删除使用方法小结",
+      "url": "/a/1190000019333311",
+      "desc": "map的迭代删除，和我们常见的list，set不太一样，不能直接获取Iteraotr对象，提供的删除方法也是单个的，根据key进行删除，如果我们有个需求，将map中满足某些条件的元素删除掉，要怎么做呢？",
+      "author": {
+        "nick": "小灰灰Blog",
+        "homepage": "/u/xiaohuihuiblog"
+      }
+    },
+    {
+      "id": "1190000019333130",
+      "title": "JAVA面试题(41)",
+      "url": "/a/1190000019333130",
+      "desc": "本文首发于cartoon的博客    转载请注明出处:[链接] 接口的意义 为模块间交互定义规范 为系统功能迭代提供极强的扩展性 JAVA9中提供回调接口供系统进行异步调用 抽象类的意义 定义模板，使后续子类开发更具规范 ...",
+      "author": {
+        "nick": "cartoon",
+        "homepage": "/u/cartoon_5cce2e0fb8fae"
+      }
+    },
+    {
+      "id": "1190000019333100",
+      "title": "JAVA面试题(40)",
+      "url": "/a/1190000019333100",
+      "desc": "本文首发于cartoon的博客    转载请注明出处:[链接] 面向对象的三个特征 封装 继承 多态 多态的好处 可替换性。在实际开发中，存在功能迭代的情况，使用多态可以更方便测试迭代代码 可扩充性。增加新子类不影响原...",
+      "author": {
+        "nick": "cartoon",
+        "homepage": "/u/cartoon_5cce2e0fb8fae"
+      }
+    },
+    {
+      "id": "1190000019333042",
+      "title": "基于注解的 java 加签验签框架 checksum",
+      "url": "/a/1190000019333042",
+      "desc": "checksum 基于 java 注解生成加签验签 checksum。 开源地址：github checksum 创作缘由 原来的代码中，checksum 的生成是用的工具类方法。 后来发现如下的问题： 有些字段太大，不想参与验签，但是无法方便的调整...",
+      "author": {
+        "nick": "叶止水",
+        "homepage": "/u/houbinbin"
+      }
+    },
+    {
+      "id": "1190000019333020",
+      "title": "3分钟干货之字符串匹配类问题的解题技巧",
+      "url": "/a/1190000019333020",
+      "desc": "首先要认真审题，避免答偏。可以先确定是单模式匹配问题还是多模式匹配问题，命中条件是否有多个。然后确定对算法时间复杂度或者内存占用是否有额外要求。最后要明确期望的返回值是什么，比如存在有多个命中结果...",
+      "author": {
+        "nick": "巅峰大词典",
+        "homepage": "/u/lingfeng23"
+      }
+    },
+    {
+      "id": "1190000019332307",
+      "title": "生产者模式-消费者模式",
+      "url": "/a/1190000019332307",
+      "desc": "{代码...} public class Main { {代码...} }public class Producer implements Runnable{ {代码...} }public class Consumer implements Runnable { {代码...} }public class PCData { {代码...} }",
+      "author": {
+        "nick": "jxspring",
+        "homepage": "/u/jxspring"
+      }
+    },
+    {
+      "id": "1190000019330609",
+      "title": "Leetcode724：寻找数组的中心索引（java、python3）",
+      "url": "/a/1190000019330609",
+      "desc": "如果数组不存在中心索引，那么我们应该返回 -1。如果数组有多个中心索引，那么我们应该返回最靠近左边的那一个。",
+      "author": {
+        "nick": "爱写Bug",
+        "homepage": "/u/icodebugs"
+      }
+    },
+    {
+      "id": "1190000019328730",
+      "title": "谈谈spring如何自定义标签",
+      "url": "/a/1190000019328730",
+      "desc": "了解如何基于spring自定义标签，这是自定义组件的第一步。而最重要的是了解了这个过程后也可以大致了解spring自身部分组件是怎么相互工作和触发的，如spring-aop，组件可以通过反调AopNamespaceHandler了解大致面...",
+      "author": {
+        "nick": "稀饭",
+        "homepage": "/u/xifan_592e9c211a6af"
+      }
+    }
+  ]
+}
