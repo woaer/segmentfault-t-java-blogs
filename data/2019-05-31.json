@@ -1,0 +1,155 @@
+{
+  "watchNum": "53120",
+  "blogs": [
+    {
+      "id": "1190000019350486",
+      "title": "JAVA字符串格式化——String.format()的使用",
+      "url": "/a/1190000019350486",
+      "desc": "String类的format()方法用于创建格式化的字符串以及连接多个字符串对象。熟悉C语言应该记得C语言的sprintf()方法，两者有类似之处。format()方法有两种重载形式。",
+      "author": {
+        "nick": "潘佳琦",
+        "homepage": "/u/panjia_5b3b83f7743e9"
+      }
+    },
+    {
+      "id": "1190000019350133",
+      "title": "设计模式之简单工厂模式",
+      "url": "/a/1190000019350133",
+      "desc": "0x01.定义与类型 定义：由一个工厂对象决定创建出哪一种产品类的实例。 类型：创建型，但不属于GOF23中设计模式。 简介：通过一个专门的工厂类来创建其他类，这些被创建的类通常有一个共同的父类或接口。 0x02.适...",
+      "author": {
+        "nick": "猿在天",
+        "homepage": "/u/cos2a"
+      }
+    },
+    {
+      "id": "1190000019349695",
+      "title": "让springcloud feign-client 完全支持springmvc的@RequestParam注解的特性",
+      "url": "/a/1190000019349695",
+      "desc": "在springcloud微服务中，使用feign来做声明式微服务调用的client时，经常会遇到springmvc的原生注解@RequestParam不支持自定义POJO对象的问题，例如：",
+      "author": {
+        "nick": "penggle",
+        "homepage": "/u/penggle"
+      }
+    },
+    {
+      "id": "1190000019349356",
+      "title": "Java死锁判断",
+      "url": "/a/1190000019349356",
+      "desc": "首先我们使用自旋锁在来产生一个死锁现象代码：",
+      "author": {
+        "nick": "水水",
+        "homepage": "/u/hello_5c934b62df6d0"
+      }
+    },
+    {
+      "id": "1190000019349307",
+      "title": "SpringBoot实现动态控制定时任务-支持多参数",
+      "url": "/a/1190000019349307",
+      "desc": "由于工作上的原因，需要进行定时任务的动态增删改查，网上大部分资料都是整合quertz框架实现的。本人查阅了一些资料，发现springBoot本身就支持实现定时任务的动态控制。并进行改进，现支持任意多参数定时任务配置",
+      "author": {
+        "nick": "连理枝",
+        "homepage": "/u/caotingingandbise"
+      }
+    },
+    {
+      "id": "1190000019348269",
+      "title": "多态入门请不要放弃",
+      "url": "/a/1190000019348269",
+      "desc": "3.1多态的基本认识 概述:多态是同一个行为具有多个不同表现形式或形态的能力。 如下图：黑白打印机和彩色打印机相同的打印行为却有着不同的打印效果 前提： ·有继承关系 ·有方法重写（抽象方法） ·有父类引用指向...",
+      "author": {
+        "nick": "BWH_Steven",
+        "homepage": "/u/bwh_steven"
+      }
+    },
+    {
+      "id": "1190000019347768",
+      "title": "Java工具包",
+      "url": "/a/1190000019347768",
+      "desc": "commons-lang为java核心类提供额外的方法。比如为Date类型提供addDays(),addHours操作，为String类提供isBlank(),isEmpty()操作。",
+      "author": {
+        "nick": "水水",
+        "homepage": "/u/hello_5c934b62df6d0"
+      }
+    },
+    {
+      "id": "1190000019347662",
+      "title": "基于spring-security-oauth2实现oauth2数据库版（持续更新）",
+      "url": "/a/1190000019347662",
+      "desc": "文章代码地址：链接描述可以下载直接运行，基于springboot2.1.5，springcloud Greenwich版本实现",
+      "author": {
+        "nick": "wotrd",
+        "homepage": "/u/wotrd"
+      }
+    },
+    {
+      "id": "1190000019345930",
+      "title": "java 队列",
+      "url": "/a/1190000019345930",
+      "desc": "Queue： 基本上，一个队列就是一个先入先出（FIFO）的数据结构Queue接口与List、Set同一级别，都是继承了Collection接口。LinkedList实现了Deque接 口。在并发队列上JDK提供了两套实现，一个是以ConcurrentLinked...",
+      "author": {
+        "nick": "lijingyulee",
+        "homepage": "/u/lijingyulee"
+      }
+    },
+    {
+      "id": "1190000019345259",
+      "title": "设计模式之建造者设计模式",
+      "url": "/a/1190000019345259",
+      "desc": "这是设计模式系列的第二篇——建造者设计模式，我希望推送的文章是一个系列的，尽量保持一样的写作风格，尽量把我理解的阐述清楚，关于建造者设计模式主要从以下几个方面来学习，具体如下：",
+      "author": {
+        "nick": "jzman",
+        "homepage": "/u/jzman"
+      }
+    },
+    {
+      "id": "1190000019344734",
+      "title": "基于spring-security-oauth2实现oauth2（持续更新）",
+      "url": "/a/1190000019344734",
+      "desc": "文章代码地址：链接描述可以下载直接运行，基于springboot2.1.5，springcloud Greenwich版本实现",
+      "author": {
+        "nick": "wotrd",
+        "homepage": "/u/wotrd"
+      }
+    },
+    {
+      "id": "1190000019344451",
+      "title": "gRPC实现跨语言的微服务间通信 -- 精通外语的电报员与煲电报粥的小怪兽",
+      "url": "/a/1190000019344451",
+      "desc": "一个小巧的单体应用会随着公司业务的扩张而慢慢成长，逐渐演化成一个庞大且复杂的系统怪物，系统任何一处的问题都将影响整个怪物的表现，很少有单独的开发者能理清系统怪物所有的肌理脉络，导致bug的定位和新功能...",
+      "author": {
+        "nick": "黄小鹿技术",
+        "homepage": "/u/huangxiaolu"
+      }
+    },
+    {
+      "id": "1190000019343986",
+      "title": "3分钟干货之如何提高数据库SQL语句执行速度？（下）",
+      "url": "/a/1190000019343986",
+      "desc": "技巧1 WHERE 子句里面的列尽量被索引只是“尽量”哦，并不是说所有的列。因地制宜，根据实际情况进行调整，因为有时索引太多也会降低性能。",
+      "author": {
+        "nick": "巅峰大词典",
+        "homepage": "/u/lingfeng23"
+      }
+    },
+    {
+      "id": "1190000019343921",
+      "title": "Gradle系列-运用篇",
+      "url": "/a/1190000019343921",
+      "desc": "上次我们说到gradle的原理，主要是偏理论上的知识点，直通车在这Android Gradle系列-原理篇。这次我们来点实战的，随便巩固下之前的知识点。",
+      "author": {
+        "nick": "idisfkj",
+        "homepage": "/u/idisfkj"
+      }
+    },
+    {
+      "id": "1190000019343271",
+      "title": "哪些指令不能重排序：Happen-Before 神器",
+      "url": "/a/1190000019343271",
+      "desc": "1.程序顺序性原则：一个线程内保证语意的串行性2.volatile原则：volatile变量的写，先发生于读，这保证了volatile变量的可见性3.传递性：A先于B，B先于C，那么A必然先于C4.线程的start()方法先于它的每一个动作5....",
+      "author": {
+        "nick": "jxspring",
+        "homepage": "/u/jxspring"
+      }
+    }
+  ]
+}
