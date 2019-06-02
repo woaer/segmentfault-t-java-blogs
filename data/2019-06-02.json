@@ -1,0 +1,155 @@
+{
+  "watchNum": "53307",
+  "blogs": [
+    {
+      "id": "1190000019363261",
+      "title": "储存高可用架构",
+      "url": "/a/1190000019363261",
+      "desc": "​ 一、双机高可用 1、主备方式 主机和备机双方只需要进行数据复制即可，无须进行状态判断和主备切换这类复杂的操作 应用场景：内部的后台管理系统 2、主从复制 从机需要提供读操作，需要考虑主从复制延迟、客户端...",
+      "author": {
+        "nick": "乔志勇笔记",
+        "homepage": "/u/qiaozhiyongbiji"
+      }
+    },
+    {
+      "id": "1190000019362695",
+      "title": "设计模式之工厂方法模式",
+      "url": "/a/1190000019362695",
+      "desc": "定义：定义一个创建对象的接口，但让实现这个接口的类来决定实例化那个类，工厂方法让类的实例化推迟到子类中进行",
+      "author": {
+        "nick": "猿在天",
+        "homepage": "/u/cos2a"
+      }
+    },
+    {
+      "id": "1190000019362493",
+      "title": "基于spring-security-oauth2实现单点登录（持续更新）",
+      "url": "/a/1190000019362493",
+      "desc": "文章代码地址：链接描述可以下载直接运行，基于springboot2.1.5，springcloud Greenwich版本实现。前面两篇写了认证oauth2通过内存 还有jdbc实现认证中心。接下来我们采用oauth2实现管理系统的单点登录。",
+      "author": {
+        "nick": "wotrd",
+        "homepage": "/u/wotrd"
+      }
+    },
+    {
+      "id": "1190000019362298",
+      "title": "java jvm",
+      "url": "/a/1190000019362298",
+      "desc": "不定时去堆内存中清理不可达对象。不可达的对象并不会马上就会直接回收， 垃圾收集器在一个Java程序中的执行是自动的，不能强制执行，即使程序员能明确地判断出有一块内存已经无用了，是应该回收的，程序员也不能...",
+      "author": {
+        "nick": "lijingyulee",
+        "homepage": "/u/lijingyulee"
+      }
+    },
+    {
+      "id": "1190000019361222",
+      "title": "图解AQS原理之ReentrantLock详解-非公平锁",
+      "url": "/a/1190000019361222",
+      "desc": "并发编程中，ReentrantLock的使用是比较多的，包括之前讲的LinkedBlockingQueue和ArrayBlockQueue的内部都是使用的ReentrantLock，谈到它又不能的不说AQS，AQS的全称是AbstractQueuedSynchronizer，这个类也是在j...",
+      "author": {
+        "nick": "BattleHeart",
+        "homepage": "/u/battleheart"
+      }
+    },
+    {
+      "id": "1190000019361142",
+      "title": "java springboot 自定义异常",
+      "url": "/a/1190000019361142",
+      "desc": "自定义返回result {代码...} 自定义错误code {代码...} 测试 {代码...} 结果 {代码...} 代码",
+      "author": {
+        "nick": "lijingyulee",
+        "homepage": "/u/lijingyulee"
+      }
+    },
+    {
+      "id": "1190000019360868",
+      "title": "java springboot 全局异常处理",
+      "url": "/a/1190000019360868",
+      "desc": "定义全局返回result {代码...} 定义全局resultCode {代码...} 定义返回工具类 {代码...} 定义全局异常处理类 {代码...} 测试 {代码...} 结果 {代码...} 代码",
+      "author": {
+        "nick": "lijingyulee",
+        "homepage": "/u/lijingyulee"
+      }
+    },
+    {
+      "id": "1190000019360776",
+      "title": "Halo v1.0 正式版发布，一款惊艳的动态博客系统",
+      "url": "/a/1190000019360776",
+      "desc": "Halo 从去年 5 月开源以来，广受小伙伴们的喜爱，在此非常感谢使用 Halo 发表博客的小伙伴们。",
+      "author": {
+        "nick": "RyanWang",
+        "homepage": "/u/ruibaby"
+      }
+    },
+    {
+      "id": "1190000019360733",
+      "title": "leetcode417. Pacific Atlantic Water Flow",
+      "url": "/a/1190000019360733",
+      "desc": "假设左上角的所有周围面积为太平洋，右下角的所有面积为大西洋。现在使用数组来表示一大片水域，其中数组的每一个位置上的元素代表某一个小水域的高度。假定水只能从高出流向低处，要求找出所有既可以流向太平洋...",
+      "author": {
+        "nick": "raledong",
+        "homepage": "/u/raledong"
+      }
+    },
+    {
+      "id": "1190000019360566",
+      "title": "数据结构-哈希表",
+      "url": "/a/1190000019360566",
+      "desc": "哈希冲突的解决方法 链地址法 在Java8开始，当哈希冲突达到一定的程度，每一个位置从链表转化为红黑树。 时间复杂度分析 哈希表的动态空间处理 平均每个地址承载的元素多过一定程度，即扩容（N/M >= upperTol...",
+      "author": {
+        "nick": "LuoJKL",
+        "homepage": "/u/luojkl"
+      }
+    },
+    {
+      "id": "1190000019360422",
+      "title": "SpringBoot+SpringSecurity+jwt整合及初体验",
+      "url": "/a/1190000019360422",
+      "desc": "原来一直使用shiro做安全框架，配置起来相当方便，正好有机会接触下SpringSecurity，学习下这个。顺道结合下jwt，把安全信息管理的问题扔给客户端，",
+      "author": {
+        "nick": "啤酒就辣条",
+        "homepage": "/u/pijiujiulatiao"
+      }
+    },
+    {
+      "id": "1190000019360418",
+      "title": "G1垃圾收集器简述",
+      "url": "/a/1190000019360418",
+      "desc": "全文共两部分,有基础的读者只需要阅读第一部分\"G1垃圾收集器在最新几个版本的发展\",第二部分为基础部分.",
+      "author": {
+        "nick": "山人",
+        "homepage": "/u/cugb"
+      }
+    },
+    {
+      "id": "1190000019360338",
+      "title": "全面解析Java日期时间API",
+      "url": "/a/1190000019360338",
+      "desc": "GMT（Greenwich Mean Time）：格林尼治时间，格林尼治标准时间的正午是指当太阳横穿格林尼治子午线时（也就是在格林尼治上空最高点时）的时间。",
+      "author": {
+        "nick": "1s_Kiwen",
+        "homepage": "/u/1s_kiwen"
+      }
+    },
+    {
+      "id": "1190000019360335",
+      "title": "当我们在谈论高并发的时候究竟在谈什么?",
+      "url": "/a/1190000019360335",
+      "desc": "这里先给出结论: 高并发的基本表现为单位时间内系统能够同时处理的请求数,高并发的核心是对CPU资源的有效压榨。",
+      "author": {
+        "nick": "hncg",
+        "homepage": "/u/hncg"
+      }
+    },
+    {
+      "id": "1190000019359712",
+      "title": "java 锁机制",
+      "url": "/a/1190000019359712",
+      "desc": "锁作为并发共享数据，保证一致性的工具，在JAVA平台有多种实现(如 synchronized（重量级） 和 ReentrantLock(轻量级)等等 ) 。这些已经写好提供的锁为我们开发提供了便利。重入锁，也叫做递归锁，指的是同一线程 ...",
+      "author": {
+        "nick": "lijingyulee",
+        "homepage": "/u/lijingyulee"
+      }
+    }
+  ]
+}
