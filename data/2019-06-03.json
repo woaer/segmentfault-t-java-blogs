@@ -1,0 +1,155 @@
+{
+  "watchNum": "53387",
+  "blogs": [
+    {
+      "id": "1190000019370191",
+      "title": "macOS开发环境配置-JAVA开发环境",
+      "url": "/a/1190000019370191",
+      "desc": "作为一个前端开发人员，本不需要配置后端的开发环境，但是工作中一些项目是前后端不分离的，然后就有了下面这些配置过程。",
+      "author": {
+        "nick": "起风了",
+        "homepage": "/u/liuzhenbase"
+      }
+    },
+    {
+      "id": "1190000019370051",
+      "title": "并行搜索，分而治之的思想",
+      "url": "/a/1190000019370051",
+      "desc": "public class ConcurrentSearch { {代码...} }",
+      "author": {
+        "nick": "jxspring",
+        "homepage": "/u/jxspring"
+      }
+    },
+    {
+      "id": "1190000019369304",
+      "title": "springcloud 基于feign的服务接口的统一hystrix降级处理",
+      "url": "/a/1190000019369304",
+      "desc": "springcloud开发微服务时，基于feign来做声明式服务接口，当启用hystrix服务熔断降级时，项目服务众多，每个Feign服务接口都得写一些重复问的服务降级处理代码，势必显得枯燥无味：",
+      "author": {
+        "nick": "penggle",
+        "homepage": "/u/penggle"
+      }
+    },
+    {
+      "id": "1190000019368739",
+      "title": "0网站的架构",
+      "url": "/a/1190000019368739",
+      "desc": "{代码...} 1 初始阶段的网站架构 在初始阶段，访问量并不大，所以应用程序、数据库、文件等所有的资源都在一台服务器上。 2 应用服务和数据服务分离 随着业务的发展，就会发现一台服务器抗不过来了，所以将应用服...",
+      "author": {
+        "nick": "无厘头",
+        "homepage": "/u/wulitou"
+      }
+    },
+    {
+      "id": "1190000019368718",
+      "title": "高性能的生产者-消费者新选择：无锁的缓存框架 Disruptor",
+      "url": "/a/1190000019368718",
+      "desc": "public class PCDataFactory implements EventFactory<PCData> {",
+      "author": {
+        "nick": "jxspring",
+        "homepage": "/u/jxspring"
+      }
+    },
+    {
+      "id": "1190000019368667",
+      "title": "我就是不看好jpa",
+      "url": "/a/1190000019368667",
+      "desc": "知乎看到问题《SpringBoot开发使用Mybatis还是Spring Data JPA??》，顺手一答，讨论激烈。我实在搞不懂spring data jpa为啥选了hibernate作为它的实现，是“Gavin King”的裙带关系么？DAO层搞来搞去，从jdbc到hibe...",
+      "author": {
+        "nick": "小姐姐味道",
+        "homepage": "/u/xjjwd"
+      }
+    },
+    {
+      "id": "1190000019365126",
+      "title": "Flink 全网最全资源（视频、博客、PPT、入门、实战、源码解析、问答等持续更新）",
+      "url": "/a/1190000019365126",
+      "desc": "Flink 学习项目代码 [链接] [链接] 麻烦路过的各位亲给这个项目点个 star，太不易了，写了这么多，算是对我坚持下来的一种鼓励吧！ 本项目结构 博客 1、Flink 从0到1学习 —— Apache Flink 介绍 2、Flink 从0到1学...",
+      "author": {
+        "nick": "zhisheng",
+        "homepage": "/u/zhisheng"
+      }
+    },
+    {
+      "id": "1190000019367541",
+      "title": "由for update引发的血案",
+      "url": "/a/1190000019367541",
+      "desc": "微信公众号「后端进阶」，专注后端技术分享：Java、Golang、WEB框架、分布式中间件、服务治理等等。 老司机倾囊相授，带你一路进阶，来不及解释了快上车！",
+      "author": {
+        "nick": "公众号_后端进阶",
+        "homepage": "/u/objcoding"
+      }
+    },
+    {
+      "id": "1190000019367528",
+      "title": "quartz实现定时任务",
+      "url": "/a/1190000019367528",
+      "desc": "在企业应用中，我们经常会碰到时间任务调度的需求，比如每天凌晨生成前天报表，每小时生成一次汇总数据等等。Quartz是出了名的任务调度框架,它可以与J2SE和J2EE应用程序相结合，功能灰常强大，轻轻松松就能与Spri...",
+      "author": {
+        "nick": "追梦人",
+        "homepage": "/u/zhuimengren_5cf40ea3cbc6b"
+      }
+    },
+    {
+      "id": "1190000019367258",
+      "title": "Spring源码原理篇(一)",
+      "url": "/a/1190000019367258",
+      "desc": "本篇主要是讲解IOC容器初始化过程中大体进行了哪一些工作，以及Bean后置处理器的工作原理和BeanPostProcessor在底层的使用。",
+      "author": {
+        "nick": "evinhope",
+        "homepage": "/u/evinhope"
+      }
+    },
+    {
+      "id": "1190000019367165",
+      "title": "JAVA异常类",
+      "url": "/a/1190000019367165",
+      "desc": "Error通常为虚拟机相关错误，通常比较严重，除了通知用户和尽力使程序安全终止之外，紧靠应用自身无法恢复，所以应用程序不应对其捕获，。Exception可以在程序内进行捕获并处理，使应用程序继续正常运行。",
+      "author": {
+        "nick": "leon",
+        "homepage": "/u/leon_5cdd85db2cdb3"
+      }
+    },
+    {
+      "id": "1190000019366831",
+      "title": "【Netty】服务端和客户端",
+      "url": "/a/1190000019366831",
+      "desc": "欢迎关注公众号：【爱编程】如果有需要后台回复2019赠送1T的学习资料哦！！ 本文是基于Netty4.1.36进行分析 服务端 Netty服务端的启动代码基本都是如下： {代码...} 从上图的代码可以总结为以下几个步骤： 1、创...",
+      "author": {
+        "nick": "zero",
+        "homepage": "/u/zero_5b9fc2c32c74c"
+      }
+    },
+    {
+      "id": "1190000019366213",
+      "title": "普通对象使用spring容器中的对象",
+      "url": "/a/1190000019366213",
+      "desc": "工作中有时候需要在普通的对象中去调用spring管理的对象，但是在普通的java对象直接使用@Autowired或者@Resource的时候会发现被注入的对象是null，会报空指针。我们可以简单的理解为spring是一个公司，它管理的对...",
+      "author": {
+        "nick": "我想问问天",
+        "homepage": "/u/wxwwt"
+      }
+    },
+    {
+      "id": "1190000019366207",
+      "title": "leetcode438. Find All Anagrams in a String",
+      "url": "/a/1190000019366207",
+      "desc": "这是一个简单的双指针问题，即左指针指向可以作为起点的子数组下标，右指针则不停向右移动，将更多的元素囊括进来，从而确保该左右指针内的元素是目标数组的一个兄弟子数组（即每个字母的个数均相等）",
+      "author": {
+        "nick": "raledong",
+        "homepage": "/u/raledong"
+      }
+    },
+    {
+      "id": "1190000019366177",
+      "title": "什么是抽象类？",
+      "url": "/a/1190000019366177",
+      "desc": "我们创建一个动物类，并且在这个类中创建动物对象，但是当你提到动物类，你并不知道我说的是什么动物，只有看到了具体的动物，你才知道这是什么动物，所以说动物本身并不是一个具体的事物，而是一个抽象的事物。...",
+      "author": {
+        "nick": "BWH_Steven",
+        "homepage": "/u/bwh_steven"
+      }
+    }
+  ]
+}
