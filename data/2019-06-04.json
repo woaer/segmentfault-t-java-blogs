@@ -1,0 +1,155 @@
+{
+  "watchNum": "53513",
+  "blogs": [
+    {
+      "id": "1190000019382410",
+      "title": "一个数组如何过滤另一个数组中的值，如下图和代码",
+      "url": "/a/1190000019382410",
+      "desc": "一个数组如何过滤另一个数组中的值，如下图和代码一个数组拥有全部数据另一个数组只拥有部分数据拥有全部数组数组要根据拥有部分数据的数组，过滤得到新的数组",
+      "author": {
+        "nick": "一席蓑衣笑众",
+        "homepage": "/u/yixisuoyixiaozhong_5c78fcd0b9f12"
+      }
+    },
+    {
+      "id": "1190000019381816",
+      "title": "Apollo源码分析(一):Apollo简介 & 架构演进",
+      "url": "/a/1190000019381816",
+      "desc": "1 简单，Apollo是我现在看起来最\"简单\"的源码不会像spring封装了一层又一层，把人绕晕，而apollo没有那么多封装，上手快，我们学习就应该从简单的开始,凭什么非要去学封的像粽子一样的spring源码，我们就是要去学...",
+      "author": {
+        "nick": "方老司",
+        "homepage": "/u/vvsuperman"
+      }
+    },
+    {
+      "id": "1190000019381743",
+      "title": "springboot整合solr8(一)",
+      "url": "/a/1190000019381743",
+      "desc": "会提示找不到JAVA_HOME，解决方法是在solr中加入 export JAVA_HOME='你的JDK路径'即可；",
+      "author": {
+        "nick": "瓦力",
+        "homepage": "/u/wallee"
+      }
+    },
+    {
+      "id": "1190000019379972",
+      "title": "自动化发送邮件的代码",
+      "url": "/a/1190000019379972",
+      "desc": "一、sql触发器发送二、winform程序后用任务计划发送 页面 {代码...} 三、global 缺点，有人访问页面时，global才会运行 {代码...} 详细更多请关注Kewail官网：（www.kewail.com）",
+      "author": {
+        "nick": "小叶鸭",
+        "homepage": "/u/xiaoyeya"
+      }
+    },
+    {
+      "id": "1190000019378875",
+      "title": "java 设计模式",
+      "url": "/a/1190000019378875",
+      "desc": "行为型模式，共十一种：策略模式、模板方法模式、观察者模式、迭代子模式、责任链模式、命令模式、备忘录模式、状态模式、访问者模式、中介者模式、解释器模式。",
+      "author": {
+        "nick": "lijingyulee",
+        "homepage": "/u/lijingyulee"
+      }
+    },
+    {
+      "id": "1190000019378870",
+      "title": "最新版-Python和Java实现Aes相互加解密",
+      "url": "/a/1190000019378870",
+      "desc": "需要使用Python和Java实现同一个AES加解密算法，使Python版本加密的密文能够由Java代码解密，反之亦然。",
+      "author": {
+        "nick": "翎野君",
+        "homepage": "/u/lingyejun"
+      }
+    },
+    {
+      "id": "1190000019378857",
+      "title": "java 反射机制",
+      "url": "/a/1190000019378857",
+      "desc": "Java反射 动态获取这个类的所有信息 反射机制的作用 反编译：.class-->.java 通过反射机制访问java对象的属性，方法，构造方法等； 反射机制的应用场景 Jdbc 加载驱动 Spring IOC 框架 反射机制获取类有三种方...",
+      "author": {
+        "nick": "lijingyulee",
+        "homepage": "/u/lijingyulee"
+      }
+    },
+    {
+      "id": "1190000019378729",
+      "title": "你都理解创建线程池的参数吗？",
+      "url": "/a/1190000019378729",
+      "desc": "微信公众号「后端进阶」，专注后端技术分享：Java、Golang、WEB框架、分布式中间件、服务治理等等。 老司机倾囊相授，带你一路进阶，来不及解释了快上车！",
+      "author": {
+        "nick": "公众号_后端进阶",
+        "homepage": "/u/objcoding"
+      }
+    },
+    {
+      "id": "1190000019378483",
+      "title": "Java 8 Optional与NullPointerException",
+      "url": "/a/1190000019378483",
+      "desc": "JAVA异常类列举了Java中部分的异常类，其中最常见的当属NullPointerException了，程序员必须小心提防，所幸Java 8中引入了Optional类这个语法糖来更好的处理这个异常。比如有如下三个类需要递归引用：",
+      "author": {
+        "nick": "leon",
+        "homepage": "/u/leon_5cdd85db2cdb3"
+      }
+    },
+    {
+      "id": "1190000019378240",
+      "title": "Leetcode加一 （java、python3）",
+      "url": "/a/1190000019378240",
+      "desc": "Given a non-empty array of digits representing a non-negative integer, plus one to the integer.",
+      "author": {
+        "nick": "爱写Bug",
+        "homepage": "/u/icodebugs"
+      }
+    },
+    {
+      "id": "1190000019377645",
+      "title": "浅析Java泛型",
+      "url": "/a/1190000019377645",
+      "desc": "泛型是JDK 1.5的一项新特性，它的本质是参数化类型（Parameterized Type）的应用，也就是说所操作的数据类型被指定为一个参数，在用到的时候在指定具体的类型。这种参数类型可以用在类、接口和方法的创建中，分别...",
+      "author": {
+        "nick": "1s_Kiwen",
+        "homepage": "/u/1s_kiwen"
+      }
+    },
+    {
+      "id": "1190000019377621",
+      "title": "Java中ArrayList的对象引用问题",
+      "url": "/a/1190000019377621",
+      "desc": "事件起因是由于同事使用ArrayList的带参构造方法进行ArrayList对象复制，修改新的ArrayList对象中的元素（对象）的成员变量时也会修改原ArrayList中的元素（对象）的成员变量。",
+      "author": {
+        "nick": "Null",
+        "homepage": "/u/null_ryan"
+      }
+    },
+    {
+      "id": "1190000019377220",
+      "title": "乐字节-Java8核心特性实战之函数式接口",
+      "url": "/a/1190000019377220",
+      "desc": "什么时候可以使用Lambda？通常Lambda表达式是用在函数式接口上使用的。从Java8开始引入了函数式接口，其说明比较简单:函数式接口(Functional Interface)就是一个有且仅有一个抽象方法，但是可以有多个非抽象方法...",
+      "author": {
+        "nick": "乐字节",
+        "homepage": "/u/lezijie"
+      }
+    },
+    {
+      "id": "1190000019377018",
+      "title": "3分钟干货之Java性能优化-慎用异常",
+      "url": "/a/1190000019377018",
+      "desc": "当创建一个异常时，需要收集一个栈跟踪(stack track)，这个栈跟踪用于描述异常是在何处创建的。构建这些栈跟踪时需要为运行时栈做一份快照，正是这一部分开销很大。",
+      "author": {
+        "nick": "巅峰大词典",
+        "homepage": "/u/lingfeng23"
+      }
+    },
+    {
+      "id": "1190000019376799",
+      "title": " Spring 参数校验最佳实践（附完整实例）",
+      "url": "/a/1190000019376799",
+      "desc": "在 Web 开发中, 我们经常需要校验各种参数，这是一件繁琐又重要的事情，对于很多人来说，在做参数校验的时候，会有以下几种类型的处理方式：",
+      "author": {
+        "nick": "dadiyang",
+        "homepage": "/u/dadiyang"
+      }
+    }
+  ]
+}
