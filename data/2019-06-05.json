@@ -1,0 +1,155 @@
+{
+  "watchNum": "53653",
+  "blogs": [
+    {
+      "id": "1190000019396063",
+      "title": "Leetcode 498：对角线遍历Diagonal Traverse（python3、java）",
+      "url": "/a/1190000019396063",
+      "desc": "给定一个含有 M x N 个元素的矩阵（M 行，N 列），请以对角线遍历的顺序返回这个矩阵中的所有元素，对角线遍历如下图所示。Given a matrix of M x N elements (M rows, N columns), return all elements of the m...",
+      "author": {
+        "nick": "爱写Bug",
+        "homepage": "/u/icodebugs"
+      }
+    },
+    {
+      "id": "1190000019395898",
+      "title": "装饰者模式",
+      "url": "/a/1190000019395898",
+      "desc": "首先需要明确一点：装饰者模式利用了“组合”的思想，避免了“继承”的滥用。通过动态地组合对象，可以写新的代码添加新功能，而无需修改现有代码。",
+      "author": {
+        "nick": "对影成三人",
+        "homepage": "/u/duiyingchengsanren_5cd95d6ecb647"
+      }
+    },
+    {
+      "id": "1190000019395171",
+      "title": "程序员面试日常套路心得！",
+      "url": "/a/1190000019395171",
+      "desc": "本文转载自--网优谷1、利用面试人员解决难题之前有网友爆料自己在面试一家创业公司的时候，最开始只是一位面试官在场，面着面着整个开发组的人都过来了，围绕面试者擅长的数据库开发，提出了非常具体的问题。虽然...",
+      "author": {
+        "nick": "韭菜包",
+        "homepage": "/u/jiucaibao"
+      }
+    },
+    {
+      "id": "1190000019393677",
+      "title": "Java  CRC16 MODBUS校验算法实现",
+      "url": "/a/1190000019393677",
+      "desc": "CRC16 MODBUS校验算法，分两种情况，一是参数是字符串，二是参数是字节数组。参考文章1参考文章2直接上代码，第一种参数是字符串",
+      "author": {
+        "nick": "EVAO_大个子",
+        "homepage": "/u/evao_dagezi"
+      }
+    },
+    {
+      "id": "1190000019393152",
+      "title": "springboot+mybatis",
+      "url": "/a/1190000019393152",
+      "desc": "springboot整合mybatis 一.创建springboot项目 二.配置文件: application.yml {代码...} 三.pom文件 {代码...} 四.启动类加注解 {代码...}",
+      "author": {
+        "nick": "别回头",
+        "homepage": "/u/biehuitou_5c112f50b3817"
+      }
+    },
+    {
+      "id": "1190000019391624",
+      "title": "hello大家好",
+      "url": "/a/1190000019391624",
+      "desc": "{代码...}",
+      "author": {
+        "nick": "530_",
+        "homepage": "/u/530_"
+      }
+    },
+    {
+      "id": "1190000019391526",
+      "title": "Docker中Hadoop环境搭建",
+      "url": "/a/1190000019391526",
+      "desc": "使用腾讯云主机，docker构建集群测试环境。 环境 1、操作系统： CentOS 7.2 64位 网路设置 hostname IP cluster-master 172.18.0.2 cluster-slave1 172.18.0.3 cluster-slave2 172.18.0.4 cluster-slave3 172.18....",
+      "author": {
+        "nick": "coolwxb",
+        "homepage": "/u/daycoding"
+      }
+    },
+    {
+      "id": "1190000019391236",
+      "title": "开源一个kafka增强：okmq-1.0.0",
+      "url": "/a/1190000019391236",
+      "desc": "mq是个好东西，我们都在用。这也决定了mq应该是高高高可用的。某团就因为这个组件，出了好几次生产事故，呵呵。",
+      "author": {
+        "nick": "小姐姐味道",
+        "homepage": "/u/xjjwd"
+      }
+    },
+    {
+      "id": "1190000019391187",
+      "title": "苦逼程序员的10年",
+      "url": "/a/1190000019391187",
+      "desc": "十年，转瞬即逝，人生进入下半场。众生皆苦，万相本无。且看风云变幻，慢品苦辣酸甜。小姐姐味道微信公众号首发。",
+      "author": {
+        "nick": "小姐姐味道",
+        "homepage": "/u/xjjwd"
+      }
+    },
+    {
+      "id": "1190000019390082",
+      "title": "Spring入门系列(一)：使用IDEA创建第一个Spring Boot的Hello World项目",
+      "url": "/a/1190000019390082",
+      "desc": "Spring因其轻量级、一站式、非侵入式设计、方便集成和测试等优势，成为最受欢迎的Java EE框架之一。但Spring的配置繁琐臃肿，很多工作麻烦而重复，于是Spring Boot应运而生。凭借其极简化、快速开发、尤其适合构...",
+      "author": {
+        "nick": "何舜",
+        "homepage": "/u/heshunace"
+      }
+    },
+    {
+      "id": "1190000019389906",
+      "title": "如何利用Java NIO实现高性能高并发的http服务器",
+      "url": "/a/1190000019389906",
+      "desc": "在学习Java NIO的过程中，我一直理解不了Java NIO是怎么用来实现高并发的服务器的，网上给出的例子里，基本上没有多少说到这一点的，Tomcat，Jetty这些的源码又太庞大了，导致我无从下手。",
+      "author": {
+        "nick": "沙湖王",
+        "homepage": "/u/shahuwang"
+      }
+    },
+    {
+      "id": "1190000019389160",
+      "title": "利用Lambda实现通过getter/setter方法引用拿到属性名",
+      "url": "/a/1190000019389160",
+      "desc": "有很多开发场景需要用到Java Bean的属性名，直接写死属性名字符串的形式容易产生bug（属性名一旦变化，IDE不会告诉你你的字符串需要同步修改）。JDK8的Lambda可以通过方法引用简化代码，同样也可以通过getter/set...",
+      "author": {
+        "nick": "小马哥",
+        "homepage": "/u/diboot"
+      }
+    },
+    {
+      "id": "1190000019389066",
+      "title": "类加载器与Class类",
+      "url": "/a/1190000019389066",
+      "desc": "类加载器负责根据类的全限定名将class文件加载到JVM内存，生成Class类的对象。它分为以下几种类型：",
+      "author": {
+        "nick": "leon",
+        "homepage": "/u/leon_5cdd85db2cdb3"
+      }
+    },
+    {
+      "id": "1190000019388919",
+      "title": "乐字节Java8核心特性实战之方法引用",
+      "url": "/a/1190000019388919",
+      "desc": "Java8 中引入方法引用新特性,用于简化应用对象方法的调用， 方法引用是用来直接访问类或者实例的已经存在的方法或者构造方法。 方法引用提供了一种引用而不执行方法的方式，它需要由兼容的函数式接口构成的目标类...",
+      "author": {
+        "nick": "乐字节",
+        "homepage": "/u/lezijie"
+      }
+    },
+    {
+      "id": "1190000019388356",
+      "title": "3分钟干货之Java性能优化-不要重复初始化变量",
+      "url": "/a/1190000019388356",
+      "desc": "默认情况下，调用类的构造函数时，Java会把变量初始化成确定的值，所有的对象被设置成null，整数变量设置成0，float和double变量设置成0.0，逻辑值设置成false。当一个类从另一个类派生时，这一点尤其应该注意，...",
+      "author": {
+        "nick": "巅峰大词典",
+        "homepage": "/u/lingfeng23"
+      }
+    }
+  ]
+}
