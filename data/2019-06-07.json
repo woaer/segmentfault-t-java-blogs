@@ -1,0 +1,155 @@
+{
+  "watchNum": "53949",
+  "blogs": [
+    {
+      "id": "1190000019414444",
+      "title": "设计模式之建造者模式",
+      "url": "/a/1190000019414444",
+      "desc": "0x01.定义与类型 定义：将一个复杂对象的构建与它的表示分离，使得同样的构建过程可以创建不同的表示。 用户只需指定需要建造的类型就可以得到他们，建造过程及细节不需要知道 类型：创建型 实现建造模式的两种方...",
+      "author": {
+        "nick": "猿在天",
+        "homepage": "/u/cos2a"
+      }
+    },
+    {
+      "id": "1190000019413897",
+      "title": "Java包的基本概述",
+      "url": "/a/1190000019413897",
+      "desc": "在我们设计一个程序的时候（尤其是多人合作），会写一些类来实现功能，但是往往会有重名的现象发生，为了解决这个问题，则专门设计了包。（还有其他作用，下述）简单理解：不同的城市之间存在相同名字的小区，用...",
+      "author": {
+        "nick": "BWH_Steven",
+        "homepage": "/u/bwh_steven"
+      }
+    },
+    {
+      "id": "1190000019413618",
+      "title": "(jsp入门&mvc&案例)",
+      "url": "/a/1190000019413618",
+      "desc": "(jsp入门&mvc&案例) 一、学习目标 阐述什么是JSP及其运行原理 阐述JSP中如何嵌入脚本元素以及软件开发模式的发展历程 解决开发中的路径问题：相对路径与绝对路径 阐述请求转发和重定向的区别(面试重点) ...",
+      "author": {
+        "nick": "LeeJon",
+        "homepage": "/u/leejon_5cf95a94b8dec"
+      }
+    },
+    {
+      "id": "1190000019413614",
+      "title": "leetcode382. Linked List Random Node",
+      "url": "/a/1190000019413614",
+      "desc": "在等概率随机选择算法中，最经典的算法就是蓄水池算法。可以参考同类型题目398 random pick index。这里再次整理一下蓄水池算法的思路和简单证明。",
+      "author": {
+        "nick": "raledong",
+        "homepage": "/u/raledong"
+      }
+    },
+    {
+      "id": "1190000019413452",
+      "title": "一文读懂链路追踪",
+      "url": "/a/1190000019413452",
+      "desc": "在微服务横行的时代，服务化思维逐渐成为了程序员的基本思维模式，但是，由于绝大部分项目只是一味地增加服务，并没有对其妥善管理，当接口出现问题时，很难从错综复杂的服务调用网络中找到问题根源，从而错失了...",
+      "author": {
+        "nick": "平也",
+        "homepage": "/u/icoder_club"
+      }
+    },
+    {
+      "id": "1190000019413306",
+      "title": "设计模式|代理模式",
+      "url": "/a/1190000019413306",
+      "desc": "代理模式是常用的结构型设计模式之一、当我们直接访问某些对象存在问题时可以通过代理模式来间接访问，为了保证客户端使用的透明性、所访问的真实对象和代理对象都必须实现同一个接口。",
+      "author": {
+        "nick": "阅历笔记",
+        "homepage": "/u/yuelicn"
+      }
+    },
+    {
+      "id": "1190000019413202",
+      "title": "爱上Java诊断利器之Arthas",
+      "url": "/a/1190000019413202",
+      "desc": "大意为：Arthas是阿里开源的一个Java诊断工具，可以帮助开发人员在不修改代码或重启服务器的情况下快速定位线上问题。",
+      "author": {
+        "nick": "buildupchao",
+        "homepage": "/u/luwangmeilun"
+      }
+    },
+    {
+      "id": "1190000019413175",
+      "title": "Elasticsearch启动问题小记",
+      "url": "/a/1190000019413175",
+      "desc": "因为es安装目录放在了root的家目录下，新用户是不能访问到的，所以即使ES属于新用户了，但目录权限原因访问不到lib里的jar包，所以找不到Java类。 把ES搬到新用户的家目录以内即可。",
+      "author": {
+        "nick": "Wish大人",
+        "homepage": "/u/wishdaren_5c243b920a3eb"
+      }
+    },
+    {
+      "id": "1190000019412746",
+      "title": "Java面试技术学习总结最后一站",
+      "url": "/a/1190000019412746",
+      "desc": "一直在找这样的项目，准备作为个人项目，找工作时候的谈资：贯穿真个Java知识点的，用到ssh,或者ssm框架，这样就可以让自己对java有一个整体的、清晰的认识。",
+      "author": {
+        "nick": "巅峰大词典",
+        "homepage": "/u/lingfeng23"
+      }
+    },
+    {
+      "id": "1190000019412458",
+      "title": "1、eureka注册中心单机",
+      "url": "/a/1190000019412458",
+      "desc": "Spring Cloud Eureka是Spring Cloud Netflix项目下的服务治理模块。而Spring Cloud Netflix项目是Spring Cloud的子项目之一，主要内容是对Netflix公司一系列开源产品的包装，它为Spring Boot应用提供了自配置的Ne...",
+      "author": {
+        "nick": "happyhuangjinjin",
+        "homepage": "/u/happyhuangjinjin"
+      }
+    },
+    {
+      "id": "1190000019411892",
+      "title": "etcd的java客户端",
+      "url": "/a/1190000019411892",
+      "desc": "{代码...}",
+      "author": {
+        "nick": "梦想",
+        "homepage": "/u/mengxiang_5cf7a258a9b07"
+      }
+    },
+    {
+      "id": "1190000019411882",
+      "title": "JeecgBoot 2.0 入门视频教程",
+      "url": "/a/1190000019411882",
+      "desc": "视频大纲 视频地址： [链接] 提取码：hok5 源码下载： [链接] （喜欢请Star）",
+      "author": {
+        "nick": "scott",
+        "homepage": "/u/scott_5c05ef8d90cc1"
+      }
+    },
+    {
+      "id": "1190000019411834",
+      "title": "尝试将正式服务迁移至docker中并管理的一次实践",
+      "url": "/a/1190000019411834",
+      "desc": "在这里是有几个方面是要考虑的：1.怎么去部署docker容器？2.对于镜像和容器该怎么去统一管理？3.使用docker发生线上故障该如何排查处理？4.使用docker的时候有哪些方面需要注意的？",
+      "author": {
+        "nick": "小哥",
+        "homepage": "/u/xiaoge_5b5a97df9e470"
+      }
+    },
+    {
+      "id": "1190000019411138",
+      "title": "聊聊Spring MVC中 handlerMapping和handlerAdapter设计思想",
+      "url": "/a/1190000019411138",
+      "desc": "先上一段Spring MVC核心类DispatcherServlet中最重要的方法doDispatch源码",
+      "author": {
+        "nick": "花溪的小石头",
+        "homepage": "/u/huaxidexiaoshitou"
+      }
+    },
+    {
+      "id": "1190000019411042",
+      "title": "nodejs OCR身份证识别",
+      "url": "/a/1190000019411042",
+      "desc": "这个身份证识别 身份证号偶尔会识别有误 。。。。 要么少了数字 还有可能数字反了 无语 不准确 {代码...}",
+      "author": {
+        "nick": "胡思立",
+        "homepage": "/u/husili"
+      }
+    }
+  ]
+}
