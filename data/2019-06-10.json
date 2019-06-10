@@ -1,0 +1,155 @@
+{
+  "watchNum": "54115",
+  "blogs": [
+    {
+      "id": "1190000019431938",
+      "title": "CoordinatorLayout滑动抖动问题",
+      "url": "/a/1190000019431938",
+      "desc": "目录介绍 01.CoordinatorLayout滑动抖动问题描述 02.滑动抖动问题分析 03.自定义AppBarLayout.Behavior说明 04.CoordinatorLayout滑动抖动解决方案 05.案例测试是否根本问题 好消息 博客笔记大汇总【16年3月到至...",
+      "author": {
+        "nick": "潇湘剑雨",
+        "homepage": "/u/xiangjianyu"
+      }
+    },
+    {
+      "id": "1190000019431734",
+      "title": "WebSocket，不再“轮询”",
+      "url": "/a/1190000019431734",
+      "desc": "1.前言本文先讲解WebSocket的应用场景和特点，然后通过前后端示例代码讲解，展示在实际的开发中的应用。1.1. 应用场景WebSocket是一种在单个TCP连接上进行全双工通信的协议, 是为了满足基于 Web 的日益增长的实时...",
+      "author": {
+        "nick": "MadPecker",
+        "homepage": "/u/madpecker"
+      }
+    },
+    {
+      "id": "1190000019431589",
+      "title": "ArrayList源码解读(二)",
+      "url": "/a/1190000019431589",
+      "desc": "addAll(int index, Collection<? extends E> c)添加集合到当前集合的固定位置",
+      "author": {
+        "nick": "刘启威",
+        "homepage": "/u/liuqiwei"
+      }
+    },
+    {
+      "id": "1190000019431539",
+      "title": "移动研发 DevOps 落地实践",
+      "url": "/a/1190000019431539",
+      "desc": "作者：姚兰天（十镜），蚂蚁金服技术专家。概要：传统的研发模式已经无法适应企业在数字化转型中快速迭代以及研发协同的要求，建设符合业务场景特性和有效支撑高并发、持续迭代集成需求的研发效能实践迫在眉睫。...",
+      "author": {
+        "nick": "阿里云云栖社区",
+        "homepage": "/u/yunqishequ_5aa899aad5395"
+      }
+    },
+    {
+      "id": "1190000019429968",
+      "title": "Paxos Made Simple",
+      "url": "/a/1190000019429968",
+      "desc": "用于实现高容错性分布式系统的Paxos算法，一直以来总是被认为是难以理解的，或许是因为对很多人来说，初始版本就像是”希腊语\"一样（最初的论文是以希腊故事展开的形式）[5]。实际上，它也算是最浅显易见的分布式...",
+      "author": {
+        "nick": "阅历笔记",
+        "homepage": "/u/yuelicn"
+      }
+    },
+    {
+      "id": "1190000019429417",
+      "title": "Git常用命令小结",
+      "url": "/a/1190000019429417",
+      "desc": "Git的版本库里存了很多东西，其中最重要的就是称为stage（或者叫index）的暂存区，还有Git为我们自动创建的第一个分支master，以及指向master的一个指针叫HEAD。工作区有一个隐藏目录.git，这个不算工作区，而是G...",
+      "author": {
+        "nick": "云鱼Cloudy",
+        "homepage": "/u/cloudyttt"
+      }
+    },
+    {
+      "id": "1190000019429102",
+      "title": "坑爹的 Java 可变参数，把我整得够惨。。",
+      "url": "/a/1190000019429102",
+      "desc": "最近在写一个功能点，用了 Java 中的可变参数，真是把我搞得够惨。。 什么是可变参数？ 就是方法参数用 Object... args 三个点形式，一个参数可以接收多个参数。 实际的代码就不帖了，来看这个示例吧： 示例1 {代...",
+      "author": {
+        "nick": "Java技术栈",
+        "homepage": "/u/javastack"
+      }
+    },
+    {
+      "id": "1190000019428986",
+      "title": "EventLoop 和 线程模型",
+      "url": "/a/1190000019428986",
+      "desc": "关于 Reactor 的线程模型 首先我们来看一下 Reactor 的线程模型.Reactor 的线程模型有三种: 单线程模型 多线程模型 主从多线程模型 首先来看一下 单线程模型: 所谓单线程, 即 acceptor 处理和 handler 处理都在一...",
+      "author": {
+        "nick": "sc_ik",
+        "homepage": "/u/sc_ik"
+      }
+    },
+    {
+      "id": "1190000019427695",
+      "title": "《大型网站系统与Java中间件》读书笔记（上）",
+      "url": "/a/1190000019427695",
+      "desc": "这本书前三章都在科普和回顾中间件/分布式的基础，讲得非常通俗易懂。在之前已经我写过基础分布式相关文章，大家可以先去看看：",
+      "author": {
+        "nick": "Java3y",
+        "homepage": "/u/java_3y"
+      }
+    },
+    {
+      "id": "1190000019427497",
+      "title": "springCloud学习1(集中式配置管理)",
+      "url": "/a/1190000019427497",
+      "desc": "在开发普通的 web 应用中，我们通常是将配置项写在单独的配置文件中，比如application.yml,application.properties，但是在微服务架构中，可能会出现数百个微服务，如果每个微服务将配置文件写在自身的配置文件中...",
+      "author": {
+        "nick": "flex",
+        "homepage": "/u/flex_5af4f84597dc9"
+      }
+    },
+    {
+      "id": "1190000019427383",
+      "title": "【TODO】【算法】鸡尾酒排序",
+      "url": "/a/1190000019427383",
+      "desc": "0. 索引 1. 基本介绍 2. 算法实现",
+      "author": {
+        "nick": "天真真不知路漫漫",
+        "homepage": "/u/zhouliu"
+      }
+    },
+    {
+      "id": "1190000019427355",
+      "title": "【TODO】【算法】快速排序",
+      "url": "/a/1190000019427355",
+      "desc": "0. 索引 1. 简单介绍 关于原理，虽然很重要，但是在这里不做过多介绍。 因为随便搜索一下。就可以找到更好的答案。 本质是回顾，记住核心的思想，然后通过code 深刻 已有概念的印象。 2. 双边循环法 3. 单边循环法",
+      "author": {
+        "nick": "天真真不知路漫漫",
+        "homepage": "/u/zhouliu"
+      }
+    },
+    {
+      "id": "1190000019427282",
+      "title": "准备好了再通知我：网络NIO",
+      "url": "/a/1190000019427282",
+      "desc": "{代码...}",
+      "author": {
+        "nick": "jxspring",
+        "homepage": "/u/jxspring"
+      }
+    },
+    {
+      "id": "1190000019427275",
+      "title": "【TODO】【算法】冒泡排序",
+      "url": "/a/1190000019427275",
+      "desc": "No bb . Show me the code 1. 简单实现 考虑优化 2. 优化 3. 有序区",
+      "author": {
+        "nick": "天真真不知路漫漫",
+        "homepage": "/u/zhouliu"
+      }
+    },
+    {
+      "id": "1190000019426352",
+      "title": "Welcome to the api-doc wiki!",
+      "url": "/a/1190000019426352",
+      "desc": "Welcome to the api-doc wiki! 初衷 原因很简单，最主要是 简化接口文档的编写 对接口的修改更加快速的可见 主要作用 api-doc 主要功能是生成 java api 文档, 它拓展了JavaDoc 标准注释，无需使用注解，减少了入...",
+      "author": {
+        "nick": "hsjfans",
+        "homepage": "/u/hsjfans"
+      }
+    }
+  ]
+}
