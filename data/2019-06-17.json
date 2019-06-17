@@ -1,0 +1,155 @@
+{
+  "watchNum": "54918",
+  "blogs": [
+    {
+      "id": "1190000019500623",
+      "title": "DevOps 基于Walle的小型持续集成实战（五）基于Walle发布Java应用",
+      "url": "/a/1190000019500623",
+      "desc": "本章用于讲解如何在walle下构建和运行JavaWeb。主要包含SpringBoot,ScalaAkkaWeb应用，以Java -jar和Docker运行两种方式（Tomcat方式不讲，大家自行研究）",
+      "author": {
+        "nick": "思绪回忆",
+        "homepage": "/u/sixuhuiyi"
+      }
+    },
+    {
+      "id": "1190000019500443",
+      "title": "Android优化总结",
+      "url": "/a/1190000019500443",
+      "desc": "目录介绍 1.OOM和崩溃优化 1.1 OOM优化 1.2 ANR优化 1.3 Crash优化 2.内存泄漏优化 2.0 动画资源未释放 2.1 错误使用单利 2.2 错误使用静态变量 2.3 handler内存泄漏 2.4 线程造成内存泄漏 2.5 非静态内部类 2.6 ...",
+      "author": {
+        "nick": "潇湘剑雨",
+        "homepage": "/u/xiangjianyu"
+      }
+    },
+    {
+      "id": "1190000019498458",
+      "title": "那些年，我们追过的“定时调度”",
+      "url": "/a/1190000019498458",
+      "desc": "定时调度作为后端开发人员，我们总会遇到这样的业务场景：每周同步一批数据；每半个小时检查一遍服务器运行状况；每天早上八点给用户发送一份包含今日待办事项的邮件，等等。",
+      "author": {
+        "nick": "MadPecker",
+        "homepage": "/u/madpecker"
+      }
+    },
+    {
+      "id": "1190000019497724",
+      "title": "想让自己的项目6666，可是 Chrome 不答应！",
+      "url": "/a/1190000019497724",
+      "desc": "读万卷书，行万里路！有的技能可以从书里学会，有的技能却需要在实战中打怪升级慢慢掌握，今天就来和大家聊一个很多小伙伴经常遇到的问题。",
+      "author": {
+        "nick": "江南一点雨",
+        "homepage": "/u/lenve"
+      }
+    },
+    {
+      "id": "1190000019497395",
+      "title": "ConcurrentHashMap探究",
+      "url": "/a/1190000019497395",
+      "desc": "ConcurrentHashMap是线程安全，性能出色的Map的线程安全实现，相比较HashMap他是线程安全的，相比较HashTable他的性能优势非常明显。他的使用很简单，这里主要是想要探究一下ConcurrentHashMap的实现原理。在这里...",
+      "author": {
+        "nick": "建飞",
+        "homepage": "/u/jianfei_pang"
+      }
+    },
+    {
+      "id": "1190000019496493",
+      "title": "拯救你丢失的精度——BigInteger和BigDecimal类(入门)",
+      "url": "/a/1190000019496493",
+      "desc": "由于在运算的时候，float类型和double很容易丢失精度（下例为演示），所以为了能精确的表示、计算浮点数，Java提供了BigDecimal",
+      "author": {
+        "nick": "BWH_Steven",
+        "homepage": "/u/bwh_steven"
+      }
+    },
+    {
+      "id": "1190000019495272",
+      "title": "java语法和python语法的区别",
+      "url": "/a/1190000019495272",
+      "desc": "基础 字符串和列表 元组 集合 条件控制 循环 方法和模块 总结 python语法由于没有类型限制和符号限制，比java语法更加简洁。但是作为一个java程序员，如果要习惯这种无类型，无符号的编程需要时间。",
+      "author": {
+        "nick": "木木甫",
+        "homepage": "/u/mumufu"
+      }
+    },
+    {
+      "id": "1190000019495164",
+      "title": "HashMap实现原理",
+      "url": "/a/1190000019495164",
+      "desc": "hashMap是通过数组存储所有的数据，每个元素所存放数组的下标，是根据该存储元素的key的Hash值与该数组的长度减去1做与运算，如下所示:index = (length_of_array - 1) & hash_of_the_key;数组中存放元素的数...",
+      "author": {
+        "nick": "无厘头",
+        "homepage": "/u/wulitou"
+      }
+    },
+    {
+      "id": "1190000019494919",
+      "title": "解决\"并发下查询并更新带来的问题\"",
+      "url": "/a/1190000019494919",
+      "desc": "在日常开发中经常遇到先根据条件判断某条数据是否存在，如果不存在的话就插入，如果存在的话就更新或提示异常。一般代码的模式都写成下面这个样子，是一种很常见的写法，但是在并发情况下很容易会重复插入两条数...",
+      "author": {
+        "nick": "Half",
+        "homepage": "/u/half_5ab2635cc04bc"
+      }
+    },
+    {
+      "id": "1190000019494432",
+      "title": "Java Monitor（管程）",
+      "url": "/a/1190000019494432",
+      "desc": "操作系统在面对线程间同步的时候，会支持例如semaphore信号量和mutex互斥量等同步原语，而monitor是在编程语言中被实现的，下面介绍一下java中monitor的实现原理：",
+      "author": {
+        "nick": "leon",
+        "homepage": "/u/leon_5cdd85db2cdb3"
+      }
+    },
+    {
+      "id": "1190000019494421",
+      "title": "听过了API咱们来看看SPI是什么",
+      "url": "/a/1190000019494421",
+      "desc": "平时API倒是听得很多?SPI又是啥.别急我们来先看看面向接口编程的调用关系，来了解一下，API和SPI的相似和不同之处。",
+      "author": {
+        "nick": "我想问问天",
+        "homepage": "/u/wxwwt"
+      }
+    },
+    {
+      "id": "1190000019494006",
+      "title": "Java并发核心浅谈（二）",
+      "url": "/a/1190000019494006",
+      "desc": "Lock主要是自定义一个 counter，从而利用CAS对其实现原子操作，而synchronized是c++ hotspot实现的 monitor（具体的咱也没看，咱就不说）",
+      "author": {
+        "nick": "平湖",
+        "homepage": "/u/eahau"
+      }
+    },
+    {
+      "id": "1190000019493420",
+      "title": "面试官让你说说==和equals()的区别，重写equals必须重写hashcode方法吗",
+      "url": "/a/1190000019493420",
+      "desc": "适用对象 ==：主要用于基本类型之间的比较（char、Boolean、byte、short、int、long、float、dobule），也可以用于比较对象",
+      "author": {
+        "nick": "flyingcr",
+        "homepage": "/u/chenrong_flying"
+      }
+    },
+    {
+      "id": "1190000019492790",
+      "title": "1090-受标签影响的最大值",
+      "url": "/a/1190000019492790",
+      "desc": "我们有一个项的集合，其中第 i 项的值为 values[i]，标签为 labels[i]。 我们从这些项中选出一个子集 S，这样一来： |S| <= num_wanted 对于任意的标签 L，子集 S 中标签为 L 的项的数目总满足 <= use_limi...",
+      "author": {
+        "nick": "Null",
+        "homepage": "/u/null_ryan"
+      }
+    },
+    {
+      "id": "1190000019492673",
+      "title": "1089-复写零",
+      "url": "/a/1190000019492673",
+      "desc": "给你一个长度固定的整数数组 arr，请你将该数组中出现的每个零都复写一遍，并将其余的元素向右平移。 注意：请不要在超过该数组长度的位置写入元素。 要求：请对输入的数组 就地 进行上述修改，不要从函数返回任...",
+      "author": {
+        "nick": "Null",
+        "homepage": "/u/null_ryan"
+      }
+    }
+  ]
+}
