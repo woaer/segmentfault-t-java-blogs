@@ -1,0 +1,155 @@
+{
+  "watchNum": "55161",
+  "blogs": [
+    {
+      "id": "1190000019523890",
+      "title": " Java8的Lambda 表达式",
+      "url": "/a/1190000019523890",
+      "desc": "Java 8的一个大亮点是引入Lambda表达式，使用它设计的代码会更加简洁。Lambda 表达式其实是一个匿名函数。",
+      "author": {
+        "nick": "沧海一粟",
+        "homepage": "/u/canghaiyisu_5a91066673c15"
+      }
+    },
+    {
+      "id": "1190000019523856",
+      "title": "spring boot开发soap webservice",
+      "url": "/a/1190000019523856",
+      "desc": "介绍spring boot web模块提供了RestController实现restful，第一次看到这个名字的时候以为还有SoapController，很可惜没有，对于soap webservice提供了另外一个模块spring-boot-starter-web-services支持。本文介...",
+      "author": {
+        "nick": "MadPecker",
+        "homepage": "/u/madpecker"
+      }
+    },
+    {
+      "id": "1190000019521493",
+      "title": "LEETCODE刷题记录【27 Remove Element】",
+      "url": "/a/1190000019521493",
+      "desc": "给定一个数组 nums 和一个值 val，你需要原地移除所有数值等于 val 的元素，返回移除后数组的新长度。不要使用额外的数组空间，你必须在原地修改输入数组并在使用 O(1) 额外空间的条件下完成。 元素的顺序可以改...",
+      "author": {
+        "nick": "chenat9",
+        "homepage": "/u/chenat9"
+      }
+    },
+    {
+      "id": "1190000019520611",
+      "title": "Date、DateFormat和Calendar类的简单认识",
+      "url": "/a/1190000019520611",
+      "desc": "第三阶段 JAVA常见对象的学习 Date、DateFormat和Calendar类的简单认识 Date类 Date:表示特定的瞬间，精确到毫秒。 (一) 构造方法： {代码...} (二) 成员方法： {代码...} {代码...} DateFormat类 Date → String(...",
+      "author": {
+        "nick": "BWH_Steven",
+        "homepage": "/u/bwh_steven"
+      }
+    },
+    {
+      "id": "1190000019519759",
+      "title": "2019最新Android面试题",
+      "url": "/a/1190000019519759",
+      "desc": "金三银四到来了，找工作的好时候到了，小伙伴们是不是都在忙着找工作呢，小弟前一阵也是忙着在找工作，面试了好多公司，所幸的是进到了自己心仪的公司，也是很幸运的。下面我将自己亲身实战的面试题及收到的面试...",
+      "author": {
+        "nick": "爱编码的coder",
+        "homepage": "/u/chengxuyuanxiaohui"
+      }
+    },
+    {
+      "id": "1190000019517986",
+      "title": "WebView中Java与JavaScript的交互",
+      "url": "/a/1190000019517986",
+      "desc": "Android 开发过程中 WebView 的使用比较广泛，常用来加载网页，比如使用 WebView 加载新闻页面、使用 WebView 打开本应用的链接以及用 WebView 显示支付信息页面等，那么如何 Android 开发中如何与 WebView 中的...",
+      "author": {
+        "nick": "jzman",
+        "homepage": "/u/jzman"
+      }
+    },
+    {
+      "id": "1190000019517590",
+      "title": "Java中在时间戳计算的过程中遇到的数据溢出问题",
+      "url": "/a/1190000019517590",
+      "desc": "今天在跑定时任务的过程中，发现有一个任务在设置数据的查询时间范围异常，出现了开始时间戳比结束时间戳大的奇怪现象，计算时间戳的代码大致如下。",
+      "author": {
+        "nick": "翎野君",
+        "homepage": "/u/lingyejun"
+      }
+    },
+    {
+      "id": "1190000019517250",
+      "title": "分布式系统基础知识",
+      "url": "/a/1190000019517250",
+      "desc": "一个硬件或软件组件分布在不同的网络计算机上，彼此之间仅仅通过消息传递进行通信和协调的系统，这是分布式系统，在不同的硬件，不同的软件，不同的网络，不同的计算机上，仅仅通过消息来进行通讯与协调。",
+      "author": {
+        "nick": "y猪",
+        "homepage": "/u/aasadf"
+      }
+    },
+    {
+      "id": "1190000019517163",
+      "title": "乐字节java学习03-path环境变量",
+      "url": "/a/1190000019517163",
+      "desc": "1、path环境变量的作用 保证javac命令可以在任意目录下运行。 2、path配置的两种方案： 方法一 如下： ①点击计算机->右键->属性 ②高级系统设置 ③高级—>环境变量 ④系统变量 àPath—>编辑à光标移到最前...",
+      "author": {
+        "nick": "乐字节",
+        "homepage": "/u/lezijie"
+      }
+    },
+    {
+      "id": "1190000019516660",
+      "title": "大数据入门指南（GitHub开源项目）",
+      "url": "/a/1190000019516660",
+      "desc": "项目GitHub地址：[链接] 前 言 大数据技术栈思维导图 大数据常用软件安装指南 一、Hadoop 分布式文件存储系统——HDFS 分布式计算框架——MapReduce 集群资源管理器——YARN Hadoop单机伪集群环境搭建 Hadoop集群环境搭...",
+      "author": {
+        "nick": "黑白影",
+        "homepage": "/u/heibaiying"
+      }
+    },
+    {
+      "id": "1190000019514985",
+      "title": "Service Mesh 时代，Dubbo 架构该怎么跟进？",
+      "url": "/a/1190000019514985",
+      "desc": "答：大家好，我是小马哥（mercyblitz），一名学习当爸爸的父亲，Java 劝退师，Apache Dubbo PMC、Spring Cloud Alibaba项目架构师，《Spring Boot 编程思想》的作者。目前主要负责集团中间件开源项目、微服务技术...",
+      "author": {
+        "nick": "mercyblitz",
+        "homepage": "/u/mercyblitz"
+      }
+    },
+    {
+      "id": "1190000019514806",
+      "title": "spring statemachine的企业可用级开发指南4-多种状态机共存",
+      "url": "/a/1190000019514806",
+      "desc": "在上一章的例子中，我们实现了多个状态机并存执行，不同的订单有各自的状态机运行，但只有一种状态机，这显然不能满足实际业务的要求，比如我就遇到了订单流程和公文审批流程在同一个项目的情况，所以我们这一章...",
+      "author": {
+        "nick": "弯月残照飞檐",
+        "homepage": "/u/wanyuecanzhaofei"
+      }
+    },
+    {
+      "id": "1190000019514060",
+      "title": "开发零成本 ：En-Tan-Mo黄皮书解读之开发者篇",
+      "url": "/a/1190000019514060",
+      "desc": "由ETM科学院历时半年打磨的黄皮书，从科学和技术两方面全方位解读了ETM的理论基础和技术精华，并与中本聪精神结合，为大众了解ETM提供了更立体、多元的视角。En-Tan-Mo项目黄皮书一经发布，区块链垂直媒体星球日...",
+      "author": {
+        "nick": "ETM漫谈区块链",
+        "homepage": "/u/entanmo"
+      }
+    },
+    {
+      "id": "1190000019513922",
+      "title": "『 效率工具 』Spring Boot版的轻量级代码生成器，减少70%以上的开发任务",
+      "url": "/a/1190000019513922",
+      "desc": "之前很着迷于代码自动生成，减少写重复代码的工作量。网络上也搜索了很久，有基于插件的，有GUI的。但其配置和学习成本都比较高，都不是很如我意。本想自己用SpringBoot写一个，在收集相关的资料的时候， 偶然找...",
+      "author": {
+        "nick": "Java技术干货",
+        "homepage": "/u/javajishuganhuo"
+      }
+    },
+    {
+      "id": "1190000019513382",
+      "title": "HSF/Dubbo序列化时的LocalDateTime, Instant的性能问题",
+      "url": "/a/1190000019513382",
+      "desc": "在对Dubbo新版本做性能压测时，无意中发现对用例中某个TO（Transfer Object）类的一属性字段稍作修改，由Date变成LocalDateTime，结果是吞吐量由近5w变成了2w，RT由9ms升指90ms。",
+      "author": {
+        "nick": "阿里云云栖社区",
+        "homepage": "/u/yunqishequ_5aa899aad5395"
+      }
+    }
+  ]
+}
