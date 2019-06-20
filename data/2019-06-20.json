@@ -1,0 +1,155 @@
+{
+  "watchNum": "55315",
+  "blogs": [
+    {
+      "id": "1190000019534730",
+      "title": "postman使用说明",
+      "url": "/a/1190000019534730",
+      "desc": "本文主要描述postman的功能与使用方法Postman是404大厂的基于javascript语言完成的一款超级强大的插件，名字也很亲近（邮递员）。可以用于做API请求测试。前端后台测试使用Postman都可以提供很多帮助,使用方便而...",
+      "author": {
+        "nick": "Mark",
+        "homepage": "/u/mark_5bd6d3c5c44da"
+      }
+    },
+    {
+      "id": "1190000019534535",
+      "title": "Lucene介绍与应用",
+      "url": "/a/1190000019534535",
+      "desc": "Lucene介绍与应用 一、全文检索介绍 1.数据结构 结构化数据： {代码...} 非结构化数据 {代码...} 2.数据的搜索 顺序扫描法 {代码...} 全文检索法 {代码...} 3.全文检索 例如：新华字典。字典的拼音表和部首检字表...",
+      "author": {
+        "nick": "沧海一粟",
+        "homepage": "/u/canghaiyisu_5a91066673c15"
+      }
+    },
+    {
+      "id": "1190000019533487",
+      "title": "《Java编程方法论：响应式RxJava与代码设计实战》序",
+      "url": "/a/1190000019533487",
+      "desc": "在《2019 一月的InfoQ 架构和设计趋势报告》1中，响应式编程（Reactive Programming）和函数式（Functional Programing）仍旧编列在第一季度（Q1）的 Early Adopters（早期采纳者） 中。尽管这仅是一家之言，然而...",
+      "author": {
+        "nick": "mercyblitz",
+        "homepage": "/u/mercyblitz"
+      }
+    },
+    {
+      "id": "1190000019532971",
+      "title": "Handler 引起的内存泄露分析以及解决方法",
+      "url": "/a/1190000019532971",
+      "desc": "Handler是Android系统提供的一种在子线程更新UI的机制，但是使用不当会导致memory leak。严重的话可能导致OOM",
+      "author": {
+        "nick": "philadelphia",
+        "homepage": "/u/philadelphia"
+      }
+    },
+    {
+      "id": "1190000019532942",
+      "title": "ETM首席科学家Dr.Aaron Yuan：Facebook并不是在做一件与区块链有关的事",
+      "url": "/a/1190000019532942",
+      "desc": "对于Facebook发布Libra白皮书一事，ETM首席科学家Dr.Aaron Yuan表示：首先，不可否认，这对于整个区块链行业而言，是里程碑事件，因为Facebook做了BAT一直想做但没能做的事。但行业预期也不要过高，还要考虑到实...",
+      "author": {
+        "nick": "ETM漫谈区块链",
+        "homepage": "/u/entanmo"
+      }
+    },
+    {
+      "id": "1190000019532261",
+      "title": "如何编写无法维护的代码",
+      "url": "/a/1190000019532261",
+      "desc": "同时在吾辈的博客上也进行了转载 [链接]转自 [链接]，这里仅修复了部分错别字，优化了代码显示。--Roedy Green（老码农翻译，略有删节）",
+      "author": {
+        "nick": "rxliuli",
+        "homepage": "/u/rxliuli"
+      }
+    },
+    {
+      "id": "1190000019531575",
+      "title": "springCloud学习4（Zuul服务路由）",
+      "url": "/a/1190000019531575",
+      "desc": "springcloud 总集：[链接] 本篇中 Zuul 版本为 1.x，目前最新的是 2.x，二者在过滤器的使用上有较大区别 超长警告 项目代码见文章结尾 一、背景   微服务架构将一个应用拆分为很多个微小应用，这样会导致之前不是...",
+      "author": {
+        "nick": "flex",
+        "homepage": "/u/flex_5af4f84597dc9"
+      }
+    },
+    {
+      "id": "1190000019530425",
+      "title": "Java中的线程池",
+      "url": "/a/1190000019530425",
+      "desc": "Java中的线程池运用场景非常广泛，几乎所有的一步或者并发执行程序都可以使用。那么线程池有什么好处呢，以及他的实现原理是怎么样的呢？",
+      "author": {
+        "nick": "建飞",
+        "homepage": "/u/jianfei_pang"
+      }
+    },
+    {
+      "id": "1190000019530020",
+      "title": "leetcode刷题记录-【26  \tRemove Duplicates from Sorted Array】",
+      "url": "/a/1190000019530020",
+      "desc": "给定一个排序数组，你需要在原地删除重复出现的元素，使得每个元素只出现一次，返回移除后数组的新长度。不要使用额外的数组空间，你必须在原地修改输入数组并在使用 O(1) 额外空间的条件下完成。",
+      "author": {
+        "nick": "chenat9",
+        "homepage": "/u/chenat9"
+      }
+    },
+    {
+      "id": "1190000019529266",
+      "title": "动手搭建后端框架-Velocity模板引擎的应用",
+      "url": "/a/1190000019529266",
+      "desc": "为了提高开发效率，通常会想办法把一些模式固定的重复性的劳动抽取出来，以后再使用的时候，拿来主义就可以了。这样既可以提高开发效率，又降低了出错的风险。",
+      "author": {
+        "nick": "lichking2019",
+        "homepage": "/u/lichking2019"
+      }
+    },
+    {
+      "id": "1190000019529203",
+      "title": "Collections工具类的概述以及用法",
+      "url": "/a/1190000019529203",
+      "desc": "就在刚刚面试，被问到了Collections工具类有什么功能，我懵了，很少涉及到Collections这个工具类，只答了对集合元素的操作以及将线程不同步的集合类转换成线程同步，下定决心复盘一下。",
+      "author": {
+        "nick": "cartoon",
+        "homepage": "/u/cartoon_5cce2e0fb8fae"
+      }
+    },
+    {
+      "id": "1190000019529041",
+      "title": "Object的公用方法",
+      "url": "/a/1190000019529041",
+      "desc": "□ clone 保护方法，只有实现了Cloneable接口才可以调用，否则抛异常□ getClass final方法，获得运行时类型□ toString□ equals□ hashCode□ wait 就是使当前线程等待该对象的锁，当前线程必须是该对象的拥有者，也...",
+      "author": {
+        "nick": "巅峰大词典",
+        "homepage": "/u/lingfeng23"
+      }
+    },
+    {
+      "id": "1190000019528182",
+      "title": "于一次简单的get请求得知tomcat的一个小坑",
+      "url": "/a/1190000019528182",
+      "desc": "在当时我就立马咨询了百度老师，是因为Tomcat在某个版本里面升级了，对URL遵守RFC规范，对特殊字符不予以放行。要解决问题有两个方向：",
+      "author": {
+        "nick": "小哥",
+        "homepage": "/u/xiaoge_5b5a97df9e470"
+      }
+    },
+    {
+      "id": "1190000019527602",
+      "title": "让挖矿回归大众：En-Tan-Mo黄皮书解读之矿工篇",
+      "url": "/a/1190000019527602",
+      "desc": "前言：矿工对于区块链来说意味着什么？为什么ETM的共识机制将对矿工规则重新洗牌？怎样的机制让矿工享受公平与效益？本篇文章为星球日报对En-Tan-Mo项目黄皮书作出的第二篇解读。En-Tan-Mo究竟凭借什么吸引大批矿...",
+      "author": {
+        "nick": "ETM漫谈区块链",
+        "homepage": "/u/entanmo"
+      }
+    },
+    {
+      "id": "1190000019526788",
+      "title": "Web前端开发学习推荐--菜鸟必看",
+      "url": "/a/1190000019526788",
+      "desc": "Web前端开发是创建Web页面或app等前端界面呈现给用户的过程。第一阶段：前端基础（HTML / CSS / JavaScript / jQuery）初识HTML+CSS【学习笔记】HTML基础完结篇html基础知识——标签详解html基础知识——与用户交互!...",
+      "author": {
+        "nick": "开单中介源码",
+        "homepage": "/u/kaidanzhongjieyuanma"
+      }
+    }
+  ]
+}
