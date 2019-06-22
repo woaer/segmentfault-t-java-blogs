@@ -1,0 +1,155 @@
+{
+  "watchNum": "55539",
+  "blogs": [
+    {
+      "id": "1190000019553109",
+      "title": "JAVA中单元测试的常用方式",
+      "url": "/a/1190000019553109",
+      "desc": "单元测试（英语：Unit Testing）又称为模块测试, 是针对程序模块（软件设计的最小单位）来进行正确性检验的测试工作。程序单元是应用的最小可测试部件。在过程化编程中，一个单元就是单个程序、函数、过程等；对...",
+      "author": {
+        "nick": "空无",
+        "homepage": "/u/kongwu"
+      }
+    },
+    {
+      "id": "1190000019553105",
+      "title": "设计模式之原型模式",
+      "url": "/a/1190000019553105",
+      "desc": "0x01.定义与类型 定义：指原型实例指定创建对象的种类，并且通过拷贝这些原型创建新的对象 特点：不需要知道任何创建的细节，不调用构造函数 类型：创建型 UML 原型模式主要用于对象的复制，它的核心是就是类图中...",
+      "author": {
+        "nick": "猿在天",
+        "homepage": "/u/cos2a"
+      }
+    },
+    {
+      "id": "1190000019552270",
+      "title": "MySQL 只能做小项目？松哥要说几句公道话！",
+      "url": "/a/1190000019552270",
+      "desc": "松哥上学那会，很多人对 MySQL 有一些偏见，偏见主要集中在以下几方面： MySQL 不支持事务（事实上 MyISAM 有表锁，但是效率比较低） MySQL 存储的数据量比较小，适合小项目，大项目还是得上 Oracle、DB2 等 这么...",
+      "author": {
+        "nick": "江南一点雨",
+        "homepage": "/u/lenve"
+      }
+    },
+    {
+      "id": "1190000019551860",
+      "title": "前后端分离ssm配置跨域",
+      "url": "/a/1190000019551860",
+      "desc": "前后端分离开发需要跨域，之前只会pringboot跨域，只需要一个配置类即可，下面记录一下ssm的配置",
+      "author": {
+        "nick": "醉卧美人膝",
+        "homepage": "/u/panbingwen"
+      }
+    },
+    {
+      "id": "1190000019551664",
+      "title": "修改Flume源码使taildir source支持递归（可配置）",
+      "url": "/a/1190000019551664",
+      "desc": "Flume的source选哪个？taildir source首选！1.断点还原 positionFile可以记录偏移量2.可配置文件组，里面使用正则表达式配置多个要监控的文件就凭第一点其他的source都被比下去了！这么好的taildir source有一点...",
+      "author": {
+        "nick": "Wish大人",
+        "homepage": "/u/wishdaren_5c243b920a3eb"
+      }
+    },
+    {
+      "id": "1190000019550963",
+      "title": "关于Spring Boot你不得不知道的事--Spring Boot的基本操作",
+      "url": "/a/1190000019550963",
+      "desc": "1 Pom文件1.1 spring-boot-starter-parent表示当前pom文件从spring-boot-starter-parent继承下来，在spring-boot-starter-parent中提供了很多默认配置，可以简化我们的开发。",
+      "author": {
+        "nick": "陈斌",
+        "homepage": "/u/chenbin_5a5473857f8e8"
+      }
+    },
+    {
+      "id": "1190000019550560",
+      "title": "不得不知的责任链设计模式",
+      "url": "/a/1190000019550560",
+      "desc": "世界上最遥远的距离，不是生与死，而是它从你的世界路过无数次，你却选择视而不见，你无情，你冷酷啊......",
+      "author": {
+        "nick": "tan日拱一兵",
+        "homepage": "/u/tanrigongyibing"
+      }
+    },
+    {
+      "id": "1190000019550289",
+      "title": "Deeplink（深度链接）如何提高App转化率、留存率",
+      "url": "/a/1190000019550289",
+      "desc": "移动互联网时代，信息的分享传播无疑是 App 引流增长的关键，与其花费大量精力和成本找渠道、硬推广，不如从细节下手，用最快最简便的方法实现 Deeplink（深度链接）技术，打破信息孤岛、缩短分享路径、优化用户...",
+      "author": {
+        "nick": "小天使阿瑞斯",
+        "homepage": "/u/xiaotianshiaruisi"
+      }
+    },
+    {
+      "id": "1190000019549838",
+      "title": "ForkJoin框架之ForkJoinTask",
+      "url": "/a/1190000019549838",
+      "desc": "在前面的文章\"CompletableFuture和响应式编程\"中提到了ForkJoinTask和ForkJoinPool,后者毫无疑问是一个线程池,前者则是一个类似FutureTask经典定义的概念.",
+      "author": {
+        "nick": "山人",
+        "homepage": "/u/cugb"
+      }
+    },
+    {
+      "id": "1190000019549550",
+      "title": "En-Tan-Mo（ETM）项目周报（6月14日~6月20日）",
+      "url": "/a/1190000019549550",
+      "desc": "亲爱的ETM小伙伴： 近日， Facebook发布数字货币Libra， 是伟大征途还是飞蛾扑火？ 区块链革命还是全球骗局？ Anyway， ETM首席科学家Dr.Aaron Yuan是这样看的： 不可否认，这对于整个区块链行业而言，是里程碑事...",
+      "author": {
+        "nick": "ETM漫谈区块链",
+        "homepage": "/u/entanmo"
+      }
+    },
+    {
+      "id": "1190000019549231",
+      "title": "Java集合框架概述和集合的遍历",
+      "url": "/a/1190000019549231",
+      "desc": "如果一个程序只包含固定数量的且其生命周期都是已知的对象，那么这是一个非常简单的程序。通常，程序总是根据运行时才知道的某些条件去创建新对象。在此之前，不会知道你所需要对象的数量，甚至不知道确切的类型...",
+      "author": {
+        "nick": "BWH_Steven",
+        "homepage": "/u/bwh_steven"
+      }
+    },
+    {
+      "id": "1190000019549157",
+      "title": "albin-微服务（2-Eureka Server 高可用）",
+      "url": "/a/1190000019549157",
+      "desc": "分别配置 {代码...} {代码...} [链接]:8761/如下： [链接]:8762/如下： Eureka Client配置 {代码...}",
+      "author": {
+        "nick": "阿南",
+        "homepage": "/u/anan_5ca066790c21a"
+      }
+    },
+    {
+      "id": "1190000019549152",
+      "title": "7000位程序员揭秘2019 软件开发现状：看Python、Java与Go，谁主沉浮",
+      "url": "/a/1190000019549152",
+      "desc": "互联网的下半场，科技公司为面对更加严峻的竞争环境，越来越重视开源节流。而对于身处其中且撑起 IT 半边天的技术人，如今如何了？从技术角度来看，其又该作何改变顺应潮流？",
+      "author": {
+        "nick": "CDA数据分析师",
+        "homepage": "/u/cdac_da"
+      }
+    },
+    {
+      "id": "1190000019548462",
+      "title": "albin-微服务（1-Eureka Server）",
+      "url": "/a/1190000019548462",
+      "desc": "一、启动项配置@EnableEurekaServer {代码...} 二、Eureka Server Maven依赖 {代码...} 三、Eureka Server配置 {代码...} 四、Eureka Client Maven依赖 {代码...} 五、Eureka Client配置 {代码...} 六、Eureka Cl...",
+      "author": {
+        "nick": "阿南",
+        "homepage": "/u/anan_5ca066790c21a"
+      }
+    },
+    {
+      "id": "1190000019548408",
+      "title": "SpringBoot2.x【一】从零开始环境搭建",
+      "url": "/a/1190000019548408",
+      "desc": "对于之前的Spring框架的使用，各种配置文件XML、properties一旦出错之后错误难寻，这也是为什么SpringBoot被推上主流的原因，SpringBoot的配置简单，说5分钟能从框架的搭建到运行也不为过. 现在更是微服务当道，...",
+      "author": {
+        "nick": "拾荒者的笔记",
+        "homepage": "/u/gleans"
+      }
+    }
+  ]
+}
