@@ -1,0 +1,155 @@
+{
+  "watchNum": "55603",
+  "blogs": [
+    {
+      "id": "1190000019558327",
+      "title": "二维数组的旋转赋值(递归)",
+      "url": "/a/1190000019558327",
+      "desc": "描述 {代码...} {代码...}",
+      "author": {
+        "nick": "霸王王艾达",
+        "homepage": "/u/bawangwangaida"
+      }
+    },
+    {
+      "id": "1190000019558219",
+      "title": "观察者模式",
+      "url": "/a/1190000019558219",
+      "desc": "观察者模式又称订阅-发布模式，是一种一对多的依赖关系，多个观察者对象可同时监听某一主题对象，当该主题对象状态发生变化时，相应的所有观察者对象都可收到通知。",
+      "author": {
+        "nick": "leon",
+        "homepage": "/u/leon_5cdd85db2cdb3"
+      }
+    },
+    {
+      "id": "1190000019558101",
+      "title": "Linux I/O model 和 JAVA NIO/AIO",
+      "url": "/a/1190000019558101",
+      "desc": "Linux I/O model blocking I/O non blocking I/O I/O multiplexing (select and poll) signal driven I/O (SIGIO) asynchronous I/O (the POSIX aio_ functions) Chapter 6. I/O Multiplexing: The select and po...",
+      "author": {
+        "nick": "leon",
+        "homepage": "/u/leon_5cdd85db2cdb3"
+      }
+    },
+    {
+      "id": "1190000019557734",
+      "title": "win10下安装javaee开发环境(jdk+tomcat+mysql+redis+activemq)",
+      "url": "/a/1190000019557734",
+      "desc": "第3步：安装过程中会出现两次安装，第一次是jdk，第二次是jre。因为jdk中包含jre，所以只安装第一个即可。",
+      "author": {
+        "nick": "随遇而安",
+        "homepage": "/u/suiyueran_5ab10b421f04c"
+      }
+    },
+    {
+      "id": "1190000019557357",
+      "title": "Spring Data JPA中的getOne，findOne以及findById",
+      "url": "/a/1190000019557357",
+      "desc": "我们今天聊一下Spring Data JPA里的三个方法，分别是getOne，findOne以及findById。咋一看三个方法都能返回一个结果集，用哪个好像都没问题。我当初也是这么想的，后来在写作业的过程中出错了，真相只有一个。我...",
+      "author": {
+        "nick": "如期而至",
+        "homepage": "/u/ruqierzhi"
+      }
+    },
+    {
+      "id": "1190000019556312",
+      "title": "记录：vue-cli脚手架引入弹出层layer插件",
+      "url": "/a/1190000019556312",
+      "desc": "如何引入 在vue-cli里，引入文件有几钟方法 一种是用npm或者cnpm指令去下载对应的插件，然后在main.js里用import方法引入，这里不讨论这种方法 我比较喜欢采用的是直接下载对应的js，然后引入到vue项目中去 问题...",
+      "author": {
+        "nick": "吴傲阳",
+        "homepage": "/u/wuaoyang"
+      }
+    },
+    {
+      "id": "1190000019556065",
+      "title": "多线程程序加速指南",
+      "url": "/a/1190000019556065",
+      "desc": "虽然对于一个计算机程序来说最重要的是正确性，如果一个程序没办法产出正确的结果，那么这个程序的价值就大打折扣了。但程序性能也是很重要的一个方面，如果程序运行得太慢，那也会影响到程序的适用范围和硬件配...",
+      "author": {
+        "nick": "兜里有辣条",
+        "homepage": "/u/juxingzhutou"
+      }
+    },
+    {
+      "id": "1190000019556046",
+      "title": "多线程编程完全指南",
+      "url": "/a/1190000019556046",
+      "desc": "多线程编程或者说范围更大的并发编程是一种非常复杂且容易出错的编程方式，但是我们为什么还要冒着风险艰辛地学习各种多线程编程技术、解决各种并发问题呢？",
+      "author": {
+        "nick": "兜里有辣条",
+        "homepage": "/u/juxingzhutou"
+      }
+    },
+    {
+      "id": "1190000019555945",
+      "title": "java算法题：最长回文串",
+      "url": "/a/1190000019555945",
+      "desc": "LeetCode: 给定一个包含大写字母和小写字母的字符串，找到通过这些字母构造成的最长的回文串。在构造过程中，请注意区分大小写。比如\"Aa\"不能当做一个回文字符串。注 意:假设字符串的长度不会超过 1010。",
+      "author": {
+        "nick": "yin",
+        "homepage": "/u/yin_655159"
+      }
+    },
+    {
+      "id": "1190000019555729",
+      "title": "彻底理解编码",
+      "url": "/a/1190000019555729",
+      "desc": "只要涉及编程工作，编码是永远绕不开的问题。只有彻底理解编码，遇到编码问题才知道问题的根源在哪里，并找到对应的解决办法。花一点时间去彻底消化并理解他，长远来看，对以后工作效率的提升是非常值得的。下面...",
+      "author": {
+        "nick": "icehour",
+        "homepage": "/u/icehour"
+      }
+    },
+    {
+      "id": "1190000019555666",
+      "title": "JWT(Json Web Token) 科普",
+      "url": "/a/1190000019555666",
+      "desc": "JSON Web Token（缩写 JWT）是目前最流行的跨域认证解决方案，本文介绍它的原理和用法。",
+      "author": {
+        "nick": "若有光",
+        "homepage": "/u/christopher_59bf07234bf46"
+      }
+    },
+    {
+      "id": "1190000019555458",
+      "title": "ForkJoin框架之CountedCompleter,工作线程及并行流",
+      "url": "/a/1190000019555458",
+      "desc": "在前面的文章\"ForkJoin框架之ForkJoinTask\"中梳理了ForkJoin框架的简要运行格架和异常处理流程,显然要理解ForkJoin框架的调度,包含工作窃取等思想,需要去ForkJoinPool中了解,而对于ForkJoinTask的拓展和使用则需...",
+      "author": {
+        "nick": "山人",
+        "homepage": "/u/cugb"
+      }
+    },
+    {
+      "id": "1190000019554243",
+      "title": "Java版本之前世今生",
+      "url": "/a/1190000019554243",
+      "desc": "原文链接：Java版本之前世今生-最全篇 1.Oak 语言 Oak 语言是James Gosling 博士在1991创建 2.JDK Beta 1995年，Oak被命名为Java 提出了\"Write Once,Run Anywhere\"愿景 公开版本 8个包文件，212的类文件 3.JDK 1....",
+      "author": {
+        "nick": "小猪的互联网江湖",
+        "homepage": "/u/xiaozhudehulianwangjianghu"
+      }
+    },
+    {
+      "id": "1190000019553949",
+      "title": "Java对象集合万能排序封装",
+      "url": "/a/1190000019553949",
+      "desc": "直接进入正题，闲的没事把Java对对象集合排序进行了封装，写起来优雅一点，不用每次用的时候自己再new一个比较器对象了。",
+      "author": {
+        "nick": "qylost",
+        "homepage": "/u/qylost"
+      }
+    },
+    {
+      "id": "1190000019553109",
+      "title": "JAVA中单元测试的常用方式",
+      "url": "/a/1190000019553109",
+      "desc": "单元测试（英语：Unit Testing）又称为模块测试, 是针对程序模块（软件设计的最小单位）来进行正确性检验的测试工作。程序单元是应用的最小可测试部件。在过程化编程中，一个单元就是单个程序、函数、过程等；对...",
+      "author": {
+        "nick": "空无",
+        "homepage": "/u/kongwu"
+      }
+    }
+  ]
+}
