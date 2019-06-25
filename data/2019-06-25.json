@@ -1,0 +1,155 @@
+{
+  "watchNum": "55773",
+  "blogs": [
+    {
+      "id": "1190000019577230",
+      "title": "leetcode # 118:Pascal's Triangle 杨辉三角",
+      "url": "/a/1190000019577230",
+      "desc": "Given a non-negative integer numRows, generate the first numRows of Pascal's triangle.",
+      "author": {
+        "nick": "爱写Bug",
+        "homepage": "/u/icodebugs"
+      }
+    },
+    {
+      "id": "1190000019577184",
+      "title": "【修炼内功】[Java8] Lambda究竟是不是匿名类的语法糖",
+      "url": "/a/1190000019577184",
+      "desc": "初次接触Java8的时候感觉Lambda表达式很神奇(Lambda表达式带来的编程新思路)，但又总感觉它就是匿名类或者内部类的语法糖而已，只是语法上更为简洁罢了，如同以下的代码",
+      "author": {
+        "nick": "林舍",
+        "homepage": "/u/manerfan"
+      }
+    },
+    {
+      "id": "1190000019577158",
+      "title": "写文案，是责任与担当",
+      "url": "/a/1190000019577158",
+      "desc": "相信大家身边应该都有做点小本生意的朋友，或者我们这里指微商也好。我想我最先接触的应该是买鞋的，那些精仿、高仿的潮鞋或者球鞋，以前大一的时候想到的都是短暂的经济利益，在师兄的介绍下帮着做了潮鞋代理，...",
+      "author": {
+        "nick": "Java猫说",
+        "homepage": "/u/myself_5ab9f390c6129"
+      }
+    },
+    {
+      "id": "1190000019576884",
+      "title": "并发编程安全问题：可见性、原子性和有序性",
+      "url": "/a/1190000019576884",
+      "desc": "在多核下，多个线程同时修改一个共享变量时，如++操作，每个线程操作的CPU缓存写入内存的时机是不确定的。除非你调用CPU相关指令强刷。",
+      "author": {
+        "nick": "KiKi",
+        "homepage": "/u/ki_ki"
+      }
+    },
+    {
+      "id": "1190000019576697",
+      "title": "NIO学习笔记",
+      "url": "/a/1190000019576697",
+      "desc": "通道（channel）：用于读操作和写操作，主要负责数据的“运输”。相当于传统IO中的stream，不过stream是单向的。",
+      "author": {
+        "nick": "hushucheng",
+        "homepage": "/u/hushucheng"
+      }
+    },
+    {
+      "id": "1190000019576476",
+      "title": "【牛客网】-- 日日刷(第五天)",
+      "url": "/a/1190000019576476",
+      "desc": "=========================================================================",
+      "author": {
+        "nick": "牛帅",
+        "homepage": "/u/diguaganer"
+      }
+    },
+    {
+      "id": "1190000019575180",
+      "title": "设计模式系列之工厂模式",
+      "url": "/a/1190000019575180",
+      "desc": "这段代码中就使用了简单工厂模式。我们传入不同的参数类型，工厂内部就会创建不同的对象实例，我们根本不用管工厂内部的实现逻辑是什么。缺点：违背设计原则：对扩展开放，对修改关闭。因为假如我业务需要新增一...",
+      "author": {
+        "nick": "sjcLoveVode",
+        "homepage": "/u/sjclovevode"
+      }
+    },
+    {
+      "id": "1190000019574839",
+      "title": "Java虚拟机规范（Java虚拟机的结构）",
+      "url": "/a/1190000019574839",
+      "desc": "要正确实现Java虚拟机，你只需要能够读取类文件格式并正确执行其中指定的操作，不属于Java虚拟机规范的实现细节会不必要地限制实现者的创造力。例如，运行时数据区的内存布局、使用的垃圾收集算法、Java虚拟机指...",
+      "author": {
+        "nick": "博弈",
+        "homepage": "/u/lfheart"
+      }
+    },
+    {
+      "id": "1190000019574418",
+      "title": "【牛客网】-- 日日刷(第四天)",
+      "url": "/a/1190000019574418",
+      "desc": "=========================================================================",
+      "author": {
+        "nick": "牛帅",
+        "homepage": "/u/diguaganer"
+      }
+    },
+    {
+      "id": "1190000019574204",
+      "title": "简洁方便的集合处理——Java 8 stream流",
+      "url": "/a/1190000019574204",
+      "desc": "java 8已经发行好几年了，前段时间java 12也已经问世，但平时的工作中，很多项目的环境还停留在java1.7中。而且java8的很多新特性都是革命性的，比如各种集合的优化、lambda表达式等，所以我们还是要去了解java8...",
+      "author": {
+        "nick": "宜信技术学院",
+        "homepage": "/u/gaoleihan"
+      }
+    },
+    {
+      "id": "1190000019573988",
+      "title": "Lucene就是这么容易",
+      "url": "/a/1190000019573988",
+      "desc": "The Apache LuceneTM project develops open-source search software, including:Lucene Core, our flagship sub-project, provides Java-based indexing and search technology, as well as spellchecking, hit ...",
+      "author": {
+        "nick": "rodert",
+        "homepage": "/u/rodert"
+      }
+    },
+    {
+      "id": "1190000019573495",
+      "title": "设计模式 -- 观察者模式",
+      "url": "/a/1190000019573495",
+      "desc": "做了这么长时间的 菜鸟程序员 ，我好像还没有写过一篇关于设计模式的博客...咳咳...意外，纯属意外。所以，我决定，从这一刻起，我要把设计模式在从头学习一遍，不然都对不起我这 菜鸟 的身份。那这次，就从观察...",
+      "author": {
+        "nick": "尛玥玥",
+        "homepage": "/u/s_5cfefc12ea48a"
+      }
+    },
+    {
+      "id": "1190000019573374",
+      "title": "优雅的使用WebMagic框架写Java爬虫",
+      "url": "/a/1190000019573374",
+      "desc": "同时在几种动态加载技术（HtmlUnit、PhantomJS、Selenium、JavaScriptEngine）中对比作选择",
+      "author": {
+        "nick": "Kanarien",
+        "homepage": "/u/kanarien"
+      }
+    },
+    {
+      "id": "1190000019571755",
+      "title": "坑爹微信之读取PKCS12流时出现的java.io.IOException: DerInputStream.getLength",
+      "url": "/a/1190000019571755",
+      "desc": "上面的代码，在本地调试的时候正常跑过，没有出现任何异常，但是放到测试环境之后便会出现下面的异常，这三种异常都是从ks.load(certStream, password)这里抛出来的。定位这个问题花费了一些时间，且让我小小总结...",
+      "author": {
+        "nick": "翎野君",
+        "homepage": "/u/lingyejun"
+      }
+    },
+    {
+      "id": "1190000019571568",
+      "title": "Arrays.asList存在的坑",
+      "url": "/a/1190000019571568",
+      "desc": "阿里巴巴java开发规范说到使用工具类Arrays.asList()方法把数组转换成集合时,不能使用其修改集合相关的方法,它的add/remove/clear方法会抛出UnsupportedOperationException(),我们来看一下为什么会出现这种情况.",
+      "author": {
+        "nick": "我想问问天",
+        "homepage": "/u/wxwwt"
+      }
+    }
+  ]
+}
