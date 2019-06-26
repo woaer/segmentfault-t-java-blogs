@@ -1,0 +1,155 @@
+{
+  "watchNum": "55900",
+  "blogs": [
+    {
+      "id": "1190000019586355",
+      "title": "spring boot classloader ",
+      "url": "/a/1190000019586355",
+      "desc": "最近闲暇时写了一个hessian 小测试的工具，为了方便使用了spring boot。该测试工具最关键的步骤是动态加载每个测试模块对应的hessian api的jar包。开始的加载代码为:",
+      "author": {
+        "nick": "sdustyongz",
+        "homepage": "/u/sdustyongz"
+      }
+    },
+    {
+      "id": "1190000019582339",
+      "title": "使用IDEA创建一个SpringMVC的项目",
+      "url": "/a/1190000019582339",
+      "desc": "写在前面：参照《spring实战》实现 {代码...} {代码...} {代码...} {代码...} {代码...} {代码...} {代码...} {代码...} {代码...} {代码...} {代码...} {代码...}",
+      "author": {
+        "nick": "YangDouDou",
+        "homepage": "/u/yangdoudou"
+      }
+    },
+    {
+      "id": "1190000019581448",
+      "title": "Java集合框架——List接口",
+      "url": "/a/1190000019581448",
+      "desc": "List在Collection中充当着一个什么样的身份呢？——有序的 collection(也称为序列)",
+      "author": {
+        "nick": "BWH_Steven",
+        "homepage": "/u/bwh_steven"
+      }
+    },
+    {
+      "id": "1190000019580956",
+      "title": "Android内存泄漏优化",
+      "url": "/a/1190000019580956",
+      "desc": "目录介绍： 01.什么是内存泄漏 02.内存泄漏造成什么影响 03.内存泄漏检测的工具有哪些 04.关于Leakcanary使用介绍 05.错误使用单例造成的内存泄漏 06.Handler使用不当造成内存泄漏 07.Thread未关闭造成内容泄漏 0...",
+      "author": {
+        "nick": "杨充",
+        "homepage": "/u/xiangjianyu"
+      }
+    },
+    {
+      "id": "1190000019580947",
+      "title": "SpringBoot+Lucene案例介绍",
+      "url": "/a/1190000019580947",
+      "desc": "SpringBoot+Lucene案例介绍 一、案例介绍 模拟一个商品的站内搜索系统（类似淘宝的站内搜索）； 商品详情保存在mysql数据库的product表中，使用mybatis框架； 站内查询使用Lucene创建索引，进行全文检索； 增、删...",
+      "author": {
+        "nick": "沧海一粟",
+        "homepage": "/u/canghaiyisu_5a91066673c15"
+      }
+    },
+    {
+      "id": "1190000019579666",
+      "title": "点评CAT在Spring Cloud中的实践",
+      "url": "/a/1190000019579666",
+      "desc": "作者在基于Spring Cloud微服务的架构时，一直苦于寻找一个可靠的性能监控平台，后在大神的推荐下，详细研究了点评CAT，其满足对应用性能监控的需求（包含SQL性能，URL响应性能等），将踩过的坑进行分享一下。",
+      "author": {
+        "nick": "风雪里",
+        "homepage": "/u/fengxueli"
+      }
+    },
+    {
+      "id": "1190000019579621",
+      "title": "Commit message 代码提交规范",
+      "url": "/a/1190000019579621",
+      "desc": "Commit message 代码提交规范**前言**在多人协作项目中，如果代码风格统一、代码提交信息的说明准确，那么在后期协作以及Bug处理时会更加方便。Git 每次提交代码，都要写 Commit message（提交说明），否则就不允...",
+      "author": {
+        "nick": "playboy5566",
+        "homepage": "/u/playboy5566"
+      }
+    },
+    {
+      "id": "1190000019578924",
+      "title": "北冥有 Data，其名为鲲，鲲之大，一个 MySQL 放不下！",
+      "url": "/a/1190000019578924",
+      "desc": "根据 MySQL 官方文档的介绍，MySQL 理论上限是 (232)2 条数据，然而实际操作中，往往还受限于下面两条因素：",
+      "author": {
+        "nick": "江南一点雨",
+        "homepage": "/u/lenve"
+      }
+    },
+    {
+      "id": "1190000019578856",
+      "title": "Gradle环境下导出Swagger为PDF",
+      "url": "/a/1190000019578856",
+      "desc": "我个人是一直使用Swagger作为接口文档的说明的。但是由于在一些情况下，接口文档说明需要以文件的形式交付出去，如果再重新写一份文档难免有些麻烦。于是在网上看到了Swagger2Markup + asciidoctor导出PDF的方法...",
+      "author": {
+        "nick": "鹏徙南暝",
+        "homepage": "/u/pengnan"
+      }
+    },
+    {
+      "id": "1190000019578658",
+      "title": " 少啰嗦！一分钟带你读懂Java的NIO和经典IO的区别",
+      "url": "/a/1190000019578658",
+      "desc": "很多初涉网络编程的程序员，在研究Java NIO（即异步IO）和经典IO（也就是常说的阻塞式IO）的API时，很快就会发现一个问题：我什么时候应该使用经典IO，什么时候应该使用NIO？",
+      "author": {
+        "nick": "JackJiang",
+        "homepage": "/u/jackjiang"
+      }
+    },
+    {
+      "id": "1190000019578055",
+      "title": "spring statemachine的企业可用级开发指南6-持久化",
+      "url": "/a/1190000019578055",
+      "desc": "目前为止，我们都是从状态流程的开始阶段创建一个状态机，然后一路走下去。但在实际业务中，状态机可能需要在某个环节停留，等待其他业务的触发，然后再继续下面的流程。比如订单，可能在支付环节需要等待一个剁...",
+      "author": {
+        "nick": "弯月残照飞檐",
+        "homepage": "/u/wanyuecanzhaofei"
+      }
+    },
+    {
+      "id": "1190000019577478",
+      "title": "你知道和你不知道的冒泡排序",
+      "url": "/a/1190000019577478",
+      "desc": "我看过的很多的文章都把冒泡排序描述成我们喝的汽水，底部不停的有二氧化碳的气泡往上冒，还有描述成鱼吐泡泡，都特别的形象。",
+      "author": {
+        "nick": "detectiveHLH",
+        "homepage": "/u/detectivehlh"
+      }
+    },
+    {
+      "id": "1190000019577320",
+      "title": "Leetcode 54:Spiral Matrix 螺旋矩阵",
+      "url": "/a/1190000019577320",
+      "desc": "Given a matrix of m x n elements (m rows, n columns), return all elements of the matrix in spiral order.",
+      "author": {
+        "nick": "爱写Bug",
+        "homepage": "/u/icodebugs"
+      }
+    },
+    {
+      "id": "1190000019577230",
+      "title": "leetcode # 118:Pascal's Triangle 杨辉三角",
+      "url": "/a/1190000019577230",
+      "desc": "Given a non-negative integer numRows, generate the first numRows of Pascal's triangle.",
+      "author": {
+        "nick": "爱写Bug",
+        "homepage": "/u/icodebugs"
+      }
+    },
+    {
+      "id": "1190000019577184",
+      "title": "【修炼内功】[Java8] Lambda究竟是不是匿名类的语法糖",
+      "url": "/a/1190000019577184",
+      "desc": "初次接触Java8的时候感觉Lambda表达式很神奇(Lambda表达式带来的编程新思路)，但又总感觉它就是匿名类或者内部类的语法糖而已，只是语法上更为简洁罢了，如同以下的代码",
+      "author": {
+        "nick": "林舍",
+        "homepage": "/u/manerfan"
+      }
+    }
+  ]
+}
