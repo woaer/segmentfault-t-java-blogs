@@ -1,0 +1,155 @@
+{
+  "watchNum": "56035",
+  "blogs": [
+    {
+      "id": "1190000019598812",
+      "title": "依赖和耦合",
+      "url": "/a/1190000019598812",
+      "desc": "我刚开始学习软件工程，学习设计模式，总是会聊到设计模式，总是会说高内聚，低耦合，还有依赖注入。什么是依赖，什么是耦合？现在来聊一聊我对于依赖和耦合的理解。",
+      "author": {
+        "nick": "fish",
+        "homepage": "/u/fish_5906d93ea3058"
+      }
+    },
+    {
+      "id": "1190000019596308",
+      "title": "linux 常用命令汇总",
+      "url": "/a/1190000019596308",
+      "desc": "Linux中的大小写是敏感的，单词容易拼错,建议初学者使用快捷键TAB：对命令的自动补全 {代码...}",
+      "author": {
+        "nick": "辰月贰伍",
+        "homepage": "/u/chenyueerwu"
+      }
+    },
+    {
+      "id": "1190000019595325",
+      "title": "到底什么是重入锁，拜托，一次搞清楚！",
+      "url": "/a/1190000019595325",
+      "desc": "相信大家在工作或者面试过程中经常听到重入锁这个概念，或者与关键字 synchrozied 的对比，栈长面试了这么多人，80%的面试者都没有答对或没有答到点上，或者把双重效验锁搞混了，哭笑不得。。",
+      "author": {
+        "nick": "Java技术栈",
+        "homepage": "/u/javastack"
+      }
+    },
+    {
+      "id": "1190000019595158",
+      "title": "认识JDK8新特性之Lambda表达式",
+      "url": "/a/1190000019595158",
+      "desc": "说来挺惭愧的，JDK8已经出来这么多年，在实际项目中却很少真正使用Lambda表达式。其实工作中的项目很早就从开发、测试、生产，全面使用JDK8+Tomcat8了。",
+      "author": {
+        "nick": "zhangzw0505",
+        "homepage": "/u/zhangzw0505"
+      }
+    },
+    {
+      "id": "1190000019594145",
+      "title": "设计模式系列之观察者模式",
+      "url": "/a/1190000019594145",
+      "desc": "本文从jdk内置的观察者模式来介绍观察者模式。业务场景：当老师进门的时候，班长带头叫“老师好”，然后全班同学一起交“老师好”因为太简单，直接上代码",
+      "author": {
+        "nick": "sjcLoveVode",
+        "homepage": "/u/sjclovevode"
+      }
+    },
+    {
+      "id": "1190000019593724",
+      "title": "「Do.023」为啥用XML定义的虚线显示成了实线",
+      "url": "/a/1190000019593724",
+      "desc": "首发公众号：Android程序员日记作者：贤榆的榆如果喜欢，请 关注 | 赞赏 | 点在看阅读时间：4978字 8分钟",
+      "author": {
+        "nick": "贤榆的榆",
+        "homepage": "/u/ronny"
+      }
+    },
+    {
+      "id": "1190000019593689",
+      "title": "设计模式系列之观察者模式",
+      "url": "/a/1190000019593689",
+      "desc": "本文从jdk内置的观察者模式来介绍观察者模式。业务场景：当老师进门的时候，班长带头叫“老师好”，然后全班同学一起交“老师好”因为太简单，直接上代码",
+      "author": {
+        "nick": "sjcLoveVode",
+        "homepage": "/u/sjclovevode"
+      }
+    },
+    {
+      "id": "1190000019593563",
+      "title": "Git常用命令",
+      "url": "/a/1190000019593563",
+      "desc": "创建版本库mkdir learngit 创建learngit目录cd learngit 进入文件夹里pwd 查看目录路径git init 初始化仓库git add re.txt 在learngit目录下创建文本，提交它。git commit —m“”提交到本地仓库，引号写提交的具体...",
+      "author": {
+        "nick": "小羊羔",
+        "homepage": "/u/xiaoyanggao"
+      }
+    },
+    {
+      "id": "1190000019593308",
+      "title": "基于 Spring Session & Spring Security 微服务权限控制",
+      "url": "/a/1190000019593308",
+      "desc": "用户服务：用户登录认证（Authentication），用户授权（Authority），用户管理（Redis Session Management）",
+      "author": {
+        "nick": "Anoy",
+        "homepage": "/u/anoy"
+      }
+    },
+    {
+      "id": "1190000019593259",
+      "title": "skadmin管理系统",
+      "url": "/a/1190000019593259",
+      "desc": "项目基于 Spring Boot 2.1.0 、 Spring Boot JPA、 Spring Security、Redis、Vue的前后端分离的管理系统，项目采用分模块开发方式， 权限控制采用 RBAC（Role-Based Access Control，基于角色的访问控制），支持...",
+      "author": {
+        "nick": "Sinkiang",
+        "homepage": "/u/sinkiang"
+      }
+    },
+    {
+      "id": "1190000019593227",
+      "title": "Spring Batch - 轻量级批处理框架实践",
+      "url": "/a/1190000019593227",
+      "desc": "实践内容 从 MariaDB 一张表内读 10 万条记录，经处理后写到 MongoDB 。 具体实现 1、新建 Spring Boot 应用，依赖如下： {代码...} 2、创建一张表，并生成 10 万条数据 {代码...} 3、创建 Person 类 {代码...} 4...",
+      "author": {
+        "nick": "Anoy",
+        "homepage": "/u/anoy"
+      }
+    },
+    {
+      "id": "1190000019593086",
+      "title": "研究 Java 的四舍五入 ",
+      "url": "/a/1190000019593086",
+      "desc": "{代码...}",
+      "author": {
+        "nick": "诺亚",
+        "homepage": "/u/ny_noah"
+      }
+    },
+    {
+      "id": "1190000019592816",
+      "title": "JVM学习-Java内存区域职责（1）",
+      "url": "/a/1190000019592816",
+      "desc": "线程正在执行时，如果执行的是一个Java方法，则这个计数器记录的是正在执行的虚拟机字节码指令的地址。如果执行的是Native方法，则这个计数器值为空(Undefined)。此内存区域是唯一一个在Java虚拟机规范中没有规定...",
+      "author": {
+        "nick": "new無语",
+        "homepage": "/u/newq_yu"
+      }
+    },
+    {
+      "id": "1190000019592803",
+      "title": "Spring Boot & Spring Cloud 应用内存管理",
+      "url": "/a/1190000019592803",
+      "desc": "在整体应用架构中，非生产环境情况下，一般 1GB 或者 2GB 的 RAM 就足够了。如果我们将这个应用程序划分为 20 或 30 个独立的微服务，那么很难期望 RAM 仍将保持在 1GB 或 2GB 左右。特别是如果我们使用 Spring C...",
+      "author": {
+        "nick": "Anoy",
+        "homepage": "/u/anoy"
+      }
+    },
+    {
+      "id": "1190000019592098",
+      "title": "JFR可以采集、分析的五大类信息",
+      "url": "/a/1190000019592098",
+      "desc": "第一部分是内存信息，这里可以获取到GC的不同阶段及耗时情况、GC的停顿时间、GC的分代大小等配置信息，能够查看到对象分配，包括TLAB栈上分配情况，以及对象统计信息等等。",
+      "author": {
+        "nick": "巅峰大词典",
+        "homepage": "/u/lingfeng23"
+      }
+    }
+  ]
+}
