@@ -1,0 +1,155 @@
+{
+  "watchNum": "56150",
+  "blogs": [
+    {
+      "id": "1190000019608471",
+      "title": "如何在企业各团队间推广开发规范？",
+      "url": "/a/1190000019608471",
+      "desc": "前些日在阿里技术公众号回复了一个“开发规范如何推广”的问题，获得了蛮多点赞。故写此一篇文章细讲一下我们的推广方式，给困惑的朋友贡献一点思路。",
+      "author": {
+        "nick": "小马哥",
+        "homepage": "/u/diboot"
+      }
+    },
+    {
+      "id": "1190000019607240",
+      "title": "编程语言中的 DUCK TYPING",
+      "url": "/a/1190000019607240",
+      "desc": "许多编程语言都支持 Duck Typing ，通常 Duck Typing 是动态编程语言用来实现多态的一种方式。",
+      "author": {
+        "nick": "xiyanghui",
+        "homepage": "/u/xiyanghui"
+      }
+    },
+    {
+      "id": "1190000019606959",
+      "title": "区块链喧嚣不止，ETM何以成为行业清流？",
+      "url": "/a/1190000019606959",
+      "desc": "随着今年4月牛市迹象逐渐显明，几番大涨小跌勾得人心痒。截至发稿前，比特币最高已触13900点，再次登上热搜，身边的炒币玩家也无不期待明年比特币减产带来的财富虹吸。",
+      "author": {
+        "nick": "ETM漫谈区块链",
+        "homepage": "/u/entanmo"
+      }
+    },
+    {
+      "id": "1190000019606768",
+      "title": "Java泛型",
+      "url": "/a/1190000019606768",
+      "desc": "什么是泛型，看表面的意思，泛型就是指广泛的、普通的类型。在java中是指把类型明确的工作推迟到创建对象或调用方法的时候才去明确的特殊的类型。 可一看一个简单的例子：",
+      "author": {
+        "nick": "hushucheng",
+        "homepage": "/u/hushucheng"
+      }
+    },
+    {
+      "id": "1190000019606269",
+      "title": "网龙网络公司——诚招高级网页编辑（web前端开发）",
+      "url": "/a/1190000019606269",
+      "desc": "1、我们是谁？网龙网络控股有限公司（香港交易所股份代号：777）成立于一九九九年，总部位于中国福建福州。网龙各项经济指标均位居国内同行业前列，跻身福布斯全球企业2,000强，是国家规划布局的重点软件企业、国...",
+      "author": {
+        "nick": "Thinkerbe",
+        "homepage": "/u/thinkerbe"
+      }
+    },
+    {
+      "id": "1190000019605396",
+      "title": "What? 你还不知道Kotlin Coroutine?",
+      "url": "/a/1190000019605396",
+      "desc": "今天我们来聊聊Kotlin Coroutine，如果你还没有了解过，那么我要提前恭喜你，因为你将掌握一个新技能，对你的代码方面的提升将是很好的助力。",
+      "author": {
+        "nick": "idisfkj",
+        "homepage": "/u/idisfkj"
+      }
+    },
+    {
+      "id": "1190000019603898",
+      "title": "Spring Boot 入门（一）",
+      "url": "/a/1190000019603898",
+      "desc": "1、Spring Boot 简介简化Spring应用开发的一个框架； 整个Spring技术栈的一个大整合； J2EE开发的一站式解决方案；",
+      "author": {
+        "nick": "小羊羔",
+        "homepage": "/u/xiaoyanggao"
+      }
+    },
+    {
+      "id": "1190000019603354",
+      "title": "前后端分离mock server方案 -- Moco",
+      "url": "/a/1190000019603354",
+      "desc": "虽然前后端分离已经流行很多年了，仍有很多团队不能够充分的利用前后端分离的优势。主要体现在前端过分依赖服务环境, 将高效的约定分工合作模式理解很浅。",
+      "author": {
+        "nick": "苏亚强",
+        "homepage": "/u/seeing_5bdbefbfea520"
+      }
+    },
+    {
+      "id": "1190000019603069",
+      "title": "关于JavaConfig的初步认识",
+      "url": "/a/1190000019603069",
+      "desc": "Spring JavaConfig是Spring社区的产品，它提供了配置Spring IoC容器的纯Java方法。因此它有助于避免使用XML配置。使用JavaConfig的优点在于：",
+      "author": {
+        "nick": "巅峰大词典",
+        "homepage": "/u/lingfeng23"
+      }
+    },
+    {
+      "id": "1190000019602543",
+      "title": "Spring Cloud微服务配置中心",
+      "url": "/a/1190000019602543",
+      "desc": "格式 /{name}-{profiles}.yml /{label}/{name}-{profiles}.yml 注释： {代码...} 配置如下： {代码...}",
+      "author": {
+        "nick": "阿南",
+        "homepage": "/u/anan_5ca066790c21a"
+      }
+    },
+    {
+      "id": "1190000019602498",
+      "title": "iOS App渠道统计跟踪方法",
+      "url": "/a/1190000019602498",
+      "desc": "说起 iOS 的渠道统计，不少人会想到苹果官方的 App 分析功能（iTunes Connect），但实际操作中我们会发现，这个服务的统计维度还不够全面，许多广告主和运营人员更关心的是各个推广渠道实际带来的安装量、注册量...",
+      "author": {
+        "nick": "小天使阿瑞斯",
+        "homepage": "/u/xiaotianshiaruisi"
+      }
+    },
+    {
+      "id": "1190000019601114",
+      "title": "Gradle 笔记",
+      "url": "/a/1190000019601114",
+      "desc": "Make the impossible possible, make the possible easy, and make the easy elegant",
+      "author": {
+        "nick": "天宇",
+        "homepage": "/u/tianyu94"
+      }
+    },
+    {
+      "id": "1190000019600448",
+      "title": "Leetcode 67：Add Binary(二进制求和) ",
+      "url": "/a/1190000019600448",
+      "desc": "(python、java)Given two binary strings, return their sum (also a binary string).The input strings are both non-empty and contains only characters 1 or 0.给定两个二进制字符串，返回他们的和（用二进制...",
+      "author": {
+        "nick": "爱写Bug",
+        "homepage": "/u/icodebugs"
+      }
+    },
+    {
+      "id": "1190000019600398",
+      "title": "Java 自增自减，到底咋回事呀(Java面试)",
+      "url": "/a/1190000019600398",
+      "desc": "开讲前肯定得先来道题呗 {代码...} {代码...} 这边先不讲字节码的事。一步一步来讲解这中间都发生了啥？ int i = 1 ；这个我就不说了。。 看我画的图之前，在这里先进行一些总结： 自增、自减操作都是直接修改变...",
+      "author": {
+        "nick": "chaojer7",
+        "homepage": "/u/chaojer7"
+      }
+    },
+    {
+      "id": "1190000019599913",
+      "title": "python kotlin 人工智能 资料大全",
+      "url": "/a/1190000019599913",
+      "desc": "重新定义Spring Cloud实战链接: [链接]提取码: nn38 征服PYTHON-语言基础与典型应用链接: [链接]提取码: fbq4 算法图解 像小说一样有趣的算法入门书链接: [链接]提取码: q3vz 数据科学导论Python语言实现链接: [...",
+      "author": {
+        "nick": "chaoscat",
+        "homepage": "/u/chaoscat"
+      }
+    }
+  ]
+}
