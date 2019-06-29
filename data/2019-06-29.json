@@ -1,0 +1,155 @@
+{
+  "watchNum": "56259",
+  "blogs": [
+    {
+      "id": "1190000019616987",
+      "title": "零基础如何快速学好大数据？",
+      "url": "/a/1190000019616987",
+      "desc": "大数据技术及应用已经成为互联网+时代发展的最大的趋。这也使得很多人纷纷选择学习大数据，在时代发展的潮流中获得属于自己的一份天地。大数据技术体系庞大，包括的知识较多，系统的学习大数据可以让你全面掌握大...",
+      "author": {
+        "nick": "一起学习大数据",
+        "homepage": "/u/yiqixuexidashuju"
+      }
+    },
+    {
+      "id": "1190000019615818",
+      "title": "JAVA 四中引用类型",
+      "url": "/a/1190000019615818",
+      "desc": "强引用在Java中最常见的就是强引用，把一个对象赋给一个引用变量，这个引用变量就是一个强引用。当一个对象被强引用变量引用时，它处于可达状态，它是不可能被垃圾回收机制回收的，即使该对象以后永远都不会被用...",
+      "author": {
+        "nick": "exception",
+        "homepage": "/u/fendouxiaowoniu"
+      }
+    },
+    {
+      "id": "1190000019615791",
+      "title": "java学习体会",
+      "url": "/a/1190000019615791",
+      "desc": "学习资料：java核心技术 第I卷工厂方法（factory method）没看懂。java方法参数总是按值调用，",
+      "author": {
+        "nick": "戴航",
+        "homepage": "/u/daihang"
+      }
+    },
+    {
+      "id": "1190000019615748",
+      "title": "What？Tomcat-竟然也算中间件？",
+      "url": "/a/1190000019615748",
+      "desc": "关于 MyCat 的铺垫文章已经写了两篇了： MySQL 只能做小项目？松哥要说几句公道话！ 北冥有 Data，其名为鲲，鲲之大，一个 MySQL 放不下！ 今天是最后一次铺垫，后面就可以迎接大 Boss 了！ <!--more--> 本...",
+      "author": {
+        "nick": "江南一点雨",
+        "homepage": "/u/lenve"
+      }
+    },
+    {
+      "id": "1190000019615592",
+      "title": "WebDriver常用方法",
+      "url": "/a/1190000019615592",
+      "desc": "前面我们已经学习了定位元素， 定位只是第一步， 定位之后需要对这个元素进行操作， 或单击（按钮） 或 输入（输入框） ， 下面就来认识这些最常用的方法。",
+      "author": {
+        "nick": "huanghe1993",
+        "homepage": "/u/huanghe1993"
+      }
+    },
+    {
+      "id": "1190000019615213",
+      "title": "# Leetcode 14：Longest Common Prefix 最长公共前缀",
+      "url": "/a/1190000019615213",
+      "desc": "Write a function to find the longest common prefix string amongst an array of strings.",
+      "author": {
+        "nick": "爱写Bug",
+        "homepage": "/u/icodebugs"
+      }
+    },
+    {
+      "id": "1190000019615125",
+      "title": "使用jeecg-boot心得",
+      "url": "/a/1190000019615125",
+      "desc": "使用jeecg-boot心得    随着信息技术的飞速发展，系统架构设计面对更专业、软件开发职责更明确的发展。如今流行的微服务、前后端分离、Docker容器虚拟化待新技术，Jeecg-boot抓住软件潮流发展趋势，从jeecg成功平...",
+      "author": {
+        "nick": "ythlibo",
+        "homepage": "/u/ythlibo"
+      }
+    },
+    {
+      "id": "1190000019614820",
+      "title": "阿里高可用架构团队招新(提前批不影响秋招，社招也收)",
+      "url": "/a/1190000019614820",
+      "desc": "高可用架构团队是阿里巴巴保障稳定性的护航舰队，提供的高可用架构基础设施直面双11洪峰流量，包括全链路压测、容量规划、准入控制、限流降级、流量调度等；通过攻防演练、环境隔离、业务对账等常态稳定性保障技...",
+      "author": {
+        "nick": "MageekChiu",
+        "homepage": "/u/mageek"
+      }
+    },
+    {
+      "id": "1190000019614579",
+      "title": "JVM调优浅谈",
+      "url": "/a/1190000019614579",
+      "desc": "java虚拟机中，数据类型可以分为两类：基本类型和引用类型。基本类型的变量保存原始值，即：它代表的值就是数值本身，而引用类型的变量保存引用值。“引用值”代表了某个对象的引用，而不是对象本身，对象本身存放...",
+      "author": {
+        "nick": "大将军007",
+        "homepage": "/u/dajiangjun007"
+      }
+    },
+    {
+      "id": "1190000019614211",
+      "title": "Springboot整合Hibernate拦截器时无法向拦截器注入Bean",
+      "url": "/a/1190000019614211",
+      "desc": "根据异常信息可知，Spring的IoC容器中并没有SimpleInterceptor这个Bean，从此处可知spring.jpa.properties.hibernate.ejb.interceptor=com.rjh.interceptor.SimpleInterceptor并没有把这个拦截器注册到Spring容器中",
+      "author": {
+        "nick": "Null",
+        "homepage": "/u/null_ryan"
+      }
+    },
+    {
+      "id": "1190000019613985",
+      "title": "如何在Spring Boot中禁用Actuator端点安全性？",
+      "url": "/a/1190000019613985",
+      "desc": "安全性是使用标准的HttpServletRequest.isUserInRole方法实施的。 我们可以使用management.security.enabled = false 来禁用安全性。只有在执行机构端点在防火墙后访问时，才建议禁用安全性。",
+      "author": {
+        "nick": "巅峰大词典",
+        "homepage": "/u/lingfeng23"
+      }
+    },
+    {
+      "id": "1190000019613693",
+      "title": "设计模式系列之单例模式",
+      "url": "/a/1190000019613693",
+      "desc": "本文循序渐进介绍单例模式的几种实现方式，以及Jdk中使用到单例模式的例子，以及sring框架中使用到的单例模式例子。",
+      "author": {
+        "nick": "sjcLoveVode",
+        "homepage": "/u/sjclovevode"
+      }
+    },
+    {
+      "id": "1190000019612344",
+      "title": "消息队列笔记",
+      "url": "/a/1190000019612344",
+      "desc": "比较官方的说法是是指利用 高效可靠 的 消息传递机制 进行与平台无关的 数据交流，并基于 数据通信 来进行分布式系统的集成。我们可以理解为将要传输的数据放在一个队列中。",
+      "author": {
+        "nick": "hushucheng",
+        "homepage": "/u/hushucheng"
+      }
+    },
+    {
+      "id": "1190000019612307",
+      "title": "反射改变TabLayout属性",
+      "url": "/a/1190000019612307",
+      "desc": "目录介绍 01.遇到的实际需求分析 02.原生TabLayout局限 03.TabLayout源码解析 3.1 Tab选项卡如何实现 3.2 滑动切换Tab选项卡 3.3 Tab选项卡指示线宽度 04.设置自定义tabView选项卡 05.自定义指示器的长度 06.设置...",
+      "author": {
+        "nick": "杨充",
+        "homepage": "/u/xiangjianyu"
+      }
+    },
+    {
+      "id": "1190000019612077",
+      "title": "En-Tan-Mo（ETM）项目周报（6.21~6.27）",
+      "url": "/a/1190000019612077",
+      "desc": "亲爱的ETM小伙伴： 比特币从上周末开始 一路狂飙 接连冲破了 10000点 11000点 12000点 13000点 尽管此后有回落 但14000点指日可待 而四连跳的速度也是惊人的快 从9000到10000点，用了22天 从10000到11000点，用了...",
+      "author": {
+        "nick": "ETM漫谈区块链",
+        "homepage": "/u/entanmo"
+      }
+    }
+  ]
+}
