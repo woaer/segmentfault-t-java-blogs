@@ -1,0 +1,155 @@
+{
+  "watchNum": "56328",
+  "blogs": [
+    {
+      "id": "1190000019622629",
+      "title": "Eclipse 安装Tomcat插件及部署配置教程",
+      "url": "/a/1190000019622629",
+      "desc": "1.Eclipse里通过Marketplace在线安装(1).点击 Help --> Eclipse Marketplace…(2).在弹出的窗口中点击搜索Tomcat，点击install安装。",
+      "author": {
+        "nick": "小羊羔",
+        "homepage": "/u/xiaoyanggao"
+      }
+    },
+    {
+      "id": "1190000019622443",
+      "title": "Spring中Bean创建完成后执行指定代码的几种实现方式",
+      "url": "/a/1190000019622443",
+      "desc": "在实际开发中经常会遇到在spring容器加载完某个bean之后，需要执行一些业务代码的场景。比如初始化配置、缓存等。有以下几种方式可以实现此需求（欢迎补充）",
+      "author": {
+        "nick": "君莫笑",
+        "homepage": "/u/jmxiao"
+      }
+    },
+    {
+      "id": "1190000019622387",
+      "title": "Gradle构建SpringBoot程序依赖管理之依赖版本自动控制",
+      "url": "/a/1190000019622387",
+      "desc": "前言：Spring体系中很多库之间相互依赖，但是由于版本之间差异比较大，我们需要比较精确的知道每个库的版本对应关系，不然很容易造成“库”与“库”之间对应不上，导致部分功能无效，甚至是异常情况。程序员排查起来...",
+      "author": {
+        "nick": "weecoding",
+        "homepage": "/u/weecoding"
+      }
+    },
+    {
+      "id": "1190000019622314",
+      "title": "Eclipse 安装svn插件教程",
+      "url": "/a/1190000019622314",
+      "desc": "Eclipse安装svn插件的三种方式1.Eclipse里在线安装(1).点击 Help --> Install New Software…",
+      "author": {
+        "nick": "小羊羔",
+        "homepage": "/u/xiaoyanggao"
+      }
+    },
+    {
+      "id": "1190000019621965",
+      "title": "1104-分糖果 II",
+      "url": "/a/1190000019621965",
+      "desc": "排排坐，分糖果。 我们买了一些糖果 candies，打算把它们分给排好队的 n = num_people 个小朋友。 给第一个小朋友 1 颗糖果，第二个小朋友 2 颗，依此类推，直到给最后一个小朋友 n 颗糖果。 然后，我们再回到队...",
+      "author": {
+        "nick": "Null",
+        "homepage": "/u/null_ryan"
+      }
+    },
+    {
+      "id": "1190000019621866",
+      "title": "mongoDB 4.0 事务",
+      "url": "/a/1190000019621866",
+      "desc": "官网：mongoDB中，对单文档的操作是原子性的。例如insertOne，updateOne等操作。因此建议使用嵌入式文档来实现事务需求，而不是规范化的跨文档设计。但是业务上例如三方数据依赖的需求往往使用嵌入式文档不是理想...",
+      "author": {
+        "nick": "vulgar_cd",
+        "homepage": "/u/vulgar_cd"
+      }
+    },
+    {
+      "id": "1190000019621743",
+      "title": "超实用百道Java面试题",
+      "url": "/a/1190000019621743",
+      "desc": "JDK 是java development kit的简称，java开发工具包，提供java的开发环境和运行环境。JRE 是java runtime environment 的简称，java运行环境，为java的运行提供了所需的环境。JDK其中包含了JRE，同时还包含了编译...",
+      "author": {
+        "nick": "小羊羔",
+        "homepage": "/u/xiaoyanggao"
+      }
+    },
+    {
+      "id": "1190000019620400",
+      "title": "傻傻弄不清楚的JSON? ",
+      "url": "/a/1190000019620400",
+      "desc": "作为一名开发人员，我们时常跟JSON打交道，但对于JSON却有这不少的疑惑，但平常也就是停留在使用的角度上。今天我们就来走进JSON。 我们首先引入两个问题,这两个问题将帮助我们理解JSON。",
+      "author": {
+        "nick": "北冥有只鱼",
+        "homepage": "/u/beiyouzhiyu"
+      }
+    },
+    {
+      "id": "1190000019619709",
+      "title": "使用jeecg-boot心得",
+      "url": "/a/1190000019619709",
+      "desc": "1、 表格中数据过多，当数据竖列超过十五列，横向超过二十条时，点击表格前面的多选框进行单选和全选时出现卡顿。2、 在使用表格时用scopedslots属性时使用日期组件进行双向绑定时，无法切换年月，只能手输，在此...",
+      "author": {
+        "nick": "翼飞冲天",
+        "homepage": "/u/yifeichongtian_5d17588e372e2"
+      }
+    },
+    {
+      "id": "1190000019619667",
+      "title": "可能是全网最好的MySQL重要知识点/面试题总结",
+      "url": "/a/1190000019619667",
+      "desc": "标题有点标题党的意思，看了文章之后希望大家不会有这个想法，绝对干货！！！这篇花文章是我花了几天时间对之前总结的MySQL知识点做了完善后的产物，这篇文章可以用来回顾MySQL基础知识以及备战MySQL常见面试问题。",
+      "author": {
+        "nick": "Snailclimb",
+        "homepage": "/u/snailclimb"
+      }
+    },
+    {
+      "id": "1190000019619109",
+      "title": "java的集合和泛型的知识点归纳1",
+      "url": "/a/1190000019619109",
+      "desc": "day02【Collection、泛型】 主要内容 Collection集合 迭代器 增强for 泛型 教学目标 [ ] 能够说出集合与数组的区别 [ ] 说出Collection集合的常用功能 [ ] 能够使用迭代器对集合进行取元素 [ ] 能够说出集合的使...",
+      "author": {
+        "nick": "赵志强",
+        "homepage": "/u/zhaozhiqiang_5b0d18d515218"
+      }
+    },
+    {
+      "id": "1190000019619009",
+      "title": "获取邮箱服务器地址",
+      "url": "/a/1190000019619009",
+      "desc": "编写代码 {代码...} 结果如下",
+      "author": {
+        "nick": "洛洛木南2",
+        "homepage": "/u/luoluomunan2"
+      }
+    },
+    {
+      "id": "1190000019618917",
+      "title": "字符串的四则运算表达式",
+      "url": "/a/1190000019618917",
+      "desc": "我的方法是先从括号的算起，根据运算符索引查找运算数索引，从而进行计算，算完后删除运算符和运算数，并将运算结果放回待运算的列表",
+      "author": {
+        "nick": "平湖",
+        "homepage": "/u/eahau"
+      }
+    },
+    {
+      "id": "1190000019618270",
+      "title": "【Java】栈区、堆区和方法区的解析",
+      "url": "/a/1190000019618270",
+      "desc": "栈区描述的是方法执行的内存模型。每个方法在执行时都会创建一个栈帧(存放存储局部变量、操作数栈、动态链接、方法出口等)",
+      "author": {
+        "nick": "hizengzeng",
+        "homepage": "/u/hizengzeng"
+      }
+    },
+    {
+      "id": "1190000019617975",
+      "title": "vavr：让你像写Scala一样写Java",
+      "url": "/a/1190000019617975",
+      "desc": "Hystrix是Netflix开源的限流、熔断降级组件，去年发现Hystrix已经不再更新了，而在github主页上将我引导到了另一个替代项目——resilience4j，这个项目是基于Java 8开发的，并且只使用了vavr库，也就是我们今天要介...",
+      "author": {
+        "nick": "阿杜",
+        "homepage": "/u/duqi"
+      }
+    }
+  ]
+}
