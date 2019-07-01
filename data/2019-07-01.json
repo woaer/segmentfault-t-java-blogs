@@ -1,0 +1,155 @@
+{
+  "watchNum": "56387",
+  "blogs": [
+    {
+      "id": "1190000019630073",
+      "title": "MAC iterm2 常用快捷键大全",
+      "url": "/a/1190000019630073",
+      "desc": "标签 新建标签：command + t 关闭标签：command + w 切换标签：command + 数字 / command + 左右方向键 切换全屏：command + enter 查找：command + f 分屏 垂直分屏：command + d 水平分屏：command + shift + d...",
+      "author": {
+        "nick": "Anoy",
+        "homepage": "/u/anoy"
+      }
+    },
+    {
+      "id": "1190000019629308",
+      "title": "【极致】一个 jar 包的自我修养",
+      "url": "/a/1190000019629308",
+      "desc": "开发实践中，对于开发一个 jar 包，很多人都只是完成功能，只要功能使用没问题，就算是完事了，但其实远远不够。当用户使用 jar 包的时候，可能会遇到以下这些问题：",
+      "author": {
+        "nick": "dadiyang",
+        "homepage": "/u/dadiyang"
+      }
+    },
+    {
+      "id": "1190000019629166",
+      "title": "CAS也是锁",
+      "url": "/a/1190000019629166",
+      "desc": "CAS（CompareAndSwap）顾名思义比较再交换。先比较，发现与预期一致，说明没有其他线程改动过，于是就交换；如果不一致说明改动过，就再来一次，如此往复。",
+      "author": {
+        "nick": "Wish大人",
+        "homepage": "/u/wishdaren_5c243b920a3eb"
+      }
+    },
+    {
+      "id": "1190000019628703",
+      "title": "大数据分析学习必须用到的工具，一定要收藏",
+      "url": "/a/1190000019628703",
+      "desc": "简单来说，我们可以把大数据分析工具简单分成两个维度： 第一维度：数据存储层——数据报表层——数据分析层——数据展现层 第二维度：用户级——部门级——企业级——BI级 1、数据存储层 数据存储涉及到数据库的概念和数据库...",
+      "author": {
+        "nick": "一起学习大数据",
+        "homepage": "/u/yiqixuexidashuju"
+      }
+    },
+    {
+      "id": "1190000019627836",
+      "title": "十几位资深架构师，整理了2019最新架构师学习体系，分享给大家......",
+      "url": "/a/1190000019627836",
+      "desc": "不管是开发、测试、运维，每个技术人员心里都有一个成为技术大牛的梦，毕竟“梦想总是要有的，万一实现了呢”！正是对技术梦的追求，促使我们不断地努力和提升自己。",
+      "author": {
+        "nick": "大将军007",
+        "homepage": "/u/dajiangjun007"
+      }
+    },
+    {
+      "id": "1190000019627320",
+      "title": "2019淘宝：OceanBase分布式系统负载均衡案例分享",
+      "url": "/a/1190000019627320",
+      "desc": "摘要：Heroku的问题让我们意识到，在负载均衡测试时发现问题并妥善解决的成功经验有没有？于是，挖掘出“淘宝在双十一压测OB时发现存在严重的随机访问导致负载不均问题，并通过加权算法妥善解决”的成功案例，也就...",
+      "author": {
+        "nick": "大将军007",
+        "homepage": "/u/dajiangjun007"
+      }
+    },
+    {
+      "id": "1190000019627287",
+      "title": "前后端分离时代，Java 程序员的变与不变！",
+      "url": "/a/1190000019627287",
+      "desc": "松哥认真看了下这个问题，感觉对于初次接触前后端分离的小伙伴来说，可能都会存在这样的疑问，于是决定通过这篇文章和大家聊一聊这个话题。",
+      "author": {
+        "nick": "江南一点雨",
+        "homepage": "/u/lenve"
+      }
+    },
+    {
+      "id": "1190000019625254",
+      "title": "Java设计模式-策略模式",
+      "url": "/a/1190000019625254",
+      "desc": "Define a family of algorithms,encapsulate each one,and make them interchangeable.定义一组算法，将每个算法都封装起来，并且使它们之间可以互换。",
+      "author": {
+        "nick": "tianranll",
+        "homepage": "/u/tianranll"
+      }
+    },
+    {
+      "id": "1190000019625247",
+      "title": "使用jeect-boot心得",
+      "url": "/a/1190000019625247",
+      "desc": "4 改进建议 4.1 添加数据库维护模块假如现在我一个人要同时开发多个项目，使用的是不同的数据库甚至是不同的数据库类型，同时启动不同的的项目来生成代码也不合理这时添加数据库模块就方便了，我在online表单时，...",
+      "author": {
+        "nick": "那个男人",
+        "homepage": "/u/nagenanren_5d16c4cb0b4ba"
+      }
+    },
+    {
+      "id": "1190000019624936",
+      "title": "Spring Cloud 服务网关Zuul",
+      "url": "/a/1190000019624936",
+      "desc": "服务网关的要素 稳定性 安全性 性能，并发性 扩展性Spring Cloud Zuul {代码...} Zuul路由配置 {代码...} {代码...} Zuul配置的动态注入(也可以写入启动类中) {代码...} 典型应用场景 前置过滤器 {代码...} 后置...",
+      "author": {
+        "nick": "阿南",
+        "homepage": "/u/anan_5ca066790c21a"
+      }
+    },
+    {
+      "id": "1190000019624770",
+      "title": "怎么重复使用inputStream?",
+      "url": "/a/1190000019624770",
+      "desc": "之前做项目的时候遇到一个问题,就是从网络中读取的图片要上传到oss,而且要对图片进行裁剪和压缩,其中上传和裁剪都要使用到图片的inputStream,又因为inputstream不能重复读,导致裁剪是成功的,而上传是失败的.我们...",
+      "author": {
+        "nick": "我想问问天",
+        "homepage": "/u/wxwwt"
+      }
+    },
+    {
+      "id": "1190000019624691",
+      "title": "阿里云新版主页，我还以为打开了淘宝...",
+      "url": "/a/1190000019624691",
+      "desc": "常规操作，打开阿里云发现上线了新版页面。但是，根据笔者调研了不同用户所展现的情况看，应该还处于灰度阶段，并没有对所有用户可见。",
+      "author": {
+        "nick": "程序猿DD",
+        "homepage": "/u/coderdd"
+      }
+    },
+    {
+      "id": "1190000019624610",
+      "title": "LinkedList介绍以及常用方法",
+      "url": "/a/1190000019624610",
+      "desc": "package com.itheima.demo01.List; import java.util.LinkedList; /* {代码...} */public class Demo02LinkedList { {代码...} boolean add(E e) {代码...} void add(int index, E element) {代码...} boolean ad...",
+      "author": {
+        "nick": "赵志强",
+        "homepage": "/u/zhaozhiqiang_5b0d18d515218"
+      }
+    },
+    {
+      "id": "1190000019624553",
+      "title": "java的和集合有关的数据结构和LIst、ArrayList、LinkedList介绍",
+      "url": "/a/1190000019624553",
+      "desc": "day03 【List、Set、数据结构、Collections】 主要内容 数据结构 List集合 Set集合 Collections 教学目标 [ ] 能够说出List集合特点 [ ] 能够说出常见的数据结构 [ ] 能够说出数组结构特点 [ ] 能够说出栈结构特...",
+      "author": {
+        "nick": "赵志强",
+        "homepage": "/u/zhaozhiqiang_5b0d18d515218"
+      }
+    },
+    {
+      "id": "1190000019624263",
+      "title": "9、springcloud整合logback打印sql语句",
+      "url": "/a/1190000019624263",
+      "desc": "Logback是由log4j创始人设计的又一个开源日志组件。logback当前分成三个模块：logback-core、logback- classic和logback-access。logback-core是其它两个模块的基础模块。logback-classic是log4j的一个 改良版本...",
+      "author": {
+        "nick": "happyhuangjinjin",
+        "homepage": "/u/happyhuangjinjin"
+      }
+    }
+  ]
+}
