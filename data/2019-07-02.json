@@ -1,0 +1,155 @@
+{
+  "watchNum": "56506",
+  "blogs": [
+    {
+      "id": "1190000019640102",
+      "title": "LeetcCode 27：移除元素 Remove Element（python、java）",
+      "url": "/a/1190000019640102",
+      "desc": "给定一个数组 nums 和一个值 val，你需要原地移除所有数值等于 val 的元素，返回移除后数组的新长度。",
+      "author": {
+        "nick": "爱写Bug",
+        "homepage": "/u/icodebugs"
+      }
+    },
+    {
+      "id": "1190000019639591",
+      "title": "4个步骤带你搞定大数据，Linux到大数据学习路线资料（绝对必看）",
+      "url": "/a/1190000019639591",
+      "desc": "Linux学习路线图 运维学习需要分为四个阶段： ①linux初级入门 ②linux中级进阶 ③linux高级提升 ④资深方向细化。 第一阶段：初级入门 Linux基础知识、基本命令（起源、组成、常用命令如cp、ls、file、mkdir等常见操...",
+      "author": {
+        "nick": "一起学习大数据",
+        "homepage": "/u/yiqixuexidashuju"
+      }
+    },
+    {
+      "id": "1190000019639384",
+      "title": "Spring Boot 《一》开发一个“HelloWorld”的 web 应用",
+      "url": "/a/1190000019639384",
+      "desc": "Spring Boot不是一个新的框架，默认配置了多种框架使用方式，使用SpringBoot很容易创建一个独立运行（运行jar，内嵌Servlet）、准生产级别的基于Spring框架的项目，它可以不用或者说只需要使用很少的Spring配置。",
+      "author": {
+        "nick": "爱编码的coder",
+        "homepage": "/u/chengxuyuanxiaohui"
+      }
+    },
+    {
+      "id": "1190000019638135",
+      "title": "SOFAJRaft 线性一致读实现剖析 | SOFAJRaft 实现原理",
+      "url": "/a/1190000019638135",
+      "desc": "SOFAStackScalable Open Financial Architecture Stack是蚂蚁金服自主研发的金融级分布式架构，包含了构建金融级云原生架构所需的各个组件，是在金融场景里锤炼出来的最佳实践。",
+      "author": {
+        "nick": "SOFAStack",
+        "homepage": "/u/sofastack"
+      }
+    },
+    {
+      "id": "1190000019637428",
+      "title": "这个注解一次搞定限流与熔断降级：@SentinelResource",
+      "url": "/a/1190000019637428",
+      "desc": "在之前的《使用Sentinel实现接口限流》一文中，我们仅依靠引入Spring Cloud Alibaba对Sentinel的整合封装spring-cloud-starter-alibaba-sentinel，就完成了对所有Spring MVC接口的限流控制。然而，在实际应用过程...",
+      "author": {
+        "nick": "程序猿DD",
+        "homepage": "/u/coderdd"
+      }
+    },
+    {
+      "id": "1190000019637104",
+      "title": "前后端分离mock server方案（2） -- swagger editor整合",
+      "url": "/a/1190000019637104",
+      "desc": "如果想最小的编写配置文件进行mock，",
+      "author": {
+        "nick": "苏亚强",
+        "homepage": "/u/seeing_5bdbefbfea520"
+      }
+    },
+    {
+      "id": "1190000019636625",
+      "title": "Java NIO深入理解ServerSocketChannel",
+      "url": "/a/1190000019636625",
+      "desc": "Java NIO 简介JAVA NIO有两种解释：一种叫非阻塞IO（Non-blocking I/O），另一种也叫新的IO（New I/O），其实是同一个概念。它是一种同步非阻塞的I/O模型，也是I/O多路复用的基础，已经被越来越多地应用到大型应...",
+      "author": {
+        "nick": "exception",
+        "homepage": "/u/fendouxiaowoniu"
+      }
+    },
+    {
+      "id": "1190000019636243",
+      "title": "JAVA实现社会统一信用代码较验",
+      "url": "/a/1190000019636243",
+      "desc": "网上找了几个，写的都不太适合，有的写出来了，也没有给出参考的算法链接。这样就导致了如果产生错误我们无法排查（不懂原理怎么排查对吧）。",
+      "author": {
+        "nick": "myskies",
+        "homepage": "/u/myskies"
+      }
+    },
+    {
+      "id": "1190000019635754",
+      "title": "leetcode442. Find All Duplicates in an Array",
+      "url": "/a/1190000019635754",
+      "desc": "存在一个整数数组，其中的所有元素都位于1~n之间，其中n是数组的长度。有的元素出现了一次，而有的元素出现了两次。找到数组中所有出现两次的数字。",
+      "author": {
+        "nick": "raledong",
+        "homepage": "/u/raledong"
+      }
+    },
+    {
+      "id": "1190000019635572",
+      "title": "leetcode453. Minimum Moves to Equal Array Elements",
+      "url": "/a/1190000019635572",
+      "desc": "从一个长度为n非空整数数组中，找到能够使得数组中每个元素的值都相等的最少步数，一步是指选择对数组中的n-1个元素加一。比如将[1,2,3]这个数组达到均等的最小步数要求为3步，过程如下：",
+      "author": {
+        "nick": "raledong",
+        "homepage": "/u/raledong"
+      }
+    },
+    {
+      "id": "1190000019635393",
+      "title": "HashSet存储自定义类型元素",
+      "url": "/a/1190000019635393",
+      "desc": "/*必须重写hashCode和toString方法*/package com.itheima.demo02.Set;",
+      "author": {
+        "nick": "赵志强",
+        "homepage": "/u/zhaozhiqiang_5b0d18d515218"
+      }
+    },
+    {
+      "id": "1190000019635330",
+      "title": "Set集合存储元素不重复的原因",
+      "url": "/a/1190000019635330",
+      "desc": "package com.itheima.demo02.Set; import java.util.HashSet; /* {代码...} */public class Demo02HashSetSaveString { {代码...} }",
+      "author": {
+        "nick": "赵志强",
+        "homepage": "/u/zhaozhiqiang_5b0d18d515218"
+      }
+    },
+    {
+      "id": "1190000019635250",
+      "title": "ForkJoin框架之ForkJoinPool",
+      "url": "/a/1190000019635250",
+      "desc": "在前面的三篇文章中先后介绍了ForkJoin框架的任务组件(ForkJoinTask体系,CountedCompleter体系)源码,并简单介绍了目前的并行流应用场景.ForkJoin框架本质上是对Executor-Runnable/Callable-Future/FutureTask的扩...",
+      "author": {
+        "nick": "山人",
+        "homepage": "/u/cugb"
+      }
+    },
+    {
+      "id": "1190000019635100",
+      "title": "《大型网站系统与Java中间件》读书笔记 （中）",
+      "url": "/a/1190000019635100",
+      "desc": "前言 只有光头才能变强。文本已收录至我的GitHub仓库，欢迎Star：[链接] 回顾上一篇： 《大型网站系统与Java中间件》读书笔记（一） 这周周末读了第四章，现在过来做做笔记，希望能帮助到大家。 注：在看这篇文章...",
+      "author": {
+        "nick": "Java3y",
+        "homepage": "/u/java_3y"
+      }
+    },
+    {
+      "id": "1190000019635070",
+      "title": "HashCode集合介绍",
+      "url": "/a/1190000019635070",
+      "desc": "package com.itheima.demo03.hashCode;/* {代码...} */public class Demo01HashCode { {代码...} }package com.itheima.demo03.hashCode; public class Person extends Object{ {代码...} }",
+      "author": {
+        "nick": "赵志强",
+        "homepage": "/u/zhaozhiqiang_5b0d18d515218"
+      }
+    }
+  ]
+}
