@@ -1,0 +1,155 @@
+{
+  "watchNum": "56786",
+  "blogs": [
+    {
+      "id": "1190000019664716",
+      "title": " LeetCode 209：最小长度的子数组 Minimum Size Subarray Sum",
+      "url": "/a/1190000019664716",
+      "desc": "给定一个含有 n 个正整数的数组和一个正整数 s ，找出该数组中满足其和 ≥ s 的长度最小的连续子数组。如果不存在符合条件的连续子数组，返回 0。",
+      "author": {
+        "nick": "爱写Bug",
+        "homepage": "/u/icodebugs"
+      }
+    },
+    {
+      "id": "1190000019663259",
+      "title": "为何零基础也可学习大数据技术？",
+      "url": "/a/1190000019663259",
+      "desc": "随着大数据在国内的发展，大数据相关人才出现了供不应求的状况，大数据分析师更是被媒体称为“未来发展前景良好的职业之一”。大数据分析师的薪酬比同等级职位高20%。而如何成为大数据时代的弄潮儿，掌握当下紧缺的...",
+      "author": {
+        "nick": "一起学习大数据",
+        "homepage": "/u/yiqixuexidashuju"
+      }
+    },
+    {
+      "id": "1190000019662897",
+      "title": "java并发编程学习之Volatile",
+      "url": "/a/1190000019662897",
+      "desc": "多线程为什么是不安全的 这边简单的讲述一下，参考java并发编程学习之synchronize（一） 当线程A和线程B同时进入num = num + value; 线程A会把num的值拿出来，放在自己的工作区间里 线程B也把num的值拿出来，放在...",
+      "author": {
+        "nick": "大军",
+        "homepage": "/u/dajun_5d13288738ab7"
+      }
+    },
+    {
+      "id": "1190000019659430",
+      "title": "常见的集合容器应当避免的坑",
+      "url": "/a/1190000019659430",
+      "desc": "前不久帮同事一起 review 一个 job 执行缓慢的问题时发现不少朋友在撸码实现功能时还是有需要细节不够注意，于是便有了这篇文章。",
+      "author": {
+        "nick": "crossoverJie",
+        "homepage": "/u/crossoverjie"
+      }
+    },
+    {
+      "id": "1190000019658857",
+      "title": "Collections工具类方法sort二",
+      "url": "/a/1190000019658857",
+      "desc": "import java.util.ArrayList;import java.util.Collections;import java.util.Comparator;",
+      "author": {
+        "nick": "赵志强",
+        "homepage": "/u/zhaozhiqiang_5b0d18d515218"
+      }
+    },
+    {
+      "id": "1190000019658799",
+      "title": "Collections的工具类方法sort一",
+      "url": "/a/1190000019658799",
+      "desc": "import java.util.ArrayList;import java.util.Collections;",
+      "author": {
+        "nick": "赵志强",
+        "homepage": "/u/zhaozhiqiang_5b0d18d515218"
+      }
+    },
+    {
+      "id": "1190000019658733",
+      "title": "Collections的工具类之addAll,shuffle",
+      "url": "/a/1190000019658733",
+      "desc": "import java.util.ArrayList;import java.util.Collections;",
+      "author": {
+        "nick": "赵志强",
+        "homepage": "/u/zhaozhiqiang_5b0d18d515218"
+      }
+    },
+    {
+      "id": "1190000019658599",
+      "title": "java并发编程学习之ThreadLocal",
+      "url": "/a/1190000019658599",
+      "desc": "本地线程，通常用于防止对可变的单实例对象或全局变量进行共享，常见的比如数据库连接。可以将ThreadLocal<T>视为Map<Thread,T>，虽然实际上并不是这样实现的。也可以把事务上下文保存在ThreadLocal...",
+      "author": {
+        "nick": "大军",
+        "homepage": "/u/dajun_5d13288738ab7"
+      }
+    },
+    {
+      "id": "1190000019658553",
+      "title": "Spring Boot Reference Guide Memorandum",
+      "url": "/a/1190000019658553",
+      "desc": "You can use Spring Boot to create a Java application that can be started by using java -jar or more traditional war deployments.",
+      "author": {
+        "nick": "Eriasuitor",
+        "homepage": "/u/eriasuitor"
+      }
+    },
+    {
+      "id": "1190000019658399",
+      "title": "经典面试题——两个线程交替打印奇数和偶数",
+      "url": "/a/1190000019658399",
+      "desc": "打印奇数的线程 1打印偶数的线程 2打印奇数的线程 3打印偶数的线程 4打印奇数的线程 5打印偶数的线程 6打印奇数的线程 7打印偶数的线程 8打印奇数的线程 9如有不对的地方，还请指教",
+      "author": {
+        "nick": "exception",
+        "homepage": "/u/fendouxiaowoniu"
+      }
+    },
+    {
+      "id": "1190000019658143",
+      "title": "java并发编程学习之synchronize（二）",
+      "url": "/a/1190000019658143",
+      "desc": "synchronized的应用方式 代码块：作用范围在｛｝中，作用对象是调用这个代码块的对象。 方法：作用范围是一个方法，作用对象是调用这个方法的对象。 静态方法：作用范围是这个静态方法，作用对象是这个类的所有对...",
+      "author": {
+        "nick": "大军",
+        "homepage": "/u/dajun_5d13288738ab7"
+      }
+    },
+    {
+      "id": "1190000019657798",
+      "title": "一个m阶b树的特点",
+      "url": "/a/1190000019657798",
+      "desc": "一个m阶b树有如下特点：第一、非叶节点最多有m棵子树；第二、根节点最少有两个子树，非根、非叶节点最少有m/2棵子树；第三、非叶子结点中保存的关键字个数，等于该节点子树个数-1，就是说一个节点如果有3棵子树，...",
+      "author": {
+        "nick": "巅峰大词典",
+        "homepage": "/u/lingfeng23"
+      }
+    },
+    {
+      "id": "1190000019657499",
+      "title": "LeetCode 561：数组拆分 I Array Partition I",
+      "url": "/a/1190000019657499",
+      "desc": "算法是一个程序的灵魂。Given an array of 2n integers, your task is to group these integers into n pairs of integer, say (a1, b1), (a2, b2), ..., (an, bn) which makes sum of min(ai, bi) for all i fro...",
+      "author": {
+        "nick": "爱写Bug",
+        "homepage": "/u/icodebugs"
+      }
+    },
+    {
+      "id": "1190000019657300",
+      "title": "Java8中创建Stream 流的四种方式以及 Stream 中间操作",
+      "url": "/a/1190000019657300",
+      "desc": "### 1 第一种 通过Collection得Stream（）方法（串行流）或者 parallelStream（）方法（并行流）创建Stream。",
+      "author": {
+        "nick": "Tizzy",
+        "homepage": "/u/tizzy_5c3b4b896cd8a"
+      }
+    },
+    {
+      "id": "1190000019656114",
+      "title": "mybatis和springMVC整合及其中的问题",
+      "url": "/a/1190000019656114",
+      "desc": "（1）config/mybatis/SqlMapConfig.xml中放置mybatis的配置文件，由于这个例子很简单，所以配置得比较简单。在spring与mybatis的整合中，在这里不用配置mapper，因为在mybatis-spring整合jar包中有mapper的扫描类。",
+      "author": {
+        "nick": "黄格格",
+        "homepage": "/u/huanggege_5d1c709237931"
+      }
+    }
+  ]
+}
