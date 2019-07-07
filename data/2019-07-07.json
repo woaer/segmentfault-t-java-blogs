@@ -1,0 +1,155 @@
+{
+  "watchNum": "57121",
+  "blogs": [
+    {
+      "id": "1190000019688540",
+      "title": "Week 1 - Java 多线程 - Java 内存模型",
+      "url": "/a/1190000019688540",
+      "desc": "前言 学习情况记录 时间：week 1 SMART子目标 ：Java 多线程 学习Java多线程，要了解多线程可能出现的并发现象，了解Java内存模型的知识是必不可少的。 对学习到的重要知识点进行的记录。 注：这里提到的是Java内...",
+      "author": {
+        "nick": "Richard_Yi",
+        "homepage": "/u/richard_yi"
+      }
+    },
+    {
+      "id": "1190000019688004",
+      "title": "程序员的快乐就是这么朴素无华且枯燥",
+      "url": "/a/1190000019688004",
+      "desc": "我是一个程序员，外行人都以为我是修电脑的，我笑了笑，随意ctrl c+ctrl v了一把，想象着你们因为我的文章而开心不止，我感到充实而欣慰。想象着你们给我拼命点赞的样子，是多么的滑稽，我笑了笑，哎，程序员的快...",
+      "author": {
+        "nick": "Java3y",
+        "homepage": "/u/java_3y"
+      }
+    },
+    {
+      "id": "1190000019687972",
+      "title": "你确定不来了解一下Redis中 Hash的原理吗",
+      "url": "/a/1190000019687972",
+      "desc": "Hash 也可以用来存储用户信息,和 String 不同的是 Hash 可以对用户信息的每个字段单独存储,String 则需要序列化用户的所有字段后存储.并且 String 需要以整个字符串的形式获取用户,而 hash可以只获取部分数据,从...",
+      "author": {
+        "nick": "YyangSir",
+        "homepage": "/u/yyangsir"
+      }
+    },
+    {
+      "id": "1190000019687733",
+      "title": "大数据开发需要学习什么？大数据平台是什么？",
+      "url": "/a/1190000019687733",
+      "desc": "大数据开发专业需要学习的内容包括三大部分，分别是大数据基础知识、大数据平台知识、大数据场景知识。大数据基础知识：",
+      "author": {
+        "nick": "一起学习大数据",
+        "homepage": "/u/yiqixuexidashuju"
+      }
+    },
+    {
+      "id": "1190000019687257",
+      "title": "Redis基本操作之Java实现(所有类型)",
+      "url": "/a/1190000019687257",
+      "desc": "前不久分享过Redis的基本数据结构及基本命令详解。在熟悉了redis的基本操作之后（如果还有对redis的基本操作不熟悉的，可以点击前面的连接先熟悉下），今天给大家分享下实际开发中对redis操作的Java实现版本。",
+      "author": {
+        "nick": "君莫笑",
+        "homepage": "/u/jmxiao"
+      }
+    },
+    {
+      "id": "1190000019687213",
+      "title": "LeetCode 118：杨辉三角 II Pascal's Triangle II",
+      "url": "/a/1190000019687213",
+      "desc": "Given a non-negative index k where k ≤ 33, return the kth index row of the Pascal's triangle.",
+      "author": {
+        "nick": "爱写Bug",
+        "homepage": "/u/icodebugs"
+      }
+    },
+    {
+      "id": "1190000019686478",
+      "title": "XXL-JOB v2.1.0，分布式任务调度平台",
+      "url": "/a/1190000019686478",
+      "desc": "1、自研调度组件，移除quartz依赖：一方面是为了精简系统降低冗余依赖，另一方面是为了提供系统的可控度与稳定性； 触发：单节点周期性触发，运行事件如delayqueue；",
+      "author": {
+        "nick": "xuxueli",
+        "homepage": "/u/xuxueli"
+      }
+    },
+    {
+      "id": "1190000019686260",
+      "title": "【全栈之路】JAVA基础课程十一_JDK8十大新特性（20190706v1.2）",
+      "url": "/a/1190000019686260",
+      "desc": "博客地址：[链接]本系列文章将主要针对JAVA一些基础知识点进行讲解，为平时归纳所总结，不管是刚接触JAVA开发菜鸟还是业界资深人士，都希望对广大同行带来一些帮助。若有问题请及时留言或加QQ：243042162。",
+      "author": {
+        "nick": "归雀楼",
+        "homepage": "/u/it_park"
+      }
+    },
+    {
+      "id": "1190000019686256",
+      "title": "【笔记】牛客网算法",
+      "url": "/a/1190000019686256",
+      "desc": "时间复杂度 冒泡排序 {代码...} 选择排序 {代码...} 插入排序 {代码...} 对数器 随机产生器：产生随机数组 准备一个绝对正确的方法：不需考虑时间复杂度，保证绝对正确即可 实现比对的方法 把方法a和方法b比对很...",
+      "author": {
+        "nick": "isluowl",
+        "homepage": "/u/isluowl"
+      }
+    },
+    {
+      "id": "1190000019686060",
+      "title": "函数式编程让你忘记设计模式",
+      "url": "/a/1190000019686060",
+      "desc": "有点标题党，但是这确实是我最近使用Lambda表达式的感受。设计模式是过去的一些好的经验和套路的总结，但是好的语言特性可以让开发者不去考虑这些设计模式。面向对象常见的设计模式有策略模式、模板方法、观察者...",
+      "author": {
+        "nick": "阿杜",
+        "homepage": "/u/duqi"
+      }
+    },
+    {
+      "id": "1190000019685937",
+      "title": "乐字节Java反射之一：反射概念与获取反射源头class",
+      "url": "/a/1190000019685937",
+      "desc": "一、Java反射机制概念 “程序运行时，允许改变程序结构或变量类型，这种语言称为动态语言”，如Python， Ruby是动态语言；显然C++，Java，C#不是动态语言，但是JAVA有着一个非常突出 的动态相关机制：Reflection。 ...",
+      "author": {
+        "nick": "乐字节",
+        "homepage": "/u/lezijie"
+      }
+    },
+    {
+      "id": "1190000019685780",
+      "title": "springcloud-feign实现服务发现",
+      "url": "/a/1190000019685780",
+      "desc": "springcloud-feign实现服务发现 上一篇介绍了nacos实现配置和注册中心，在微服务中只有配置和注册中心远远不够，还需要有服务发现。本文重点介绍一下基于feign实现服务发现。",
+      "author": {
+        "nick": "wotrd",
+        "homepage": "/u/wotrd"
+      }
+    },
+    {
+      "id": "1190000019685090",
+      "title": "JUC 之Phaser",
+      "url": "/a/1190000019685090",
+      "desc": "在前面的几篇文章中详述了ForkJoin框架的若干组分,在相应的官方文档中总会不时地提起\"Phaser\",同样的,也提到Phaser可以用于帮助运行在ForkJoinPool中的ForkJoinTask运行时保持有效的执行并行度(其实特指其他task...",
+      "author": {
+        "nick": "山人",
+        "homepage": "/u/cugb"
+      }
+    },
+    {
+      "id": "1190000019684990",
+      "title": "JDK源码那些事儿之并发ConcurrentHashMap下篇",
+      "url": "/a/1190000019684990",
+      "desc": "上一篇文章已经就ConcurrentHashMap进行了部分说明，介绍了其中涉及的常量和变量的含义，有些部分需要结合方法源码来理解，今天这篇文章就继续讲解并发ConcurrentHashMap",
+      "author": {
+        "nick": "orange",
+        "homepage": "/u/orange_5c808c5cc3ad2"
+      }
+    },
+    {
+      "id": "1190000019684964",
+      "title": "leetcode430. Flatten a Multilevel Doubly Linked List",
+      "url": "/a/1190000019684964",
+      "desc": "从深度优先遍历的角度来看，每次遇到一个包含子节点中间双链表节点，就递归的调用展开方法将其展开，并将展开的结果插入到当前节点的后面。这里需要注意双链表前节点前后指针的变更。步骤如下：",
+      "author": {
+        "nick": "raledong",
+        "homepage": "/u/raledong"
+      }
+    }
+  ]
+}
