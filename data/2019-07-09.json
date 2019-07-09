@@ -1,0 +1,155 @@
+{
+  "watchNum": "57316",
+  "blogs": [
+    {
+      "id": "1190000019707348",
+      "title": "【全栈之路】版本控制课程一_Git如何把本地代码推送到远程仓库（20190709v1.0）",
+      "url": "/a/1190000019707348",
+      "desc": "博客地址：[链接]本系列文章将主要针对代码的版本控制进行讲解，希望对广大同行带来一些帮助。若有问题请及时留言或加QQ：243042162。",
+      "author": {
+        "nick": "归雀楼",
+        "homepage": "/u/it_park"
+      }
+    },
+    {
+      "id": "1190000019707143",
+      "title": "LeetCode 189：旋转数组 Rotate Array",
+      "url": "/a/1190000019707143",
+      "desc": "Given an array, rotate the array to the right by k steps, where k is non-negative.",
+      "author": {
+        "nick": "爱写Bug",
+        "homepage": "/u/icodebugs"
+      }
+    },
+    {
+      "id": "1190000019706787",
+      "title": "Spring Boot 打包成的可执行 jar ，为什么不能被其他项目依赖？",
+      "url": "/a/1190000019706787",
+      "desc": "“松哥，为什么我的 Spring Boot 项目打包成的 jar ，被其他项目依赖之后，总是报找不到类的错误？”",
+      "author": {
+        "nick": "江南一点雨",
+        "homepage": "/u/lenve"
+      }
+    },
+    {
+      "id": "1190000019706773",
+      "title": "java并发编程学习之线程的生命周期-wait,notify,notifyall(六）",
+      "url": "/a/1190000019706773",
+      "desc": "sleep可以到处使用，wait必须是在同步方法或者代码块里使用，不然会有java.lang.IllegalMonitorStateException异常。",
+      "author": {
+        "nick": "大军",
+        "homepage": "/u/dajun_5d13288738ab7"
+      }
+    },
+    {
+      "id": "1190000019705847",
+      "title": "网易高级Java架构师谈，菜鸟如何发展成为架构师",
+      "url": "/a/1190000019705847",
+      "desc": "作为一名程序员，大家都会为自己未来的职业发展焦虑。 网易高级Java架构师谈，菜鸟如何发展成为架构师一方面是因为IT是知识密集型的行业。 知识体系复杂且知识更新速度非常快，“一日不学就会落后”。 另外一方面，...",
+      "author": {
+        "nick": "进击的java程序员",
+        "homepage": "/u/javagaojijiagou_5b18fe1e8778a"
+      }
+    },
+    {
+      "id": "1190000019705546",
+      "title": "IDEA创建springboot项目图文配置",
+      "url": "/a/1190000019705546",
+      "desc": "一、项目创建之前的准备 在创建项目之前，首先要下载好jdk、IDEA编辑器以及配置好maven工具。 IDEA编辑器和jdk安装很简单，从网上先下载好IDEA的软件包直接安装就行。 springboot由于内部已经集成了tomcat，所以...",
+      "author": {
+        "nick": "繁星落眼眶",
+        "homepage": "/u/fanxingluoyankuang"
+      }
+    },
+    {
+      "id": "1190000019702898",
+      "title": "redis整合springboot的helloworld",
+      "url": "/a/1190000019702898",
+      "desc": "引入依赖 {代码...} 使用redis有两种方法 1.Jedis {代码...} 2.RedisTemplate {代码...} 如果使用RedisTemplate的话，要在application.properties中配置信息，这里我使用Jedis比较简单 redis的自动配置 在applica...",
+      "author": {
+        "nick": "布尔bl",
+        "homepage": "/u/chenzhuantou"
+      }
+    },
+    {
+      "id": "1190000019702228",
+      "title": "Map学习一之基本遍历元素的方法一",
+      "url": "/a/1190000019702228",
+      "desc": "import java.util.HashMap;import java.util.Iterator;import java.util.Map;import java.util.Set;",
+      "author": {
+        "nick": "赵志强",
+        "homepage": "/u/zhaozhiqiang_5b0d18d515218"
+      }
+    },
+    {
+      "id": "1190000019702221",
+      "title": "Map学习一之基本操作方法put,get,remove,containsKey",
+      "url": "/a/1190000019702221",
+      "desc": "java.util.LinkedHashMap<k,v>集合 extends HashMap<k,v>集合 LinkedHashMap的特点:",
+      "author": {
+        "nick": "赵志强",
+        "homepage": "/u/zhaozhiqiang_5b0d18d515218"
+      }
+    },
+    {
+      "id": "1190000019702026",
+      "title": "map集合的学习",
+      "url": "/a/1190000019702026",
+      "desc": "day04 【Map】 主要内容 Map集合 教学目标 [ ] 能够说出Map集合特点 [ ] 使用Map集合添加方法保存数据 [ ] 使用”键找值”的方式遍历Map集合 [ ] 使用”键值对”的方式遍历Map集合 [ ] 能够使用HashMap存储自定义键值...",
+      "author": {
+        "nick": "赵志强",
+        "homepage": "/u/zhaozhiqiang_5b0d18d515218"
+      }
+    },
+    {
+      "id": "1190000019701708",
+      "title": "Java 实现经典扫雷游戏",
+      "url": "/a/1190000019701708",
+      "desc": "最后一次更新于 2019/07/08 效果演示图 Java 实现经典扫雷游戏 本扫雷游戏有以下功能： 如果点中炸弹会显示炸弹。 玩家左键点击方块能显示该方块周围会出现几个炸弹，如果不存在炸弹的话扫描范围会被放大。 满足...",
+      "author": {
+        "nick": "Hephaest",
+        "homepage": "/u/hephaest"
+      }
+    },
+    {
+      "id": "1190000019701204",
+      "title": "【mybatis】（一）mybatis快速入门",
+      "url": "/a/1190000019701204",
+      "desc": "MyBatis 是一款优秀的持久层框架，它支持定制化 SQL、存储过程以及高级映射。MyBatis 避免了几乎所有的 JDBC 代码和手动设置参数以及获取结果集。MyBatis 可以使用简单的 XML 或注解来配置和映射原生信息，将接口...",
+      "author": {
+        "nick": "刮风下雨大雪天",
+        "homepage": "/u/guafengxiayudaxuetian"
+      }
+    },
+    {
+      "id": "1190000019700956",
+      "title": "循环调用Ajax，异步引起顺序错乱的问题",
+      "url": "/a/1190000019700956",
+      "desc": "比如6条数据顺序正常是123456，现在执行顺序可能是135246。这样一来，比如你想外层的Ajax得到标题以后再在内层匹配相应内容就会出现错乱。一个是标题匹配内容会有问题，另外，展示的顺序也会出错。",
+      "author": {
+        "nick": "radio",
+        "homepage": "/u/radio_5d14cee58b055"
+      }
+    },
+    {
+      "id": "1190000019700868",
+      "title": "ArrayList",
+      "url": "/a/1190000019700868",
+      "desc": "<>内是泛型。泛型：集合中的所有元素都是统一的类型。泛型只能是引用类型，不能是基本类型。原因是集合里保存的是地址值，基本类型中没有地址值",
+      "author": {
+        "nick": "isluowl",
+        "homepage": "/u/isluowl"
+      }
+    },
+    {
+      "id": "1190000019700754",
+      "title": "多态、向上转型和向下转型",
+      "url": "/a/1190000019700754",
+      "desc": "经理类继承雇员类。小明是一个经理对象，这个对象既有经理形态，也有雇员形态。一个对象有多种形态，这就是对象的多态性。",
+      "author": {
+        "nick": "isluowl",
+        "homepage": "/u/isluowl"
+      }
+    }
+  ]
+}
