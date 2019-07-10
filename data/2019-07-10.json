@@ -1,0 +1,155 @@
+{
+  "watchNum": "57473",
+  "blogs": [
+    {
+      "id": "1190000019720804",
+      "title": "java并发编程学习之线程的Fork/Join 框架-RecursiveTask(二)",
+      "url": "/a/1190000019720804",
+      "desc": "创建继承RecursiveTask的类，实现compute方法，这里主要是计算以及拆分任务、合并结果。",
+      "author": {
+        "nick": "大军",
+        "homepage": "/u/dajun_5d13288738ab7"
+      }
+    },
+    {
+      "id": "1190000019720335",
+      "title": "Spring Ioc和Aop的理解",
+      "url": "/a/1190000019720335",
+      "desc": "java中空字符串和null的区别，null没有内存空间空字符串只是内容为空，但是对象是创建了的电商高并发下的解决方案：[链接]dubbo超时/redis存储的东西",
+      "author": {
+        "nick": "SkinnyTracy",
+        "homepage": "/u/skinnytracy"
+      }
+    },
+    {
+      "id": "1190000019720063",
+      "title": "超时管理器如何实现超时管理？",
+      "url": "/a/1190000019720063",
+      "desc": "超时管理器，用于实现请求回包超时回调处理。每一个请求发送给下游RPC-server，会在上下文管理器中保存req-id与上下文的信息，上下文中保存了请求很多相关信息，例如req-id，回包回调，超时回调，发送时间等。",
+      "author": {
+        "nick": "巅峰大词典",
+        "homepage": "/u/lingfeng23"
+      }
+    },
+    {
+      "id": "1190000019719900",
+      "title": "java开发邮件发送（匿名)",
+      "url": "/a/1190000019719900",
+      "desc": "环境：jdk8,maven需要的pom，高版本发送会验证spf，这个不会 {代码...} 纯文本邮件内容发送 {代码...}",
+      "author": {
+        "nick": "洛洛木南2",
+        "homepage": "/u/luoluomunan2"
+      }
+    },
+    {
+      "id": "1190000019719500",
+      "title": "LeetCode 209：最小长度的子数组 Minimum Size Subarray Sum",
+      "url": "/a/1190000019719500",
+      "desc": "给定一个含有 n 个正整数的数组和一个正整数 s ，找出该数组中满足其和 ≥ s 的长度最小的连续子数组。如果不存在符合条件的连续子数组，返回 0。",
+      "author": {
+        "nick": "爱写Bug",
+        "homepage": "/u/icodebugs"
+      }
+    },
+    {
+      "id": "1190000019718912",
+      "title": "大数据能做什么,为什么学习大数据",
+      "url": "/a/1190000019718912",
+      "desc": "Hadoop和大数据是这两年最火的词儿们之一，越来越多的公司对这个东西感兴趣，但是我接触到的大多数公司里的人，无论是技术人员还是老板。都不知道怎么能把这些东西用于改善自己公司的业务。在解答的过程中，提炼...",
+      "author": {
+        "nick": "一起学习大数据",
+        "homepage": "/u/yiqixuexidashuju"
+      }
+    },
+    {
+      "id": "1190000019718890",
+      "title": "java并发编程学习之线程的Fork/Join 框架-基本概念(一）",
+      "url": "/a/1190000019718890",
+      "desc": "思想 把大任务分割成多个小任务，再把小任务的结果汇总，最终得到大任务的结果。 步骤如下： 任务分割 结果汇总 示例图 工作窃取 指的是线程从其他线程窃取任务来执行。当一个大任务分割成多个小任务的时候，为了...",
+      "author": {
+        "nick": "大军",
+        "homepage": "/u/dajun_5d13288738ab7"
+      }
+    },
+    {
+      "id": "1190000019718506",
+      "title": "新版druid监控页面SQL不显示问题",
+      "url": "/a/1190000019718506",
+      "desc": "启动应用之后访问druid监控页面，除了SQL相关的页面都正常工作，但是访问SQL监控页面时没有看到SQL记录。查看监控页面 数据源 菜单发现 filter类名 显示的是空，估计是filter配置有问题导致。",
+      "author": {
+        "nick": "xialeistudio",
+        "homepage": "/u/xialeistudio"
+      }
+    },
+    {
+      "id": "1190000019718477",
+      "title": "Java 迭代器引发 ConcurrentModificationException",
+      "url": "/a/1190000019718477",
+      "desc": "ConcurrentModificationException这个异常大家都很熟悉，当在forEach进行删除时都会出现该异常。",
+      "author": {
+        "nick": "张喜硕",
+        "homepage": "/u/zhangxishuo"
+      }
+    },
+    {
+      "id": "1190000019717005",
+      "title": "公司倒闭 1 年了，而我当年的项目上了 GitHub 热榜",
+      "url": "/a/1190000019717005",
+      "desc": "公司倒闭 1 年多了，而我在公司倒闭时候做的开源项目，最近却上了 GitHub Trending，看着这个数据，真是不胜唏嘘。",
+      "author": {
+        "nick": "江南一点雨",
+        "homepage": "/u/lenve"
+      }
+    },
+    {
+      "id": "1190000019716934",
+      "title": "🔥intellij idea常用快捷键（01）：快速收起方法，代码块",
+      "url": "/a/1190000019716934",
+      "desc": "在一个大型项目中，一个类动不动就上万行，方法中多则几千行。那如何快速知道这行代码所属那个方法？有没有快速收起方法的快捷键呢🍉",
+      "author": {
+        "nick": "Java技术干货",
+        "homepage": "/u/javajishuganhuo"
+      }
+    },
+    {
+      "id": "1190000019716529",
+      "title": "【Docker】Docker通过Dockerfile将jar包构建成镜像并执行",
+      "url": "/a/1190000019716529",
+      "desc": "1.编写Dockerfile文件. {代码...} 2.将jar包放在Dockerfile文件同一个目录下。执行构建命令 {代码...} 3.然后就可以当做正常的镜像使用。 {代码...}",
+      "author": {
+        "nick": "david",
+        "homepage": "/u/mcxiaobing"
+      }
+    },
+    {
+      "id": "1190000019715805",
+      "title": "Java集合框架——Map接口",
+      "url": "/a/1190000019715805",
+      "desc": "在实际需求中，我们常常会遇到这样的问题，在诸多的数据中，通过其编号来寻找某一些信息，从而进行查看或者修改，例如通过学号查询学生信息。今天我们所介绍的Map集合就可以很好的帮助我们实现这种需求",
+      "author": {
+        "nick": "BWH_Steven",
+        "homepage": "/u/bwh_steven"
+      }
+    },
+    {
+      "id": "1190000019715256",
+      "title": "Spring+Vue整合UEditor富文本实现图片附件上传",
+      "url": "/a/1190000019715256",
+      "desc": "下载UEditor [链接] 下载完整源码和JSP版本 Spring后端集成 1. 解压完整源码，拷贝jsp目录下的java源码，到spring mvc后端 jsp目录下java源码 集成spring mvc后端 2. 配置config.json 解压JSP版本 拷贝jsp目录下c...",
+      "author": {
+        "nick": "silianpan",
+        "homepage": "/u/silianpan"
+      }
+    },
+    {
+      "id": "1190000019715165",
+      "title": "利用MAT分析JVM内存问题，从入门到精通（二）",
+      "url": "/a/1190000019715165",
+      "desc": "上一篇文章MAT入门到精通（一）介绍了MAT的使用场景和基本概念，这篇文章开始介绍MAT的基本功能，后面还有两篇，一篇是MAT的高级功能，另一篇是MAT实战案例分析。",
+      "author": {
+        "nick": "阿杜",
+        "homepage": "/u/duqi"
+      }
+    }
+  ]
+}
