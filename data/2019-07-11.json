@@ -1,0 +1,155 @@
+{
+  "watchNum": "57582",
+  "blogs": [
+    {
+      "id": "1190000019731913",
+      "title": "HashMap源码分析(一):JDK源码分析系列",
+      "url": "/a/1190000019731913",
+      "desc": "正文开始 注:JDK版本为1.8 HashMap1.8和1.8之前的源码差别很大 目录 简介 数据结构 类结构 属性 构造方法 增加 删除 修改 总结 1.HashMap简介 HashMap基于哈希表的Map接口实现，是以key-value存储形式存在。（除...",
+      "author": {
+        "nick": "乱敲代码",
+        "homepage": "/u/luanqiaodaima"
+      }
+    },
+    {
+      "id": "1190000019731732",
+      "title": "jsweet中英文文档，java代码转js代码",
+      "url": "/a/1190000019731732",
+      "desc": "JSweet JavaDoc API：http：//www.jsweet.org/core-api-javadoc/",
+      "author": {
+        "nick": "coder94",
+        "homepage": "/u/qinkaiyuan"
+      }
+    },
+    {
+      "id": "1190000019731249",
+      "title": "SpringBoot 动态代理|反射|注解|AOP 优化代码(二)-反射",
+      "url": "/a/1190000019731249",
+      "desc": "新增一个HandlerRougter接口，其目的就是替代上一篇的DeviceHandlerRouter",
+      "author": {
+        "nick": "liuhh",
+        "homepage": "/u/liuhh"
+      }
+    },
+    {
+      "id": "1190000019731167",
+      "title": "敏捷项目的不确定性管理",
+      "url": "/a/1190000019731167",
+      "desc": "敏捷方法最大的固有优势之一是管理敏捷项目的不确定性。为了更好地理解这一点，我们需要先了解以下两者之间的区别：",
+      "author": {
+        "nick": "Warren2Lynch",
+        "homepage": "/u/warren2lynch"
+      }
+    },
+    {
+      "id": "1190000019730510",
+      "title": "springmvc使用@Valid和@ControllerAdvise实现请求参数校验统一异常处理",
+      "url": "/a/1190000019730510",
+      "desc": "最开始我使用的是jsp+servlet。后台接口使用 request.getParameter(key) 方法接收参数，特别麻烦。接收之后，我们还得进行一连串的参数校验。现在使用springboot的mvc。使用@ReuestBody接收参数，自动将前端参数...",
+      "author": {
+        "nick": "wotrd",
+        "homepage": "/u/wotrd"
+      }
+    },
+    {
+      "id": "1190000019730316",
+      "title": "LeetCode 151：给定一个字符串，逐个翻转字符串中的每个单词 Reverse Words in a String",
+      "url": "/a/1190000019730316",
+      "desc": "Given an input string, reverse the string word by word.",
+      "author": {
+        "nick": "爱写Bug",
+        "homepage": "/u/icodebugs"
+      }
+    },
+    {
+      "id": "1190000019730143",
+      "title": "大数据学习方法，学习大数据需要的基础和路线",
+      "url": "/a/1190000019730143",
+      "desc": "大数据基础学习 大数据基础入门 为什么要学习大数据 1、目的：要份很好工作（钱） 2、对比：Java开发和大数据开发 什么是大数据？ 举例： 1、商品推荐：问题： （1）大量的订单如何存储？ （2）大量的订单如何计...",
+      "author": {
+        "nick": "一起学习大数据",
+        "homepage": "/u/yiqixuexidashuju"
+      }
+    },
+    {
+      "id": "1190000019729970",
+      "title": "SpringBoot使用Docker快速部署项目",
+      "url": "/a/1190000019729970",
+      "desc": "Docker 属于 Linux 容器的一种封装，提供简单易用的容器使用接口。它是目前最流行的 Linux 容器解决方案。Docker 将应用程序与该程序的依赖，打包在一个文件里面。运行这个文件，就会生成一个虚拟容器。程序在这...",
+      "author": {
+        "nick": "乱敲代码",
+        "homepage": "/u/luanqiaodaima"
+      }
+    },
+    {
+      "id": "1190000019729767",
+      "title": "cookie与session的区别",
+      "url": "/a/1190000019729767",
+      "desc": "1、cookie数据以文件格式存储在浏览器上，存储量有限，不能超过4k；session数据存储在服务器上，可以无限量存储多个变量并且比cookie更安全；",
+      "author": {
+        "nick": "zacklee",
+        "homepage": "/u/zacklee"
+      }
+    },
+    {
+      "id": "1190000019729686",
+      "title": "一起阅读HashMap(jdk1.7)源码",
+      "url": "/a/1190000019729686",
+      "desc": "从上面的代码可以看出，从oldTable中遍历Entry是正序的，也就是a->b->c的顺序，而插入到新数组的时候是采用的头插法，也就是后插入的在首部，所以遍历之后结果为c->b->a;",
+      "author": {
+        "nick": "瓦力",
+        "homepage": "/u/wallee"
+      }
+    },
+    {
+      "id": "1190000019729345",
+      "title": "2019微信小程序开发的3大优点-多享",
+      "url": "/a/1190000019729345",
+      "desc": "现在很多人都会遇到手机内存不够，手机卡顿的情况，所以有时候用户们碍于这种情况就放弃了很多下载某款APP的想法，而微信小程序可以有效地解决这个问题，它是微信内部自带的应用程序，所以无需下载，不会占有手机...",
+      "author": {
+        "nick": "韭菜包",
+        "homepage": "/u/jiucaibao"
+      }
+    },
+    {
+      "id": "1190000019729104",
+      "title": "SpringBoot 动态代理|反射|注解|AOP 优化代码(一)-动态代理提供接口默认实现",
+      "url": "/a/1190000019729104",
+      "desc": "在项目中需要调用外部接口，由于需要调用不同环境（生产、测试、开发）的相同接口（例如：向生、测试、开发环境的设备下发同一个APP）。",
+      "author": {
+        "nick": "liuhh",
+        "homepage": "/u/liuhh"
+      }
+    },
+    {
+      "id": "1190000019729062",
+      "title": "广度优先，深度优先，寻求最短路径。",
+      "url": "/a/1190000019729062",
+      "desc": "一、应用 深度优先：是否存在通路，寻找所有解。 广度优先遍历：寻求最优解，寻求最短路径 1.邻接矩阵JAVA代码实现 邻接矩阵可以使用一个二维数组来表示 {代码...} 打印结果广度优先搜索：name:v0name:v2name:v3n...",
+      "author": {
+        "nick": "花溪的小石头",
+        "homepage": "/u/huaxidexiaoshitou"
+      }
+    },
+    {
+      "id": "1190000019728928",
+      "title": "spring实战：使用注解+反射来解决switch或者if多条件判断的问题",
+      "url": "/a/1190000019728928",
+      "desc": "在与仓库系统的对接过程中，我们使用了阿里巴巴的奇门规范。该规范中根据不同的method参数来确定不同的业务，比如：",
+      "author": {
+        "nick": "君莫笑",
+        "homepage": "/u/jmxiao"
+      }
+    },
+    {
+      "id": "1190000019727857",
+      "title": "spring statemachine的企业可用级开发指南7-伪持久化和中间段状态机",
+      "url": "/a/1190000019727857",
+      "desc": "1、伪持久化和中间段的状态机我们设想一个业务场景，就比如订单吧，我们一般的设计都会把订单状态存到订单表里面，其他的业务信息也都有表保存，而状态机的主要作用其实是规范整个订单业务流程的状态和事件，所以...",
+      "author": {
+        "nick": "弯月残照飞檐",
+        "homepage": "/u/wanyuecanzhaofei"
+      }
+    }
+  ]
+}
