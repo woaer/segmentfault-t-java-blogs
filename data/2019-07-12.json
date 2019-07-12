@@ -1,0 +1,155 @@
+{
+  "watchNum": "57715",
+  "blogs": [
+    {
+      "id": "1190000019742141",
+      "title": "JAVA常用的工具",
+      "url": "/a/1190000019742141",
+      "desc": "判断字符串是否为null,\"\",\" \" {代码...} 将字符串分隔成集合 {代码...} 将集合(泛型为String)用逗号拼接成字符串 {代码...} \"yyyyMMddHHmmsssss\"格式日期 {代码...}",
+      "author": {
+        "nick": "苍蓝の熊",
+        "homepage": "/u/canglanxiong"
+      }
+    },
+    {
+      "id": "1190000019742067",
+      "title": "日本最大寿险公司RPA案例分享",
+      "url": "/a/1190000019742067",
+      "desc": "保险业务通常流程复杂，需要消耗大量人力与时间，客户满意度还低。随着数字技术的快速发展，保险业中43%的业务都可以通过RPA实现自动化。日本生命保险公司在部署RPA后，使85%的业务实现了自动化，不仅缓解了业务...",
+      "author": {
+        "nick": "UiBot",
+        "homepage": "/u/uibot"
+      }
+    },
+    {
+      "id": "1190000019741292",
+      "title": "SpringMVC中使用@PathVariable绑定路由中的数组",
+      "url": "/a/1190000019741292",
+      "desc": "在开发批量删除功能时，往往都是多条数据，所以前台需要传一个数组给后台，但是怎么在URL中绑定一个数组，同时在后台用@PathVariable来绑定呢？",
+      "author": {
+        "nick": "潘佳琦",
+        "homepage": "/u/panjia_5b3b83f7743e9"
+      }
+    },
+    {
+      "id": "1190000019741217",
+      "title": "SpringBoot使用Druid数据源",
+      "url": "/a/1190000019741217",
+      "desc": "结构 导包 {代码...} application.yml {代码...} DruidConfig {代码...} 打开 [链接]:8080/druid 输入账号密码， 成功",
+      "author": {
+        "nick": "小咸鱼",
+        "homepage": "/u/xiaoxianyu"
+      }
+    },
+    {
+      "id": "1190000019740804",
+      "title": "LinkedList源码分析：JDK源码分析系列",
+      "url": "/a/1190000019740804",
+      "desc": "如果本文中有不正确的地方请指出由于没有留言可以在公众号添加我的好友共同讨论。 1.介绍 LinkedList 是线程不安全的，允许元素为null的双向链表。 2.继承结构 我们来看一下LinkedList的继承结构图：代码实现: {...",
+      "author": {
+        "nick": "乱敲代码",
+        "homepage": "/u/luanqiaodaima"
+      }
+    },
+    {
+      "id": "1190000019739665",
+      "title": " LeetCode 557：反转字符串中的单词 III  Reverse Words in a String III",
+      "url": "/a/1190000019739665",
+      "desc": "Given a string, you need to reverse the order of characters in each word within a sentence while still preserving whitespace and initial word order.",
+      "author": {
+        "nick": "爱写Bug",
+        "homepage": "/u/icodebugs"
+      }
+    },
+    {
+      "id": "1190000019738785",
+      "title": "spring statemachine的企业可用级开发指南8-复杂状态机的实现",
+      "url": "/a/1190000019738785",
+      "desc": "1、讲讲复杂流程的需求除了上面文章里面提到的一根筋状态机流程，实际的企业应用中状态机的流程会更加复杂，而我们最常用到的就是choice。它类似于java的if语句，作为条件判断的分支而存在，让我们先看一张图：",
+      "author": {
+        "nick": "弯月残照飞檐",
+        "homepage": "/u/wanyuecanzhaofei"
+      }
+    },
+    {
+      "id": "1190000019738601",
+      "title": "类的加载机制，双亲委派模型，搞定大厂高频面试题",
+      "url": "/a/1190000019738601",
+      "desc": "看过这篇文章，大厂面试你「双亲委派模型」，硬气的说一句，你怕啥？ 读该文章姿势 打开手头的 IDE，按照文章内容及思路进行代码跟踪与思考 手头没有 IDE，先收藏，回头看 (万一哪次面试问了呢) 需要查看和拷贝代...",
+      "author": {
+        "nick": "tan日拱一兵",
+        "homepage": "/u/tanrigongyibing"
+      }
+    },
+    {
+      "id": "1190000019737594",
+      "title": "ReentrantLock 实现原理笔记(一)",
+      "url": "/a/1190000019737594",
+      "desc": "java.util.concurrent.locks.ReentrantLockexclusive : adj. (个人或集体) 专用的，专有的，独有的，独占的; 排外的; 不愿接收新成员(尤指较低社会阶层)的; 高档的; 豪华的; 高级的 reentrant : 可重入; 可重入的...",
+      "author": {
+        "nick": "陈光剑",
+        "homepage": "/u/donghaichenguangjian"
+      }
+    },
+    {
+      "id": "1190000019736956",
+      "title": "好久不见，Java设计模式",
+      "url": "/a/1190000019736956",
+      "desc": "设计模式是很多程序员总结出来的最佳实践。曾经在刚开始写项目的时候学习过设计模式，在开发过程中，也主动或者被动的使用过。现在写代码虽说不会特意明确在用哪种设计模式，但潜移默化的写出来公认的最佳实践代...",
+      "author": {
+        "nick": "啤酒就辣条",
+        "homepage": "/u/pijiujiulatiao"
+      }
+    },
+    {
+      "id": "1190000019736908",
+      "title": "Map学习二之LinkedHash,HashTable,计算一个给定字符串的每个字符出现的次数",
+      "url": "/a/1190000019736908",
+      "desc": "import java.util.HashMap;import java.util.LinkedHashMap;",
+      "author": {
+        "nick": "赵志强",
+        "homepage": "/u/zhaozhiqiang_5b0d18d515218"
+      }
+    },
+    {
+      "id": "1190000019736569",
+      "title": "Map学习二之HashMap唯一性的解释",
+      "url": "/a/1190000019736569",
+      "desc": "import java.util.HashMap;import java.util.Map;import java.util.Set;",
+      "author": {
+        "nick": "赵志强",
+        "homepage": "/u/zhaozhiqiang_5b0d18d515218"
+      }
+    },
+    {
+      "id": "1190000019735865",
+      "title": "java并发编程学习之Exchanger",
+      "url": "/a/1190000019735865",
+      "desc": "运行结果如下：首先，会经过三秒后，才输出结果，说明两个线程没交换之前是阻塞的。输出结果可以看出，两个线程的字符串交换了。",
+      "author": {
+        "nick": "大军",
+        "homepage": "/u/dajun_5d13288738ab7"
+      }
+    },
+    {
+      "id": "1190000019734643",
+      "title": "En-Tan-Mo隆重亮相Staking 生态大会",
+      "url": "/a/1190000019734643",
+      "desc": "7月10日，由星球日报、区块律动联合主办的Staking 生态大会在北京召开。En-Tan-Mo创始人Aaron Yuan作为受邀嘉宾，与 Algorand、Cardano、Tezos、Dash、NEM等知名PoS 项目的创始人、负责人一道亮相此次活动。",
+      "author": {
+        "nick": "ETM漫谈区块链",
+        "homepage": "/u/entanmo"
+      }
+    },
+    {
+      "id": "1190000019734627",
+      "title": "lombok",
+      "url": "/a/1190000019734627",
+      "desc": "lombok想必已经有很多人已经使用了很长时间了，而我却是第一次接触到，有点呆。lombok主要是用于减少重复代码，通过一组简单的注释取代一些重复的Java代码。对于lombok的评价褒贬不一，有的人觉得特别方便，有的...",
+      "author": {
+        "nick": "innerpeacez",
+        "homepage": "/u/innerpeacez"
+      }
+    }
+  ]
+}
