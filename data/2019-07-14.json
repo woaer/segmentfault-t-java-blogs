@@ -1,0 +1,155 @@
+{
+  "watchNum": "57900",
+  "blogs": [
+    {
+      "id": "1190000019755200",
+      "title": "大数据如何学习,告诉你正确的学习姿势",
+      "url": "/a/1190000019755200",
+      "desc": "现在是大数据的时代，也称作云数据，我们在网上的各种数据，最后把这些整理集合在一起，形成一个庞大的数据集合体，我们生活中大数据已经实时的应用了。那么，大数据如何学习？下面将会为大家介绍。",
+      "author": {
+        "nick": "一起学习大数据",
+        "homepage": "/u/yiqixuexidashuju"
+      }
+    },
+    {
+      "id": "1190000019755082",
+      "title": " LeetCode707：设计链表 Design Linked List",
+      "url": "/a/1190000019755082",
+      "desc": "设计链表的实现。您可以选择使用单链表或双链表。单链表中的节点应该具有两个属性：val 和 next。val 是当前节点的值，next 是指向下一个节点的指针/引用。如果要使用双向链表，则还需要一个属性 prev 以指示链表...",
+      "author": {
+        "nick": "爱写Bug",
+        "homepage": "/u/icodebugs"
+      }
+    },
+    {
+      "id": "1190000019755000",
+      "title": "快速Get-JAVA-IO流",
+      "url": "/a/1190000019755000",
+      "desc": "前面的学习我们只能够在已有的一定封闭范围内进行一些操作，但是这显然是无趣的，也是不支持我们实现一些复杂的需求，所以Java提供IO流这样一种概念，方便我们对数据进行操作",
+      "author": {
+        "nick": "BWH_Steven",
+        "homepage": "/u/bwh_steven"
+      }
+    },
+    {
+      "id": "1190000019754889",
+      "title": "周总结 2019/7/7 - 7/14",
+      "url": "/a/1190000019754889",
+      "desc": "发布周总结的目的，主要是处于对之前读过的一本书《坚持，一种可以养成的习惯》一书中“惩罚性持续性开关”的实践，向大众公布的计划和总结，会在心里起到危机性的心理暗示，更有助于习惯的养成；同时还能加强我的...",
+      "author": {
+        "nick": "Richard_Yi",
+        "homepage": "/u/richard_yi"
+      }
+    },
+    {
+      "id": "1190000019753603",
+      "title": "Debug调试",
+      "url": "/a/1190000019753603",
+      "desc": "package com.itheima.demo05.Debug;/* {代码...} */public class Demo01Debug { {代码...} }",
+      "author": {
+        "nick": "赵志强",
+        "homepage": "/u/zhaozhiqiang_5b0d18d515218"
+      }
+    },
+    {
+      "id": "1190000019753543",
+      "title": "JDK9的新特性,List的listof方法",
+      "url": "/a/1190000019753543",
+      "desc": "import java.util.List;import java.util.Map;import java.util.Set;",
+      "author": {
+        "nick": "赵志强",
+        "homepage": "/u/zhaozhiqiang_5b0d18d515218"
+      }
+    },
+    {
+      "id": "1190000019752240",
+      "title": "leetcode436. Find Right Interval",
+      "url": "/a/1190000019752240",
+      "desc": "假设一个二维的整数数组中每一行表示一个区间，每一行的第一个值表示区间的左边界，第二个值表示区间的右边界。现在要求返回一个整数数组，用来记录每一个边界右侧最邻近的区间。",
+      "author": {
+        "nick": "raledong",
+        "homepage": "/u/raledong"
+      }
+    },
+    {
+      "id": "1190000019752163",
+      "title": "【Algorithm · fourth edition】均值、方差的递推公式",
+      "url": "/a/1190000019752163",
+      "desc": "来源：《算法·第四版》1.2 Data AbstractionCreative Problems · 1.2.18Source Code:",
+      "author": {
+        "nick": "JellyFishDing",
+        "homepage": "/u/noora_5cb2ecd92531a"
+      }
+    },
+    {
+      "id": "1190000019752035",
+      "title": "Bitmap避免OOM",
+      "url": "/a/1190000019752035",
+      "desc": "目录介绍 01.先看一个需求分析案例 02.Bitmap占用内存介绍 03.影响Bitmap占用内存因素 04.图像加载的方式 05.加载图像内存去哪里了 06.具体实现加载图片步骤 希望世麟兄弟母亲尽快好起来 和南尘(世麟)认识与网络...",
+      "author": {
+        "nick": "杨充",
+        "homepage": "/u/xiangjianyu"
+      }
+    },
+    {
+      "id": "1190000019751698",
+      "title": "设计模式之装饰者模式",
+      "url": "/a/1190000019751698",
+      "desc": "定义：装饰模式指的是在不必改变原类文件和使用继承的情况下，动态地扩展一个对象的功能。它是通过创建一个包装对象，也就是装饰来包裹真实的对象。",
+      "author": {
+        "nick": "sigmako",
+        "homepage": "/u/sigmako"
+      }
+    },
+    {
+      "id": "1190000019751502",
+      "title": "HBase基础",
+      "url": "/a/1190000019751502",
+      "desc": "写数据：先预写日式WAL，和写入内容MemStore。WAL用来在节点宕机后恢复写入的数据。在MemStore写满后会写入磁盘，生成一个新的HFile，一旦写入不会再修改。一个列族有一个MemStore，一个列族有多个HFile。",
+      "author": {
+        "nick": "天天吃",
+        "homepage": "/u/tiantianchi"
+      }
+    },
+    {
+      "id": "1190000019751277",
+      "title": "Java 代码优化问题",
+      "url": "/a/1190000019751277",
+      "desc": "在对Java代码进行优化的时候，想方设法的要提高整体的效率，使用JProfiler看代码的时间占比，然后，看看哪些部分是可以优化的，减少运行时间的。下面有这么几个方向。",
+      "author": {
+        "nick": "黄益炫",
+        "homepage": "/u/huangyi_5d1eecfe0b755"
+      }
+    },
+    {
+      "id": "1190000019750703",
+      "title": "在公司做的项目和自己在学校做的有什么区别？",
+      "url": "/a/1190000019750703",
+      "desc": "不知道大家还是学生的时候有没有这个问题：公司做的项目和自己在学校练手的项目有多大的区别。我以前在学校跟着视频做一些项目练手，总感觉公司做的东西会要难很多，不知道跟公司的真实项目区别在哪。",
+      "author": {
+        "nick": "Java3y",
+        "homepage": "/u/java_3y"
+      }
+    },
+    {
+      "id": "1190000019750384",
+      "title": "LeetCode 283：移动零 Move Zeroes",
+      "url": "/a/1190000019750384",
+      "desc": "Given an array nums, write a function to move all 0's to the end of it while maintaining the relative order of the non-zero elements.",
+      "author": {
+        "nick": "爱写Bug",
+        "homepage": "/u/icodebugs"
+      }
+    },
+    {
+      "id": "1190000019750311",
+      "title": "【揭秘】学好大数据之后究竟能做什么？",
+      "url": "/a/1190000019750311",
+      "desc": "大数据这个词已经成为时下的热点话题，很多人都会说这个行业非常火爆，拥有很好的就业前景，但身在院校的学生对于行业和市场没有太多的了解，即使自己学习大数据也不清楚能找什么工作，现在小编就来帮助大家解决...",
+      "author": {
+        "nick": "一起学习大数据",
+        "homepage": "/u/yiqixuexidashuju"
+      }
+    }
+  ]
+}
