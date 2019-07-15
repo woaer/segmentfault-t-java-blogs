@@ -1,0 +1,155 @@
+{
+  "watchNum": "57961",
+  "blogs": [
+    {
+      "id": "1190000019765085",
+      "title": "【深入浅出-JVM】（2）：原码、反码、补码",
+      "url": "/a/1190000019765085",
+      "desc": "0 为负数 原码 10000000 00000000 00000000 00000000 反码 11111111 11111111 11111111 11111111 负数反码等于原码符号位不变，其余取反 补码 00000000 00000000 00000000 00000000 负数补码等于反码+1",
+      "author": {
+        "nick": "mousycoder",
+        "homepage": "/u/mousycoder"
+      }
+    },
+    {
+      "id": "1190000019764940",
+      "title": "【深入浅出-JVM】（1）：Java 虚拟机",
+      "url": "/a/1190000019764940",
+      "desc": "Java 虚拟机地位 种类 BEA的JRockit Solaris的Exact VM IBM的J9 感谢您的耐心阅读，如果您发现文章中有一些没表述清楚的，或者是不对的地方，请给我留言，您的鼓励是作者写作最大的动力。 作 者 : @mousycoder 原...",
+      "author": {
+        "nick": "mousycoder",
+        "homepage": "/u/mousycoder"
+      }
+    },
+    {
+      "id": "1190000019764299",
+      "title": "【深入浅出-JVM】（序）",
+      "url": "/a/1190000019764299",
+      "desc": "本系列主要是让一个刚入门的 java 开发者，也能愉快的从零开始成为一个真正的 jvm 大神。 大纲 java 虚拟机的定义、总体架构、常用配置 垃圾回收算法、各类垃圾回收器 java 虚拟机对多线程的支持 java 虚拟机的 c...",
+      "author": {
+        "nick": "mousycoder",
+        "homepage": "/u/mousycoder"
+      }
+    },
+    {
+      "id": "1190000019763999",
+      "title": "踩坑：maven中mysql-connector-java版本更新后driver名更改的问题",
+      "url": "/a/1190000019763999",
+      "desc": "跟着教程做SpringBoot的项目，发现教程导入的mybatis-connector-java没有说明版本，可能是教程发布的时候只有5.x版本于是使用最新的版本毫无问题，然而随着mybatis-connector-java发布了6.x之后，莫名其妙把com.m...",
+      "author": {
+        "nick": "御龙镜中潜",
+        "homepage": "/u/yulongjingzhongqian"
+      }
+    },
+    {
+      "id": "1190000019763790",
+      "title": "Floyd算法求有权图（非负权）的最短路径并打印",
+      "url": "/a/1190000019763790",
+      "desc": "状态转移方程：d(i,j) = min(d(i,j),d(i,k)+d(k,j))，其中i<k<j思路对于每一个k(i<k<j)，全部遍历下来之后，肯定会发生一次有效的比较",
+      "author": {
+        "nick": "花溪的小石头",
+        "homepage": "/u/huaxidexiaoshitou"
+      }
+    },
+    {
+      "id": "1190000019763410",
+      "title": "【从入门到放弃-Java】并发编程-线程安全",
+      "url": "/a/1190000019763410",
+      "desc": "在多处理器系统已经普及的今天，多线程能发挥出其优势，如：一个8核cpu的服务器，如果只使用单线程的话，将有7个处理器被闲置，只能发挥出服务器八分之一的能力（忽略其它资源占用情况）。同时，使用多线程，可以...",
+      "author": {
+        "nick": "阿里云云栖社区",
+        "homepage": "/u/yunqishequ_5aa899aad5395"
+      }
+    },
+    {
+      "id": "1190000019762419",
+      "title": "Week 2 - Java 容器 - 详细剖析 List 之 ArrayList, Vector, LinkedList ",
+      "url": "/a/1190000019762419",
+      "desc": "前言 学习情况记录 时间：week 2 SMART子目标 ：Java 容器 记录在学习Java容器 知识点中，关于List的需要重点记录的知识点。 知识点概览： ArrayList 与 LinkedList对比 ArrayList 中的 RandomAccess 接口 是什么...",
+      "author": {
+        "nick": "Richard_Yi",
+        "homepage": "/u/richard_yi"
+      }
+    },
+    {
+      "id": "1190000019762171",
+      "title": "函数式编程一",
+      "url": "/a/1190000019762171",
+      "desc": "之前包括现在偶尔也有在用函数式的方式编程，但总感觉写的不够自然，像是一只脚踏进了门里另一只脚却还在门外。周末的时候粗略的看了下《java8函数式编程》，的确是刷新了自己之前的不少对编程的方法和看法，这里...",
+      "author": {
+        "nick": "吕纬甫",
+        "homepage": "/u/lvweifu"
+      }
+    },
+    {
+      "id": "1190000019761971",
+      "title": "leetcode 100 斩！回顾",
+      "url": "/a/1190000019761971",
+      "desc": "从大一就知道了 leetcode，但刷题总是三天打鱼，两天晒网，会发现刷过的题，隔一段时间再看还是需要很久才能再想起来，于是就萌发了刷一题总结一题的想法。",
+      "author": {
+        "nick": "wind_liang",
+        "homepage": "/u/wind_liang"
+      }
+    },
+    {
+      "id": "1190000019761532",
+      "title": "如何使用OpenFeign+WebClient实现非阻塞的接口聚合",
+      "url": "/a/1190000019761532",
+      "desc": "按照微服务的理念，每个单体应用的功能都应该按照功能正交，也就是功能相互独立的原则，划分成一个个功能独立的微服务（模块），再通过接口聚合的方式统一对外提供服务！",
+      "author": {
+        "nick": "zaoying",
+        "homepage": "/u/zaoying"
+      }
+    },
+    {
+      "id": "1190000019761361",
+      "title": "​LeetCode 26：删除排序数组中的重复项 Remove Duplicates from Sorted Array",
+      "url": "/a/1190000019761361",
+      "desc": "Given a sorted array nums, remove the duplicates in-place such that each element appear only once and return the new length.",
+      "author": {
+        "nick": "爱写Bug",
+        "homepage": "/u/icodebugs"
+      }
+    },
+    {
+      "id": "1190000019761047",
+      "title": "eclipse mqttclient 性能&MQTT(32202): 正在发布过多的消息",
+      "url": "/a/1190000019761047",
+      "desc": "mqttclient性能&MQTT(32202): 正在发布过多的消息 org.eclipse.paho.client.mqttv3 2.2 GHz Intel Core i7 mac系统 publish性能，注意请使用单线程的 mqttclinet 1万条 341毫秒4万条 1163毫秒5万 1450毫秒10...",
+      "author": {
+        "nick": "石志远",
+        "homepage": "/u/shizhiyuan"
+      }
+    },
+    {
+      "id": "1190000019760882",
+      "title": "SpringBoot（三）日志",
+      "url": "/a/1190000019760882",
+      "desc": "三、日志 1、日志框架 小张；开发一个大型系统； 1、System.out.println(\"\")；将关键数据打印在控制台；去掉？写在一个文件？ 2、框架来记录系统的一些运行时信息；日志框架 ； zhanglogging.jar； 3、高大上的几...",
+      "author": {
+        "nick": "小羊羔",
+        "homepage": "/u/xiaoyanggao"
+      }
+    },
+    {
+      "id": "1190000019760035",
+      "title": "2019 Java 全栈工程师进阶路线图，一定要收藏",
+      "url": "/a/1190000019760035",
+      "desc": "我刚开始学习 Java 那会，最大的问题就是不知道该学什么，以及学习的顺序，我相信这也是很多初学者经常面临的问题。​我当时经常胡子眉毛一把抓，那会学习资料倒是不缺，学校图书馆啥都有，就是无从下手，后来有高...",
+      "author": {
+        "nick": "江南一点雨",
+        "homepage": "/u/lenve"
+      }
+    },
+    {
+      "id": "1190000019759483",
+      "title": "设计一个全局异常处理器",
+      "url": "/a/1190000019759483",
+      "desc": "cicada: 基于 Netty4 实现的快速、轻量级 WEB 框架；没有过多的依赖，核心 jar 包仅 30KB。",
+      "author": {
+        "nick": "crossoverJie",
+        "homepage": "/u/crossoverjie"
+      }
+    }
+  ]
+}
