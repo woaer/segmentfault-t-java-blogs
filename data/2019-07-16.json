@@ -1,0 +1,155 @@
+{
+  "watchNum": "58102",
+  "blogs": [
+    {
+      "id": "1190000019777413",
+      "title": "Java基础知识学习笔记（1）",
+      "url": "/a/1190000019777413",
+      "desc": "那把String定义为不可变有什么好处呢？安全性：当你在调用其他方法，比如调用一些系统级操作之前，可能会有一系列校验，如果是可变类的话，可能在你校验过后，其内部的值被改变了，可能引起严重的系统崩溃问题。...",
+      "author": {
+        "nick": "hushucheng",
+        "homepage": "/u/hushucheng"
+      }
+    },
+    {
+      "id": "1190000019776727",
+      "title": "Online开发初体验——Jeecg-Boot 在线配置表单",
+      "url": "/a/1190000019776727",
+      "desc": "Online开发——初体验（在线配置表单） 01 单表配置 02 一对多配置 03 树表单配置 单表配置 一对多配置 树表单配置",
+      "author": {
+        "nick": "scott",
+        "homepage": "/u/jeecg"
+      }
+    },
+    {
+      "id": "1190000019775489",
+      "title": "SSH框架基础搭建",
+      "url": "/a/1190000019775489",
+      "desc": "笔者刚刚接触SSH框架，现在ssh是个比较老的框架了，所以用IDEA创建JAVAEE项目时候使用的是jdk1.7和web application3.1版本tomcat使用8.5",
+      "author": {
+        "nick": "机智小饼干",
+        "homepage": "/u/jizhixiaobinggan"
+      }
+    },
+    {
+      "id": "1190000019774690",
+      "title": "「java8系列」神秘的Lambda",
+      "url": "/a/1190000019774690",
+      "desc": "第一次接触lambda表达式时，感觉这个东西挺神奇的（高逼格），一个（）加->就能传递一段代码，当时公司项目中接手同事的代码，自己也对java8的特性不了解，看的也是一头雾水，之后就赶快看了下《java8实战》这...",
+      "author": {
+        "nick": "码处高效",
+        "homepage": "/u/coding_5cade67e939a9"
+      }
+    },
+    {
+      "id": "1190000019773854",
+      "title": "java一行代码打印心形",
+      "url": "/a/1190000019773854",
+      "desc": "之前看到Python一行代码就可以在控制台打印心形，感觉非常神奇，昨天突然想起来其实java应该也是可以的，在stream加持执行下，分享代码如下：",
+      "author": {
+        "nick": "八音弦",
+        "homepage": "/u/bayinxian"
+      }
+    },
+    {
+      "id": "1190000019773600",
+      "title": "LeetCode 141：环形链表 Linked List Cycle",
+      "url": "/a/1190000019773600",
+      "desc": "为了表示给定链表中的环，我们使用整数 pos 来表示链表尾连接到链表中的位置（索引从 0 开始）。 如果 pos 是 -1，则在该链表中没有环。",
+      "author": {
+        "nick": "爱写Bug",
+        "homepage": "/u/icodebugs"
+      }
+    },
+    {
+      "id": "1190000019773513",
+      "title": "Chap10：IO流---转换流",
+      "url": "/a/1190000019773513",
+      "desc": "字符集的参数设定：可以处理 不同的字符集（UTF-8、GBK(保存方式-->ANSI编码) ...）, by th way, 不设定字符集, 默认以当前工程的字符集相同！",
+      "author": {
+        "nick": "Shonan",
+        "homepage": "/u/shonan"
+      }
+    },
+    {
+      "id": "1190000019773409",
+      "title": "Chap10：IO流---flush()和close()的故事",
+      "url": "/a/1190000019773409",
+      "desc": "一、前言：对于一个 \"有始有终\" 的Coder，每当完成对输入/输出流的读写时，应该通过调用close()方法关闭打开的流，关于close()，其它不多说，直接介绍\"它们\"的作用：",
+      "author": {
+        "nick": "Shonan",
+        "homepage": "/u/shonan"
+      }
+    },
+    {
+      "id": "1190000019773211",
+      "title": "Linux 常用 代码",
+      "url": "/a/1190000019773211",
+      "desc": "ps  将某个进程显示出来“-e ”  参数代表显示所有进程“-f”  参数代表全格式grep  查找   全称是Global Regular Expression Print[name]  进程名",
+      "author": {
+        "nick": "苍蓝の熊",
+        "homepage": "/u/canglanxiong"
+      }
+    },
+    {
+      "id": "1190000019773146",
+      "title": "Chap10：IO流---System.in 、 System.out",
+      "url": "/a/1190000019773146",
+      "desc": "一、System.in：(它是一个InputStream的一个子类的预定义对象)，但它却是从 \"标准输入\" 中读取信息， 即控制台或重定向的文件 二、System.out：...待续",
+      "author": {
+        "nick": "Shonan",
+        "homepage": "/u/shonan"
+      }
+    },
+    {
+      "id": "1190000019772646",
+      "title": "程序员如何有效阅读",
+      "url": "/a/1190000019772646",
+      "desc": "说起阅读，应该是我唯一一个可以拿得出手、算得上兴趣的爱好了，毕竟坚持了许多年。有幸参与了周末的一个线下读书分享会，时间仓促，也没什么准备，基本也就是将平时的心得体会分享给在坐的各位书友。",
+      "author": {
+        "nick": "歪脖贰点零",
+        "homepage": "/u/waiboerdianling"
+      }
+    },
+    {
+      "id": "1190000019772313",
+      "title": "【小家Spring】Spring IoC是如何使用BeanWrapper和Java内省结合起来给Bean属性赋值的",
+      "url": "/a/1190000019772313",
+      "desc": "具备了技术深度，遇到问题可以快速定位并从根本上解决。有了技术深度之后，学习其它技术可以更快，再深入其它技术也就不会害怕",
+      "author": {
+        "nick": "方世享",
+        "homepage": "/u/fangshixiang"
+      }
+    },
+    {
+      "id": "1190000019772281",
+      "title": "git rebase VS git merge？ 更优雅的 git 合并方式值得拥有",
+      "url": "/a/1190000019772281",
+      "desc": "如果你不能很好的应用 Git，那么这里为你提供一个非常棒的 Git 在线练习工具 Git Online ，你可以更直观的看到你所使用的命令会产生什么效果另外，你在使用 Git 合并分支时只会使用 git merge 吗？有时使用 git r...",
+      "author": {
+        "nick": "tan日拱一兵",
+        "homepage": "/u/tanrigongyibing"
+      }
+    },
+    {
+      "id": "1190000019754823",
+      "title": "8个问题看你是否真的懂 JS",
+      "url": "/a/1190000019754823",
+      "desc": "JavaScript 是一种有趣的语言，我们都喜欢它，因为它的性质。浏览器是JavaScript的主要运行的地方，两者在我们的服务中协同工作。JS有一些概念，人们往往会对它掉以轻心，有时可能会忽略不计。原型、闭包和事件循...",
+      "author": {
+        "nick": "前端小智",
+        "homepage": "/u/minnanitkong"
+      }
+    },
+    {
+      "id": "1190000019771548",
+      "title": "笔记|软件调试的技巧",
+      "url": "/a/1190000019771548",
+      "desc": "这篇文章是《调试九法：软硬件错误的排查之道》的阅读笔记。这本书的主旨，是介绍如何修复bug：找出bug发生的原因、并给出修复方案。",
+      "author": {
+        "nick": "阿杜",
+        "homepage": "/u/duqi"
+      }
+    }
+  ]
+}
