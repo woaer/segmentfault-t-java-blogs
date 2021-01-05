@@ -23,7 +23,7 @@
   "homepage": "https://github.com/woaer/segmentfault-t-java-blogs#readme",
   "dependencies": {
     "@dwing/common": "^1.2.7",
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "cheerio": "^1.0.0-rc.2"
   }
 }
